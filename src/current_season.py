@@ -21,7 +21,10 @@ def load_player_csv(content: bytes, final_rounds: set[int], today: date | None =
         raise ValueError(f"Missing required columns: {', '.join(sorted(missing))}")
     if frame.empty:
         raise ValueError("CSV has no player-match rows")
-    frame["matchday"] = pd.to_numeric(frame.matchday, errors="raise").astype(int)
+    parsed_rounds = pd.to_numeric(frame.matchday, errors="raise")
+    if parsed_rounds.isna().any() or not parsed_rounds.eq(parsed_rounds.astype(int)).all():
+        raise ValueError("Matchday must be a whole number")
+    frame["matchday"] = parsed_rounds.astype(int)
     if not set(frame.matchday).issubset(final_rounds):
         raise ValueError("Every matchday must be a completed Barcelona La Liga fixture")
     frame["date"] = pd.to_datetime(frame.date, errors="raise").dt.date
@@ -34,6 +37,10 @@ def load_player_csv(content: bytes, final_rounds: set[int], today: date | None =
     frame["minutes"] = pd.to_numeric(frame.minutes, errors="raise")
     if not frame.minutes.between(0, 120).all():
         raise ValueError("Minutes must be between 0 and 120")
+    if "role" in frame.columns:
+        frame["role"] = frame.role.astype(str).str.strip().str.upper()
+        if not frame.role.isin({"FWD", "MID", "DEF", "GK"}).all():
+            raise ValueError("Role must be FWD, MID, DEF or GK when supplied")
     for metric in OPTIONAL:
         if metric in frame.columns:
             frame[metric] = pd.to_numeric(frame[metric], errors="raise")

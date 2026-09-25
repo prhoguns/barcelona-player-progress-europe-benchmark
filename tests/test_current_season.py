@@ -39,3 +39,12 @@ def test_duplicate_player_match_is_rejected():
     duplicate = b"matchday,date,player,minutes\n1,2026-08-27,Test Player,90\n1,2026-08-27,Test Player,30\n"
     with pytest.raises(ValueError, match="one nonblank"):
         load_player_csv(duplicate, {1}, date(2026, 9, 25))
+
+
+def test_role_and_whole_matchday_are_validated():
+    invalid_round = b"matchday,date,player,role,minutes\n1.5,2026-08-27,Test Player,FWD,90\n"
+    with pytest.raises(ValueError, match="whole number"):
+        load_player_csv(invalid_round, {1}, date(2026, 9, 25))
+    invalid_role = b"matchday,date,player,role,minutes\n1,2026-08-27,Test Player,STRIKER,90\n"
+    with pytest.raises(ValueError, match="FWD"):
+        load_player_csv(invalid_role, {1}, date(2026, 9, 25))

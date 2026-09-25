@@ -10,10 +10,16 @@ import streamlit as st
 
 from scripts.build_current_fixtures import main as refresh_fixtures
 from src.current_season import OPTIONAL, load_player_csv
+from src.forecast import ForecastModel
 
 ROOT = Path(__file__).parent
 SNAPSHOT = ROOT / "data" / "current" / "fixtures.json"
 NAVY, GOLD, MINT, MAROON, BLUE = "#100b23", "#f7c950", "#6fe0d4", "#a11f51", "#1558bb"
+
+@st.cache_resource(show_spinner=False)
+def forecast_model(metric: str) -> ForecastModel:
+    history = pd.read_csv(ROOT / "data" / "derived" / "appearances.csv")
+    return ForecastModel(history, (metric,))
 
 st.markdown("""<style>
 @import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600;700&family=Space+Grotesk:wght@500;600;700&display=swap');
@@ -63,7 +69,8 @@ st.markdown("""<div class="hero"><div class="eyebrow">Current season · men’s 
 st.warning("Live Barcelona tracking feed pending licensed SkillCorner access.", icon="📡")
 st.markdown(f"<div class='note'>Fixture source: openfootball/football.json (CC0). Snapshot retrieved {snapshot['retrieved_at_utc'][:16].replace('T', ' ')} UTC. {len(finals)} of 38 league fixtures have final scores in this snapshot. This is not a live player-stat feed.</div>", unsafe_allow_html=True)
 
-tabs = st.tabs(["Season pulse", "Player progress", "Module coverage", "Sources & method"])
+tabs = st.tabs(["Season pulse", "Player progress", "Season forecast", "Module coverage", "Sources & method"])
+uploaded_rows = None
 with tabs[0]:
     c1, c2, c3, c4 = st.columns(4)
     c1.metric("League matches", f"{len(finals)}/38")
@@ -97,6 +104,7 @@ with tabs[1]:
         except (ValueError, TypeError) as exc:
             st.error(str(exc))
         else:
+            uploaded_rows = player_rows
             st.success(f"Loaded {len(player_rows)} authorized player-match rows for {player_rows.player.nunique()} players")
             player_name = st.selectbox("Player",sorted(player_rows.player.unique()))
             person = player_rows[player_rows.player == player_name].sort_values("matchday").copy()
@@ -116,6 +124,58 @@ with tabs[1]:
             st.caption("Values are from the uploaded file only. Missing metrics remain unavailable; no historical 2015/16 player values are substituted.")
 
 with tabs[2]:
+    st.subheader("Matchday season finish forecast")
+    st.caption("Experimental ridge model trained on 2015/16 Arsenal, Juventus, Paris Saint-Germain and Bayer Leverkusen player checkpoints. Historical Barcelona is held out for error estimates. The model uses only the uploaded player rows through the selected cutoff; it is not calibrated to the 2026/27 league.")
+    if uploaded_rows is None:
+        st.info("Upload authorized current-season player-match rows in Player progress to enable forecasts. No player numbers are inferred from fixture scores.")
+    else:
+        played_rounds = [int(r.rsplit(" ", 1)[-1]) for r in finals["round"]]
+        if len(played_rounds) < 5:
+            st.info("At least five completed Barcelona matches are required for this model.")
+        else:
+            name = st.selectbox("Forecast player", sorted(uploaded_rows.player.unique()))
+            player_data = uploaded_rows[uploaded_rows.player == name]
+            metric_options = [m for m in OPTIONAL if m in uploaded_rows.columns] + ["minutes"]
+            metric = st.selectbox("Forecast metric", metric_options,
+                                  format_func=lambda m: m.replace("_", " ").title())
+            cutoff = st.slider("Completed Barcelona matches observed", min_value=5,
+                               max_value=len(played_rounds), value=len(played_rounds))
+            st.caption(f"Cutoff includes the first {cutoff} completed fixtures by date, through {finals.iloc[cutoff-1]['date']}. Postponed round numbers are handled by fixture order.")
+            try:
+                with st.spinner("Fitting and checking the historical model..."):
+                    model = forecast_model(metric)
+                    result = model.predict(player_data, metric, played_rounds, cutoff)
+            except ValueError as exc:
+                st.info(str(exc))
+            else:
+                a,b,c,d = st.columns(4)
+                digits = 1 if metric in ("xg", "xa") else 0
+                fmt = f",.{digits}f"
+                a.metric("Observed", format(result["observed"],fmt))
+                b.metric("Projected final", format(result["projected"],fmt))
+                c.metric("Historical 80% band", f"{format(result['lower'],fmt)}–{format(result['upper'],fmt)}")
+                d.metric("Matches remaining", result["remaining_matches"])
+                projections = []
+                for step in range(5, cutoff + 1):
+                    try:
+                        forecast = model.predict(player_data, metric, played_rounds, step)
+                    except ValueError:
+                        continue
+                    projections.append(forecast)
+                if projections:
+                    fig = go.Figure()
+                    xs = [r["cutoff"] for r in projections]
+                    fig.add_trace(go.Scatter(x=xs,y=[r["upper"] for r in projections],mode="lines",line=dict(width=0),showlegend=False,hoverinfo="skip"))
+                    fig.add_trace(go.Scatter(x=xs,y=[r["lower"] for r in projections],mode="lines",line=dict(width=0),fill="tonexty",fillcolor="rgba(111,224,212,.18)",name="Historical error band"))
+                    fig.add_trace(go.Scatter(x=xs,y=[r["projected"] for r in projections],mode="lines+markers",line=dict(color=GOLD,width=3),name="Projected final"))
+                    fig.add_trace(go.Scatter(x=xs,y=[r["observed"] for r in projections],mode="lines+markers",line=dict(color=MINT,width=2),name="Observed so far"))
+                    fig.update_layout(template="plotly_dark",paper_bgcolor="rgba(0,0,0,0)",plot_bgcolor="rgba(0,0,0,0)",height=360,
+                                      font=dict(color="#e9e3f5"),xaxis_title="Completed Barcelona matches",yaxis_title=metric.replace("_"," ").title(),
+                                      legend=dict(orientation="h",y=1.15,font=dict(color="#e9e3f5")))
+                    st.plotly_chart(fig,width="stretch")
+                st.caption(f"Historical held-out Barcelona backtest at this horizon: mean absolute final-total error {result['holdout_mae']:.1f} {metric.replace('_',' ')} across {result['holdout_samples']} snapshots. Shaded band uses the 10th–90th percentiles of those historical errors. {result['training_checkpoints']:,} peer checkpoints trained this metric. Prediction never falls below the player's observed total. This range is not a calibrated 2026/27 probability interval.")
+
+with tabs[3]:
     st.subheader("Current-season module coverage")
     modules = [
         ("Barcelona player season progress", "Available for metrics in an authorized player-match CSV; role peer benchmarks need a licensed comparable feed."),
@@ -125,15 +185,15 @@ with tabs[2]:
         ("Player Form Tracker", "Available from an authorized player-match CSV for supplied metrics."),
         ("Risk–Reward Pass Profile", "Pending current-season pass event locations and outcomes."),
         ("Off-ball movement", "Pending licensed Barcelona tracking. The SkillCorner open sample is unrelated to Barcelona."),
-        ("Matchday season forecast", "Pending authorized current player-match observations and a validated training set; no 2015/16 values are presented as current predictions."),
+        ("Matchday season forecast", "Available for metrics in an authorized player-match CSV. The model is trained and retrospectively checked on 2015/16 data, so current-season calibration remains pending."),
     ]
     for title, detail in modules:
         with st.container(border=True):
             st.markdown(f"**{title}**")
             st.caption(detail)
 
-with tabs[3]:
+with tabs[4]:
     st.subheader("Sources and boundaries")
     st.markdown("The 2026/27 results come from [openfootball/football.json](https://github.com/openfootball/football.json), a [CC0 public-domain](https://github.com/openfootball/football.json/blob/master/LICENSE.md) fixture dataset. Its own README says upstream updates are not guaranteed daily, so the snapshot timestamp and a manual refresh control are shown. The feed contains fixtures and scores, not player-level event or tracking data.")
     st.markdown("[FC Barcelona official results](https://www.fcbarcelona.com/en/futbol/primer-equipo/resultados) and [La Liga player statistics](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) can be viewed at their sources. Their site content is not copied into this public repository. The [2015/16 StatsBomb](https://github.com/hudl/open-data) analysis remains available through the season selector as a labelled historical method demo.")
-    st.caption("Data status: current-season match results snapshot, optional user-provided player CSV, historical event-data demo, no live player feed, no licensed Barcelona tracking.")
+    st.caption("Data status: current-season match results snapshot, optional user-provided player CSV, experimental historical-trained forecast, historical event-data demo, no live player feed, no licensed Barcelona tracking.")
