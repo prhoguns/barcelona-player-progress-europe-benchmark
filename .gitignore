@@ -1,0 +1,10 @@
+.venv/
+.deps/
+__pycache__/
+.pytest_cache/
+data/raw/
+*.log
+.streamlit/secrets.toml
+*.png
+!assets/dashboard.png
+!assets/statsbomb-logo.png

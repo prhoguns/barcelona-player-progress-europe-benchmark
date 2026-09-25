@@ -1,0 +1,20 @@
+{
+  "source": "SkillCorner Open Data",
+  "match_id": 1886347,
+  "match": "Auckland FC vs Newcastle United Jets FC",
+  "date": "2024-11-30",
+  "competition": "A-League",
+  "sample_seconds": 600,
+  "sample_players": [
+    "Sample player 1",
+    "Sample player 2",
+    "Sample player 3",
+    "Sample player 4",
+    "Sample player 5",
+    "Sample player 6"
+  ],
+  "rows": 1021,
+  "notice": "Separate tracking demonstration; not Barcelona or the 2015/16 StatsBomb fixtures.",
+  "source_url": "https://github.com/SkillCorner/opendata",
+  "demo": true
+}
