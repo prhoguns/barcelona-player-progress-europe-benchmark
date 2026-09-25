@@ -13,7 +13,8 @@ ROLE_MAP = {
     "Left Midfield": "MID", "Right Midfield": "MID",
     "Center Attacking Midfield": "MID", "Left Attacking Midfield": "MID",
     "Right Attacking Midfield": "MID", "Left Wing": "FWD",
-    "Right Wing": "FWD", "Center Forward": "FWD", "Secondary Striker": "FWD",
+    "Right Wing": "FWD", "Center Forward": "FWD", "Left Center Forward": "FWD",
+    "Right Center Forward": "FWD", "Secondary Striker": "FWD",
 }
 
 def role(position: str | None) -> str:

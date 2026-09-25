@@ -211,12 +211,12 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3878548,2015-08-23,Juventus,3486,Fernando Llorente Torres,MID,Trailing,4,0,0,0,0,0
 3878548,2015-08-23,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,45,6,1,0.18616082,19,6
 3878548,2015-08-23,Juventus,3579,Roberto Maximiliano Pereyra,MID,Trailing,0,0,0,0,0,0
-3878548,2015-08-23,Juventus,5472,Mario Mandžukić,MID,Level,18,2,3,0.93775717,12,2
-3878548,2015-08-23,Juventus,5472,Mario Mandžukić,MID,Trailing,3,0,1,0.106553145,1,1
+3878548,2015-08-23,Juventus,5472,Mario Mandžukić,FWD,Level,18,2,3,0.93775717,12,2
+3878548,2015-08-23,Juventus,5472,Mario Mandžukić,FWD,Trailing,3,0,1,0.106553145,1,1
 3878548,2015-08-23,Juventus,5541,Stephan Lichtsteiner,DEF,Level,54,8,2,0.108784749,8,2
 3878548,2015-08-23,Juventus,5541,Stephan Lichtsteiner,DEF,Trailing,2,0,0,0,0,1
-3878548,2015-08-23,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,9,3,0,0,0,2
-3878548,2015-08-23,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,7,0,0,0,6,2
+3878548,2015-08-23,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,9,3,0,0,0,2
+3878548,2015-08-23,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,7,0,0,0,6,2
 3878548,2015-08-23,Juventus,6943,Andrea Barzagli,DEF,Level,63,13,1,0.018739419,6,6
 3878548,2015-08-23,Juventus,6943,Andrea Barzagli,DEF,Trailing,9,2,0,0,3,0
 3878548,2015-08-23,Juventus,6949,Gianluigi Buffon,GK,Level,9,0,0,0,0,2
@@ -227,7 +227,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3878548,2015-08-23,Juventus,7173,Leonardo Bonucci,DEF,Trailing,13,5,1,0.053495243,3,3
 3878548,2015-08-23,Juventus,7952,Simone Padoin,MID,Level,45,2,2,0.113930342,11,3
 3878548,2015-08-23,Juventus,7952,Simone Padoin,MID,Trailing,8,0,0,0,1,0
-3878548,2015-08-23,Juventus,8217,Kingsley Coman,MID,Level,29,1,3,0.162802741,10,3
+3878548,2015-08-23,Juventus,8217,Kingsley Coman,FWD,Level,29,1,3,0.162802741,10,3
 3878548,2015-08-23,Juventus,18874,Mauricio Aníbal Isla Isla,DEF,Trailing,13,2,0,0,3,2
 3878548,2015-08-23,Juventus,20004,Paul Pogba,MID,Level,61,5,3,0.09107119,10,7
 3878548,2015-08-23,Juventus,20004,Paul Pogba,MID,Trailing,20,5,0,0,2,4
@@ -295,16 +295,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 267422,2015-08-29,Barcelona,6998,Rafael Alcântara do Nascimento,MID,Level,6,1,1,0.010149043,3,0
 267422,2015-08-29,Barcelona,6998,Rafael Alcântara do Nascimento,MID,Leading,13,0,0,0,2,0
 267422,2015-08-29,Barcelona,10609,Jérémy Mathieu,DEF,Leading,1,0,0,0,1,0
-3890278,2015-08-29,Bayer Leverkusen,5494,Robbie Kruse,MID,Trailing,7,0,0,0,11,1
-3890278,2015-08-29,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,11,0,0,0,14,1
+3890278,2015-08-29,Bayer Leverkusen,5494,Robbie Kruse,FWD,Trailing,7,0,0,0,11,1
+3890278,2015-08-29,Bayer Leverkusen,5555,Julian Brandt,FWD,Trailing,11,0,0,0,14,1
 3890278,2015-08-29,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,14,1,0,0,5,3
 3890278,2015-08-29,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Trailing,10,1,2,0.070484684,7,1
 3890278,2015-08-29,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,13,3,0,0,5,3
 3890278,2015-08-29,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Trailing,19,1,1,0.007429551,8,5
 3890278,2015-08-29,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,7,1,0,0,3,1
 3890278,2015-08-29,Bayer Leverkusen,8213,Karim Bellarabi,MID,Trailing,16,1,3,0.102929582,8,8
-3890278,2015-08-29,Bayer Leverkusen,8219,Admir Mehmedi,MID,Level,6,1,0,0,9,0
-3890278,2015-08-29,Bayer Leverkusen,8219,Admir Mehmedi,MID,Trailing,3,0,0,0,2,0
+3890278,2015-08-29,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Level,6,1,0,0,9,0
+3890278,2015-08-29,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Trailing,3,0,0,0,2,0
 3890278,2015-08-29,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,3,0,0,0,8,1
 3890278,2015-08-29,Bayer Leverkusen,8221,Jonathan Tah,DEF,Trailing,16,3,0,0,12,1
 3890278,2015-08-29,Bayer Leverkusen,8313,Kyriakos Papadopoulos,DEF,Level,4,0,0,0,5,0
@@ -315,22 +315,22 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890278,2015-08-29,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Trailing,27,6,0,0,22,3
 3890278,2015-08-29,Bayer Leverkusen,8969,Lars Bender,MID,Level,14,3,0,0,6,1
 3890278,2015-08-29,Bayer Leverkusen,8969,Lars Bender,MID,Trailing,25,5,0,0,21,3
-3890278,2015-08-29,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,7,0,1,0.0738927,6,0
-3890278,2015-08-29,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,27,1,2,0.17336328,11,4
+3890278,2015-08-29,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,7,0,1,0.0738927,6,0
+3890278,2015-08-29,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,27,1,2,0.17336328,11,4
 3890278,2015-08-29,Bayer Leverkusen,15581,Bernd Leno,GK,Level,7,2,0,0,0,2
 3890278,2015-08-29,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,24,12,0,0,0,0
 3890278,2015-08-29,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Trailing,1,0,0,0,1,0
-3878555,2015-08-30,Juventus,3477,Álvaro Borja Morata Martín,MID,Trailing,7,0,1,0.077224,4,2
+3878555,2015-08-30,Juventus,3477,Álvaro Borja Morata Martín,FWD,Trailing,7,0,1,0.077224,4,2
 3878555,2015-08-30,Juventus,3579,Roberto Maximiliano Pereyra,DEF,Trailing,24,4,0,0,5,1
 3878555,2015-08-30,Juventus,5248,José Martín Cáceres Silva,DEF,Level,25,4,1,0.051068306,8,2
 3878555,2015-08-30,Juventus,5248,José Martín Cáceres Silva,DEF,Trailing,15,2,0,0,5,2
-3878555,2015-08-30,Juventus,5472,Mario Mandžukić,MID,Level,5,0,0,0,14,1
-3878555,2015-08-30,Juventus,5472,Mario Mandžukić,MID,Trailing,0,0,0,0,0,0
+3878555,2015-08-30,Juventus,5472,Mario Mandžukić,FWD,Level,5,0,0,0,14,1
+3878555,2015-08-30,Juventus,5472,Mario Mandžukić,FWD,Trailing,0,0,0,0,0,0
 3878555,2015-08-30,Juventus,5541,Stephan Lichtsteiner,DEF,Level,15,2,0,0,13,2
 3878555,2015-08-30,Juventus,5541,Stephan Lichtsteiner,DEF,Trailing,6,0,0,0,0,0
 3878555,2015-08-30,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Trailing,10,2,0,0,5,1
-3878555,2015-08-30,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,11,1,0,0,13,2
-3878555,2015-08-30,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,12,0,3,0.65215128,5,0
+3878555,2015-08-30,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,11,1,0,0,13,2
+3878555,2015-08-30,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,12,0,3,0.65215128,5,0
 3878555,2015-08-30,Juventus,6949,Gianluigi Buffon,GK,Level,15,2,0,0,0,1
 3878555,2015-08-30,Juventus,6949,Gianluigi Buffon,GK,Trailing,4,1,0,0,0,0
 3878555,2015-08-30,Juventus,6954,Giorgio Chiellini,DEF,Level,36,3,0,0,5,2
@@ -482,18 +482,18 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890288,2015-09-12,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,20,0,1,0.29209226,5,3
 3890288,2015-09-12,Bayer Leverkusen,15581,Bernd Leno,GK,Level,1,0,0,0,0,0
 3890288,2015-09-12,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,31,4,0,0,0,9
-3878594,2015-09-12,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,2,0,0,0,0,0
-3878594,2015-09-12,Juventus,3477,Álvaro Borja Morata Martín,MID,Trailing,14,1,4,0.205384322,11,5
+3878594,2015-09-12,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,2,0,0,0,0,0
+3878594,2015-09-12,Juventus,3477,Álvaro Borja Morata Martín,FWD,Trailing,14,1,4,0.205384322,11,5
 3878594,2015-09-12,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,10,3,0,0,7,0
 3878594,2015-09-12,Juventus,3579,Roberto Maximiliano Pereyra,MID,Trailing,55,11,3,0.20212382499999998,21,4
 3878594,2015-09-12,Juventus,5248,José Martín Cáceres Silva,DEF,Level,10,0,0,0,2,0
 3878594,2015-09-12,Juventus,5248,José Martín Cáceres Silva,DEF,Trailing,81,9,1,0.101550095,8,4
-3878594,2015-09-12,Juventus,5472,Mario Mandžukić,MID,Trailing,1,0,0,0,2,0
-3878594,2015-09-12,Juventus,5472,Mario Mandžukić,MID,Level,0,0,1,0.10545278,2,0
+3878594,2015-09-12,Juventus,5472,Mario Mandžukić,FWD,Trailing,1,0,0,0,2,0
+3878594,2015-09-12,Juventus,5472,Mario Mandžukić,FWD,Level,0,0,1,0.10545278,2,0
 3878594,2015-09-12,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Trailing,11,1,0,0,2,1
 3878594,2015-09-12,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Level,5,0,1,0.006386248,0,0
-3878594,2015-09-12,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,10,1,1,0.110240944,6,0
-3878594,2015-09-12,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,39,3,4,1.187209693,13,3
+3878594,2015-09-12,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,10,1,1,0.110240944,6,0
+3878594,2015-09-12,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,39,3,4,1.187209693,13,3
 3878594,2015-09-12,Juventus,6943,Andrea Barzagli,DEF,Level,10,3,0,0,0,1
 3878594,2015-09-12,Juventus,6943,Andrea Barzagli,DEF,Trailing,74,11,0,0,8,3
 3878594,2015-09-12,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,15,2,0,0,4,2
@@ -576,17 +576,17 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266490,2015-09-20,Barcelona,20055,Marc-André ter Stegen,GK,Leading,16,0,0,0,0,2
 266490,2015-09-20,Barcelona,22102,Adriano Correia Claro,DEF,Level,41,8,0,0,4,2
 266490,2015-09-20,Barcelona,22102,Adriano Correia Claro,DEF,Leading,33,4,0,0,5,2
-3890301,2015-09-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,5,0,0,0,5,1
-3890301,2015-09-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Trailing,8,0,2,0.48173805,5,1
+3890301,2015-09-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,5,0,0,0,5,1
+3890301,2015-09-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Trailing,8,0,2,0.48173805,5,1
 3890301,2015-09-20,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,16,0,0,0,5,2
 3890301,2015-09-20,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,5,0,0,0,4,0
 3890301,2015-09-20,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Trailing,40,9,1,0.06040305,20,5
-3890301,2015-09-20,Bayer Leverkusen,8211,Benjamin Henrichs,MID,Trailing,3,1,0,0,2,0
+3890301,2015-09-20,Bayer Leverkusen,8211,Benjamin Henrichs,FWD,Trailing,3,1,0,0,2,0
 3890301,2015-09-20,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,7,2,0,0,7,1
 3890301,2015-09-20,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Trailing,48,4,0,0,19,9
 3890301,2015-09-20,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,5,1,0,0,7,1
 3890301,2015-09-20,Bayer Leverkusen,8213,Karim Bellarabi,MID,Trailing,20,3,2,0.06889776439999999,15,4
-3890301,2015-09-20,Bayer Leverkusen,8219,Admir Mehmedi,MID,Trailing,19,0,0,0,13,2
+3890301,2015-09-20,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Trailing,19,0,0,0,13,2
 3890301,2015-09-20,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,9,0,0,0,2,1
 3890301,2015-09-20,Bayer Leverkusen,8221,Jonathan Tah,DEF,Trailing,37,9,1,0.022408972,8,14
 3890301,2015-09-20,Bayer Leverkusen,8222,Kevin Kampl,MID,Level,8,1,0,0,3,3
@@ -597,8 +597,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890301,2015-09-20,Bayer Leverkusen,8549,Giulio Donati,DEF,Trailing,35,8,1,0.030443912,12,4
 3890301,2015-09-20,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,8,1,0,0,8,2
 3890301,2015-09-20,Bayer Leverkusen,8805,Christoph Kramer,MID,Trailing,13,1,0,0,5,3
-3890301,2015-09-20,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,5,0,0,0,4,1
-3890301,2015-09-20,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,13,1,0,0,6,1
+3890301,2015-09-20,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,5,0,0,0,4,1
+3890301,2015-09-20,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,13,1,0,0,6,1
 3890301,2015-09-20,Bayer Leverkusen,15581,Bernd Leno,GK,Level,10,0,0,0,0,2
 3890301,2015-09-20,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,29,3,0,0,0,6
 3878609,2015-09-20,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,9,1,1,0.025717895,6,1
@@ -675,15 +675,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266467,2015-09-23,Barcelona,10609,Jérémy Mathieu,DEF,Trailing,24,2,0,0,4,1
 266467,2015-09-23,Barcelona,20055,Marc-André ter Stegen,GK,Level,12,1,0,0,0,0
 266467,2015-09-23,Barcelona,20055,Marc-André ter Stegen,GK,Trailing,21,3,0,0,0,0
-3890312,2015-09-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,26,2,3,0.064351689,20,1
-3890312,2015-09-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,0,0,0,0,0,0
+3890312,2015-09-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,26,2,3,0.064351689,20,1
+3890312,2015-09-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,0,0,0,0,0,0
 3890312,2015-09-23,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,58,6,4,0.1676133476,8,5
 3890312,2015-09-23,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Leading,12,2,1,0.031077199,8,0
 3890312,2015-09-23,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,68,14,4,0.134456034,9,8
 3890312,2015-09-23,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Leading,9,0,0,0,3,0
-3890312,2015-09-23,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,49,2,1,0.05863923,14,3
-3890312,2015-09-23,Bayer Leverkusen,8213,Karim Bellarabi,MID,Leading,4,0,0,0,3,1
-3890312,2015-09-23,Bayer Leverkusen,8219,Admir Mehmedi,MID,Leading,7,0,0,0,1,0
+3890312,2015-09-23,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Level,49,2,1,0.05863923,14,3
+3890312,2015-09-23,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Leading,4,0,0,0,3,1
+3890312,2015-09-23,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Leading,7,0,0,0,1,0
 3890312,2015-09-23,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,40,6,2,0.23080958299999998,15,5
 3890312,2015-09-23,Bayer Leverkusen,8221,Jonathan Tah,DEF,Leading,6,1,0,0,2,1
 3890312,2015-09-23,Bayer Leverkusen,8222,Kevin Kampl,MID,Level,38,3,1,0.06670536,11,4
@@ -697,7 +697,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890312,2015-09-23,Bayer Leverkusen,8969,Lars Bender,MID,Leading,9,0,0,0,4,1
 3890312,2015-09-23,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Level,67,6,1,0.026072137,12,7
 3890312,2015-09-23,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Leading,3,1,0,0,1,0
-3890312,2015-09-23,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,10,0,2,0.63421347,8,3
+3890312,2015-09-23,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,10,0,2,0.63421347,8,3
 3890312,2015-09-23,Bayer Leverkusen,15581,Bernd Leno,GK,Level,29,4,0,0,0,3
 3890312,2015-09-23,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,3,1,0,0,0,1
 3879543,2015-09-23,Juventus,3579,Roberto Maximiliano Pereyra,FWD,Level,26,2,0,0,4,3
@@ -724,8 +724,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879543,2015-09-23,Juventus,7173,Leonardo Bonucci,DEF,Leading,29,3,2,0.0455614307,2,4
 3879543,2015-09-23,Juventus,20004,Paul Pogba,MID,Level,34,7,4,0.147685769,7,2
 3879543,2015-09-23,Juventus,20004,Paul Pogba,MID,Leading,33,4,3,0.2455391106,8,2
-3879543,2015-09-23,Juventus,25345,Anderson Hernanes de Carvalho Andrade,MID,Leading,17,3,2,0.073341685,0,1
-3879543,2015-09-23,Juventus,25345,Anderson Hernanes de Carvalho Andrade,MID,Level,3,0,0,0,1,1
+3879543,2015-09-23,Juventus,25345,Anderson Hernanes de Carvalho Andrade,FWD,Leading,17,3,2,0.073341685,0,1
+3879543,2015-09-23,Juventus,25345,Anderson Hernanes de Carvalho Andrade,FWD,Level,3,0,0,0,1,1
 3754174,2015-09-26,Arsenal,3385,Alexis Alejandro Sánchez Sánchez,FWD,Level,16,1,1,0.7257534,5,2
 3754174,2015-09-26,Arsenal,3385,Alexis Alejandro Sánchez Sánchez,FWD,Trailing,9,3,0,0,0,0
 3754174,2015-09-26,Arsenal,3385,Alexis Alejandro Sánchez Sánchez,FWD,Leading,24,3,5,0.5543583160000001,14,4
@@ -787,17 +787,17 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 267611,2015-09-26,Barcelona,20055,Marc-André ter Stegen,GK,Leading,28,1,0,0,0,2
 267611,2015-09-26,Barcelona,22102,Adriano Correia Claro,DEF,Level,19,2,0,0,3,0
 267611,2015-09-26,Barcelona,22102,Adriano Correia Claro,DEF,Leading,45,4,0,0,7,4
-3890315,2015-09-26,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,6,0,2,0.096131755,2,0
+3890315,2015-09-26,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,6,0,2,0.096131755,2,0
 3890315,2015-09-26,Bayer Leverkusen,5555,Julian Brandt,MID,Level,19,0,0,0,7,2
 3890315,2015-09-26,Bayer Leverkusen,5555,Julian Brandt,MID,Leading,18,1,1,0.085670725,10,3
 3890315,2015-09-26,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Leading,17,0,2,0.0407043378,3,2
-3890315,2015-09-26,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,14,0,0,0,11,1
-3890315,2015-09-26,Bayer Leverkusen,8213,Karim Bellarabi,MID,Leading,7,0,1,0.060470395,4,1
+3890315,2015-09-26,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Level,14,0,0,0,11,1
+3890315,2015-09-26,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Leading,7,0,1,0.060470395,4,1
 3890315,2015-09-26,Bayer Leverkusen,8219,Admir Mehmedi,MID,Level,15,1,2,0.14109282,6,2
 3890315,2015-09-26,Bayer Leverkusen,8219,Admir Mehmedi,MID,Leading,25,4,0,0,9,3
 3890315,2015-09-26,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,11,3,2,0.211903915,6,4
 3890315,2015-09-26,Bayer Leverkusen,8221,Jonathan Tah,DEF,Leading,20,1,1,0.0850875,6,8
-3890315,2015-09-26,Bayer Leverkusen,8222,Kevin Kampl,MID,Leading,17,0,2,0.25940348,4,2
+3890315,2015-09-26,Bayer Leverkusen,8222,Kevin Kampl,FWD,Leading,17,0,2,0.25940348,4,2
 3890315,2015-09-26,Bayer Leverkusen,8313,Kyriakos Papadopoulos,DEF,Level,17,3,0,0,4,1
 3890315,2015-09-26,Bayer Leverkusen,8313,Kyriakos Papadopoulos,DEF,Leading,18,0,0,0,3,3
 3890315,2015-09-26,Bayer Leverkusen,8549,Giulio Donati,DEF,Level,19,6,0,0,1,1
@@ -806,22 +806,22 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890315,2015-09-26,Bayer Leverkusen,8805,Christoph Kramer,MID,Leading,50,7,0,0,13,6
 3890315,2015-09-26,Bayer Leverkusen,8969,Lars Bender,MID,Level,27,3,0,0,7,2
 3890315,2015-09-26,Bayer Leverkusen,8969,Lars Bender,MID,Leading,52,7,1,0.019504339,17,8
-3890315,2015-09-26,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,12,1,0,0,4,1
-3890315,2015-09-26,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,24,0,1,0.062059946,7,2
+3890315,2015-09-26,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,12,1,0,0,4,1
+3890315,2015-09-26,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,24,0,1,0.062059946,7,2
 3890315,2015-09-26,Bayer Leverkusen,15581,Bernd Leno,GK,Level,17,3,0,0,0,1
 3890315,2015-09-26,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,19,7,0,0,0,2
 3890315,2015-09-26,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Level,30,5,0,0,1,1
 3890315,2015-09-26,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Leading,43,7,0,0,6,3
-3879548,2015-09-26,Juventus,3477,Álvaro Borja Morata Martín,MID,Trailing,5,1,2,0.143746585,6,0
+3879548,2015-09-26,Juventus,3477,Álvaro Borja Morata Martín,FWD,Trailing,5,1,2,0.143746585,6,0
 3879548,2015-09-26,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,8,2,0,0,9,2
 3879548,2015-09-26,Juventus,3579,Roberto Maximiliano Pereyra,MID,Trailing,28,1,0,0,13,5
 3879548,2015-09-26,Juventus,3951,Mario Lemina,MID,Level,15,3,0,0,7,0
 3879548,2015-09-26,Juventus,3951,Mario Lemina,MID,Trailing,34,3,1,0.16303743,19,2
 3879548,2015-09-26,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Trailing,13,2,0,0,6,2
-3879548,2015-09-26,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,11,1,0,0,4,2
-3879548,2015-09-26,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,10,2,1,0.026553797,13,1
-3879548,2015-09-26,Juventus,6584,Simone Zaza,MID,Level,5,1,1,0.11490597,7,1
-3879548,2015-09-26,Juventus,6584,Simone Zaza,MID,Trailing,8,0,1,0.053985994,10,3
+3879548,2015-09-26,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,11,1,0,0,4,2
+3879548,2015-09-26,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,10,2,1,0.026553797,13,1
+3879548,2015-09-26,Juventus,6584,Simone Zaza,FWD,Level,5,1,1,0.11490597,7,1
+3879548,2015-09-26,Juventus,6584,Simone Zaza,FWD,Trailing,8,0,1,0.053985994,10,3
 3879548,2015-09-26,Juventus,6945,Alex Sandro Lobo Silva,DEF,Trailing,2,0,0,0,2,0
 3879548,2015-09-26,Juventus,6949,Gianluigi Buffon,GK,Level,10,1,0,0,0,0
 3879548,2015-09-26,Juventus,6949,Gianluigi Buffon,GK,Trailing,17,1,0,0,0,3
@@ -921,15 +921,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3754171,2015-10-04,Arsenal,6746,Gabriel Armando de Abreu,DEF,Leading,32,1,0,0,6,1
 3754171,2015-10-04,Arsenal,11386,Santiago Cazorla González,MID,Level,10,3,0,0,0,0
 3754171,2015-10-04,Arsenal,11386,Santiago Cazorla González,MID,Leading,50,8,1,0.020406762,13,11
-3890330,2015-10-04,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,11,0,1,0.04521587,8,1
-3890330,2015-10-04,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Trailing,11,0,2,0.052655401,6,1
-3890330,2015-10-04,Bayer Leverkusen,5555,Julian Brandt,MID,Level,7,1,1,0.14652488,2,0
+3890330,2015-10-04,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,11,0,1,0.04521587,8,1
+3890330,2015-10-04,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Trailing,11,0,2,0.052655401,6,1
+3890330,2015-10-04,Bayer Leverkusen,5555,Julian Brandt,FWD,Level,7,1,1,0.14652488,2,0
 3890330,2015-10-04,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,46,7,4,1.02486056,5,1
 3890330,2015-10-04,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Trailing,21,3,1,0.044373438,4,1
 3890330,2015-10-04,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,55,12,1,0.031993505,10,7
 3890330,2015-10-04,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Trailing,31,3,0,0,4,3
-3890330,2015-10-04,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,15,1,1,0.06078433,10,1
-3890330,2015-10-04,Bayer Leverkusen,8213,Karim Bellarabi,MID,Trailing,7,0,1,0.40388784,5,1
+3890330,2015-10-04,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Level,15,1,1,0.06078433,10,1
+3890330,2015-10-04,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Trailing,7,0,1,0.40388784,5,1
 3890330,2015-10-04,Bayer Leverkusen,8219,Admir Mehmedi,MID,Level,12,0,1,0.044632006,0,4
 3890330,2015-10-04,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,41,7,0,0,2,11
 3890330,2015-10-04,Bayer Leverkusen,8221,Jonathan Tah,DEF,Trailing,20,5,0,0,4,2
@@ -943,12 +943,12 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890330,2015-10-04,Bayer Leverkusen,8805,Christoph Kramer,MID,Trailing,25,1,0,0,7,0
 3890330,2015-10-04,Bayer Leverkusen,8969,Lars Bender,MID,Level,40,6,3,0.19267061000000002,21,4
 3890330,2015-10-04,Bayer Leverkusen,8969,Lars Bender,MID,Trailing,25,6,0,0,7,1
-3890330,2015-10-04,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,6,1,0,0,4,0
+3890330,2015-10-04,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,6,1,0,0,4,0
 3890330,2015-10-04,Bayer Leverkusen,15581,Bernd Leno,GK,Level,16,2,0,0,0,2
 3890330,2015-10-04,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,14,0,0,0,0,2
-3879559,2015-10-04,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,5,1,3,0.265401885,3,1
-3879559,2015-10-04,Juventus,3477,Álvaro Borja Morata Martín,MID,Trailing,3,1,2,0.49976358,3,1
-3879559,2015-10-04,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,7,2,2,0.128651055,3,1
+3879559,2015-10-04,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,5,1,3,0.265401885,3,1
+3879559,2015-10-04,Juventus,3477,Álvaro Borja Morata Martín,FWD,Trailing,3,1,2,0.49976358,3,1
+3879559,2015-10-04,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,7,2,2,0.128651055,3,1
 3879559,2015-10-04,Juventus,3951,Mario Lemina,MID,Leading,44,6,0,0,7,1
 3879559,2015-10-04,Juventus,5566,Sami Khedira,MID,Level,10,2,1,0.052081075,3,2
 3879559,2015-10-04,Juventus,5566,Sami Khedira,MID,Trailing,14,1,0,0,5,0
@@ -956,10 +956,10 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879559,2015-10-04,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Level,17,1,0,0,4,0
 3879559,2015-10-04,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Trailing,21,2,0,0,6,0
 3879559,2015-10-04,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Leading,29,1,0,0,5,1
-3879559,2015-10-04,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,11,2,2,0.821503672,7,3
-3879559,2015-10-04,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,11,1,0,0,6,0
-3879559,2015-10-04,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,13,2,1,0.05595688,9,2
-3879559,2015-10-04,Juventus,6584,Simone Zaza,MID,Leading,5,0,0,0,4,1
+3879559,2015-10-04,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,11,2,2,0.821503672,7,3
+3879559,2015-10-04,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,11,1,0,0,6,0
+3879559,2015-10-04,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,13,2,1,0.05595688,9,2
+3879559,2015-10-04,Juventus,6584,Simone Zaza,FWD,Leading,5,0,0,0,4,1
 3879559,2015-10-04,Juventus,6940,Kwadwo Asamoah,MID,Leading,1,0,0,0,0,0
 3879559,2015-10-04,Juventus,6943,Andrea Barzagli,DEF,Level,24,5,0,0,0,1
 3879559,2015-10-04,Juventus,6943,Andrea Barzagli,DEF,Trailing,35,2,0,0,2,4
@@ -1068,7 +1068,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3825627,2015-10-17,Barcelona,10609,Jérémy Mathieu,DEF,Trailing,5,0,0,0,0,1
 3825627,2015-10-17,Barcelona,10609,Jérémy Mathieu,DEF,Leading,25,2,0,0,8,4
 3825627,2015-10-17,Barcelona,27318,Douglas Pereira dos Santos,DEF,Leading,3,0,0,0,4,0
-3890337,2015-10-17,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,22,2,3,0.306938156,12,1
+3890337,2015-10-17,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,22,2,3,0.306938156,12,1
 3890337,2015-10-17,Bayer Leverkusen,5555,Julian Brandt,MID,Level,30,2,1,0.13512956,14,4
 3890337,2015-10-17,Bayer Leverkusen,6309,Tin Jedvaj,MID,Level,15,2,0,0,12,2
 3890337,2015-10-17,Bayer Leverkusen,7039,Hakan Çalhanoğlu,DEF,Level,17,4,1,0.007371807,2,5
@@ -1079,7 +1079,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890337,2015-10-17,Bayer Leverkusen,8549,Giulio Donati,DEF,Level,48,9,0,0,9,4
 3890337,2015-10-17,Bayer Leverkusen,8573,Ömer Toprak,MID,Level,41,8,1,0.031295255,15,11
 3890337,2015-10-17,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,60,10,1,0.028578365,24,10
-3890337,2015-10-17,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,34,0,0,0,24,4
+3890337,2015-10-17,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,34,0,0,0,24,4
 3890337,2015-10-17,Bayer Leverkusen,15581,Bernd Leno,GK,Level,25,3,0,0,0,4
 3890337,2015-10-17,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Level,58,8,1,0.009951525,18,7
 3829504,2015-10-17,Paris Saint-Germain,3026,Adrien Rabiot,MID,Level,61,8,1,0.039134357,17,4
@@ -1107,12 +1107,12 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3829504,2015-10-17,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Level,63,2,0,0,4,6
 3829504,2015-10-17,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Leading,10,1,0,0,0,0
 3829504,2015-10-17,Paris Saint-Germain,351521,Ezequiel Iván Lavezzi,FWD,Leading,15,3,0,0,5,0
-3879574,2015-10-18,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,26,1,0,0,15,1
-3879574,2015-10-18,Juventus,5472,Mario Mandžukić,MID,Level,4,0,1,0.09156459,5,0
+3879574,2015-10-18,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,26,1,0,0,15,1
+3879574,2015-10-18,Juventus,5472,Mario Mandžukić,FWD,Level,4,0,1,0.09156459,5,0
 3879574,2015-10-18,Juventus,5566,Sami Khedira,MID,Level,53,7,1,0.45226946,7,5
 3879574,2015-10-18,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,60,9,4,0.162971639,18,7
-3879574,2015-10-18,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,7,0,0,0,1,1
-3879574,2015-10-18,Juventus,6584,Simone Zaza,MID,Level,21,0,3,0.09822626200000001,15,1
+3879574,2015-10-18,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,7,0,0,0,1,1
+3879574,2015-10-18,Juventus,6584,Simone Zaza,FWD,Level,21,0,3,0.09822626200000001,15,1
 3879574,2015-10-18,Juventus,6943,Andrea Barzagli,DEF,Level,68,17,0,0,4,4
 3879574,2015-10-18,Juventus,6949,Gianluigi Buffon,GK,Level,16,2,0,0,0,5
 3879574,2015-10-18,Juventus,6954,Giorgio Chiellini,DEF,Level,51,11,0,0,13,4
@@ -1144,9 +1144,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3754126,2015-10-24,Arsenal,6746,Gabriel Armando de Abreu,DEF,Leading,17,6,0,0,5,1
 3754126,2015-10-24,Arsenal,11386,Santiago Cazorla González,MID,Level,32,4,0,0,2,1
 3754126,2015-10-24,Arsenal,11386,Santiago Cazorla González,MID,Leading,56,11,0,0,9,6
-3890346,2015-10-24,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,17,1,3,0.69829328,8,0
-3890346,2015-10-24,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Trailing,5,0,2,0.89832521,2,1
-3890346,2015-10-24,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,2,0,0,0,0,0
+3890346,2015-10-24,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,17,1,3,0.69829328,8,0
+3890346,2015-10-24,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Trailing,5,0,2,0.89832521,2,1
+3890346,2015-10-24,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,2,0,0,0,0,0
 3890346,2015-10-24,Bayer Leverkusen,5555,Julian Brandt,MID,Level,15,0,0,0,14,2
 3890346,2015-10-24,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,3,0,0,0,2,0
 3890346,2015-10-24,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,43,7,2,0.176811165,26,3
@@ -1171,15 +1171,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890346,2015-10-24,Bayer Leverkusen,8313,Kyriakos Papadopoulos,DEF,Leading,2,0,0,0,0,0
 3890346,2015-10-24,Bayer Leverkusen,8573,Ömer Toprak,DEF,Level,37,4,0,0,5,3
 3890346,2015-10-24,Bayer Leverkusen,8573,Ömer Toprak,DEF,Trailing,12,2,0,0,7,0
-3890346,2015-10-24,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,21,1,0,0,15,5
-3890346,2015-10-24,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,9,0,1,0.5034182,8,0
+3890346,2015-10-24,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,21,1,0,0,15,5
+3890346,2015-10-24,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,9,0,1,0.5034182,8,0
 3890346,2015-10-24,Bayer Leverkusen,15581,Bernd Leno,GK,Level,29,2,0,0,1,5
 3890346,2015-10-24,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,9,0,0,0,0,0
 3890346,2015-10-24,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Level,48,9,0,0,11,2
 3890346,2015-10-24,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Trailing,17,2,1,0.112663396,2,0
 3890346,2015-10-24,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Leading,1,1,0,0,0,0
-3890346,2015-10-24,Bayer Leverkusen,24428,Vladlen Yurchenko,MID,Level,2,0,0,0,0,1
-3890346,2015-10-24,Bayer Leverkusen,24428,Vladlen Yurchenko,MID,Leading,1,0,0,0,0,0
+3890346,2015-10-24,Bayer Leverkusen,24428,Vladlen Yurchenko,FWD,Level,2,0,0,0,0,1
+3890346,2015-10-24,Bayer Leverkusen,24428,Vladlen Yurchenko,FWD,Leading,1,0,0,0,0,0
 3825637,2015-10-25,Barcelona,3508,Sandro Ramírez Castillo,FWD,Level,12,1,2,0.34510039,5,1
 3825637,2015-10-25,Barcelona,3508,Sandro Ramírez Castillo,FWD,Trailing,2,0,0,0,1,0
 3825637,2015-10-25,Barcelona,3508,Sandro Ramírez Castillo,FWD,Leading,0,0,0,0,0,0
@@ -1215,15 +1215,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3825637,2015-10-25,Barcelona,7068,Marc Bartra Aregall,DEF,Trailing,6,0,1,0.09349664,2,0
 3825637,2015-10-25,Barcelona,7068,Marc Bartra Aregall,DEF,Leading,4,0,0,0,0,1
 3825637,2015-10-25,Barcelona,10609,Jérémy Mathieu,DEF,Leading,27,3,0,0,1,0
-3879580,2015-10-25,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,5,0,1,0.009933951,5,2
+3879580,2015-10-25,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,5,0,1,0.009933951,5,2
 3879580,2015-10-25,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,22,1,0,0,4,1
 3879580,2015-10-25,Juventus,3579,Roberto Maximiliano Pereyra,MID,Leading,2,1,0,0,1,1
-3879580,2015-10-25,Juventus,5472,Mario Mandžukić,MID,Level,3,0,1,0.1211512,6,0
-3879580,2015-10-25,Juventus,5472,Mario Mandžukić,MID,Leading,5,1,1,0.6053396,15,1
+3879580,2015-10-25,Juventus,5472,Mario Mandžukić,FWD,Level,3,0,1,0.1211512,6,0
+3879580,2015-10-25,Juventus,5472,Mario Mandžukić,FWD,Leading,5,1,1,0.6053396,15,1
 3879580,2015-10-25,Juventus,5566,Sami Khedira,MID,Level,14,1,0,0,7,0
 3879580,2015-10-25,Juventus,5566,Sami Khedira,MID,Leading,50,3,2,0.09129006,11,4
-3879580,2015-10-25,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,15,3,2,0.095845285,5,2
-3879580,2015-10-25,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,40,5,7,0.7985973739999999,9,3
+3879580,2015-10-25,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,15,3,2,0.095845285,5,2
+3879580,2015-10-25,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,40,5,7,0.7985973739999999,9,3
 3879580,2015-10-25,Juventus,6940,Kwadwo Asamoah,MID,Leading,54,1,0,0,7,2
 3879580,2015-10-25,Juventus,6949,Gianluigi Buffon,GK,Level,9,0,0,0,0,1
 3879580,2015-10-25,Juventus,6949,Gianluigi Buffon,GK,Leading,14,1,0,0,0,3
@@ -1265,16 +1265,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3829519,2015-10-25,Paris Saint-Germain,20048,Gregory van der Wiel,DEF,Level,25,0,0,0,3,2
 3829519,2015-10-25,Paris Saint-Germain,20048,Gregory van der Wiel,DEF,Leading,51,2,0,0,21,2
 3829519,2015-10-25,Paris Saint-Germain,351521,Ezequiel Iván Lavezzi,FWD,Leading,1,0,0,0,4,0
-3879591,2015-10-28,Juventus,3477,Álvaro Borja Morata Martín,MID,Trailing,16,2,0,0,7,4
+3879591,2015-10-28,Juventus,3477,Álvaro Borja Morata Martín,FWD,Trailing,16,2,0,0,7,4
 3879591,2015-10-28,Juventus,3951,Mario Lemina,MID,Level,9,0,0,0,4,1
 3879591,2015-10-28,Juventus,3951,Mario Lemina,MID,Trailing,36,1,1,0.022994595,18,8
-3879591,2015-10-28,Juventus,5472,Mario Mandžukić,MID,Level,2,0,0,0,4,0
-3879591,2015-10-28,Juventus,5472,Mario Mandžukić,MID,Trailing,14,1,1,0.11519378,7,2
+3879591,2015-10-28,Juventus,5472,Mario Mandžukić,FWD,Level,2,0,0,0,4,0
+3879591,2015-10-28,Juventus,5472,Mario Mandžukić,FWD,Trailing,14,1,1,0.11519378,7,2
 3879591,2015-10-28,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Level,8,0,0,0,9,0
 3879591,2015-10-28,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Trailing,42,8,2,0.043214131,11,5
-3879591,2015-10-28,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,8,0,0,0,5,0
-3879591,2015-10-28,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,33,1,1,0.03597975,8,3
-3879591,2015-10-28,Juventus,6584,Simone Zaza,MID,Trailing,5,0,0,0,2,0
+3879591,2015-10-28,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,8,0,0,0,5,0
+3879591,2015-10-28,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,33,1,1,0.03597975,8,3
+3879591,2015-10-28,Juventus,6584,Simone Zaza,FWD,Trailing,5,0,0,0,2,0
 3879591,2015-10-28,Juventus,6943,Andrea Barzagli,DEF,Level,12,1,0,0,0,1
 3879591,2015-10-28,Juventus,6943,Andrea Barzagli,DEF,Trailing,62,7,1,0.022483248,4,4
 3879591,2015-10-28,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,9,1,0,0,5,1
@@ -1387,18 +1387,18 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890350,2015-10-31,Bayer Leverkusen,8573,Ömer Toprak,DEF,Trailing,11,3,1,0.05191938,1,2
 3890350,2015-10-31,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,40,4,1,0.10168782,25,8
 3890350,2015-10-31,Bayer Leverkusen,8805,Christoph Kramer,MID,Trailing,21,1,0,0,7,4
-3890350,2015-10-31,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,6,0,0,0,3,0
+3890350,2015-10-31,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,6,0,0,0,3,0
 3890350,2015-10-31,Bayer Leverkusen,15581,Bernd Leno,GK,Level,23,2,0,0,1,2
 3890350,2015-10-31,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,11,0,0,0,0,4
-3879597,2015-10-31,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,15,0,1,0.04692659,4,2
-3879597,2015-10-31,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,11,0,0,0,5,0
+3879597,2015-10-31,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,15,0,1,0.04692659,4,2
+3879597,2015-10-31,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,11,0,0,0,5,0
 3879597,2015-10-31,Juventus,5472,Mario Mandžukić,MID,Level,2,1,0,0,2,1
 3879597,2015-10-31,Juventus,5472,Mario Mandžukić,MID,Leading,1,0,0,0,0,0
 3879597,2015-10-31,Juventus,5566,Sami Khedira,MID,Level,3,0,0,0,2,0
 3879597,2015-10-31,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Level,18,0,2,0.9052349470000001,6,3
 3879597,2015-10-31,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Leading,11,1,0,0,6,0
-3879597,2015-10-31,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,28,1,2,0.13147304199999998,6,2
-3879597,2015-10-31,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,16,2,1,0.06361376,3,3
+3879597,2015-10-31,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,28,1,2,0.13147304199999998,6,2
+3879597,2015-10-31,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,16,2,1,0.06361376,3,3
 3879597,2015-10-31,Juventus,6943,Andrea Barzagli,DEF,Level,51,15,0,0,6,3
 3879597,2015-10-31,Juventus,6943,Andrea Barzagli,DEF,Leading,26,2,0,0,2,1
 3879597,2015-10-31,Juventus,6945,Alex Sandro Lobo Silva,MID,Level,6,0,0,0,2,0
@@ -1641,13 +1641,13 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890370,2015-11-21,Bayer Leverkusen,15581,Bernd Leno,GK,Level,8,0,0,0,0,1
 3890370,2015-11-21,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,28,3,0,0,0,3
 3890370,2015-11-21,Bayer Leverkusen,24428,Vladlen Yurchenko,FWD,Leading,4,0,0,0,2,0
-3879618,2015-11-21,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,5,0,0,0,6,0
-3879618,2015-11-21,Juventus,5472,Mario Mandžukić,MID,Level,15,1,0,0,19,0
-3879618,2015-11-21,Juventus,5472,Mario Mandžukić,MID,Leading,4,0,1,0.3923379,10,1
+3879618,2015-11-21,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,5,0,0,0,6,0
+3879618,2015-11-21,Juventus,5472,Mario Mandžukić,FWD,Level,15,1,0,0,19,0
+3879618,2015-11-21,Juventus,5472,Mario Mandžukić,FWD,Leading,4,0,1,0.3923379,10,1
 3879618,2015-11-21,Juventus,5541,Stephan Lichtsteiner,DEF,Level,42,8,0,0,12,6
 3879618,2015-11-21,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,8,1,0,0,6,0
-3879618,2015-11-21,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,35,3,2,0.18788211999999999,14,5
-3879618,2015-11-21,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,4,0,1,0.03713195,3,0
+3879618,2015-11-21,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,35,3,2,0.18788211999999999,14,5
+3879618,2015-11-21,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,4,0,1,0.03713195,3,0
 3879618,2015-11-21,Juventus,6943,Andrea Barzagli,DEF,Level,54,10,0,0,6,3
 3879618,2015-11-21,Juventus,6943,Andrea Barzagli,DEF,Leading,7,0,1,0.0892285,3,1
 3879618,2015-11-21,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,35,5,1,0.086573094,5,1
@@ -1722,14 +1722,14 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3900521,2015-11-28,Paris Saint-Germain,3026,Adrien Rabiot,MID,Leading,44,6,1,0.022345392,15,2
 3900521,2015-11-28,Paris Saint-Germain,3295,Thiago Emiliano da Silva,DEF,Level,26,6,2,0.72343034,1,1
 3900521,2015-11-28,Paris Saint-Germain,3295,Thiago Emiliano da Silva,DEF,Leading,62,7,0,0,7,6
-3900521,2015-11-28,Paris Saint-Germain,3672,Zlatan Ibrahimović,MID,Level,10,0,0,0,2,1
-3900521,2015-11-28,Paris Saint-Germain,3672,Zlatan Ibrahimović,MID,Leading,41,10,4,0.970201114,5,6
+3900521,2015-11-28,Paris Saint-Germain,3672,Zlatan Ibrahimović,FWD,Level,10,0,0,0,2,1
+3900521,2015-11-28,Paris Saint-Germain,3672,Zlatan Ibrahimović,FWD,Leading,41,10,4,0.970201114,5,6
 3900521,2015-11-28,Paris Saint-Germain,3745,Lucas Rodrigues Moura da Silva,MID,Level,7,1,0,0,4,1
 3900521,2015-11-28,Paris Saint-Germain,3745,Lucas Rodrigues Moura da Silva,MID,Leading,34,3,4,0.511870416,8,3
 3900521,2015-11-28,Paris Saint-Germain,3956,David Luiz Moreira Marinho,DEF,Level,30,2,0,0,3,1
 3900521,2015-11-28,Paris Saint-Germain,3956,David Luiz Moreira Marinho,DEF,Leading,55,5,0,0,5,2
-3900521,2015-11-28,Paris Saint-Germain,4319,Edinson Roberto Cavani Gómez,MID,Level,9,0,3,0.50021991,0,0
-3900521,2015-11-28,Paris Saint-Germain,4319,Edinson Roberto Cavani Gómez,MID,Leading,27,0,3,0.194848341,13,4
+3900521,2015-11-28,Paris Saint-Germain,4319,Edinson Roberto Cavani Gómez,FWD,Level,9,0,3,0.50021991,0,0
+3900521,2015-11-28,Paris Saint-Germain,4319,Edinson Roberto Cavani Gómez,FWD,Leading,27,0,3,0.194848341,13,4
 3900521,2015-11-28,Paris Saint-Germain,4325,Thiago Motta,MID,Leading,36,5,0,0,6,0
 3900521,2015-11-28,Paris Saint-Germain,4326,Layvin Kurzawa,DEF,Level,20,0,0,0,2,1
 3900521,2015-11-28,Paris Saint-Germain,4326,Layvin Kurzawa,DEF,Leading,57,3,2,0.439515333,14,4
@@ -1793,15 +1793,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890382,2015-11-29,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,5,0,0,0,0,1
 3890382,2015-11-29,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Level,30,4,0,0,8,1
 3890382,2015-11-29,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Trailing,8,0,0,0,6,2
-3879630,2015-11-29,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,14,1,0,0,12,1
-3879630,2015-11-29,Juventus,5472,Mario Mandžukić,MID,Level,11,0,2,0.47441843,10,0
-3879630,2015-11-29,Juventus,5472,Mario Mandžukić,MID,Leading,4,0,0,0,6,1
+3879630,2015-11-29,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,14,1,0,0,12,1
+3879630,2015-11-29,Juventus,5472,Mario Mandžukić,FWD,Level,11,0,2,0.47441843,10,0
+3879630,2015-11-29,Juventus,5472,Mario Mandžukić,FWD,Leading,4,0,0,0,6,1
 3879630,2015-11-29,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,18,3,0,0,4,1
 3879630,2015-11-29,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,43,2,2,0.030226455,4,3
 3879630,2015-11-29,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,5,0,1,0.019701209,4,0
-3879630,2015-11-29,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,27,3,2,0.126673311,12,1
-3879630,2015-11-29,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,9,0,0,0,3,1
-3879630,2015-11-29,Juventus,6584,Simone Zaza,MID,Leading,6,1,1,0.10744552,1,0
+3879630,2015-11-29,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,27,3,2,0.126673311,12,1
+3879630,2015-11-29,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,9,0,0,0,3,1
+3879630,2015-11-29,Juventus,6584,Simone Zaza,FWD,Leading,6,1,1,0.10744552,1,0
 3879630,2015-11-29,Juventus,6943,Andrea Barzagli,DEF,Level,45,8,0,0,5,5
 3879630,2015-11-29,Juventus,6943,Andrea Barzagli,DEF,Leading,18,3,0,0,6,1
 3879630,2015-11-29,Juventus,6949,Gianluigi Buffon,GK,Level,16,0,0,0,0,4
@@ -1831,14 +1831,14 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3900532,2015-12-01,Paris Saint-Germain,4440,Kevin Trapp,GK,Level,19,0,0,0,0,2
 3900532,2015-12-01,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Level,68,4,1,0.07204306,3,4
 3900532,2015-12-01,Paris Saint-Germain,351521,Ezequiel Iván Lavezzi,MID,Level,23,1,1,0.058951605,3,1
-3879637,2015-12-04,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,3,0,0,0,4,0
-3879637,2015-12-04,Juventus,5472,Mario Mandžukić,MID,Level,2,0,0,0,3,0
-3879637,2015-12-04,Juventus,5472,Mario Mandžukić,MID,Leading,24,1,0,0,26,1
+3879637,2015-12-04,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,3,0,0,0,4,0
+3879637,2015-12-04,Juventus,5472,Mario Mandžukić,FWD,Level,2,0,0,0,3,0
+3879637,2015-12-04,Juventus,5472,Mario Mandžukić,FWD,Leading,24,1,0,0,26,1
 3879637,2015-12-04,Juventus,5541,Stephan Lichtsteiner,DEF,Level,1,1,0,0,0,0
 3879637,2015-12-04,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,37,5,0,0,12,3
-3879637,2015-12-04,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Leading,3,0,0,0,5,1
-3879637,2015-12-04,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,0,0,1,0.019507311,0,1
-3879637,2015-12-04,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,30,3,3,0.131342665,13,9
+3879637,2015-12-04,Juventus,5689,Juan Guillermo Cuadrado Bello,FWD,Leading,3,0,0,0,5,1
+3879637,2015-12-04,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,0,0,1,0.019507311,0,1
+3879637,2015-12-04,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,30,3,3,0.131342665,13,9
 3879637,2015-12-04,Juventus,6940,Kwadwo Asamoah,MID,Level,3,1,0,0,1,0
 3879637,2015-12-04,Juventus,6940,Kwadwo Asamoah,MID,Leading,17,1,1,0.040440053,10,1
 3879637,2015-12-04,Juventus,6943,Andrea Barzagli,DEF,Level,1,0,0,0,2,1
@@ -1982,15 +1982,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266961,2015-12-12,Barcelona,6616,Munir El Haddadi Mohamed,FWD,Level,2,0,0,0,1,0
 266961,2015-12-12,Barcelona,10609,Jérémy Mathieu,DEF,Leading,5,0,0,0,2,0
 266961,2015-12-12,Barcelona,10609,Jérémy Mathieu,DEF,Level,4,0,0,0,0,0
-3890395,2015-12-12,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,9,0,0,0,1,2
-3890395,2015-12-12,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,9,1,3,1.543517723,6,0
+3890395,2015-12-12,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,9,0,0,0,1,2
+3890395,2015-12-12,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,9,1,3,1.543517723,6,0
 3890395,2015-12-12,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,20,1,1,0.00870333,6,4
 3890395,2015-12-12,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Leading,30,6,2,0.0391234914,11,3
 3890395,2015-12-12,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,30,3,0,0,5,2
 3890395,2015-12-12,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Leading,24,1,0,0,19,5
 3890395,2015-12-12,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,16,0,0,0,5,3
 3890395,2015-12-12,Bayer Leverkusen,8213,Karim Bellarabi,MID,Leading,14,1,4,0.215270276,20,5
-3890395,2015-12-12,Bayer Leverkusen,8219,Admir Mehmedi,MID,Leading,3,0,0,0,5,0
+3890395,2015-12-12,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Leading,3,0,0,0,5,0
 3890395,2015-12-12,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,6,0,0,0,3,1
 3890395,2015-12-12,Bayer Leverkusen,8221,Jonathan Tah,DEF,Leading,8,1,0,0,9,3
 3890395,2015-12-12,Bayer Leverkusen,8222,Kevin Kampl,MID,Level,24,4,0,0,6,5
@@ -2002,8 +2002,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890395,2015-12-12,Bayer Leverkusen,8805,Christoph Kramer,MID,Leading,29,6,0,0,21,9
 3890395,2015-12-12,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Level,21,2,0,0,8,5
 3890395,2015-12-12,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Leading,4,1,0,0,3,1
-3890395,2015-12-12,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,14,1,1,0.27561885,7,4
-3890395,2015-12-12,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,23,2,3,0.240131755,24,5
+3890395,2015-12-12,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,14,1,1,0.27561885,7,4
+3890395,2015-12-12,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,23,2,3,0.240131755,24,5
 3890395,2015-12-12,Bayer Leverkusen,15581,Bernd Leno,GK,Level,15,3,0,0,1,0
 3890395,2015-12-12,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,15,7,0,0,0,3
 3890395,2015-12-12,Bayer Leverkusen,21168,Marlon Frey,MID,Leading,3,0,0,0,1,0
@@ -2032,18 +2032,18 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3754117,2015-12-13,Arsenal,5581,Joel Nathaniel Campbell Samuels,FWD,Leading,17,0,0,0,16,5
 3754117,2015-12-13,Arsenal,6631,Mathieu Flamini,MID,Level,7,1,0,0,2,1
 3754117,2015-12-13,Arsenal,6631,Mathieu Flamini,MID,Leading,48,7,0,0,14,1
-3879653,2015-12-13,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,1,0,0,0,8,0
-3879653,2015-12-13,Juventus,5472,Mario Mandžukić,MID,Level,15,0,2,0.283615116,28,1
-3879653,2015-12-13,Juventus,5472,Mario Mandžukić,MID,Trailing,2,0,0,0,0,0
-3879653,2015-12-13,Juventus,5472,Mario Mandžukić,MID,Leading,1,1,1,0.026643954,0,1
+3879653,2015-12-13,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,1,0,0,0,8,0
+3879653,2015-12-13,Juventus,5472,Mario Mandžukić,FWD,Level,15,0,2,0.283615116,28,1
+3879653,2015-12-13,Juventus,5472,Mario Mandžukić,FWD,Trailing,2,0,0,0,0,0
+3879653,2015-12-13,Juventus,5472,Mario Mandžukić,FWD,Leading,1,1,1,0.026643954,0,1
 3879653,2015-12-13,Juventus,5566,Sami Khedira,MID,Trailing,1,0,0,0,1,0
 3879653,2015-12-13,Juventus,5566,Sami Khedira,MID,Level,21,1,0,0,16,0
 3879653,2015-12-13,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Trailing,4,1,1,0.03717154,0,0
 3879653,2015-12-13,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,24,1,1,0.026207007,11,3
 3879653,2015-12-13,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,4,1,0,0,1,0
-3879653,2015-12-13,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,21,4,5,0.969694034,17,4
-3879653,2015-12-13,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,1,0,0,0,1,1
-3879653,2015-12-13,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,4,0,1,0.40364948,4,1
+3879653,2015-12-13,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,21,4,5,0.969694034,17,4
+3879653,2015-12-13,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,1,0,0,0,1,1
+3879653,2015-12-13,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,4,0,1,0.40364948,4,1
 3879653,2015-12-13,Juventus,6943,Andrea Barzagli,DEF,Trailing,4,1,0,0,0,1
 3879653,2015-12-13,Juventus,6943,Andrea Barzagli,DEF,Level,47,5,0,0,6,4
 3879653,2015-12-13,Juventus,6943,Andrea Barzagli,DEF,Leading,5,1,0,0,0,0
@@ -2092,9 +2092,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3900557,2015-12-13,Paris Saint-Germain,4440,Kevin Trapp,GK,Leading,31,3,0,0,0,3
 3900557,2015-12-13,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Level,8,0,0,0,1,0
 3900557,2015-12-13,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Leading,51,2,0,0,5,2
-3890409,2015-12-19,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,17,2,1,0.12704092,3,4
-3890409,2015-12-19,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,1,0,0,0,1,0
-3890409,2015-12-19,Bayer Leverkusen,5555,Julian Brandt,MID,Leading,1,1,0,0,0,1
+3890409,2015-12-19,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,17,2,1,0.12704092,3,4
+3890409,2015-12-19,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,1,0,0,0,1,0
+3890409,2015-12-19,Bayer Leverkusen,5555,Julian Brandt,FWD,Leading,1,1,0,0,0,1
 3890409,2015-12-19,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,48,2,2,0.081161394,6,5
 3890409,2015-12-19,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,42,3,0,0,8,4
 3890409,2015-12-19,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Leading,10,1,0,0,6,1
@@ -2105,15 +2105,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890409,2015-12-19,Bayer Leverkusen,8221,Jonathan Tah,DEF,Leading,3,0,0,0,1,0
 3890409,2015-12-19,Bayer Leverkusen,8222,Kevin Kampl,MID,Level,29,5,1,0.009306078,12,9
 3890409,2015-12-19,Bayer Leverkusen,8222,Kevin Kampl,MID,Leading,7,0,0,0,3,1
-3890409,2015-12-19,Bayer Leverkusen,8313,Kyriakos Papadopoulos,MID,Leading,3,0,0,0,2,0
+3890409,2015-12-19,Bayer Leverkusen,8313,Kyriakos Papadopoulos,FWD,Leading,3,0,0,0,2,0
 3890409,2015-12-19,Bayer Leverkusen,8549,Giulio Donati,DEF,Level,33,10,0,0,11,6
 3890409,2015-12-19,Bayer Leverkusen,8549,Giulio Donati,DEF,Leading,2,0,0,0,0,0
 3890409,2015-12-19,Bayer Leverkusen,8573,Ömer Toprak,DEF,Level,20,2,0,0,7,4
 3890409,2015-12-19,Bayer Leverkusen,8573,Ömer Toprak,DEF,Leading,4,0,0,0,3,0
 3890409,2015-12-19,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,29,2,0,0,37,5
 3890409,2015-12-19,Bayer Leverkusen,8805,Christoph Kramer,MID,Leading,2,0,0,0,5,0
-3890409,2015-12-19,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,23,1,2,0.37093244999999997,11,3
-3890409,2015-12-19,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,8,0,0,0,2,1
+3890409,2015-12-19,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,23,1,2,0.37093244999999997,11,3
+3890409,2015-12-19,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,8,0,0,0,2,1
 3890409,2015-12-19,Bayer Leverkusen,15581,Bernd Leno,GK,Level,30,5,0,0,0,7
 3890409,2015-12-19,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,5,3,0,0,0,1
 3900562,2015-12-19,Paris Saint-Germain,2995,Ángel Fabián Di María Hernández,FWD,Level,16,2,2,0.15586075,2,2
@@ -2141,10 +2141,10 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3900562,2015-12-19,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Level,23,2,0,0,3,2
 3900562,2015-12-19,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Leading,45,3,0,0,0,3
 3900562,2015-12-19,Paris Saint-Germain,351521,Ezequiel Iván Lavezzi,FWD,Leading,9,0,2,0.28484339000000003,5,0
-3879660,2015-12-20,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,8,0,0,0,8,1
-3879660,2015-12-20,Juventus,5472,Mario Mandžukić,MID,Level,12,0,1,0.20839594,7,1
-3879660,2015-12-20,Juventus,5472,Mario Mandžukić,MID,Trailing,3,0,1,0.18556732,1,1
-3879660,2015-12-20,Juventus,5472,Mario Mandžukić,MID,Leading,30,0,0,0,18,1
+3879660,2015-12-20,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,8,0,0,0,8,1
+3879660,2015-12-20,Juventus,5472,Mario Mandžukić,FWD,Level,12,0,1,0.20839594,7,1
+3879660,2015-12-20,Juventus,5472,Mario Mandžukić,FWD,Trailing,3,0,1,0.18556732,1,1
+3879660,2015-12-20,Juventus,5472,Mario Mandžukić,FWD,Leading,30,0,0,0,18,1
 3879660,2015-12-20,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,3,0,0,0,4,1
 3879660,2015-12-20,Juventus,5566,Sami Khedira,MID,Level,15,1,2,0.047163848,7,1
 3879660,2015-12-20,Juventus,5566,Sami Khedira,MID,Trailing,3,1,1,0.26710606,0,0
@@ -2152,9 +2152,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879660,2015-12-20,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,21,1,0,0,7,4
 3879660,2015-12-20,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Trailing,1,0,0,0,0,0
 3879660,2015-12-20,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,31,2,0,0,7,2
-3879660,2015-12-20,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,16,1,1,0.019455016,8,0
-3879660,2015-12-20,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,2,0,1,0.33584067,1,1
-3879660,2015-12-20,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,17,2,0,0,5,1
+3879660,2015-12-20,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,16,1,1,0.019455016,8,0
+3879660,2015-12-20,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,2,0,1,0.33584067,1,1
+3879660,2015-12-20,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,17,2,0,0,5,1
 3879660,2015-12-20,Juventus,6943,Andrea Barzagli,DEF,Level,40,5,0,0,2,3
 3879660,2015-12-20,Juventus,6943,Andrea Barzagli,DEF,Trailing,3,0,0,0,0,0
 3879660,2015-12-20,Juventus,6943,Andrea Barzagli,DEF,Leading,13,1,0,0,4,1
@@ -2312,17 +2312,17 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266670,2016-01-02,Barcelona,5503,Lionel Andrés Messi Cuccittini,FWD,Level,45,4,4,0.24276848,10,6
 266670,2016-01-02,Barcelona,5506,Javier Alejandro Mascherano,DEF,Level,59,11,0,0,9,3
 266670,2016-01-02,Barcelona,6379,Sergi Roberto Carnicer,MID,Level,13,0,0,0,8,1
-3879670,2016-01-06,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,5,0,0,0,4,1
-3879670,2016-01-06,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,23,2,2,0.17239868600000002,26,2
+3879670,2016-01-06,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,5,0,0,0,4,1
+3879670,2016-01-06,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,23,2,2,0.17239868600000002,26,2
 3879670,2016-01-06,Juventus,5248,José Martín Cáceres Silva,DEF,Level,2,1,0,0,1,0
 3879670,2016-01-06,Juventus,5248,José Martín Cáceres Silva,DEF,Leading,40,1,0,0,2,2
 3879670,2016-01-06,Juventus,5541,Stephan Lichtsteiner,DEF,Level,2,0,1,0.04232231,0,0
 3879670,2016-01-06,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,36,5,0,0,14,1
 3879670,2016-01-06,Juventus,5566,Sami Khedira,MID,Level,2,0,0,0,3,0
 3879670,2016-01-06,Juventus,5566,Sami Khedira,MID,Leading,21,1,0,0,26,0
-3879670,2016-01-06,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,2,1,1,0.051548745,2,0
-3879670,2016-01-06,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,40,6,2,0.032464086,21,7
-3879670,2016-01-06,Juventus,6584,Simone Zaza,MID,Leading,3,0,2,0.63791212,3,2
+3879670,2016-01-06,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,2,1,1,0.051548745,2,0
+3879670,2016-01-06,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,40,6,2,0.032464086,21,7
+3879670,2016-01-06,Juventus,6584,Simone Zaza,FWD,Leading,3,0,2,0.63791212,3,2
 3879670,2016-01-06,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,5,1,0,0,1,0
 3879670,2016-01-06,Juventus,6945,Alex Sandro Lobo Silva,DEF,Leading,42,8,1,0.029289983,26,4
 3879670,2016-01-06,Juventus,6949,Gianluigi Buffon,GK,Level,2,0,0,0,0,1
@@ -2386,16 +2386,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266620,2016-01-09,Barcelona,11094,Arda Turan,MID,Level,5,0,0,0,1,0
 266620,2016-01-09,Barcelona,11094,Arda Turan,MID,Leading,60,5,0,0,27,11
 266620,2016-01-09,Barcelona,22102,Adriano Correia Claro,MID,Leading,12,2,0,0,12,1
-3879684,2016-01-10,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,9,0,1,0.014233427,6,0
-3879684,2016-01-10,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,17,0,1,0.3088625,16,2
+3879684,2016-01-10,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,9,0,1,0.014233427,6,0
+3879684,2016-01-10,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,17,0,1,0.3088625,16,2
 3879684,2016-01-10,Juventus,5541,Stephan Lichtsteiner,DEF,Level,19,0,0,0,1,0
 3879684,2016-01-10,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,19,4,0,0,3,2
 3879684,2016-01-10,Juventus,5566,Sami Khedira,MID,Level,8,1,0,0,3,0
 3879684,2016-01-10,Juventus,5566,Sami Khedira,MID,Leading,25,2,2,0.5334110400000001,19,2
 3879684,2016-01-10,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,15,0,0,0,4,1
-3879684,2016-01-10,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,8,0,0,0,7,2
-3879684,2016-01-10,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,36,3,2,0.064064069,16,6
-3879684,2016-01-10,Juventus,6584,Simone Zaza,MID,Leading,4,0,0,0,2,0
+3879684,2016-01-10,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,8,0,0,0,7,2
+3879684,2016-01-10,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,36,3,2,0.064064069,16,6
+3879684,2016-01-10,Juventus,6584,Simone Zaza,FWD,Leading,4,0,0,0,2,0
 3879684,2016-01-10,Juventus,6949,Gianluigi Buffon,GK,Level,3,0,0,0,0,1
 3879684,2016-01-10,Juventus,6949,Gianluigi Buffon,GK,Leading,21,2,0,0,0,3
 3879684,2016-01-10,Juventus,6953,Daniele Rugani,DEF,Level,14,2,0,0,0,0
@@ -2404,7 +2404,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879684,2016-01-10,Juventus,6954,Giorgio Chiellini,DEF,Leading,55,8,0,0,12,2
 3879684,2016-01-10,Juventus,7173,Leonardo Bonucci,DEF,Level,24,7,0,0,0,0
 3879684,2016-01-10,Juventus,7173,Leonardo Bonucci,DEF,Leading,47,5,0,0,7,3
-3879684,2016-01-10,Juventus,7952,Simone Padoin,MID,Leading,1,0,0,0,0,0
+3879684,2016-01-10,Juventus,7952,Simone Padoin,FWD,Leading,1,0,0,0,0,0
 3879684,2016-01-10,Juventus,20004,Paul Pogba,MID,Level,6,2,2,0.131445844,5,2
 3879684,2016-01-10,Juventus,20004,Paul Pogba,MID,Leading,19,1,2,0.057541395999999995,13,6
 3879684,2016-01-10,Juventus,20008,Patrice Evra,DEF,Level,11,2,0,0,1,1
@@ -2564,8 +2564,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 265894,2016-01-23,Barcelona,11094,Arda Turan,MID,Level,9,3,0,0,6,2
 265894,2016-01-23,Barcelona,22102,Adriano Correia Claro,DEF,Level,22,2,1,0.03642713,3,2
 265894,2016-01-23,Barcelona,22102,Adriano Correia Claro,DEF,Leading,47,9,0,0,3,4
-3890415,2016-01-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,11,2,2,0.192446112,6,2
-3890415,2016-01-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Trailing,11,0,1,0.1930011,3,0
+3890415,2016-01-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,11,2,2,0.192446112,6,2
+3890415,2016-01-23,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Trailing,11,0,1,0.1930011,3,0
 3890415,2016-01-23,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,4,0,0,0,1,1
 3890415,2016-01-23,Bayer Leverkusen,5555,Julian Brandt,MID,Level,13,2,0,0,1,2
 3890415,2016-01-23,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Level,35,4,0,0,7,1
@@ -2587,8 +2587,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890415,2016-01-23,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,41,9,0,0,18,3
 3890415,2016-01-23,Bayer Leverkusen,8805,Christoph Kramer,MID,Trailing,28,7,0,0,10,3
 3890415,2016-01-23,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Level,6,2,0,0,2,0
-3890415,2016-01-23,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,12,0,3,0.228429933,9,0
-3890415,2016-01-23,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,12,1,0,0,7,1
+3890415,2016-01-23,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,12,0,3,0.228429933,9,0
+3890415,2016-01-23,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,12,1,0,0,7,1
 3890415,2016-01-23,Bayer Leverkusen,15581,Bernd Leno,GK,Level,7,1,0,0,0,2
 3890415,2016-01-23,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,12,1,0,0,0,4
 3900591,2016-01-23,Paris Saint-Germain,2995,Ángel Fabián Di María Hernández,FWD,Level,11,2,0,0,4,1
@@ -2640,16 +2640,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3754111,2016-01-24,Arsenal,6631,Mathieu Flamini,MID,Trailing,21,3,2,0.395456146,7,3
 3754111,2016-01-24,Arsenal,6746,Gabriel Armando de Abreu,FWD,Level,0,0,0,0,1,0
 3754111,2016-01-24,Arsenal,6746,Gabriel Armando de Abreu,FWD,Trailing,36,4,1,0.10731833,9,4
-3879701,2016-01-24,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,4,0,1,0.009433112,3,0
-3879701,2016-01-24,Juventus,5472,Mario Mandžukić,MID,Level,17,2,0,0,18,1
-3879701,2016-01-24,Juventus,5472,Mario Mandžukić,MID,Leading,5,0,0,0,2,0
+3879701,2016-01-24,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,4,0,1,0.009433112,3,0
+3879701,2016-01-24,Juventus,5472,Mario Mandžukić,FWD,Level,17,2,0,0,18,1
+3879701,2016-01-24,Juventus,5472,Mario Mandžukić,FWD,Leading,5,0,0,0,2,0
 3879701,2016-01-24,Juventus,5541,Stephan Lichtsteiner,DEF,Level,43,5,0,0,10,2
 3879701,2016-01-24,Juventus,5566,Sami Khedira,MID,Level,68,7,1,0.08307217,14,4
 3879701,2016-01-24,Juventus,5566,Sami Khedira,MID,Leading,6,0,0,0,2,1
 3879701,2016-01-24,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,13,2,1,0.00680807,1,1
 3879701,2016-01-24,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,8,0,0,0,2,3
-3879701,2016-01-24,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,65,4,4,0.285553748,14,2
-3879701,2016-01-24,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,2,1,0,0,1,0
+3879701,2016-01-24,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,65,4,4,0.285553748,14,2
+3879701,2016-01-24,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,2,1,0,0,1,0
 3879701,2016-01-24,Juventus,6943,Andrea Barzagli,DEF,Level,105,20,0,0,8,6
 3879701,2016-01-24,Juventus,6943,Andrea Barzagli,DEF,Leading,9,3,0,0,1,0
 3879701,2016-01-24,Juventus,6949,Gianluigi Buffon,GK,Level,15,0,0,0,0,2
@@ -2699,8 +2699,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 267576,2016-01-30,Barcelona,5506,Javier Alejandro Mascherano,DEF,Leading,34,11,0,0,9,2
 267576,2016-01-30,Barcelona,6379,Sergi Roberto Carnicer,DEF,Leading,11,2,0,0,0,0
 267576,2016-01-30,Barcelona,11094,Arda Turan,MID,Leading,27,2,1,0.070916675,6,1
-3890427,2016-01-30,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,9,0,0,0,1,0
-3890427,2016-01-30,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,16,0,2,1.15026598,4,3
+3890427,2016-01-30,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,9,0,0,0,1,0
+3890427,2016-01-30,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,16,0,2,1.15026598,4,3
 3890427,2016-01-30,Bayer Leverkusen,5555,Julian Brandt,MID,Leading,6,1,0,0,8,1
 3890427,2016-01-30,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Leading,5,1,0,0,0,0
 3890427,2016-01-30,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,37,4,3,0.078835985,5,3
@@ -2720,20 +2720,20 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890427,2016-01-30,Bayer Leverkusen,8805,Christoph Kramer,MID,Leading,15,0,0,0,16,3
 3890427,2016-01-30,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Level,41,6,1,0.017386993,6,1
 3890427,2016-01-30,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Leading,16,2,0,0,9,0
-3890427,2016-01-30,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,14,1,2,0.35582411999999997,8,0
-3890427,2016-01-30,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,15,0,0,0,7,5
+3890427,2016-01-30,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,14,1,2,0.35582411999999997,8,0
+3890427,2016-01-30,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,15,0,0,0,7,5
 3890427,2016-01-30,Bayer Leverkusen,15581,Bernd Leno,GK,Level,13,1,0,0,0,2
 3890427,2016-01-30,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,17,3,0,0,1,3
-3879713,2016-01-31,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,2,0,1,0.78636676,3,1
-3879713,2016-01-31,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,36,1,3,0.991460465,13,8
+3879713,2016-01-31,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,2,0,1,0.78636676,3,1
+3879713,2016-01-31,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,36,1,3,0.991460465,13,8
 3879713,2016-01-31,Juventus,5248,José Martín Cáceres Silva,DEF,Level,6,1,0,0,0,0
 3879713,2016-01-31,Juventus,5248,José Martín Cáceres Silva,DEF,Leading,77,3,0,0,7,1
 3879713,2016-01-31,Juventus,5541,Stephan Lichtsteiner,DEF,Level,6,2,0,0,1,0
 3879713,2016-01-31,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,54,4,1,0.021953752,4,5
 3879713,2016-01-31,Juventus,5566,Sami Khedira,MID,Level,1,0,0,0,1,0
 3879713,2016-01-31,Juventus,5566,Sami Khedira,MID,Leading,33,0,1,0.15960443,3,4
-3879713,2016-01-31,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,4,0,0,0,1,0
-3879713,2016-01-31,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,65,5,5,0.326994243,9,6
+3879713,2016-01-31,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,4,0,0,0,1,0
+3879713,2016-01-31,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,65,5,5,0.326994243,9,6
 3879713,2016-01-31,Juventus,6943,Andrea Barzagli,DEF,Level,7,1,0,0,1,0
 3879713,2016-01-31,Juventus,6943,Andrea Barzagli,DEF,Leading,69,11,0,0,9,3
 3879713,2016-01-31,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,6,0,1,0.027363248,1,2
@@ -2762,15 +2762,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3754201,2016-02-02,Arsenal,5581,Joel Nathaniel Campbell Samuels,FWD,Level,22,0,1,0.024272855,20,2
 3754201,2016-02-02,Arsenal,6631,Mathieu Flamini,MID,Level,37,4,0,0,15,2
 3754201,2016-02-02,Arsenal,6746,Gabriel Armando de Abreu,DEF,Level,55,6,0,0,9,2
-3879726,2016-02-03,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,15,1,0,0,5,3
-3879726,2016-02-03,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,7,0,1,0.008636189,2,0
+3879726,2016-02-03,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,15,1,0,0,5,3
+3879726,2016-02-03,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,7,0,1,0.008636189,2,0
 3879726,2016-02-03,Juventus,5248,José Martín Cáceres Silva,DEF,Level,10,1,0,0,3,1
 3879726,2016-02-03,Juventus,5248,José Martín Cáceres Silva,DEF,Leading,11,3,0,0,2,1
 3879726,2016-02-03,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,13,0,1,0.02664516,3,3
 3879726,2016-02-03,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,29,5,1,0.011238667,16,3
-3879726,2016-02-03,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,14,1,1,0.029471872,2,0
-3879726,2016-02-03,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,38,4,2,0.10834404,15,9
-3879726,2016-02-03,Juventus,6584,Simone Zaza,MID,Leading,13,0,1,0.2779264,10,4
+3879726,2016-02-03,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,14,1,1,0.029471872,2,0
+3879726,2016-02-03,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,38,4,2,0.10834404,15,9
+3879726,2016-02-03,Juventus,6584,Simone Zaza,FWD,Leading,13,0,1,0.2779264,10,4
 3879726,2016-02-03,Juventus,6943,Andrea Barzagli,DEF,Level,25,5,0,0,7,2
 3879726,2016-02-03,Juventus,6943,Andrea Barzagli,DEF,Leading,29,5,0,0,1,5
 3879726,2016-02-03,Juventus,6945,Alex Sandro Lobo Silva,DEF,Leading,31,2,0,0,11,2
@@ -2812,19 +2812,19 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3900618,2016-02-03,Paris Saint-Germain,8515,Benjamin Stambouli,MID,Leading,40,8,1,0.043340206,13,4
 3900618,2016-02-03,Paris Saint-Germain,34539,Hervin Scicchitano Ongenda,MID,Level,48,3,0,0,10,5
 3900618,2016-02-03,Paris Saint-Germain,34539,Hervin Scicchitano Ongenda,MID,Leading,42,3,0,0,14,2
-3890431,2016-02-06,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,13,2,1,0.01600688,12,2
-3890431,2016-02-06,Bayer Leverkusen,5555,Julian Brandt,MID,Level,6,0,1,0.041681718,11,0
+3890431,2016-02-06,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,13,2,1,0.01600688,12,2
+3890431,2016-02-06,Bayer Leverkusen,5555,Julian Brandt,FWD,Level,6,0,1,0.041681718,11,0
 3890431,2016-02-06,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Level,17,1,0,0,14,0
 3890431,2016-02-06,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,40,1,2,0.08181116,26,7
 3890431,2016-02-06,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,40,4,0,0,17,8
 3890431,2016-02-06,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,21,3,0,0,36,3
-3890431,2016-02-06,Bayer Leverkusen,8219,Admir Mehmedi,MID,Level,0,0,0,0,2,0
+3890431,2016-02-06,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Level,0,0,0,0,2,0
 3890431,2016-02-06,Bayer Leverkusen,8221,Jonathan Tah,DEF,Level,25,7,0,0,11,7
 3890431,2016-02-06,Bayer Leverkusen,8222,Kevin Kampl,MID,Level,29,5,0,0,22,6
 3890431,2016-02-06,Bayer Leverkusen,8573,Ömer Toprak,DEF,Level,29,5,1,0.045307864,14,7
 3890431,2016-02-06,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,28,2,1,0.10203516,34,5
 3890431,2016-02-06,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Level,9,4,0,0,16,1
-3890431,2016-02-06,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,24,1,0,0,31,6
+3890431,2016-02-06,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,24,1,0,0,31,6
 3890431,2016-02-06,Bayer Leverkusen,15581,Bernd Leno,GK,Level,35,17,0,0,1,10
 3754253,2016-02-07,Arsenal,3385,Alexis Alejandro Sánchez Sánchez,FWD,Level,10,2,1,0.06724642,1,1
 3754253,2016-02-07,Arsenal,3385,Alexis Alejandro Sánchez Sánchez,FWD,Leading,36,3,1,0.057645466,18,1
@@ -2875,14 +2875,14 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266160,2016-02-07,Barcelona,6379,Sergi Roberto Carnicer,MID,Level,14,1,0,0,4,0
 266160,2016-02-07,Barcelona,6379,Sergi Roberto Carnicer,MID,Leading,43,5,0,0,14,2
 266160,2016-02-07,Barcelona,6400,Aleix Vidal Parreu,DEF,Leading,25,4,0,0,0,1
-3879733,2016-02-07,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,27,1,3,0.43220731900000003,10,4
-3879733,2016-02-07,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,6,0,0,0,5,1
+3879733,2016-02-07,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,27,1,3,0.43220731900000003,10,4
+3879733,2016-02-07,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,6,0,0,0,5,1
 3879733,2016-02-07,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,5,1,1,0.06302089,3,1
 3879733,2016-02-07,Juventus,3579,Roberto Maximiliano Pereyra,MID,Leading,15,1,1,0.057501677,1,2
 3879733,2016-02-07,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,52,4,2,0.33010400500000003,8,5
 3879733,2016-02-07,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,11,1,2,0.11138982,1,1
-3879733,2016-02-07,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,28,2,4,0.185609001,8,4
-3879733,2016-02-07,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,10,1,1,0.20446068,3,1
+3879733,2016-02-07,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,28,2,4,0.185609001,8,4
+3879733,2016-02-07,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,10,1,1,0.20446068,3,1
 3879733,2016-02-07,Juventus,6943,Andrea Barzagli,DEF,Level,48,5,0,0,8,5
 3879733,2016-02-07,Juventus,6943,Andrea Barzagli,DEF,Leading,17,1,0,0,2,2
 3879733,2016-02-07,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,58,7,1,0.009805575,13,9
@@ -2925,9 +2925,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3900629,2016-02-07,Paris Saint-Germain,8515,Benjamin Stambouli,MID,Leading,3,0,0,0,1,0
 3900629,2016-02-07,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Level,40,5,0,0,2,1
 3900629,2016-02-07,Paris Saint-Germain,26613,Maxwell Scherrer Cabelino Andrade,DEF,Leading,18,2,1,0.022993432,4,1
-3890444,2016-02-13,Bayer Leverkusen,5555,Julian Brandt,MID,Level,19,2,1,0.74151444,9,3
-3890444,2016-02-13,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,11,1,0,0,6,2
-3890444,2016-02-13,Bayer Leverkusen,5555,Julian Brandt,MID,Leading,1,0,0,0,0,0
+3890444,2016-02-13,Bayer Leverkusen,5555,Julian Brandt,FWD,Level,19,2,1,0.74151444,9,3
+3890444,2016-02-13,Bayer Leverkusen,5555,Julian Brandt,FWD,Trailing,11,1,0,0,6,2
+3890444,2016-02-13,Bayer Leverkusen,5555,Julian Brandt,FWD,Leading,1,0,0,0,0,0
 3890444,2016-02-13,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Level,13,4,0,0,8,0
 3890444,2016-02-13,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Trailing,18,4,0,0,7,1
 3890444,2016-02-13,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Leading,5,1,0,0,2,0
@@ -2953,29 +2953,29 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890444,2016-02-13,Bayer Leverkusen,8573,Ömer Toprak,DEF,Level,26,3,0,0,6,2
 3890444,2016-02-13,Bayer Leverkusen,8573,Ömer Toprak,DEF,Trailing,29,6,0,0,2,5
 3890444,2016-02-13,Bayer Leverkusen,8573,Ömer Toprak,DEF,Leading,3,1,0,0,0,0
-3890444,2016-02-13,Bayer Leverkusen,9363,André Ramalho Silva,MID,Leading,4,0,0,0,6,0
-3890444,2016-02-13,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,15,0,0,0,4,1
-3890444,2016-02-13,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,10,0,0,0,0,2
-3890444,2016-02-13,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,2,0,0,0,1,1
+3890444,2016-02-13,Bayer Leverkusen,9363,André Ramalho Silva,FWD,Leading,4,0,0,0,6,0
+3890444,2016-02-13,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,15,0,0,0,4,1
+3890444,2016-02-13,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,10,0,0,0,0,2
+3890444,2016-02-13,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,2,0,0,0,1,1
 3890444,2016-02-13,Bayer Leverkusen,15581,Bernd Leno,GK,Level,13,3,0,0,0,1
 3890444,2016-02-13,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,6,1,0,0,0,1
 3890444,2016-02-13,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,5,1,0,0,0,0
 3890444,2016-02-13,Bayer Leverkusen,21168,Marlon Frey,MID,Level,13,3,0,0,7,1
 3890444,2016-02-13,Bayer Leverkusen,21168,Marlon Frey,MID,Trailing,9,1,2,0.052274561,4,2
-3879739,2016-02-13,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,17,0,0,0,24,0
+3879739,2016-02-13,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,17,0,0,0,24,0
 3879739,2016-02-13,Juventus,5541,Stephan Lichtsteiner,DEF,Level,59,12,0,0,3,3
 3879739,2016-02-13,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,0,0,0,0,0,0
 3879739,2016-02-13,Juventus,5566,Sami Khedira,MID,Level,54,4,0,0,11,7
 3879739,2016-02-13,Juventus,5566,Sami Khedira,MID,Leading,2,0,0,0,1,0
 3879739,2016-02-13,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Level,43,3,1,0.009867013,15,4
 3879739,2016-02-13,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Leading,2,0,0,0,0,0
-3879739,2016-02-13,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,29,3,3,0.23463831000000002,23,3
-3879739,2016-02-13,Juventus,6584,Simone Zaza,MID,Level,7,0,1,0.03851083,8,0
-3879739,2016-02-13,Juventus,6584,Simone Zaza,MID,Leading,3,0,0,0,1,0
+3879739,2016-02-13,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,29,3,3,0.23463831000000002,23,3
+3879739,2016-02-13,Juventus,6584,Simone Zaza,FWD,Level,7,0,1,0.03851083,8,0
+3879739,2016-02-13,Juventus,6584,Simone Zaza,FWD,Leading,3,0,0,0,1,0
 3879739,2016-02-13,Juventus,6943,Andrea Barzagli,DEF,Level,49,5,0,0,5,5
 3879739,2016-02-13,Juventus,6943,Andrea Barzagli,DEF,Leading,1,0,0,0,0,0
-3879739,2016-02-13,Juventus,6945,Alex Sandro Lobo Silva,MID,Level,1,0,0,0,0,0
-3879739,2016-02-13,Juventus,6945,Alex Sandro Lobo Silva,MID,Leading,2,0,0,0,0,0
+3879739,2016-02-13,Juventus,6945,Alex Sandro Lobo Silva,FWD,Level,1,0,0,0,0,0
+3879739,2016-02-13,Juventus,6945,Alex Sandro Lobo Silva,FWD,Leading,2,0,0,0,0,0
 3879739,2016-02-13,Juventus,6949,Gianluigi Buffon,GK,Level,28,2,0,0,0,5
 3879739,2016-02-13,Juventus,6949,Gianluigi Buffon,GK,Leading,1,0,0,0,0,0
 3879739,2016-02-13,Juventus,6953,Daniele Rugani,DEF,Level,17,3,0,0,4,1
@@ -3080,12 +3080,12 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266815,2016-02-17,Barcelona,11094,Arda Turan,MID,Leading,54,8,1,0.12053762,13,9
 266815,2016-02-17,Barcelona,22102,Adriano Correia Claro,DEF,Level,38,3,0,0,2,1
 266815,2016-02-17,Barcelona,22102,Adriano Correia Claro,DEF,Leading,50,4,0,0,3,3
-3879747,2016-02-19,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,42,2,1,0.07077414,17,2
+3879747,2016-02-19,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,42,2,1,0.07077414,17,2
 3879747,2016-02-19,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,18,0,0,0,4,0
 3879747,2016-02-19,Juventus,5541,Stephan Lichtsteiner,DEF,Level,67,14,0,0,12,4
 3879747,2016-02-19,Juventus,5689,Juan Guillermo Cuadrado Bello,MID,Level,29,3,0,0,6,4
-3879747,2016-02-19,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,13,1,1,0.027625255,5,2
-3879747,2016-02-19,Juventus,6584,Simone Zaza,MID,Level,13,1,0,0,12,3
+3879747,2016-02-19,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,13,1,1,0.027625255,5,2
+3879747,2016-02-19,Juventus,6584,Simone Zaza,FWD,Level,13,1,0,0,12,3
 3879747,2016-02-19,Juventus,6943,Andrea Barzagli,DEF,Level,79,13,0,0,4,3
 3879747,2016-02-19,Juventus,6949,Gianluigi Buffon,GK,Level,21,0,0,0,0,3
 3879747,2016-02-19,Juventus,7013,Stefano Sturaro,MID,Level,44,3,1,0.08198095,20,8
@@ -3143,8 +3143,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3901146,2016-02-20,Paris Saint-Germain,4440,Kevin Trapp,GK,Leading,20,0,0,0,0,3
 3901146,2016-02-20,Paris Saint-Germain,20048,Gregory van der Wiel,DEF,Level,14,1,1,0.12146763,4,3
 3901146,2016-02-20,Paris Saint-Germain,20048,Gregory van der Wiel,DEF,Leading,72,3,2,0.062171163,11,4
-3890456,2016-02-21,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,15,0,0,0,13,2
-3890456,2016-02-21,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Trailing,5,2,3,0.2072547495,2,1
+3890456,2016-02-21,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,15,0,0,0,13,2
+3890456,2016-02-21,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Trailing,5,2,3,0.2072547495,2,1
 3890456,2016-02-21,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Level,31,4,0,0,7,3
 3890456,2016-02-21,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,32,3,0,0,7,2
 3890456,2016-02-21,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Trailing,22,3,0,0,8,4
@@ -3164,8 +3164,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890456,2016-02-21,Bayer Leverkusen,8918,Roberto Hilbert,DEF,Trailing,16,3,0,0,5,0
 3890456,2016-02-21,Bayer Leverkusen,9363,André Ramalho Silva,MID,Level,10,2,0,0,8,2
 3890456,2016-02-21,Bayer Leverkusen,9363,André Ramalho Silva,MID,Trailing,23,2,0,0,3,0
-3890456,2016-02-21,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,18,0,0,0,19,1
-3890456,2016-02-21,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,3,1,1,0.054687224,2,0
+3890456,2016-02-21,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,18,0,0,0,19,1
+3890456,2016-02-21,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,3,1,1,0.054687224,2,0
 3890456,2016-02-21,Bayer Leverkusen,15581,Bernd Leno,GK,Level,38,6,0,0,0,7
 3890456,2016-02-21,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,7,1,0,0,0,1
 3754239,2016-02-28,Arsenal,3385,Alexis Alejandro Sánchez Sánchez,FWD,Level,10,1,1,0.047879342,0,2
@@ -3254,15 +3254,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890463,2016-02-28,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Trailing,65,6,0,0,16,9
 3890463,2016-02-28,Bayer Leverkusen,15581,Bernd Leno,GK,Level,2,1,0,0,0,1
 3890463,2016-02-28,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,28,1,0,0,1,3
-3879759,2016-02-28,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,4,0,1,0.7835,4,0
-3879759,2016-02-28,Juventus,5472,Mario Mandžukić,MID,Level,10,0,2,0.12807431,13,3
-3879759,2016-02-28,Juventus,5472,Mario Mandžukić,MID,Leading,9,1,0,0,22,2
+3879759,2016-02-28,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,4,0,1,0.7835,4,0
+3879759,2016-02-28,Juventus,5472,Mario Mandžukić,FWD,Level,10,0,2,0.12807431,13,3
+3879759,2016-02-28,Juventus,5472,Mario Mandžukić,FWD,Leading,9,1,0,0,22,2
 3879759,2016-02-28,Juventus,5541,Stephan Lichtsteiner,DEF,Level,28,5,0,0,10,6
 3879759,2016-02-28,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,21,1,0,0,8,1
 3879759,2016-02-28,Juventus,5566,Sami Khedira,MID,Level,27,7,0,0,5,3
 3879759,2016-02-28,Juventus,5566,Sami Khedira,MID,Leading,16,2,0,0,4,1
-3879759,2016-02-28,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,15,4,1,0.747586,15,4
-3879759,2016-02-28,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,18,0,1,0.090407744,10,3
+3879759,2016-02-28,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,15,4,1,0.747586,15,4
+3879759,2016-02-28,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,18,0,1,0.090407744,10,3
 3879759,2016-02-28,Juventus,6943,Andrea Barzagli,DEF,Level,34,4,0,0,4,2
 3879759,2016-02-28,Juventus,6943,Andrea Barzagli,DEF,Leading,23,3,0,0,1,1
 3879759,2016-02-28,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,21,0,0,0,3,4
@@ -3424,8 +3424,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3754318,2016-03-05,Arsenal,6746,Gabriel Armando de Abreu,DEF,Level,8,1,0,0,5,1
 3754318,2016-03-05,Arsenal,6746,Gabriel Armando de Abreu,DEF,Leading,3,0,0,0,2,1
 3754318,2016-03-05,Arsenal,6746,Gabriel Armando de Abreu,DEF,Trailing,1,0,0,0,3,2
-3890477,2016-03-05,Bayer Leverkusen,5494,Robbie Kruse,MID,Level,2,0,0,0,3,1
-3890477,2016-03-05,Bayer Leverkusen,5494,Robbie Kruse,MID,Trailing,28,0,1,0.046966948,14,2
+3890477,2016-03-05,Bayer Leverkusen,5494,Robbie Kruse,FWD,Level,2,0,0,0,3,1
+3890477,2016-03-05,Bayer Leverkusen,5494,Robbie Kruse,FWD,Trailing,28,0,1,0.046966948,14,2
 3890477,2016-03-05,Bayer Leverkusen,5555,Julian Brandt,MID,Level,2,1,0,0,3,0
 3890477,2016-03-05,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,47,1,1,0.023779813,17,7
 3890477,2016-03-05,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Level,1,0,0,0,1,0
@@ -3434,8 +3434,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890477,2016-03-05,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Trailing,69,13,5,0.8921903179999999,16,6
 3890477,2016-03-05,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,8,0,0,0,1,1
 3890477,2016-03-05,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Trailing,58,5,1,0.011445688,14,6
-3890477,2016-03-05,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,4,0,0,0,2,0
-3890477,2016-03-05,Bayer Leverkusen,8213,Karim Bellarabi,MID,Trailing,33,1,3,0.095520296,13,6
+3890477,2016-03-05,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Level,4,0,0,0,2,0
+3890477,2016-03-05,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Trailing,33,1,3,0.095520296,13,6
 3890477,2016-03-05,Bayer Leverkusen,8219,Admir Mehmedi,MID,Level,1,0,0,0,2,0
 3890477,2016-03-05,Bayer Leverkusen,8219,Admir Mehmedi,MID,Trailing,37,11,3,0.28412940200000003,14,5
 3890477,2016-03-05,Bayer Leverkusen,8805,Christoph Kramer,MID,Level,6,0,0,0,0,1
@@ -3447,7 +3447,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890477,2016-03-05,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Level,4,0,0,0,0,0
 3890477,2016-03-05,Bayer Leverkusen,20415,Sebastian Boenisch,DEF,Trailing,81,13,3,0.040927475500000005,9,11
 3890477,2016-03-05,Bayer Leverkusen,21168,Marlon Frey,DEF,Trailing,9,3,1,0.13722506,3,2
-3890477,2016-03-05,Bayer Leverkusen,24428,Vladlen Yurchenko,MID,Trailing,2,0,0,0,2,0
+3890477,2016-03-05,Bayer Leverkusen,24428,Vladlen Yurchenko,FWD,Trailing,2,0,0,0,2,0
 3901166,2016-03-05,Paris Saint-Germain,2995,Ángel Fabián Di María Hernández,FWD,Level,38,3,3,0.023674359,7,7
 3901166,2016-03-05,Paris Saint-Germain,2999,Presnel Kimpembe,DEF,Level,90,10,0,0,12,6
 3901166,2016-03-05,Paris Saint-Germain,3025,Christopher Nkunku,MID,Level,34,1,0,0,22,5
@@ -3487,18 +3487,18 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266056,2016-03-06,Barcelona,7068,Marc Bartra Aregall,DEF,Leading,9,1,0,0,0,0
 266056,2016-03-06,Barcelona,11094,Arda Turan,MID,Level,4,0,0,0,0,0
 266056,2016-03-06,Barcelona,11094,Arda Turan,MID,Leading,57,7,0,0,12,7
-3879770,2016-03-06,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,1,0,0,0,4,0
+3879770,2016-03-06,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,1,0,0,0,4,0
 3879770,2016-03-06,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,13,1,0,0,3,1
 3879770,2016-03-06,Juventus,3579,Roberto Maximiliano Pereyra,MID,Leading,26,1,0,0,14,4
 3879770,2016-03-06,Juventus,3951,Mario Lemina,MID,Leading,8,0,1,0.120557904,5,1
-3879770,2016-03-06,Juventus,5472,Mario Mandžukić,MID,Level,6,0,0,0,3,0
-3879770,2016-03-06,Juventus,5472,Mario Mandžukić,MID,Leading,34,0,1,0.128111,10,3
+3879770,2016-03-06,Juventus,5472,Mario Mandžukić,FWD,Level,6,0,0,0,3,0
+3879770,2016-03-06,Juventus,5472,Mario Mandžukić,FWD,Leading,34,0,1,0.128111,10,3
 3879770,2016-03-06,Juventus,5541,Stephan Lichtsteiner,DEF,Level,25,1,0,0,2,1
 3879770,2016-03-06,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,35,3,0,0,6,1
 3879770,2016-03-06,Juventus,5566,Sami Khedira,MID,Level,24,1,1,0.20765828,4,5
 3879770,2016-03-06,Juventus,5566,Sami Khedira,MID,Leading,17,1,0,0,7,3
-3879770,2016-03-06,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,15,1,0,0,2,1
-3879770,2016-03-06,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,26,3,0,0,8,5
+3879770,2016-03-06,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,15,1,0,0,2,1
+3879770,2016-03-06,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,26,3,0,0,8,5
 3879770,2016-03-06,Juventus,6943,Andrea Barzagli,DEF,Level,19,0,1,0.55696446,0,1
 3879770,2016-03-06,Juventus,6943,Andrea Barzagli,DEF,Leading,23,3,0,0,7,1
 3879770,2016-03-06,Juventus,6945,Alex Sandro Lobo Silva,MID,Leading,4,0,0,0,4,1
@@ -3512,16 +3512,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879770,2016-03-06,Juventus,20004,Paul Pogba,MID,Leading,31,2,2,0.08607488199999999,12,3
 3879770,2016-03-06,Juventus,20008,Patrice Evra,DEF,Level,22,4,0,0,3,0
 3879770,2016-03-06,Juventus,20008,Patrice Evra,DEF,Leading,40,6,0,0,8,3
-3879777,2016-03-11,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,2,0,1,0.011003339,3,2
-3879777,2016-03-11,Juventus,5472,Mario Mandžukić,MID,Level,8,0,1,0.03557394,7,0
-3879777,2016-03-11,Juventus,5472,Mario Mandžukić,MID,Leading,11,1,0,0,18,0
-3879777,2016-03-11,Juventus,5541,Stephan Lichtsteiner,MID,Leading,2,1,0,0,1,0
+3879777,2016-03-11,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,2,0,1,0.011003339,3,2
+3879777,2016-03-11,Juventus,5472,Mario Mandžukić,FWD,Level,8,0,1,0.03557394,7,0
+3879777,2016-03-11,Juventus,5472,Mario Mandžukić,FWD,Leading,11,1,0,0,18,0
+3879777,2016-03-11,Juventus,5541,Stephan Lichtsteiner,FWD,Leading,2,1,0,0,1,0
 3879777,2016-03-11,Juventus,5566,Sami Khedira,MID,Level,11,0,1,0.593609,9,2
 3879777,2016-03-11,Juventus,5566,Sami Khedira,MID,Leading,17,1,0,0,7,0
 3879777,2016-03-11,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,25,1,1,0.01558258,10,3
 3879777,2016-03-11,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,25,1,1,0.14522803,10,5
-3879777,2016-03-11,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,19,1,3,0.09699145099999999,11,2
-3879777,2016-03-11,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,25,4,0,0,15,2
+3879777,2016-03-11,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,19,1,3,0.09699145099999999,11,2
+3879777,2016-03-11,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,25,4,0,0,15,2
 3879777,2016-03-11,Juventus,6940,Kwadwo Asamoah,MID,Level,10,1,0,0,5,0
 3879777,2016-03-11,Juventus,6940,Kwadwo Asamoah,MID,Leading,20,1,1,0.02911836,10,4
 3879777,2016-03-11,Juventus,6943,Andrea Barzagli,DEF,Level,21,2,0,0,3,1
@@ -3582,7 +3582,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890492,2016-03-13,Bayer Leverkusen,8573,Ömer Toprak,DEF,Level,7,1,1,0.06792297,2,0
 3890492,2016-03-13,Bayer Leverkusen,8573,Ömer Toprak,DEF,Leading,15,5,0,0,7,3
 3890492,2016-03-13,Bayer Leverkusen,9363,André Ramalho Silva,MID,Leading,5,0,0,0,9,1
-3890492,2016-03-13,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,10,0,1,0.22589982,10,3
+3890492,2016-03-13,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,10,0,1,0.22589982,10,3
 3890492,2016-03-13,Bayer Leverkusen,15581,Bernd Leno,GK,Level,7,0,0,0,0,0
 3890492,2016-03-13,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,13,1,0,0,0,3
 3890492,2016-03-13,Bayer Leverkusen,21168,Marlon Frey,MID,Level,6,2,1,0.022277497,2,1
@@ -3663,8 +3663,8 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266106,2016-03-20,Barcelona,10609,Jérémy Mathieu,DEF,Level,21,5,1,0.1395904,4,0
 266106,2016-03-20,Barcelona,11094,Arda Turan,MID,Level,9,0,0,0,4,3
 266106,2016-03-20,Barcelona,11094,Arda Turan,MID,Leading,32,1,0,0,6,5
-3890500,2016-03-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,3,1,1,0.1785038,1,0
-3890500,2016-03-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,24,1,1,0.06371949,4,1
+3890500,2016-03-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,3,1,1,0.1785038,1,0
+3890500,2016-03-20,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,24,1,1,0.06371949,4,1
 3890500,2016-03-20,Bayer Leverkusen,5494,Robbie Kruse,MID,Leading,11,0,1,0.049361236,6,3
 3890500,2016-03-20,Bayer Leverkusen,5555,Julian Brandt,MID,Level,7,0,1,0.10795968,1,0
 3890500,2016-03-20,Bayer Leverkusen,5555,Julian Brandt,MID,Leading,36,3,3,0.746205833,8,5
@@ -3681,25 +3681,25 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890500,2016-03-20,Bayer Leverkusen,8805,Christoph Kramer,MID,Leading,35,4,0,0,18,11
 3890500,2016-03-20,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Level,8,1,0,0,1,0
 3890500,2016-03-20,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Leading,30,2,0,0,9,5
-3890500,2016-03-20,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,7,0,0,0,3,0
-3890500,2016-03-20,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,29,1,2,0.58254029,11,3
+3890500,2016-03-20,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,7,0,0,0,3,0
+3890500,2016-03-20,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,29,1,2,0.58254029,11,3
 3890500,2016-03-20,Bayer Leverkusen,15581,Bernd Leno,GK,Level,4,0,0,0,0,1
 3890500,2016-03-20,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,31,10,0,0,0,0
 3890500,2016-03-20,Bayer Leverkusen,21168,Marlon Frey,MID,Leading,6,1,0,0,0,2
 3890500,2016-03-20,Bayer Leverkusen,24428,Vladlen Yurchenko,MID,Level,6,1,0,0,2,0
 3890500,2016-03-20,Bayer Leverkusen,24428,Vladlen Yurchenko,MID,Leading,32,6,2,0.137465433,15,1
-3879790,2016-03-20,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,19,0,3,0.7256466600000001,18,3
+3879790,2016-03-20,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,19,0,3,0.7256466600000001,18,3
 3879790,2016-03-20,Juventus,3951,Mario Lemina,MID,Level,23,2,0,0,6,2
 3879790,2016-03-20,Juventus,3951,Mario Lemina,MID,Leading,35,7,0,0,12,2
-3879790,2016-03-20,Juventus,5472,Mario Mandžukić,MID,Level,6,0,1,0.06531587,6,1
-3879790,2016-03-20,Juventus,5472,Mario Mandžukić,MID,Leading,18,0,0,0,5,1
+3879790,2016-03-20,Juventus,5472,Mario Mandžukić,FWD,Level,6,0,1,0.06531587,6,1
+3879790,2016-03-20,Juventus,5472,Mario Mandžukić,FWD,Leading,18,0,0,0,5,1
 3879790,2016-03-20,Juventus,5541,Stephan Lichtsteiner,DEF,Level,16,0,0,0,2,1
 3879790,2016-03-20,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,10,5,1,0.023359798,3,0
 3879790,2016-03-20,Juventus,5566,Sami Khedira,MID,Level,16,2,1,0.01674947,6,0
 3879790,2016-03-20,Juventus,5566,Sami Khedira,MID,Leading,22,1,1,0.25975856,8,2
 3879790,2016-03-20,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,23,0,0,0,8,2
-3879790,2016-03-20,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,20,5,2,0.071871238,8,3
-3879790,2016-03-20,Juventus,6584,Simone Zaza,MID,Leading,4,1,0,0,2,0
+3879790,2016-03-20,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,20,5,2,0.071871238,8,3
+3879790,2016-03-20,Juventus,6584,Simone Zaza,FWD,Leading,4,1,0,0,2,0
 3879790,2016-03-20,Juventus,6943,Andrea Barzagli,DEF,Level,23,3,0,0,0,2
 3879790,2016-03-20,Juventus,6943,Andrea Barzagli,DEF,Leading,29,10,0,0,4,6
 3879790,2016-03-20,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,16,1,0,0,5,3
@@ -3744,7 +3744,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890502,2016-04-01,Bayer Leverkusen,6309,Tin Jedvaj,DEF,Leading,20,4,0,0,7,1
 3890502,2016-04-01,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,22,3,0,0,6,3
 3890502,2016-04-01,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Leading,21,2,2,0.082585913,7,1
-3890502,2016-04-01,Bayer Leverkusen,8210,Charles Mariano Aránguiz Sandoval,MID,Leading,2,0,0,0,3,1
+3890502,2016-04-01,Bayer Leverkusen,8210,Charles Mariano Aránguiz Sandoval,FWD,Leading,2,0,0,0,3,1
 3890502,2016-04-01,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Level,28,0,0,0,5,5
 3890502,2016-04-01,Bayer Leverkusen,8212,Wendell Nascimento Borges,DEF,Leading,31,5,1,0.0646687,12,6
 3890502,2016-04-01,Bayer Leverkusen,8213,Karim Bellarabi,FWD,Level,5,1,3,0.07570481300000001,10,1
@@ -3820,16 +3820,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 267533,2016-04-02,Barcelona,5506,Javier Alejandro Mascherano,DEF,Trailing,7,0,0,0,0,0
 267533,2016-04-02,Barcelona,11094,Arda Turan,MID,Level,6,1,0,0,3,0
 267533,2016-04-02,Barcelona,11094,Arda Turan,MID,Trailing,3,1,1,0.11549341,0,2
-3879798,2016-04-02,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,17,2,4,0.11284821,10,1
-3879798,2016-04-02,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,8,1,2,0.11392006600000001,11,3
+3879798,2016-04-02,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,17,2,4,0.11284821,10,1
+3879798,2016-04-02,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,8,1,2,0.11392006600000001,11,3
 3879798,2016-04-02,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,18,1,1,0.036193214,8,6
 3879798,2016-04-02,Juventus,3579,Roberto Maximiliano Pereyra,MID,Leading,9,1,0,0,3,2
-3879798,2016-04-02,Juventus,5472,Mario Mandžukić,MID,Level,7,0,2,0.42237734000000005,6,1
-3879798,2016-04-02,Juventus,5472,Mario Mandžukić,MID,Leading,5,0,0,0,3,0
+3879798,2016-04-02,Juventus,5472,Mario Mandžukić,FWD,Level,7,0,2,0.42237734000000005,6,1
+3879798,2016-04-02,Juventus,5472,Mario Mandžukić,FWD,Leading,5,0,0,0,3,0
 3879798,2016-04-02,Juventus,5541,Stephan Lichtsteiner,DEF,Level,25,6,2,0.069607923,6,2
 3879798,2016-04-02,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,31,5,0,0,4,0
 3879798,2016-04-02,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,21,3,0,0,2,3
-3879798,2016-04-02,Juventus,6584,Simone Zaza,MID,Leading,5,1,2,0.168433842,7,3
+3879798,2016-04-02,Juventus,6584,Simone Zaza,FWD,Leading,5,1,2,0.168433842,7,3
 3879798,2016-04-02,Juventus,6940,Kwadwo Asamoah,MID,Leading,7,1,2,0.710350934,2,6
 3879798,2016-04-02,Juventus,6943,Andrea Barzagli,DEF,Level,23,6,0,0,3,1
 3879798,2016-04-02,Juventus,6943,Andrea Barzagli,DEF,Leading,22,1,0,0,3,1
@@ -3933,17 +3933,17 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266664,2016-04-09,Barcelona,6998,Rafael Alcântara do Nascimento,MID,Trailing,35,0,0,0,10,4
 266664,2016-04-09,Barcelona,11094,Arda Turan,MID,Level,3,0,0,0,1,0
 266664,2016-04-09,Barcelona,11094,Arda Turan,MID,Trailing,49,7,1,0.14068289,5,3
-3879810,2016-04-09,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,15,1,0,0,9,0
-3879810,2016-04-09,Juventus,3477,Álvaro Borja Morata Martín,MID,Trailing,3,0,0,0,1,0
-3879810,2016-04-09,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,0,0,0,0,0,0
-3879810,2016-04-09,Juventus,5472,Mario Mandžukić,MID,Level,12,0,1,0.046575427,13,0
-3879810,2016-04-09,Juventus,5472,Mario Mandžukić,MID,Trailing,3,0,1,0.35479155,1,0
-3879810,2016-04-09,Juventus,5472,Mario Mandžukić,MID,Leading,7,1,0,0,4,3
+3879810,2016-04-09,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,15,1,0,0,9,0
+3879810,2016-04-09,Juventus,3477,Álvaro Borja Morata Martín,FWD,Trailing,3,0,0,0,1,0
+3879810,2016-04-09,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,0,0,0,0,0,0
+3879810,2016-04-09,Juventus,5472,Mario Mandžukić,FWD,Level,12,0,1,0.046575427,13,0
+3879810,2016-04-09,Juventus,5472,Mario Mandžukić,FWD,Trailing,3,0,1,0.35479155,1,0
+3879810,2016-04-09,Juventus,5472,Mario Mandžukić,FWD,Leading,7,1,0,0,4,3
 3879810,2016-04-09,Juventus,5541,Stephan Lichtsteiner,DEF,Level,18,3,1,0.065577075,9,2
 3879810,2016-04-09,Juventus,5541,Stephan Lichtsteiner,DEF,Trailing,4,1,1,0.13787723,0,1
 3879810,2016-04-09,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,7,1,0,0,1,1
 3879810,2016-04-09,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,10,1,0,0,3,3
-3879810,2016-04-09,Juventus,6584,Simone Zaza,MID,Leading,7,0,0,0,8,1
+3879810,2016-04-09,Juventus,6584,Simone Zaza,FWD,Leading,7,0,0,0,8,1
 3879810,2016-04-09,Juventus,6940,Kwadwo Asamoah,MID,Level,23,3,1,0.023359291,2,3
 3879810,2016-04-09,Juventus,6940,Kwadwo Asamoah,MID,Trailing,5,1,1,0.02360792,1,1
 3879810,2016-04-09,Juventus,6940,Kwadwo Asamoah,MID,Leading,18,0,0,0,0,3
@@ -4117,16 +4117,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266557,2016-04-17,Barcelona,5506,Javier Alejandro Mascherano,DEF,Trailing,53,22,0,0,14,6
 266557,2016-04-17,Barcelona,6379,Sergi Roberto Carnicer,DEF,Level,26,1,2,0.056565826,4,0
 266557,2016-04-17,Barcelona,6379,Sergi Roberto Carnicer,DEF,Trailing,62,4,0,0,5,6
-3879820,2016-04-17,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,11,1,2,0.104138167,3,1
+3879820,2016-04-17,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,11,1,2,0.104138167,3,1
 3879820,2016-04-17,Juventus,3951,Mario Lemina,MID,Leading,56,7,1,0.0073237633,13,5
-3879820,2016-04-17,Juventus,5472,Mario Mandžukić,MID,Level,6,0,0,0,1,1
-3879820,2016-04-17,Juventus,5472,Mario Mandžukić,MID,Leading,15,0,1,0.22098112,13,1
+3879820,2016-04-17,Juventus,5472,Mario Mandžukić,FWD,Level,6,0,0,0,1,1
+3879820,2016-04-17,Juventus,5472,Mario Mandžukić,FWD,Leading,15,0,1,0.22098112,13,1
 3879820,2016-04-17,Juventus,5566,Sami Khedira,MID,Level,8,0,3,0.154850707,3,2
 3879820,2016-04-17,Juventus,5566,Sami Khedira,MID,Leading,22,3,0,0,14,2
 3879820,2016-04-17,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,9,1,0,0,1,2
 3879820,2016-04-17,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,56,2,1,0.15825081,13,3
-3879820,2016-04-17,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,7,1,1,0.06432921,0,1
-3879820,2016-04-17,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,35,6,1,0.10029767,18,4
+3879820,2016-04-17,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,7,1,1,0.06432921,0,1
+3879820,2016-04-17,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,35,6,1,0.10029767,18,4
 3879820,2016-04-17,Juventus,6943,Andrea Barzagli,DEF,Level,10,4,0,0,0,0
 3879820,2016-04-17,Juventus,6943,Andrea Barzagli,DEF,Leading,55,12,0,0,7,1
 3879820,2016-04-17,Juventus,6949,Gianluigi Buffon,GK,Level,2,0,0,0,0,0
@@ -4167,15 +4167,15 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 266310,2016-04-20,Barcelona,7068,Marc Bartra Aregall,DEF,Level,10,1,0,0,3,0
 266310,2016-04-20,Barcelona,7068,Marc Bartra Aregall,DEF,Leading,44,7,1,0.26879427,4,2
 266310,2016-04-20,Barcelona,22102,Adriano Correia Claro,DEF,Leading,20,3,0,0,5,0
-3879833,2016-04-20,Juventus,5472,Mario Mandžukić,MID,Level,8,0,1,0.7021493,7,0
-3879833,2016-04-20,Juventus,5472,Mario Mandžukić,MID,Leading,16,2,0,0,10,2
+3879833,2016-04-20,Juventus,5472,Mario Mandžukić,FWD,Level,8,0,1,0.7021493,7,0
+3879833,2016-04-20,Juventus,5472,Mario Mandžukić,FWD,Leading,16,2,0,0,10,2
 3879833,2016-04-20,Juventus,5541,Stephan Lichtsteiner,DEF,Level,22,3,0,0,2,3
 3879833,2016-04-20,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,26,2,0,0,2,1
 3879833,2016-04-20,Juventus,5566,Sami Khedira,MID,Level,19,3,1,0.03210142,3,2
 3879833,2016-04-20,Juventus,5566,Sami Khedira,MID,Leading,14,0,0,0,2,1
-3879833,2016-04-20,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,24,4,3,0.5590003109999999,5,2
-3879833,2016-04-20,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,21,3,3,1.312670651,7,2
-3879833,2016-04-20,Juventus,6584,Simone Zaza,MID,Leading,5,2,2,0.104152304,1,0
+3879833,2016-04-20,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,24,4,3,0.5590003109999999,5,2
+3879833,2016-04-20,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,21,3,3,1.312670651,7,2
+3879833,2016-04-20,Juventus,6584,Simone Zaza,FWD,Leading,5,2,2,0.104152304,1,0
 3879833,2016-04-20,Juventus,6940,Kwadwo Asamoah,MID,Leading,7,1,0,0,0,1
 3879833,2016-04-20,Juventus,6943,Andrea Barzagli,DEF,Level,16,1,0,0,3,1
 3879833,2016-04-20,Juventus,6943,Andrea Barzagli,DEF,Leading,55,5,0,0,3,2
@@ -4293,19 +4293,19 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3753990,2016-04-24,Arsenal,3604,Olivier Giroud,FWD,Level,28,1,2,0.073428249,8,1
 3753990,2016-04-24,Arsenal,3647,Alex Iwobi,FWD,Level,50,7,4,0.610835786,6,5
 3753990,2016-04-24,Arsenal,3668,Theo Walcott,FWD,Level,10,0,0,0,1,3
-3879839,2016-04-24,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,3,0,0,0,9,2
-3879839,2016-04-24,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,1,0,1,0.65924615,0,1
+3879839,2016-04-24,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,3,0,0,0,9,2
+3879839,2016-04-24,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,1,0,1,0.65924615,0,1
 3879839,2016-04-24,Juventus,3951,Mario Lemina,MID,Level,26,5,0,0,14,5
 3879839,2016-04-24,Juventus,3951,Mario Lemina,MID,Leading,14,5,0,0,12,1
-3879839,2016-04-24,Juventus,5472,Mario Mandžukić,MID,Level,13,0,1,0.22984876,8,1
-3879839,2016-04-24,Juventus,5472,Mario Mandžukić,MID,Leading,9,1,0,0,13,0
+3879839,2016-04-24,Juventus,5472,Mario Mandžukić,FWD,Level,13,0,1,0.22984876,8,1
+3879839,2016-04-24,Juventus,5472,Mario Mandžukić,FWD,Leading,9,1,0,0,13,0
 3879839,2016-04-24,Juventus,5541,Stephan Lichtsteiner,DEF,Level,22,0,0,0,3,2
 3879839,2016-04-24,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,15,2,0,0,5,0
 3879839,2016-04-24,Juventus,5566,Sami Khedira,MID,Level,17,2,0,0,9,0
 3879839,2016-04-24,Juventus,5566,Sami Khedira,MID,Leading,13,0,0,0,12,2
 3879839,2016-04-24,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,0,0,0,0,3,0
-3879839,2016-04-24,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,22,4,1,0.015843635,7,1
-3879839,2016-04-24,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,12,3,0,0,9,3
+3879839,2016-04-24,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,22,4,1,0.015843635,7,1
+3879839,2016-04-24,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,12,3,0,0,9,3
 3879839,2016-04-24,Juventus,6940,Kwadwo Asamoah,MID,Leading,2,1,0,0,2,1
 3879839,2016-04-24,Juventus,6943,Andrea Barzagli,DEF,Level,30,2,0,0,6,2
 3879839,2016-04-24,Juventus,6943,Andrea Barzagli,DEF,Leading,10,0,0,0,2,0
@@ -4416,14 +4416,14 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890540,2016-04-30,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Leading,53,9,2,0.113346904,9,1
 3890540,2016-04-30,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,2,0,1,0.10719758,0,2
 3890540,2016-04-30,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,36,4,0,0,0,2
-3879850,2016-05-01,Juventus,3477,Álvaro Borja Morata Martín,MID,Level,19,0,2,0.073872716,5,2
-3879850,2016-05-01,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,1,0,0,0,0,0
-3879850,2016-05-01,Juventus,5472,Mario Mandžukić,MID,Level,14,0,1,0.038154326,4,1
-3879850,2016-05-01,Juventus,5472,Mario Mandžukić,MID,Leading,19,1,1,0.15282206,7,0
+3879850,2016-05-01,Juventus,3477,Álvaro Borja Morata Martín,FWD,Level,19,0,2,0.073872716,5,2
+3879850,2016-05-01,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,1,0,0,0,0,0
+3879850,2016-05-01,Juventus,5472,Mario Mandžukić,FWD,Level,14,0,1,0.038154326,4,1
+3879850,2016-05-01,Juventus,5472,Mario Mandžukić,FWD,Leading,19,1,1,0.15282206,7,0
 3879850,2016-05-01,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,24,3,0,0,4,1
 3879850,2016-05-01,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,50,6,0,0,4,1
 3879850,2016-05-01,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Leading,32,2,0,0,9,4
-3879850,2016-05-01,Juventus,6584,Simone Zaza,MID,Leading,10,0,4,0.264178391,10,0
+3879850,2016-05-01,Juventus,6584,Simone Zaza,FWD,Leading,10,0,4,0.264178391,10,0
 3879850,2016-05-01,Juventus,6940,Kwadwo Asamoah,MID,Level,32,4,0,0,6,5
 3879850,2016-05-01,Juventus,6940,Kwadwo Asamoah,MID,Leading,35,6,1,0.039901678,9,3
 3879850,2016-05-01,Juventus,6945,Alex Sandro Lobo Silva,DEF,Level,30,2,1,0.010025178,6,1
@@ -4441,9 +4441,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879850,2016-05-01,Juventus,20008,Patrice Evra,DEF,Leading,52,11,0,0,2,2
 3879850,2016-05-01,Juventus,25345,Anderson Hernanes de Carvalho Andrade,MID,Level,33,3,3,0.094578763,5,4
 3879850,2016-05-01,Juventus,25345,Anderson Hernanes de Carvalho Andrade,MID,Leading,50,4,0,0,14,5
-3890550,2016-05-07,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Level,18,3,2,0.060315045,5,1
-3890550,2016-05-07,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Leading,6,0,1,0.027489569,0,1
-3890550,2016-05-07,Bayer Leverkusen,3058,Javier Hernández Balcázar,MID,Trailing,8,1,0,0,0,1
+3890550,2016-05-07,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Level,18,3,2,0.060315045,5,1
+3890550,2016-05-07,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Leading,6,0,1,0.027489569,0,1
+3890550,2016-05-07,Bayer Leverkusen,3058,Javier Hernández Balcázar,FWD,Trailing,8,1,0,0,0,1
 3890550,2016-05-07,Bayer Leverkusen,5494,Robbie Kruse,MID,Level,25,1,1,0.12796181,27,2
 3890550,2016-05-07,Bayer Leverkusen,5494,Robbie Kruse,MID,Leading,13,1,0,0,8,1
 3890550,2016-05-07,Bayer Leverkusen,5494,Robbie Kruse,MID,Trailing,6,1,0,0,2,0
@@ -4470,9 +4470,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890550,2016-05-07,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Level,12,1,0,0,11,1
 3890550,2016-05-07,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Leading,3,1,0,0,5,0
 3890550,2016-05-07,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Trailing,6,3,0,0,1,0
-3890550,2016-05-07,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,22,1,3,0.7322135670000001,11,4
-3890550,2016-05-07,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,5,0,0,0,6,0
-3890550,2016-05-07,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,3,1,0,0,0,0
+3890550,2016-05-07,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,22,1,3,0.7322135670000001,11,4
+3890550,2016-05-07,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,5,0,0,0,6,0
+3890550,2016-05-07,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,3,1,0,0,0,0
 3890550,2016-05-07,Bayer Leverkusen,15581,Bernd Leno,GK,Level,22,7,0,0,0,6
 3890550,2016-05-07,Bayer Leverkusen,15581,Bernd Leno,GK,Leading,8,1,0,0,0,1
 3890550,2016-05-07,Bayer Leverkusen,15581,Bernd Leno,GK,Trailing,5,1,0,0,0,4
@@ -4559,10 +4559,10 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3879864,2016-05-08,Juventus,3951,Mario Lemina,MID,Trailing,25,9,0,0,9,2
 3879864,2016-05-08,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Level,25,2,2,0.05351196750000001,10,2
 3879864,2016-05-08,Juventus,5689,Juan Guillermo Cuadrado Bello,DEF,Trailing,44,4,1,0.04161986,4,2
-3879864,2016-05-08,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,15,4,1,0.26377368,5,2
-3879864,2016-05-08,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Trailing,18,3,5,0.8910604886,4,3
-3879864,2016-05-08,Juventus,6584,Simone Zaza,MID,Level,12,0,1,0.027056841,7,3
-3879864,2016-05-08,Juventus,6584,Simone Zaza,MID,Trailing,7,1,4,0.330580288,5,2
+3879864,2016-05-08,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,15,4,1,0.26377368,5,2
+3879864,2016-05-08,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Trailing,18,3,5,0.8910604886,4,3
+3879864,2016-05-08,Juventus,6584,Simone Zaza,FWD,Level,12,0,1,0.027056841,7,3
+3879864,2016-05-08,Juventus,6584,Simone Zaza,FWD,Trailing,7,1,4,0.330580288,5,2
 3879864,2016-05-08,Juventus,6590,Norberto Murara Neto,GK,Level,12,0,0,0,0,3
 3879864,2016-05-08,Juventus,6590,Norberto Murara Neto,GK,Trailing,7,0,0,0,0,1
 3879864,2016-05-08,Juventus,6940,Kwadwo Asamoah,MID,Level,31,5,0,0,4,2
@@ -4634,9 +4634,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890563,2016-05-14,Bayer Leverkusen,5555,Julian Brandt,MID,Level,8,0,0,0,6,3
 3890563,2016-05-14,Bayer Leverkusen,5555,Julian Brandt,MID,Trailing,5,1,0,0,3,1
 3890563,2016-05-14,Bayer Leverkusen,5555,Julian Brandt,MID,Leading,12,0,1,0.1275387,12,1
-3890563,2016-05-14,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Level,6,0,0,0,5,1
-3890563,2016-05-14,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Trailing,5,3,0,0,4,0
-3890563,2016-05-14,Bayer Leverkusen,7039,Hakan Çalhanoğlu,MID,Leading,26,6,1,0.0066802558,9,2
+3890563,2016-05-14,Bayer Leverkusen,7039,Hakan Çalhanoğlu,FWD,Level,6,0,0,0,5,1
+3890563,2016-05-14,Bayer Leverkusen,7039,Hakan Çalhanoğlu,FWD,Trailing,5,3,0,0,4,0
+3890563,2016-05-14,Bayer Leverkusen,7039,Hakan Çalhanoğlu,FWD,Leading,26,6,1,0.0066802558,9,2
 3890563,2016-05-14,Bayer Leverkusen,8210,Charles Mariano Aránguiz Sandoval,MID,Level,9,0,0,0,9,3
 3890563,2016-05-14,Bayer Leverkusen,8210,Charles Mariano Aránguiz Sandoval,MID,Trailing,3,0,1,0.36501995,10,0
 3890563,2016-05-14,Bayer Leverkusen,8210,Charles Mariano Aránguiz Sandoval,MID,Leading,9,0,0,0,15,0
@@ -4646,7 +4646,7 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890563,2016-05-14,Bayer Leverkusen,8213,Karim Bellarabi,MID,Level,6,2,0,0,5,1
 3890563,2016-05-14,Bayer Leverkusen,8213,Karim Bellarabi,MID,Trailing,6,1,0,0,4,1
 3890563,2016-05-14,Bayer Leverkusen,8213,Karim Bellarabi,MID,Leading,12,1,4,1.550178974,12,3
-3890563,2016-05-14,Bayer Leverkusen,8219,Admir Mehmedi,MID,Leading,8,1,1,0.070582055,16,3
+3890563,2016-05-14,Bayer Leverkusen,8219,Admir Mehmedi,FWD,Leading,8,1,1,0.070582055,16,3
 3890563,2016-05-14,Bayer Leverkusen,8222,Kevin Kampl,MID,Level,15,4,1,0.43984666,4,2
 3890563,2016-05-14,Bayer Leverkusen,8222,Kevin Kampl,MID,Trailing,7,2,0,0,5,2
 3890563,2016-05-14,Bayer Leverkusen,8222,Kevin Kampl,MID,Leading,22,8,0,0,17,7
@@ -4658,9 +4658,9 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890563,2016-05-14,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Level,9,1,0,0,9,2
 3890563,2016-05-14,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Trailing,9,0,0,0,3,1
 3890563,2016-05-14,Bayer Leverkusen,9363,André Ramalho Silva,DEF,Leading,10,5,0,0,8,2
-3890563,2016-05-14,Bayer Leverkusen,11394,Stefan Kießling,MID,Level,11,0,0,0,3,0
-3890563,2016-05-14,Bayer Leverkusen,11394,Stefan Kießling,MID,Trailing,4,0,0,0,7,0
-3890563,2016-05-14,Bayer Leverkusen,11394,Stefan Kießling,MID,Leading,6,0,1,0.93672997,3,0
+3890563,2016-05-14,Bayer Leverkusen,11394,Stefan Kießling,FWD,Level,11,0,0,0,3,0
+3890563,2016-05-14,Bayer Leverkusen,11394,Stefan Kießling,FWD,Trailing,4,0,0,0,7,0
+3890563,2016-05-14,Bayer Leverkusen,11394,Stefan Kießling,FWD,Leading,6,0,1,0.93672997,3,0
 3890563,2016-05-14,Bayer Leverkusen,21168,Marlon Frey,DEF,Trailing,1,1,0,0,1,0
 3890563,2016-05-14,Bayer Leverkusen,21168,Marlon Frey,DEF,Level,2,0,0,0,0,1
 3890563,2016-05-14,Bayer Leverkusen,21168,Marlon Frey,DEF,Leading,22,8,0,0,8,1
@@ -4668,16 +4668,16 @@ match_id,date,club,player_id,player,role,state,passes,progressive_passes,shots,x
 3890563,2016-05-14,Bayer Leverkusen,400627,Dario Kresic,GK,Trailing,7,2,0,0,0,0
 3890563,2016-05-14,Bayer Leverkusen,400627,Dario Kresic,GK,Leading,6,3,0,0,0,0
 3890563,2016-05-14,Bayer Leverkusen,401501,David Yelldell,GK,Leading,20,3,0,0,0,4
-3879870,2016-05-14,Juventus,3477,Álvaro Borja Morata Martín,MID,Leading,10,1,1,0.09511624,2,0
+3879870,2016-05-14,Juventus,3477,Álvaro Borja Morata Martín,FWD,Leading,10,1,1,0.09511624,2,0
 3879870,2016-05-14,Juventus,3579,Roberto Maximiliano Pereyra,MID,Level,3,0,0,0,1,0
 3879870,2016-05-14,Juventus,3579,Roberto Maximiliano Pereyra,MID,Leading,39,3,0,0,16,3
-3879870,2016-05-14,Juventus,5472,Mario Mandžukić,MID,Level,3,0,0,0,1,0
-3879870,2016-05-14,Juventus,5472,Mario Mandžukić,MID,Leading,18,1,1,0.061580326,11,1
+3879870,2016-05-14,Juventus,5472,Mario Mandžukić,FWD,Level,3,0,0,0,1,0
+3879870,2016-05-14,Juventus,5472,Mario Mandžukić,FWD,Leading,18,1,1,0.061580326,11,1
 3879870,2016-05-14,Juventus,5541,Stephan Lichtsteiner,DEF,Level,3,1,0,0,0,1
 3879870,2016-05-14,Juventus,5541,Stephan Lichtsteiner,DEF,Leading,51,5,4,0.324248741,10,2
-3879870,2016-05-14,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Level,3,1,0,0,0,0
-3879870,2016-05-14,Juventus,5743,Paulo Bruno Exequiel Dybala,MID,Leading,41,6,5,1.006108677,19,3
-3879870,2016-05-14,Juventus,6584,Simone Zaza,MID,Leading,1,0,0,0,6,1
+3879870,2016-05-14,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Level,3,1,0,0,0,0
+3879870,2016-05-14,Juventus,5743,Paulo Bruno Exequiel Dybala,FWD,Leading,41,6,5,1.006108677,19,3
+3879870,2016-05-14,Juventus,6584,Simone Zaza,FWD,Leading,1,0,0,0,6,1
 3879870,2016-05-14,Juventus,6590,Norberto Murara Neto,GK,Level,0,0,0,0,0,0
 3879870,2016-05-14,Juventus,6590,Norberto Murara Neto,GK,Leading,11,0,0,0,0,5
 3879870,2016-05-14,Juventus,6943,Andrea Barzagli,DEF,Level,5,0,0,0,2,0

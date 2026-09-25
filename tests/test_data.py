@@ -6,6 +6,7 @@ from src.analytics import goal_team, per90, progressive_pass, role
 def test_normalization_rules():
     assert role("Right Center Back") == "DEF"
     assert role("Center Forward") == "FWD"
+    assert role("Right Center Forward") == "FWD"
     assert per90(5, 450) == 1
     assert progressive_pass([40, 30], [65, 30])
     assert not progressive_pass([40, 30], [45, 30])

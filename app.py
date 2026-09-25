@@ -133,11 +133,11 @@ with tabs[0]:
     fig.add_trace(go.Scatter(x=cum.date,y=cum.cum_metric,mode="lines+markers",name=selected_name,line=dict(color=GOLD,width=3),marker=dict(size=5)))
     if len(peer):
         fig.add_hline(y=peer_values.median(),line_dash="dash",line_color=MINT,annotation_text="Europe panel role median")
-    st.plotly_chart(plot_style(fig),use_container_width=True)
+    st.plotly_chart(plot_style(fig),width="stretch")
     st.caption("Cumulative per-90 rate by Barcelona match date. Europe benchmark = median of same-role players with ≥900 minutes from Arsenal, Juventus, Paris Saint-Germain and Bayer Leverkusen; selected-club panel, not a league-wide percentile.")
     with st.expander("See peer comparison table"):
         display = peer.assign(per90=peer_values).sort_values("per90",ascending=False)[["player","club","role","minutes","per90"]]
-        st.dataframe(display.rename(columns={"per90":f"{METRICS[metric]} /90"}),use_container_width=True,hide_index=True)
+        st.dataframe(display.rename(columns={"per90":f"{METRICS[metric]} /90"}),width="stretch",hide_index=True)
     metric_note()
 
 with tabs[1]:
@@ -148,8 +148,8 @@ with tabs[1]:
     quiet["goal_involvements"] = quiet.goals+quiet.assists
     quiet = quiet.sort_values("quiet_per90",ascending=False)
     fig = px.bar(quiet.head(12).sort_values("quiet_per90"),x="quiet_per90",y="player",orientation="h",color="goal_involvements",color_continuous_scale=[[0,MAROON],[1,GOLD]],labels={"quiet_per90":"Quiet actions /90","player":"","goal_involvements":"G+A"})
-    st.plotly_chart(plot_style(fig,460),use_container_width=True)
-    st.dataframe(quiet[["player","role","minutes","quiet_per90","goal_involvements"]].round(2),hide_index=True,use_container_width=True)
+    st.plotly_chart(plot_style(fig,460),width="stretch")
+    st.dataframe(quiet[["player","role","minutes","quiet_per90","goal_involvements"]].round(2),hide_index=True,width="stretch")
 
 with tabs[2]:
     st.subheader("Game State Contribution")
@@ -160,7 +160,7 @@ with tabs[2]:
     by_state = person_states.groupby("state",as_index=False)[cols].sum()
     measure = st.selectbox("Contribution",cols,format_func=lambda x:METRICS.get(x,x.replace("_"," ").title()))
     fig = px.bar(by_state,x="state",y=measure,color="state",color_discrete_map={"Leading":MINT,"Level":GOLD,"Trailing":MAROON},text_auto=".1f")
-    st.plotly_chart(plot_style(fig),use_container_width=True)
+    st.plotly_chart(plot_style(fig),width="stretch")
     st.caption("State uses the score immediately before each event. Totals are event volumes; state-specific minutes are unavailable in this compact demo, so state rates are deliberately omitted. Match focus follows the sidebar selector.")
 
 with tabs[3]:
@@ -175,7 +175,7 @@ with tabs[3]:
     fig = go.Figure()
     fig.add_trace(go.Bar(x=work.date,y=work.minutes,name="Minutes",marker_color=BLUE,hovertext=work.opponent))
     fig.add_trace(go.Scatter(x=work.date,y=work.last_5_minutes/5,name="5-game mean",line=dict(color=GOLD,width=3)))
-    st.plotly_chart(plot_style(fig),use_container_width=True)
+    st.plotly_chart(plot_style(fig),width="stretch")
     st.caption("Match minutes are estimated from Starting XI, substitution and dismissal events, including observed stoppage time. Rest days count selected club appearances only; this is not a medical load or injury-risk measure.")
 
 with tabs[4]:
@@ -187,7 +187,7 @@ with tabs[4]:
     choice = st.radio("Form view",["xG + xA /90","Progressive passes /90"],horizontal=True)
     series = "form_5" if choice.startswith("xG") else "progression_5"
     fig = go.Figure(go.Scatter(x=form.date,y=form[series],mode="lines+markers",line=dict(color=MINT,width=3),fill="tozeroy",fillcolor="rgba(111,224,212,.15)",hovertext=form.opponent))
-    st.plotly_chart(plot_style(fig),use_container_width=True)
+    st.plotly_chart(plot_style(fig),width="stretch")
     st.caption("Rolling five appearances, weighted by minutes. Early points use fewer than five appearances; xG + xA describes chance involvement rather than realized goals.")
 
 with tabs[5]:
@@ -208,7 +208,7 @@ with tabs[5]:
         fig.add_shape(type="rect",x0=row.x_bin*20,y0=row.y_bin*20,x1=(row.x_bin+1)*20,y1=(row.y_bin+1)*20,
                       fillcolor=f"rgba(247,201,80,{min(.85,.12+.73*row.passes/max(1,grid.passes.max())):.2f})",line=dict(width=0))
     pitch(fig)
-    st.plotly_chart(plot_style(fig,410),use_container_width=True)
+    st.plotly_chart(plot_style(fig,410),width="stretch")
     st.caption("Pitch cells show pass origins; darker gold means more passes. Risk proxy = pass from x≥60 to x≥80 with a through-ball flag or ≥15 x-unit advance. Reward proxy = completed progressive pass or shot-assist pass. These definitions overlap and are descriptive, not expected-value modeling.")
 
 with tabs[6]:
@@ -218,7 +218,7 @@ with tabs[6]:
     path=tracking[tracking.sample_player==track_player].sort_values("second")
     fig=go.Figure(go.Scatter(x=60+path.x_m*120/105,y=40+path.y_m*80/68,mode="lines+markers",line=dict(color=MINT,width=2),marker=dict(size=4,color=path.second,colorscale="Sunset"),name=track_player))
     pitch(fig)
-    st.plotly_chart(plot_style(fig,420),use_container_width=True)
+    st.plotly_chart(plot_style(fig,420),width="stretch")
     st.caption(f"Detected-position path sampled every 2 seconds. Filtered distance sum: {path.distance_step_m.sum():.0f} m over this excerpt. Tracking coordinates are projected to a 120×80 display pitch; gaps and detection errors remain. Distance is illustrative, not an official physical metric.")
 
 with tabs[7]:
