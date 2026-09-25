@@ -1,0 +1,14 @@
+{
+  "source": "StatsBomb Open Data",
+  "source_url": "https://github.com/hudl/open-data",
+  "competition": "Men's Bundesliga",
+  "season": "2023/2024",
+  "club": "Bayer Leverkusen",
+  "competition_id": 9,
+  "season_id": 281,
+  "matches": 34,
+  "appearance_rows": 514,
+  "use": "historical forecast training only",
+  "current_barcelona_data": false,
+  "raw_events_redistributed": false
+}

@@ -14,15 +14,30 @@ The default dashboard view uses [openfootball/football.json](https://github.com/
 python scripts/build_current_fixtures.py
 ```
 
-The source does not guarantee a daily upstream update and contains **no player event or tracking data**. The current-season player page therefore accepts an authorized CSV in your local browser session. Download the header-only template in the app or use [`examples/current_player_match_template.csv`](examples/current_player_match_template.csv). Required columns are `matchday,date,player,minutes`; `role` is optional (`FWD`, `MID`, `DEF`, `GK`). Supported optional metrics are `goals,assists,xg,xa,passes,progressive_passes,pressures,recoveries,interceptions,tackles`. Include a numeric value, including zero, for every row of a metric you supply. The app validates season dates, completed matchdays, duplicate player-match rows and nonnegative values. Uploads are not written to disk or GitHub.
+The source does not guarantee a daily upstream update and contains **no player event or tracking data**. I did not find a 2026/27 Barcelona player-match feed with both the required fields and clear permission to republish it in this public repository. The current-season player page therefore accepts an authorized CSV in your local browser session. Download the header-only template in the app or use [`examples/current_player_match_template.csv`](examples/current_player_match_template.csv). Required columns are `matchday,date,player,minutes`; `role` is optional (`FWD`, `MID`, `DEF`, `GK`). Supported optional metrics are `goals,assists,xg,xa,passes,progressive_passes,pressures,recoveries,interceptions,tackles`. Include a numeric value, including zero, for every row of a metric you supply. The app validates season dates, completed matchdays, duplicate player-match rows and nonnegative values. Uploads are not written to disk or GitHub.
 
 With authorized player rows, the current view calculates cumulative per-90 progress, minutes and an **experimental matchday season finish forecast**. The forecast updates as the selected completed-match cutoff moves and supports every metric supplied in the upload. Same-role Europe benchmarks, game-state splits, pass maps and Barcelona off-ball movement remain **pending a licensed current-season feed**. The 2015/16 player observations are never inserted into current-season charts as if they were 2026/27 stats.
 
+**Current player-match status (25 September 2026): pending.** The public [La Liga player page](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) has current-season totals, but its [site terms](https://www.laliga.com/informacion-legal/legal-web) do not establish permission to republish a player-match dataset here. The independent [Barça API](https://api.fc-barcelona.app/en/docs) exposes squad season totals rather than the match-by-match minutes and event metrics this forecast requires; its [terms](https://api.fc-barcelona.app/en/terms) limit use to personal, non-commercial projects. Neither source was converted into fabricated match rows. No 2026/27 player dataset was uploaded to GitHub. The current fixture snapshot remains available and can be refreshed from its CC0 source.
+
 ### Experimental forecast method
 
-For each metric, a ridge regression learns the rate of production **in the remaining club matches** from the four historical 2015/16 comparison clubs. Each training row is a player at a match checkpoint: inputs are cumulative and last-five observed per-90 rates, minutes exposure, season progress and broad role. Only matches at or before that checkpoint enter the inputs. The target is the player's subsequent output per remaining club match. Negative future rates are floored at zero and extreme rates are capped at the historical training set’s 99.5th percentile. The displayed final total equals the authorized 2026/27 observed total plus predicted future output over the remaining 38-match schedule; it cannot fall below the observed total.
+For each metric, a ridge regression learns the rate of production **in the remaining club matches** from the four historical 2015/16 comparison clubs **and all 34 Bayer Leverkusen Bundesliga matches from 2023/24**. The latter is the most recent complete men's club league season in the StatsBomb Open Data catalog that I found. Each training row is a player at a match checkpoint: inputs are cumulative and last-five observed per-90 rates, minutes exposure, fraction of the club season completed and broad role. Only matches at or before that checkpoint enter the inputs. The target is the player's subsequent output per remaining club match. Negative future rates are floored at zero and extreme rates are capped at the historical training set’s 99.5th percentile. The displayed final total equals the authorized 2026/27 observed total plus predicted future output over the remaining 38-match schedule; it cannot fall below the observed total.
 
-Historical 2015/16 Barcelona is held out of model fitting and used to estimate mean absolute error and a 10th–90th percentile residual band at the selected horizon. The app shows the training and holdout sample counts. These are **retrospective error checks, not calibrated 2026/27 probabilities**. Eleven years of changes in players, tactics and data coverage make the model unsuitable for scouting or betting decisions. The current-season prediction is unavailable until an authorized CSV supplies at least 90 observed minutes for the selected player; no forecast is generated from team scores alone.
+Historical 2015/16 Barcelona is held out of model fitting and used to estimate mean absolute error and a 10th–90th percentile residual band at the selected horizon. The app shows the training and holdout snapshot counts. These are **retrospective error checks, not calibrated 2026/27 probabilities**; snapshots from one player are correlated. Adding 2023/24 data does not by itself establish lower error for current Barcelona players. Changes in players, tactics and data coverage make the model unsuitable for scouting or betting decisions. The current-season prediction is unavailable until an authorized CSV supplies at least 90 observed minutes for the selected player; no forecast is generated from team scores alone.
+
+On the 2015/16 Barcelona holdout, adding 2023/24 Leverkusen to the 2015/16 peer training panel changed pooled snapshot mean absolute final-total error as follows. These are retrospective diagnostics, with no current-season validation:
+
+| Metric | 2015/16 training only | Training with 2023/24 added |
+| --- | ---: | ---: |
+| Goals | 1.77 | 1.80 |
+| Assists | 1.29 | 1.30 |
+| Estimated minutes | 292 | 298 |
+| xG | 1.32 | 1.33 |
+| Passes | 232 | 228 |
+| Pressures | 39.7 | 40.4 |
+
+The newer panel improves the pass diagnostic but worsens the others slightly on this older holdout. The model uses equal checkpoint weights and no claim of improved 2026/27 forecast accuracy. A current, licensed Barcelona player-match feed and current-season holdout are needed to assess or recalibrate it.
 
 ## Historical 2015/16 demo coverage
 
@@ -35,6 +50,7 @@ Historical 2015/16 Barcelona is held out of model fitting and used to estimate m
 | StatsBomb Open Data | Men’s Serie A 2015/16 | Same-role peer panel | Juventus 38 |
 | StatsBomb Open Data | Men’s Ligue 1 2015/16 | Same-role peer panel | Paris Saint-Germain 37 |
 | StatsBomb Open Data | Men’s Bundesliga 2015/16 | Same-role peer panel | Bayer Leverkusen 34 |
+| StatsBomb Open Data | Men’s Bundesliga 2023/24 | Historical forecast training only | Bayer Leverkusen 34 |
 | SkillCorner Open Data | 2024/25 A-League, Auckland FC vs Newcastle United Jets FC, 30 November 2024 | Separate 10-minute tracking prototype | One excerpt |
 
 The historical panel contains **185 selected-club matches**, 2,552 player-match appearances, and 114,744 pass events processed into compact spatial aggregates. It is a **curated five-club comparison**, not a full European-league distribution. The published StatsBomb Ligue 1 catalog has 37 PSG fixtures here, leaving one fixture gap; the Bundesliga catalog provides Leverkusen’s 34 fixtures, not the entire league. Source coverage can change when the upstream repository changes. The SkillCorner match is unrelated to every StatsBomb fixture and is never joined to Barcelona data. Sample players are shown with anonymized display labels.
@@ -54,6 +70,7 @@ The repository includes the current fixture snapshot and small historical **deri
 
 ```bash
 python scripts/build_data.py --workers 8
+python scripts/build_recent_training.py --workers 6
 python scripts/build_tracking_sample.py
 python scripts/build_current_fixtures.py
 pytest -q

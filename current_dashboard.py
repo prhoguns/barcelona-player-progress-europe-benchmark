@@ -19,6 +19,8 @@ NAVY, GOLD, MINT, MAROON, BLUE = "#100b23", "#f7c950", "#6fe0d4", "#a11f51", "#1
 @st.cache_resource(show_spinner=False)
 def forecast_model(metric: str) -> ForecastModel:
     history = pd.read_csv(ROOT / "data" / "derived" / "appearances.csv")
+    recent = pd.read_csv(ROOT / "data" / "training" / "leverkusen_2023_24_appearances.csv")
+    history = pd.concat([history, recent], ignore_index=True)
     return ForecastModel(history, (metric,))
 
 st.markdown("""<style>
@@ -125,7 +127,7 @@ with tabs[1]:
 
 with tabs[2]:
     st.subheader("Matchday season finish forecast")
-    st.caption("Experimental ridge model trained on 2015/16 Arsenal, Juventus, Paris Saint-Germain and Bayer Leverkusen player checkpoints. Historical Barcelona is held out for error estimates. The model uses only the uploaded player rows through the selected cutoff; it is not calibrated to the 2026/27 league.")
+    st.caption("Experimental ridge model trained on 2015/16 Arsenal, Juventus, Paris Saint-Germain and Bayer Leverkusen, plus a newer full 2023/24 Bayer Leverkusen club season. Historical 2015/16 Barcelona is held out for error estimates. Current predictions use only uploaded 2026/27 player rows through the selected cutoff; this is not calibrated to the current league.")
     if uploaded_rows is None:
         st.info("Upload authorized current-season player-match rows in Player progress to enable forecasts. No player numbers are inferred from fixture scores.")
     else:
@@ -185,7 +187,7 @@ with tabs[3]:
         ("Player Form Tracker", "Available from an authorized player-match CSV for supplied metrics."),
         ("Risk–Reward Pass Profile", "Pending current-season pass event locations and outcomes."),
         ("Off-ball movement", "Pending licensed Barcelona tracking. The SkillCorner open sample is unrelated to Barcelona."),
-        ("Matchday season forecast", "Available for metrics in an authorized player-match CSV. The model is trained and retrospectively checked on 2015/16 data, so current-season calibration remains pending."),
+        ("Matchday season forecast", "Available for metrics in an authorized player-match CSV. Training includes 2023/24 Leverkusen plus 2015/16 peers; current-season calibration remains pending."),
     ]
     for title, detail in modules:
         with st.container(border=True):
@@ -195,5 +197,5 @@ with tabs[3]:
 with tabs[4]:
     st.subheader("Sources and boundaries")
     st.markdown("The 2026/27 results come from [openfootball/football.json](https://github.com/openfootball/football.json), a [CC0 public-domain](https://github.com/openfootball/football.json/blob/master/LICENSE.md) fixture dataset. Its own README says upstream updates are not guaranteed daily, so the snapshot timestamp and a manual refresh control are shown. The feed contains fixtures and scores, not player-level event or tracking data.")
-    st.markdown("[FC Barcelona official results](https://www.fcbarcelona.com/en/futbol/primer-equipo/resultados) and [La Liga player statistics](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) can be viewed at their sources. Their site content is not copied into this public repository. The [2015/16 StatsBomb](https://github.com/hudl/open-data) analysis remains available through the season selector as a labelled historical method demo.")
-    st.caption("Data status: current-season match results snapshot, optional user-provided player CSV, experimental historical-trained forecast, historical event-data demo, no live player feed, no licensed Barcelona tracking.")
+    st.markdown("[FC Barcelona official results](https://www.fcbarcelona.com/en/futbol/primer-equipo/resultados) and [La Liga player statistics](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) can be viewed at their sources. Their site content is not copied into this public repository. [StatsBomb Open Data](https://github.com/hudl/open-data) supplies the separate 2015/16 historical method demo and 2023/24 Leverkusen historical training panel. Neither is current Barcelona data.")
+    st.caption("Data status: current-season match results snapshot, optional user-provided player CSV, experimental 2015/16 + 2023/24 historical-trained forecast, historical event-data demo, no live player feed, no licensed Barcelona tracking.")

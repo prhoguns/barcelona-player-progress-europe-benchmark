@@ -1,4 +1,4 @@
-"""Retrospective ridge forecast trained on 2015/16 peer clubs.
+"""Retrospective ridge forecast trained on historical peer club seasons.
 
 Training inputs use only events observed by the checkpoint. The target is the
 subsequent per-club-match output. Barcelona is excluded from fitting and used
@@ -19,14 +19,14 @@ RIDGE_PENALTY = 12.0
 
 
 def features(observed: float, recent: float, minutes: float, recent_minutes: float,
-             played: int, role: str) -> np.ndarray:
+             played: int, role: str, season_games: int = 38) -> np.ndarray:
     """Use cumulative and last-five *observed* rates, exposure and role."""
     rate = min(50.0, 90 * observed / minutes) if minutes > 0 else 0.0
     recent_rate = min(50.0, 90 * recent / recent_minutes) if recent_minutes > 0 else 0.0
     return np.array([1.0, np.log1p(rate), np.log1p(recent_rate),
                      min(1.3, minutes / (90 * played)),
                      min(1.3, recent_minutes / (90 * min(played, 5))),
-                     played / 38, *(1.0 if role == r else 0.0 for r in ROLES)], dtype=float)
+                     played / season_games, *(1.0 if role == r else 0.0 for r in ROLES)], dtype=float)
 
 
 def ridge_fit(x: np.ndarray, y: np.ndarray) -> np.ndarray:
@@ -44,13 +44,17 @@ class TrainingRows:
     observed: np.ndarray
     final: np.ndarray
     remaining: np.ndarray
+    season: np.ndarray
 
 
 def make_training_rows(appearances: pd.DataFrame, metric: str) -> TrainingRows:
     if metric not in METRICS:
         raise ValueError(f"Unsupported metric: {metric}")
     records = []
-    for club, club_rows in appearances.groupby("club"):
+    appearances = appearances.copy()
+    dates = pd.to_datetime(appearances["date"], errors="raise")
+    appearances["_season_start"] = dates.dt.year - dates.dt.month.lt(7).astype(int)
+    for (club, season), club_rows in appearances.groupby(["club", "_season_start"]):
         games = (club_rows[["match_id", "date"]].drop_duplicates()
                  .sort_values(["date", "match_id"]).reset_index(drop=True))
         order = {mid: i + 1 for i, mid in enumerate(games.match_id)}
@@ -78,9 +82,10 @@ def make_training_rows(appearances: pd.DataFrame, metric: str) -> TrainingRows:
                 observed = cumulative_values[checkpoint]
                 final = cumulative_values[-1]
                 remaining = total_games - checkpoint
-                x = features(observed, recent, observed_minutes, recent_minutes, checkpoint, role)
+                x = features(observed, recent, observed_minutes, recent_minutes,
+                             checkpoint, role, total_games)
                 records.append((x, max(0.0, final - observed) / remaining, club,
-                                checkpoint, observed, final, remaining))
+                                checkpoint, observed, final, remaining, season))
     if not records:
         raise ValueError("Historical training data has no valid checkpoints")
     return TrainingRows(np.stack([r[0] for r in records]),
@@ -89,7 +94,8 @@ def make_training_rows(appearances: pd.DataFrame, metric: str) -> TrainingRows:
                         np.array([r[3] for r in records]),
                         np.array([r[4] for r in records]),
                         np.array([r[5] for r in records]),
-                        np.array([r[6] for r in records]))
+                        np.array([r[6] for r in records]),
+                        np.array([r[7] for r in records]))
 
 
 class ForecastModel:
@@ -111,6 +117,7 @@ class ForecastModel:
             predicted_final = rows.observed[check] + rows.remaining[check] * predicted_future_rate
             self.coefficients[metric] = coefficients
             self.training_sizes[metric] = int(train.sum())
+            self.training_seasons = sorted(set(int(x) for x in rows.season[train]))
             self.holdout[metric] = pd.DataFrame({
                 "checkpoint": rows.checkpoint[check],
                 "error": rows.final[check] - predicted_final,
