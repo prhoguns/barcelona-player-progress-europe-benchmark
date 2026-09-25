@@ -9,8 +9,10 @@ import plotly.graph_objects as go
 import streamlit as st
 
 from scripts.build_current_fixtures import main as refresh_fixtures
+from scripts.build_team_forecast_data import main as refresh_league_results
 from src.current_season import OPTIONAL, load_player_csv
 from src.forecast import ForecastModel
+from src.team_forecast import forecast as team_forecast
 
 ROOT = Path(__file__).parent
 SNAPSHOT = ROOT / "data" / "current" / "fixtures.json"
@@ -45,13 +47,14 @@ div[data-testid="stMetric"] [data-testid="stMetricValue"]{color:#fff!important}
 with st.sidebar:
     st.markdown("### ◈ BARÇA PLAYER LAB")
     st.caption("Men’s La Liga · 2026/27")
-    if st.button("Refresh current fixtures", width="stretch"):
+    if st.button("Refresh league results", width="stretch"):
         try:
             refresh_fixtures()
-            st.success("Fixture snapshot refreshed")
+            refresh_league_results()
+            st.success("Barcelona fixtures and league results refreshed")
         except Exception as exc:
-            st.error(f"Refresh failed; the saved snapshot remains available. {exc}")
-    st.caption("Results use a public-domain fixture feed. Player event and tracking feeds are not connected.")
+            st.error(f"Refresh failed; check the saved snapshot timestamps. {exc}")
+    st.caption("Scores use a public-domain league feed. Player event and tracking feeds are not connected.")
 
 snapshot = json.loads(SNAPSHOT.read_text(encoding="utf-8"))
 fixtures = pd.DataFrame(snapshot["matches"])
@@ -67,7 +70,7 @@ final_rounds = {int(r.rsplit(" ", 1)[-1]) for r in finals["round"]}
 
 st.markdown("""<div class="hero"><div class="eyebrow">Current season · men’s La Liga</div>
 <h1>Barcelona 2026/27</h1><div class="deck">A current-season match pulse. Player-level analysis becomes available when an authorized match data feed is connected; the 2015/16 event-data work remains in the separate historical demo view.</div>
-<span class="badge">CURRENT SEASON</span><span class="badge">FIXTURES + RESULTS</span><span class="badge">PLAYER FEED PENDING</span></div>""", unsafe_allow_html=True)
+<span class="badge">CURRENT SEASON</span><span class="badge">TEAM FORECAST</span><span class="badge">PLAYER FEED PENDING</span></div>""", unsafe_allow_html=True)
 st.warning("Live Barcelona tracking feed pending licensed SkillCorner access.", icon="📡")
 st.markdown(f"<div class='note'>Fixture source: openfootball/football.json (CC0). Snapshot retrieved {snapshot['retrieved_at_utc'][:16].replace('T', ' ')} UTC. {len(finals)} of 38 league fixtures have final scores in this snapshot. This is not a live player-stat feed.</div>", unsafe_allow_html=True)
 
@@ -126,7 +129,39 @@ with tabs[1]:
             st.caption("Values are from the uploaded file only. Missing metrics remain unavailable; no historical 2015/16 player values are substituted.")
 
 with tabs[2]:
-    st.subheader("Matchday season finish forecast")
+    st.subheader("Barcelona team season forecast")
+    st.caption("Projects points through all 38 La Liga fixtures from completed 2026/27 results and every club's scoring record, shrunk toward 2025/26 league results. This is a team result model; it does not predict individual player totals or title probability.")
+    try:
+        league_snapshot = json.loads((ROOT / "data" / "current" / "team_forecast.json").read_text())
+        team_result = team_forecast(snapshot["matches"], league_snapshot["seasons"])
+    except (OSError, ValueError, KeyError) as exc:
+        st.info(f"Team forecast needs matching league result snapshots. Use Refresh league results. {exc}")
+    else:
+        f1, f2, f3, f4 = st.columns(4)
+        f1.metric("Points earned", team_result["observed_points"])
+        f2.metric("Projected final points", f"{team_result['expected_final_points']:.1f}")
+        f3.metric("Model 80% range", f"{team_result['low']}–{team_result['high']}")
+        f4.metric("Fixtures remaining", team_result["remaining"])
+        line_x = [len(finals)] + [len(finals) + i for i in range(1, len(team_result["fixtures"]) + 1)]
+        line_y = [team_result["observed_points"]] + [f["projected_total"] for f in team_result["fixtures"]]
+        fig = go.Figure(go.Scatter(x=line_x, y=line_y, mode="lines+markers",
+                                    line=dict(color=GOLD, width=3), marker=dict(size=5),
+                                    name="Expected points"))
+        fig.update_layout(template="plotly_dark", paper_bgcolor="rgba(0,0,0,0)",
+                          plot_bgcolor="rgba(0,0,0,0)", height=340,
+                          xaxis_title="Completed Barcelona league matches", yaxis_title="Cumulative points",
+                          font=dict(color="#e9e3f5"))
+        st.plotly_chart(fig, width="stretch")
+        future = pd.DataFrame(team_result["fixtures"])
+        future["Win %"] = (100 * future.win).round().astype(int)
+        future["Draw %"] = (100 * future.draw).round().astype(int)
+        future["Loss %"] = (100 * future.loss).round().astype(int)
+        future["Expected pts"] = future.expected_points.round(2)
+        st.dataframe(future[["round", "date", "opponent", "venue", "Win %", "Draw %", "Loss %", "Expected pts"]],
+                     hide_index=True, width="stretch")
+        st.caption(f"Model inputs: {team_result['current_result_coverage']} completed 2026/27 La Liga games across all clubs; {team_result['prior_result_coverage']} of 380 published 2025/26 results. Independent Poisson goals with a 20-match prior for returning clubs and league-average prior for promoted clubs. The 80% range is model-based and has not been calibrated on 2026/27 outcomes; injuries, transfers and fixture congestion are omitted. Snapshot: {league_snapshot['retrieved_at_utc'][:16].replace('T', ' ')} UTC.")
+    st.divider()
+    st.subheader("Individual player season forecast")
     st.caption("Experimental ridge model trained on 2015/16 Arsenal, Juventus, Paris Saint-Germain and Bayer Leverkusen, plus a newer full 2023/24 Bayer Leverkusen club season. Historical 2015/16 Barcelona is held out for error estimates. Current predictions use only uploaded 2026/27 player rows through the selected cutoff; this is not calibrated to the current league.")
     if uploaded_rows is None:
         st.info("Upload authorized current-season player-match rows in Player progress to enable forecasts. No player numbers are inferred from fixture scores.")
@@ -187,7 +222,7 @@ with tabs[3]:
         ("Player Form Tracker", "Available from an authorized player-match CSV for supplied metrics."),
         ("Risk–Reward Pass Profile", "Pending current-season pass event locations and outcomes."),
         ("Off-ball movement", "Pending licensed Barcelona tracking. The SkillCorner open sample is unrelated to Barcelona."),
-        ("Matchday season forecast", "Available for metrics in an authorized player-match CSV. Training includes 2023/24 Leverkusen plus 2015/16 peers; current-season calibration remains pending."),
+        ("Matchday season forecast", "Team points are projected for all remaining 2026/27 league fixtures from public-domain scores. Individual player totals require an authorized player-match CSV; current-season calibration remains pending."),
     ]
     for title, detail in modules:
         with st.container(border=True):
@@ -198,4 +233,4 @@ with tabs[4]:
     st.subheader("Sources and boundaries")
     st.markdown("The 2026/27 results come from [openfootball/football.json](https://github.com/openfootball/football.json), a [CC0 public-domain](https://github.com/openfootball/football.json/blob/master/LICENSE.md) fixture dataset. Its own README says upstream updates are not guaranteed daily, so the snapshot timestamp and a manual refresh control are shown. The feed contains fixtures and scores, not player-level event or tracking data.")
     st.markdown("[FC Barcelona official results](https://www.fcbarcelona.com/en/futbol/primer-equipo/resultados) and [La Liga player statistics](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) can be viewed at their sources. Their site content is not copied into this public repository. [StatsBomb Open Data](https://github.com/hudl/open-data) supplies the separate 2015/16 historical method demo and 2023/24 Leverkusen historical training panel. Neither is current Barcelona data.")
-    st.caption("Data status: current-season match results snapshot, optional user-provided player CSV, experimental 2015/16 + 2023/24 historical-trained forecast, historical event-data demo, no live player feed, no licensed Barcelona tracking.")
+    st.caption("Data status: current-season all-club score snapshot and Barcelona team forecast, optional user-provided player CSV and experimental historical-trained player forecast, historical event-data demo, no live player feed, no licensed Barcelona tracking.")

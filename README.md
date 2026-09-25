@@ -2,23 +2,28 @@
 
 ![Real dashboard screenshot](assets/dashboard.png)
 
-A Barcelona analytics dashboard built with Streamlit and Plotly. **The default view is the current men’s 2026/27 La Liga season.** It shows real fixtures and results from a public-domain source. Player progress can use a locally uploaded, authorized player-match CSV. Detailed event-data analysis is available in a separately labelled **2015/16 historical demo**; it is not presented as current Barcelona performance.
+A Barcelona analytics dashboard built with Streamlit and Plotly. **The default view is the current men’s 2026/27 La Liga season.** It shows real fixtures, results, and a team points forecast through all 38 league matches from a public-domain source. Player progress can use a locally uploaded, authorized player-match CSV. Detailed event-data analysis is available in a separately labelled **2015/16 historical demo**; it is not presented as current Barcelona performance.
 
 > **Live Barcelona tracking feed pending licensed SkillCorner access.** No current Barcelona tracking, licensed footage, live data, or medical data is included.
 
 ## Current 2026/27 season
 
-The default dashboard view uses [openfootball/football.json](https://github.com/openfootball/football.json) [CC0](https://github.com/openfootball/football.json/blob/master/LICENSE.md) La Liga fixtures and scores. The checked-in snapshot has 38 scheduled league fixtures and 7 final scores as of 25 September 2026. Use **Refresh current fixtures** in the sidebar, or run:
+The default dashboard view uses [openfootball/football.json](https://github.com/openfootball/football.json) [CC0](https://github.com/openfootball/football.json/blob/master/LICENSE.md) La Liga fixtures and scores. The checked-in snapshot has 38 Barcelona league fixtures and 7 final scores as of 25 September 2026. A separate compact summary includes all 20 clubs: 64 completed matches in 2026/27 and 365 of 380 published results in 2025/26. Use **Refresh league results** in the sidebar, or run:
 
 ```bash
 python scripts/build_current_fixtures.py
+python scripts/build_team_forecast_data.py
 ```
 
 The source does not guarantee a daily upstream update and contains **no player event or tracking data**. I did not find a 2026/27 Barcelona player-match feed with both the required fields and clear permission to republish it in this public repository. The current-season player page therefore accepts an authorized CSV in your local browser session. Download the header-only template in the app or use [`examples/current_player_match_template.csv`](examples/current_player_match_template.csv). Required columns are `matchday,date,player,minutes`; `role` is optional (`FWD`, `MID`, `DEF`, `GK`). Supported optional metrics are `goals,assists,xg,xa,passes,progressive_passes,pressures,recoveries,interceptions,tackles`. Include a numeric value, including zero, for every row of a metric you supply. The app validates season dates, completed matchdays, duplicate player-match rows and nonnegative values. Uploads are not written to disk or GitHub.
 
-With authorized player rows, the current view calculates cumulative per-90 progress, minutes and an **experimental matchday season finish forecast**. The forecast updates as the selected completed-match cutoff moves and supports every metric supplied in the upload. Same-role Europe benchmarks, game-state splits, pass maps and Barcelona off-ball movement remain **pending a licensed current-season feed**. The 2015/16 player observations are never inserted into current-season charts as if they were 2026/27 stats.
+The **team season forecast works without a player upload**. It projects Barcelona's points for every remaining La Liga fixture, using results from all league clubs to adjust for opponents. With authorized player rows, the current view also calculates cumulative per-90 progress, minutes and a separate **experimental individual player finish forecast**. That player forecast updates as the selected completed-match cutoff moves and supports every metric supplied in the upload. Same-role Europe benchmarks, game-state splits, pass maps and Barcelona off-ball movement remain **pending a licensed current-season feed**. Historical player observations are never inserted into current-season charts as if they were 2026/27 stats.
 
-**Current player-match status (25 September 2026): pending.** The public [La Liga player page](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) has current-season totals, but its [site terms](https://www.laliga.com/informacion-legal/legal-web) do not establish permission to republish a player-match dataset here. The independent [Barça API](https://api.fc-barcelona.app/en/docs) exposes squad season totals rather than the match-by-match minutes and event metrics this forecast requires; its [terms](https://api.fc-barcelona.app/en/terms) limit use to personal, non-commercial projects. Neither source was converted into fabricated match rows. No 2026/27 player dataset was uploaded to GitHub. The current fixture snapshot remains available and can be refreshed from its CC0 source.
+**Current player-match status (25 September 2026): pending.** The public [La Liga player page](https://www.laliga.com/en-US/stats/laliga-easports/scorers/team/fc-barcelona) has current-season totals, but its [site terms](https://www.laliga.com/informacion-legal/legal-web) do not establish permission to republish a player-match dataset here. The independent [Barça API](https://api.fc-barcelona.app/en/docs) exposes squad season totals rather than the match-by-match minutes and event metrics this forecast requires; its [terms](https://api.fc-barcelona.app/en/terms) limit use to personal, non-commercial projects. I also found an [XLALIGA player-match CSV download](https://rshiri.github.io/XLALIGA/laliga_dashboard/index.html), but its [declared sources](https://github.com/RShiri/XLALIGA/blob/main/DATA_SOURCES.md) are scraped FotMob and WhoScored data and the repository has no stated reuse licence. None of these sources was converted into fabricated or unlicensed match rows. No 2026/27 player dataset was uploaded to GitHub.
+
+### Team points forecast method
+
+The team forecast uses 2025/26 and completed 2026/27 La Liga scores for **all clubs**, plus Barcelona's 31 scheduled remaining fixtures. Each club's goals scored and allowed per game is estimated from a 20-match prior based on 2025/26 and its current-season results. Promoted clubs use an eight-match league-average prior. The model combines those rates with the prior season's home and away scoring averages, then applies independent Poisson goal distributions for each fixture. It sums win/draw/loss probabilities into expected points and convolves the fixture distributions for a model-based 10th–90th percentile final-points range. This is a simple team-score model, not a player model or a calibrated title prediction. It omits injuries, transfers, schedule congestion, and tactical changes. Fifteen 2025/26 league results are missing from the upstream file and are excluded rather than filled in. A single retrospective check at Barcelona's seventh 2025/26 match projected 90.4 final points (83–98 model range), versus 94 recorded; this check is too small to calibrate uncertainty or establish future accuracy.
 
 ### Experimental forecast method
 
@@ -73,11 +78,16 @@ python scripts/build_data.py --workers 8
 python scripts/build_recent_training.py --workers 6
 python scripts/build_tracking_sample.py
 python scripts/build_current_fixtures.py
+python scripts/build_team_forecast_data.py
 pytest -q
 streamlit run app.py
 ```
 
-The historical scripts stream or download source JSON in memory, write only aggregated outputs to `data/derived/`, and do not persist raw event or tracking files. The current fixture script stores the small CC0 snapshot at `data/current/fixtures.json`. Compact manifests record source, season, match counts and demo status. No credentials or paid account are required.
+The historical scripts stream or download source JSON in memory, write only aggregated outputs to `data/derived/`, and do not persist raw event or tracking files. The current fixture script stores the small CC0 Barcelona snapshot at `data/current/fixtures.json`; the team forecast script stores only compact per-team CC0 goal summaries at `data/current/team_forecast.json`. Compact manifests record source, season, match counts and demo status. No credentials or paid account are required.
+
+## Free deployment
+
+[Streamlit Community Cloud](https://docs.streamlit.io/deploy/streamlit-community-cloud/deploy-your-app/deploy) can host this public GitHub project for free. Sign in at [share.streamlit.io](https://share.streamlit.io/), choose **Create app**, select `prhoguns/barcelona-player-progress-europe-benchmark`, branch `main`, and entrypoint `app.py`. Streamlit installs `requirements.txt` and gives the app a shareable `streamlit.app` URL. The local `127.0.0.1` address works only on your computer. A cloud deployment still needs an authorized player-match feed for individual forecasts; the checked-in team forecast and historical demos work immediately.
 
 ## Historical analytics methodology
 

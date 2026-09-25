@@ -1,0 +1,228 @@
+{
+  "source": "openfootball/football.json",
+  "license": "CC0-1.0",
+  "retrieved_at_utc": "2026-09-25T13:56:16.210378+00:00",
+  "method": "aggregated completed La Liga scores; missing 2025/26 results excluded",
+  "seasons": {
+    "2025-26": {
+      "totals": {
+        "matches": 365,
+        "home_goals": 598,
+        "away_goals": 426
+      },
+      "teams": {
+        "Athletic Club": {
+          "games": 37,
+          "gf": 43,
+          "ga": 58
+        },
+        "CA Osasuna": {
+          "games": 36,
+          "gf": 44,
+          "ga": 50
+        },
+        "Club Atlético de Madrid": {
+          "games": 37,
+          "gf": 62,
+          "ga": 44
+        },
+        "Deportivo Alavés": {
+          "games": 37,
+          "gf": 44,
+          "ga": 56
+        },
+        "Elche CF": {
+          "games": 36,
+          "gf": 49,
+          "ga": 57
+        },
+        "FC Barcelona": {
+          "games": 38,
+          "gf": 95,
+          "ga": 36
+        },
+        "Getafe CF": {
+          "games": 36,
+          "gf": 32,
+          "ga": 38
+        },
+        "Girona FC": {
+          "games": 37,
+          "gf": 39,
+          "ga": 55
+        },
+        "Levante UD": {
+          "games": 36,
+          "gf": 47,
+          "ga": 61
+        },
+        "RC Celta de Vigo": {
+          "games": 36,
+          "gf": 53,
+          "ga": 48
+        },
+        "RCD Espanyol de Barcelona": {
+          "games": 35,
+          "gf": 43,
+          "ga": 55
+        },
+        "RCD Mallorca": {
+          "games": 37,
+          "gf": 47,
+          "ga": 57
+        },
+        "Rayo Vallecano de Madrid": {
+          "games": 35,
+          "gf": 41,
+          "ga": 44
+        },
+        "Real Betis Balompié": {
+          "games": 36,
+          "gf": 59,
+          "ga": 48
+        },
+        "Real Madrid CF": {
+          "games": 37,
+          "gf": 77,
+          "ga": 35
+        },
+        "Real Oviedo": {
+          "games": 33,
+          "gf": 26,
+          "ga": 60
+        },
+        "Real Sociedad de Fútbol": {
+          "games": 38,
+          "gf": 59,
+          "ga": 61
+        },
+        "Sevilla FC": {
+          "games": 38,
+          "gf": 46,
+          "ga": 60
+        },
+        "Valencia CF": {
+          "games": 37,
+          "gf": 46,
+          "ga": 55
+        },
+        "Villarreal CF": {
+          "games": 38,
+          "gf": 72,
+          "ga": 46
+        }
+      },
+      "source_url": "https://raw.githubusercontent.com/openfootball/football.json/master/2025-26/es.1.json"
+    },
+    "2026-27": {
+      "totals": {
+        "matches": 64,
+        "home_goals": 118,
+        "away_goals": 92
+      },
+      "teams": {
+        "Athletic Club": {
+          "games": 5,
+          "gf": 7,
+          "ga": 6
+        },
+        "CA Osasuna": {
+          "games": 6,
+          "gf": 6,
+          "ga": 13
+        },
+        "Club Atlético de Madrid": {
+          "games": 7,
+          "gf": 16,
+          "ga": 7
+        },
+        "Deportivo Alavés": {
+          "games": 6,
+          "gf": 11,
+          "ga": 6
+        },
+        "Elche CF": {
+          "games": 7,
+          "gf": 11,
+          "ga": 17
+        },
+        "FC Barcelona": {
+          "games": 7,
+          "gf": 31,
+          "ga": 7
+        },
+        "Getafe CF": {
+          "games": 7,
+          "gf": 4,
+          "ga": 7
+        },
+        "Levante UD": {
+          "games": 4,
+          "gf": 8,
+          "ga": 12
+        },
+        "Málaga CF": {
+          "games": 6,
+          "gf": 3,
+          "ga": 12
+        },
+        "RC Celta de Vigo": {
+          "games": 5,
+          "gf": 8,
+          "ga": 6
+        },
+        "RC Deportivo La Coruña": {
+          "games": 7,
+          "gf": 10,
+          "ga": 8
+        },
+        "RCD Espanyol de Barcelona": {
+          "games": 7,
+          "gf": 10,
+          "ga": 10
+        },
+        "Rayo Vallecano de Madrid": {
+          "games": 7,
+          "gf": 11,
+          "ga": 16
+        },
+        "Real Betis Balompié": {
+          "games": 7,
+          "gf": 9,
+          "ga": 7
+        },
+        "Real Madrid CF": {
+          "games": 7,
+          "gf": 18,
+          "ga": 8
+        },
+        "Real Racing Club de Santander": {
+          "games": 7,
+          "gf": 11,
+          "ga": 21
+        },
+        "Real Sociedad de Fútbol": {
+          "games": 6,
+          "gf": 9,
+          "ga": 13
+        },
+        "Sevilla FC": {
+          "games": 7,
+          "gf": 10,
+          "ga": 9
+        },
+        "Valencia CF": {
+          "games": 6,
+          "gf": 4,
+          "ga": 13
+        },
+        "Villarreal CF": {
+          "games": 7,
+          "gf": 13,
+          "ga": 12
+        }
+      },
+      "source_url": "https://raw.githubusercontent.com/openfootball/football.json/master/2026-27/es.1.json"
+    }
+  }
+}
