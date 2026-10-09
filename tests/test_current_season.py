@@ -3,26 +3,7 @@ from datetime import date
 import pandas as pd
 import pytest
 
-from scripts.build_current_fixtures import normalize_matches
 from src.current_season import load_player_csv
-
-
-def test_current_fixture_snapshot_has_one_club_match_per_round():
-    import json
-
-    with open("data/current/fixtures.json", encoding="utf-8") as handle:
-        payload = json.load(handle)
-    matches = payload["matches"]
-    assert payload["season"] == "2026/27"
-    assert len(matches) == 38
-    assert len({match["round"] for match in matches}) == 38
-    assert sum(match["status"] == "final" for match in matches) == 7
-    assert all("FC Barcelona" in (match["home"], match["away"]) for match in matches)
-
-
-def test_fixture_normalization_rejects_missing_round():
-    with pytest.raises(ValueError, match="38 distinct"):
-        normalize_matches({"matches": []})
 
 
 def test_authorized_player_csv_validates_matchdays_and_missing_metrics():

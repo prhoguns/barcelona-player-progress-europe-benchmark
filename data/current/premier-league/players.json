@@ -1,0 +1,2582 @@
+{
+ "source": "English Wikipedia club season pages (CC BY-SA 4.0)",
+ "clubs": {
+  "Arsenal": {
+   "page": "2026–27 Arsenal F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Martin Ødegaard",
+     "player": "Martin Ødegaard",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 1,
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Bukayo Saka",
+     "player": "Bukayo Saka",
+     "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Kai Havertz",
+     "player": "Kai Havertz",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 1,
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Max Dowman",
+     "player": "Max Dowman",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Bruno Guimarães",
+     "player": "Bruno Guimarães",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mikel Merino",
+     "player": "Mikel Merino",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Noni Madueke",
+     "player": "Noni Madueke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Riccardo Calafiori",
+     "player": "Riccardo Calafiori",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 1,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    15,
+    23,
+    49,
+    59,
+    25,
+    50,
+    58,
+    90
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Bukayo Saka",
+     "player": "Bukayo Saka",
+     "goals": 3,
+     "previous_share": 0.0986,
+     "projected": 10.1807,
+     "low": 4.0,
+     "high": 19.0
+    },
+    {
+     "player_id": "Kai Havertz",
+     "player": "Kai Havertz",
+     "goals": 2,
+     "previous_share": 0.0282,
+     "projected": 5.8444,
+     "low": 2.0,
+     "high": 11.0
+    },
+    {
+     "player_id": "Martin Ødegaard",
+     "player": "Martin Ødegaard",
+     "goals": 2,
+     "previous_share": 0.0141,
+     "projected": 5.4909,
+     "low": 2.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Bruno Guimarães",
+     "player": "Bruno Guimarães",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.5687,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 46.6634
+  },
+  "Aston Villa": {
+   "page": "2026–27 Aston Villa F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Emiliano Buendía",
+     "player": "Emiliano Buendía",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "UEFA Super Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Nicolas Jackson",
+     "player": "Nicolas Jackson",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "UEFA Super Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Tammy Abraham",
+     "player": "Tammy Abraham",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Champions League": 0,
+      "UEFA Super Cup": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Alysson (footballer, born 2006)",
+     "player": "Alysson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "UEFA Super Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Johan Manzambi",
+     "player": "Johan Manzambi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "UEFA Super Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Brian Madjo",
+     "player": "Brian Madjo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "UEFA Super Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "John McGinn",
+     "player": "John McGinn",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "UEFA Super Cup": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Ross Barkley",
+     "player": "Ross Barkley",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "UEFA Super Cup": 0,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    74,
+    45,
+    67,
+    79
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Emiliano Buendía",
+     "player": "Emiliano Buendía",
+     "goals": 1,
+     "previous_share": 0.1071,
+     "projected": 4.7822,
+     "low": 1.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Alysson (footballer, born 2006)",
+     "player": "Alysson",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3934,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Johan Manzambi",
+     "player": "Johan Manzambi",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3934,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Nicolas Jackson",
+     "player": "Nicolas Jackson",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3934,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 42.2014
+  },
+  "Bournemouth": {
+   "page": "2026–27 AFC Bournemouth season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Marcus Tavernier",
+     "player": "Marcus Tavernier",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Ryan Christie",
+     "player": "Ryan Christie",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 3,
+      "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Justin Kluivert",
+     "player": "Justin Kluivert",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Rayan (footballer, born 2006)",
+     "player": "Rayan",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Alex Scott (footballer, born 2003)",
+     "player": "Alex Scott",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    26,
+    41,
+    9,
+    38,
+    52
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Marcus Tavernier",
+     "player": "Marcus Tavernier",
+     "goals": 3,
+     "previous_share": 0.1207,
+     "projected": 9.2619,
+     "low": 4.0,
+     "high": 17.0
+    },
+    {
+     "player_id": "Alex Scott (footballer, born 2003)",
+     "player": "Alex Scott",
+     "goals": 1,
+     "previous_share": 0.0517,
+     "projected": 3.3209,
+     "low": 1.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Justin Kluivert",
+     "player": "Justin Kluivert",
+     "goals": 1,
+     "previous_share": 0.0345,
+     "projected": 2.9705,
+     "low": 1.0,
+     "high": 6.0
+    }
+   ],
+   "unassigned_remaining": 37.7029
+  },
+  "Brentford": {
+   "page": "2026–27 Brentford F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Kevin Schade",
+     "player": "Kevin Schade",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Fábio Carvalho (footballer, born 2002)",
+     "player": "Fábio Carvalho",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Callum Wilson",
+     "player": "Callum Wilson",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Nathan Collins",
+     "player": "Nathan Collins",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Igor Thiago",
+     "player": "Igor Thiago",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Vitaly Janelt",
+     "player": "Vitaly Janelt",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Aaron Hickey",
+     "player": "Aaron Hickey",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Keane Lewis-Potter",
+     "player": "Keane Lewis-Potter",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Jaidon Anthony",
+     "player": "Jaidon Anthony",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mikkel Damsgaard",
+     "player": "Mikkel Damsgaard",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Michael Kayode",
+     "player": "Michael Kayode",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    12,
+    33,
+    49,
+    41,
+    57,
+    34,
+    56,
+    61,
+    83,
+    90
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Igor Thiago",
+     "player": "Igor Thiago",
+     "goals": 1,
+     "previous_share": 0.4,
+     "projected": 9.7766,
+     "low": 2.0,
+     "high": 20.0
+    },
+    {
+     "player_id": "Kevin Schade",
+     "player": "Kevin Schade",
+     "goals": 3,
+     "previous_share": 0.1455,
+     "projected": 9.3183,
+     "low": 4.0,
+     "high": 17.0
+    },
+    {
+     "player_id": "Vitaly Janelt",
+     "player": "Vitaly Janelt",
+     "goals": 2,
+     "previous_share": 0.0182,
+     "projected": 4.7171,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Keane Lewis-Potter",
+     "player": "Keane Lewis-Potter",
+     "goals": 1,
+     "previous_share": 0.0545,
+     "projected": 3.2211,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Fábio Carvalho (footballer, born 2002)",
+     "player": "Fábio Carvalho",
+     "goals": 1,
+     "previous_share": 0.0182,
+     "projected": 2.5311,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Michael Kayode",
+     "player": "Michael Kayode",
+     "goals": 1,
+     "previous_share": 0.0182,
+     "projected": 2.5311,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Jaidon Anthony",
+     "player": "Jaidon Anthony",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.186,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 25.532
+  },
+  "Brighton": {
+   "page": "2026–27 Brighton & Hove Albion F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Charalampos Kostoulas",
+     "player": "Charalampos Kostoulas",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Conference League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Pascal Groß",
+     "player": "Pascal Groß",
+     "goals": 4,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Conference League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Maxim De Cuyper",
+     "player": "Maxim De Cuyper",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Conference League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Malick Yalcouyé",
+     "player": "Malick Yalcouyé",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Jack Hinshelwood",
+     "player": "Jack Hinshelwood",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Chema Andrés",
+     "player": "Chema Andrés",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Lewis Dunk",
+     "player": "Lewis Dunk",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mats Wieffer",
+     "player": "Mats Wieffer",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Luka Vušković",
+     "player": "Luka Vušković",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Olivier Boscagli",
+     "player": "Olivier Boscagli",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Yasin Ayari",
+     "player": "Yasin Ayari",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    18,
+    30,
+    31,
+    35,
+    90,
+    71,
+    35,
+    51,
+    70,
+    83,
+    90,
+    31,
+    45,
+    57
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Pascal Groß",
+     "player": "Pascal Groß",
+     "goals": 3,
+     "previous_share": 0.0192,
+     "projected": 6.7277,
+     "low": 3.0,
+     "high": 12.0
+    },
+    {
+     "player_id": "Jack Hinshelwood",
+     "player": "Jack Hinshelwood",
+     "goals": 2,
+     "previous_share": 0.0769,
+     "projected": 5.641,
+     "low": 2.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Charalampos Kostoulas",
+     "player": "Charalampos Kostoulas",
+     "goals": 2,
+     "previous_share": 0.0385,
+     "projected": 4.9475,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Malick Yalcouyé",
+     "player": "Malick Yalcouyé",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.254,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Yasin Ayari",
+     "player": "Yasin Ayari",
+     "goals": 1,
+     "previous_share": 0.0577,
+     "projected": 3.1673,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Maxim De Cuyper",
+     "player": "Maxim De Cuyper",
+     "goals": 1,
+     "previous_share": 0.0385,
+     "projected": 2.8205,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Lewis Dunk",
+     "player": "Lewis Dunk",
+     "goals": 1,
+     "previous_share": 0.0192,
+     "projected": 2.4738,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Luka Vušković",
+     "player": "Luka Vušković",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.127,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Chema Andrés",
+     "player": "Chema Andrés",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.127,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 33.8096
+  },
+  "Chelsea": {
+   "page": "2026–27 Chelsea F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Cole Palmer",
+     "player": "Cole Palmer",
+     "goals": 4,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Danny Welbeck",
+     "player": "Danny Welbeck",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 3,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "João Pedro (footballer, born 2001)",
+     "player": "João Pedro",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Morgan Rogers",
+     "player": "Morgan Rogers",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Pedro Neto",
+     "player": "Pedro Neto",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Roméo Lavia",
+     "player": "Roméo Lavia",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Valentín Barco",
+     "player": "Valentín Barco",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    1,
+    41,
+    49,
+    4,
+    14,
+    32,
+    74,
+    2,
+    7,
+    66
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "João Pedro (footballer, born 2001)",
+     "player": "João Pedro",
+     "goals": 3,
+     "previous_share": 0.2586,
+     "projected": 12.2817,
+     "low": 4.0,
+     "high": 23.0
+    },
+    {
+     "player_id": "Cole Palmer",
+     "player": "Cole Palmer",
+     "goals": 2,
+     "previous_share": 0.1724,
+     "projected": 8.1878,
+     "low": 3.0,
+     "high": 16.0
+    },
+    {
+     "player_id": "Morgan Rogers",
+     "player": "Morgan Rogers",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 6.901,
+     "low": 3.0,
+     "high": 12.0
+    },
+    {
+     "player_id": "Pedro Neto",
+     "player": "Pedro Neto",
+     "goals": 1,
+     "previous_share": 0.0862,
+     "projected": 4.0939,
+     "low": 1.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Roméo Lavia",
+     "player": "Roméo Lavia",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3003,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 30.8494
+  },
+  "Coventry": {
+   "page": "2026–27 Coventry City F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Victor Torp",
+     "player": "Victor Torp",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Ephron Mason-Clark",
+     "player": "Ephron Mason-Clark",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jack Rudoni",
+     "player": "Jack Rudoni",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jay Dasilva",
+     "player": "Jay Dasilva",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Taiwo Awoniyi",
+     "player": "Taiwo Awoniyi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    55
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Jay Dasilva",
+     "player": "Jay Dasilva",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0838,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 34.6823
+  },
+  "Crystal Palace": {
+   "page": "2026–27 Crystal Palace F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Jørgen Strand Larsen",
+     "player": "Jørgen Strand Larsen",
+     "goals": 4,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Europa League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Tyrick Mitchell",
+     "player": "Tyrick Mitchell",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Anan Khalaili",
+     "player": "Anan Khalaili",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ben Chilwell",
+     "player": "Ben Chilwell",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Daichi Kamada",
+     "player": "Daichi Kamada",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Chris Richards (soccer)",
+     "player": "Chris Richards",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Eddie Nketiah",
+     "player": "Eddie Nketiah",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Yéremy Pino",
+     "player": "Yéremy Pino",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    35,
+    54,
+    77,
+    14,
+    75
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Tyrick Mitchell",
+     "player": "Tyrick Mitchell",
+     "goals": 2,
+     "previous_share": 0.0244,
+     "projected": 4.6708,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Jørgen Strand Larsen",
+     "player": "Jørgen Strand Larsen",
+     "goals": 1,
+     "previous_share": 0.0732,
+     "projected": 3.4255,
+     "low": 1.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Ben Chilwell",
+     "player": "Ben Chilwell",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1174,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Anan Khalaili",
+     "player": "Anan Khalaili",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1174,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 35.1294
+  },
+  "Everton": {
+   "page": "2026–27 Everton F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Thierno Barry (footballer, born 2002)",
+     "player": "Thierno Barry",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 3,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Brennan Johnson",
+     "player": "Brennan Johnson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Ainsley Maitland-Niles",
+     "player": "Ainsley Maitland-Niles",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Charly Alcaraz",
+     "player": "Charly Alcaraz",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "James Tarkowski",
+     "player": "James Tarkowski",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Kiernan Dewsbury-Hall",
+     "player": "Kiernan Dewsbury-Hall",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Tyrique George",
+     "player": "Tyrique George",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    42,
+    53,
+    90,
+    83,
+    90,
+    11
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Thierno Barry (footballer, born 2002)",
+     "player": "Thierno Barry",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.1317,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Ainsley Maitland-Niles",
+     "player": "Ainsley Maitland-Niles",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0658,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "James Tarkowski",
+     "player": "James Tarkowski",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0658,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Kiernan Dewsbury-Hall",
+     "player": "Kiernan Dewsbury-Hall",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0658,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Tyrique George",
+     "player": "Tyrique George",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0658,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 34.1066
+  },
+  "Fulham": {
+   "page": "2026–27 Fulham F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "César Palacios (footballer, born 2004)",
+     "player": "César Palacios",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Gonzalo García (footballer, born 2004)",
+     "player": "Gonzalo García",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Rodrigo Muniz (Brazilian footballer)",
+     "player": "Rodrigo Muniz",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Josh King (footballer, born 2007)",
+     "player": "Josh King",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Emile Smith Rowe",
+     "player": "Emile Smith Rowe",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Oscar Bobb",
+     "player": "Oscar Bobb",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    23,
+    54,
+    11,
+    42
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Josh King (footballer, born 2007)",
+     "player": "Josh King",
+     "goals": 2,
+     "previous_share": 0.0213,
+     "projected": 4.7136,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "César Palacios (footballer, born 2004)",
+     "player": "César Palacios",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1594,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Gonzalo García (footballer, born 2004)",
+     "player": "Gonzalo García",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1594,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 37.8664
+  },
+  "Hull": {
+   "page": "2026–27 Hull City A.F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Mohamed Belloumi",
+     "player": "Mohamed Belloumi",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Kieran Dowell",
+     "player": "Kieran Dowell",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Liam Millar",
+     "player": "Liam Millar",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mohamed-Ali Cho",
+     "player": "Mohamed-Ali Cho",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Nobel Mendy",
+     "player": "Nobel Mendy",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Semi Ajayi",
+     "player": "Semi Ajayi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    17,
+    38,
+    82,
+    28,
+    34,
+    67
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Mohamed Belloumi",
+     "player": "Mohamed Belloumi",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.9711,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Liam Millar",
+     "player": "Liam Millar",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9856,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Mohamed-Ali Cho",
+     "player": "Mohamed-Ali Cho",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9856,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Nobel Mendy",
+     "player": "Nobel Mendy",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9856,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Semi Ajayi",
+     "player": "Semi Ajayi",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9856,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 31.5381
+  },
+  "Ipswich": {
+   "page": "2026–27 Ipswich Town F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Chuba Akpom",
+     "player": "Chuba Akpom",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Emersonn",
+     "player": "Emersonn",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Marcelino Núñez",
+     "player": "Marcelino Núñez",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Leif Davis",
+     "player": "Leif Davis",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Jack Clarke (footballer, born 2000)",
+     "player": "Jack Clarke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Anis Mehmeti",
+     "player": "Anis Mehmeti",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Sindre Walle Egeli",
+     "player": "Sindre Walle Egeli",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Zian Flemming",
+     "player": "Zian Flemming",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    24,
+    90,
+    29,
+    90,
+    23,
+    45,
+    90
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Emersonn",
+     "player": "Emersonn",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.9495,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Leif Davis",
+     "player": "Leif Davis",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.9495,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Chuba Akpom",
+     "player": "Chuba Akpom",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9748,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Jack Clarke (footballer, born 2000)",
+     "player": "Jack Clarke",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9748,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Zian Flemming",
+     "player": "Zian Flemming",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9748,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 31.1924
+  },
+  "Leeds": {
+   "page": "2026–27 Leeds United F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Dominic Calvert-Lewin",
+     "player": "Dominic Calvert-Lewin",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Anton Stach",
+     "player": "Anton Stach",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Brenden Aaronson",
+     "player": "Brenden Aaronson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Daniel James (footballer)",
+     "player": "Daniel James",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "James Justin",
+     "player": "James Justin",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jayden Bogle",
+     "player": "Jayden Bogle",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Noah Okafor",
+     "player": "Noah Okafor",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Tarik Muharemović",
+     "player": "Tarik Muharemović",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    88,
+    79,
+    15,
+    34,
+    45,
+    59
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Dominic Calvert-Lewin",
+     "player": "Dominic Calvert-Lewin",
+     "goals": 3,
+     "previous_share": 0.2857,
+     "projected": 10.6683,
+     "low": 4.0,
+     "high": 20.0
+    },
+    {
+     "player_id": "Noah Okafor",
+     "player": "Noah Okafor",
+     "goals": 1,
+     "previous_share": 0.1633,
+     "projected": 4.6585,
+     "low": 1.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Anton Stach",
+     "player": "Anton Stach",
+     "goals": 1,
+     "previous_share": 0.102,
+     "projected": 3.6663,
+     "low": 1.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Jayden Bogle",
+     "player": "Jayden Bogle",
+     "goals": 1,
+     "previous_share": 0.0204,
+     "projected": 2.3435,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 24.1623
+  },
+  "Liverpool": {
+   "page": "2026–27 Liverpool F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Alexander Isak",
+     "player": "Alexander Isak",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 4
+     }
+    },
+    {
+     "player_id": "Dominik Szoboszlai",
+     "player": "Dominik Szoboszlai",
+     "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Alexis Mac Allister",
+     "player": "Alexis Mac Allister",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Cody Gakpo",
+     "player": "Cody Gakpo",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Víctor Muñoz (footballer, born 2003)",
+     "player": "Víctor Muñoz",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    55,
+    90,
+    82,
+    60,
+    6,
+    9,
+    57
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Alexander Isak",
+     "player": "Alexander Isak",
+     "goals": 4,
+     "previous_share": 0.0476,
+     "projected": 11.717,
+     "low": 5.0,
+     "high": 21.0
+    },
+    {
+     "player_id": "Cody Gakpo",
+     "player": "Cody Gakpo",
+     "goals": 1,
+     "previous_share": 0.1111,
+     "projected": 5.5016,
+     "low": 1.0,
+     "high": 11.0
+    },
+    {
+     "player_id": "Dominik Szoboszlai",
+     "player": "Dominik Szoboszlai",
+     "goals": 1,
+     "previous_share": 0.0952,
+     "projected": 5.09,
+     "low": 1.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Víctor Muñoz (footballer, born 2003)",
+     "player": "Víctor Muñoz",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.6206,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 45.273
+  },
+  "Man City": {
+   "page": "2026–27 Manchester City F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Erling Haaland",
+     "player": "Erling Haaland",
+     "goals": 7,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 2,
+      "league": 5
+     }
+    },
+    {
+     "player_id": "Rayan Cherki",
+     "player": "Rayan Cherki",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Floyd Samba",
+     "player": "Floyd Samba",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Antoine Semenyo",
+     "player": "Antoine Semenyo",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Allan (footballer, born 2004)",
+     "player": "Allan",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Enzo Fernández",
+     "player": "Enzo Fernández",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Joško Gvardiol",
+     "player": "Joško Gvardiol",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Marc Guéhi",
+     "player": "Marc Guéhi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ryan McAidoo",
+     "player": "Ryan McAidoo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    84,
+    90,
+    17,
+    84,
+    54,
+    59,
+    26,
+    60,
+    9,
+    29,
+    43,
+    57,
+    81
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Erling Haaland",
+     "player": "Erling Haaland",
+     "goals": 5,
+     "previous_share": 0.3506,
+     "projected": 21.533,
+     "low": 7.0,
+     "high": 41.0
+    },
+    {
+     "player_id": "Rayan Cherki",
+     "player": "Rayan Cherki",
+     "goals": 3,
+     "previous_share": 0.0519,
+     "projected": 8.9697,
+     "low": 4.0,
+     "high": 16.0
+    },
+    {
+     "player_id": "Antoine Semenyo",
+     "player": "Antoine Semenyo",
+     "goals": 2,
+     "previous_share": 0.0909,
+     "projected": 7.3828,
+     "low": 2.0,
+     "high": 14.0
+    },
+    {
+     "player_id": "Joško Gvardiol",
+     "player": "Joško Gvardiol",
+     "goals": 1,
+     "previous_share": 0.026,
+     "projected": 3.2057,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Marc Guéhi",
+     "player": "Marc Guéhi",
+     "goals": 1,
+     "previous_share": 0.013,
+     "projected": 2.882,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Enzo Fernández",
+     "player": "Enzo Fernández",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.5582,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 36.5871
+  },
+  "Man United": {
+   "page": "2026–27 Manchester United F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 0 of 5 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Newcastle": {
+   "page": "2026–27 Newcastle United F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Harvey Barnes",
+     "player": "Harvey Barnes",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Joe Willock",
+     "player": "Joe Willock",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Anthony Elanga",
+     "player": "Anthony Elanga",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Bazoumana Touré",
+     "player": "Bazoumana Touré",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Jacob Ramsey",
+     "player": "Jacob Ramsey",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Lewis Hall (footballer)",
+     "player": "Lewis Hall",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Yoane Wissa",
+     "player": "Yoane Wissa",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    5,
+    57,
+    62,
+    72,
+    37,
+    88,
+    90,
+    3,
+    7
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Harvey Barnes",
+     "player": "Harvey Barnes",
+     "goals": 1,
+     "previous_share": 0.1321,
+     "projected": 5.0854,
+     "low": 1.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Anthony Elanga",
+     "player": "Anthony Elanga",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.6245,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Joe Willock",
+     "player": "Joe Willock",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.6245,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Jacob Ramsey",
+     "player": "Jacob Ramsey",
+     "goals": 1,
+     "previous_share": 0.0377,
+     "projected": 3.1046,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Lewis Hall (footballer)",
+     "player": "Lewis Hall",
+     "goals": 1,
+     "previous_share": 0.0189,
+     "projected": 2.7084,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Yoane Wissa",
+     "player": "Yoane Wissa",
+     "goals": 1,
+     "previous_share": 0.0189,
+     "projected": 2.7084,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Bazoumana Touré",
+     "player": "Bazoumana Touré",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3123,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 37.635
+  },
+  "Nott'm Forest": {
+   "page": "2026–27 Nottingham Forest F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Dan Ndoye",
+     "player": "Dan Ndoye",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Igor Jesus (footballer, born 2001)",
+     "player": "Igor Jesus",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Liam Delap",
+     "player": "Liam Delap",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Morgan Gibbs-White",
+     "player": "Morgan Gibbs-White",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    24,
+    70,
+    46,
+    88
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Morgan Gibbs-White",
+     "player": "Morgan Gibbs-White",
+     "goals": 1,
+     "previous_share": 0.3125,
+     "projected": 8.1518,
+     "low": 2.0,
+     "high": 17.0
+    },
+    {
+     "player_id": "Igor Jesus (footballer, born 2001)",
+     "player": "Igor Jesus",
+     "goals": 1,
+     "previous_share": 0.125,
+     "projected": 4.5759,
+     "low": 1.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Dan Ndoye",
+     "player": "Dan Ndoye",
+     "goals": 1,
+     "previous_share": 0.0208,
+     "projected": 2.5893,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Liam Delap",
+     "player": "Liam Delap",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.192,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 29.4019
+  },
+  "Sunderland": {
+   "page": "2026–27 Sunderland A.F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Brian Brobbey",
+     "player": "Brian Brobbey",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Enzo Le Fée",
+     "player": "Enzo Le Fée",
+     "goals": 2,
+     "penalties": 2,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Chemsdine Talbi",
+     "player": "Chemsdine Talbi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Nilson Angulo",
+     "player": "Nilson Angulo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Wilson Isidor",
+     "player": "Wilson Isidor",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    39,
+    75,
+    82,
+    12,
+    33,
+    59
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Brian Brobbey",
+     "player": "Brian Brobbey",
+     "goals": 3,
+     "previous_share": 0.1667,
+     "projected": 8.5676,
+     "low": 3.0,
+     "high": 16.0
+    },
+    {
+     "player_id": "Wilson Isidor",
+     "player": "Wilson Isidor",
+     "goals": 1,
+     "previous_share": 0.1429,
+     "projected": 4.2283,
+     "low": 1.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Enzo Le Fée",
+     "player": "Enzo Le Fée",
+     "goals": 1,
+     "previous_share": 0.119,
+     "projected": 3.854,
+     "low": 1.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Nilson Angulo",
+     "player": "Nilson Angulo",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9825,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 24.7035
+  },
+  "Tottenham": {
+   "page": "2026–27 Tottenham Hotspur F.C. season",
+   "matches_checked": 5,
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Conor Gallagher",
+     "player": "Conor Gallagher",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ben Davies (footballer, born 1993)",
+     "player": "Ben Davies",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Dominic Solanke",
+     "player": "Dominic Solanke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jan Paul van Hecke",
+     "player": "Jan Paul van Hecke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Kevin Danso",
+     "player": "Kevin Danso",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Mikey Moore",
+     "player": "Mikey Moore",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Sávio (footballer, born 2004)",
+     "player": "Sávio",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    90,
+    86
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Conor Gallagher",
+     "player": "Conor Gallagher",
+     "goals": 1,
+     "previous_share": 0.0208,
+     "projected": 2.8767,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Jan Paul van Hecke",
+     "player": "Jan Paul van Hecke",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4075,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 44.572
+  }
+ }
+}
