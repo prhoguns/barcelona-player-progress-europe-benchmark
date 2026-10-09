@@ -1,0 +1,1658 @@
+{
+ "source": "English Wikipedia club season pages (CC BY-SA 4.0)",
+ "clubs": {
+  "Alaves": {
+   "page": "2026–27 Deportivo Alavés season",
+   "matches_checked": 7,
+   "matches_complete": 2,
+   "all_competitions": [
+    {
+     "player_id": "Lucas Boyé",
+     "player": "Lucas Boyé",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mariano Díaz",
+     "player": "Mariano Díaz",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mikel Rodríguez",
+     "player": "Mikel Rodríguez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Nahuel Tenaglia",
+     "player": "Nahuel Tenaglia",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    73,
+    90,
+    90,
+    31
+   ],
+   "status": "Wikipedia scorers add up for 2 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Ath Bilbao": {
+   "page": "2026–27 Athletic Bilbao season",
+   "matches_checked": 6,
+   "matches_complete": 6,
+   "all_competitions": [
+    {
+     "player_id": "Aitor Paredes",
+     "player": "Aitor Paredes",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Nico Williams",
+     "player": "Nico Williams",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Oihan Sancet",
+     "player": "Oihan Sancet",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Robert Navarro",
+     "player": "Robert Navarro",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Víctor Chust",
+     "player": "Víctor Chust",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "|Navarro]]",
+     "player": "|Navarro]]",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Álex Berenguer",
+     "player": "Álex Berenguer",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    70,
+    20,
+    22,
+    46,
+    48,
+    90,
+    79
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Aitor Paredes",
+     "player": "Aitor Paredes",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Nico Williams",
+     "player": "Nico Williams",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Oihan Sancet",
+     "player": "Oihan Sancet",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Robert Navarro",
+     "player": "Robert Navarro",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Víctor Chust",
+     "player": "Víctor Chust",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "|Navarro]]",
+     "player": "|Navarro]]",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Álex Berenguer",
+     "player": "Álex Berenguer",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3309,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 31.9419
+  },
+  "Ath Madrid": {
+   "page": "2026–27 Atlético Madrid season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Álex Baena",
+     "player": "Álex Baena",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 4
+     }
+    },
+    {
+     "player_id": "Jonathan David",
+     "player": "Jonathan David",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Álex Grimaldo",
+     "player": "Álex Grimaldo",
+     "goals": 2,
+     "penalties": 2,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Lee Kang-in",
+     "player": "Lee Kang-in",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Giuliano Simeone",
+     "player": "Giuliano Simeone",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Ademola Lookman",
+     "player": "Ademola Lookman",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Marc Pubill",
+     "player": "Marc Pubill",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Robin Le Normand",
+     "player": "Robin Le Normand",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Marcos Llorente",
+     "player": "Marcos Llorente",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    70,
+    85,
+    59,
+    85,
+    4,
+    33,
+    26,
+    84,
+    90,
+    90,
+    24,
+    54,
+    63,
+    82,
+    53,
+    59
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Álex Baena",
+     "player": "Álex Baena",
+     "goals": 4,
+     "previous_share": 0.0323,
+     "projected": 10.0366,
+     "low": 5.0,
+     "high": 17.0
+    },
+    {
+     "player_id": "Jonathan David",
+     "player": "Jonathan David",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 7.128,
+     "low": 3.0,
+     "high": 12.0
+    },
+    {
+     "player_id": "Giuliano Simeone",
+     "player": "Giuliano Simeone",
+     "goals": 2,
+     "previous_share": 0.0645,
+     "projected": 5.8173,
+     "low": 2.0,
+     "high": 11.0
+    },
+    {
+     "player_id": "Lee Kang-in",
+     "player": "Lee Kang-in",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.752,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Álex Grimaldo",
+     "player": "Álex Grimaldo",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.752,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Ademola Lookman",
+     "player": "Ademola Lookman",
+     "goals": 1,
+     "previous_share": 0.0645,
+     "projected": 3.4413,
+     "low": 1.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Robin Le Normand",
+     "player": "Robin Le Normand",
+     "goals": 1,
+     "previous_share": 0.0161,
+     "projected": 2.6423,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Marc Pubill",
+     "player": "Marc Pubill",
+     "goals": 1,
+     "previous_share": 0.0161,
+     "projected": 2.6423,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 29.828
+  },
+  "Barcelona": {
+   "page": "2026–27 FC Barcelona season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Raphinha",
+     "player": "Raphinha",
+     "goals": 14,
+     "penalties": 3,
+     "by_competition": {
+      "UEFA Champions League": 2,
+      "league": 12
+     }
+    },
+    {
+     "player_id": "Lamine Yamal",
+     "player": "Lamine Yamal",
+     "goals": 8,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 7
+     }
+    },
+    {
+     "player_id": "Fermín López",
+     "player": "Fermín López",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 4
+     }
+    },
+    {
+     "player_id": "Karim Adeyemi",
+     "player": "Karim Adeyemi",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Gabriel Jesus",
+     "player": "Gabriel Jesus",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "João Cancelo",
+     "player": "João Cancelo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Pedri",
+     "player": "Pedri",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Xavi Espart",
+     "player": "Xavi Espart",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    14,
+    67,
+    45,
+    71,
+    79,
+    37,
+    82,
+    19,
+    71,
+    21,
+    90,
+    6,
+    84,
+    22,
+    50,
+    79,
+    5,
+    19,
+    48,
+    90,
+    8,
+    25,
+    42,
+    67,
+    89,
+    79,
+    22,
+    52,
+    69
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Raphinha",
+     "player": "Raphinha",
+     "goals": 12,
+     "previous_share": 0.1368,
+     "projected": 31.738,
+     "low": 15.0,
+     "high": 53.0
+    },
+    {
+     "player_id": "Lamine Yamal",
+     "player": "Lamine Yamal",
+     "goals": 7,
+     "previous_share": 0.1684,
+     "projected": 20.052,
+     "low": 9.0,
+     "high": 35.0
+    },
+    {
+     "player_id": "Fermín López",
+     "player": "Fermín López",
+     "goals": 4,
+     "previous_share": 0.0632,
+     "projected": 10.8839,
+     "low": 5.0,
+     "high": 19.0
+    },
+    {
+     "player_id": "Karim Adeyemi",
+     "player": "Karim Adeyemi",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.8937,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Pedri",
+     "player": "Pedri",
+     "goals": 1,
+     "previous_share": 0.0211,
+     "projected": 2.8124,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "João Cancelo",
+     "player": "João Cancelo",
+     "goals": 1,
+     "previous_share": 0.0211,
+     "projected": 2.8124,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Gabriel Jesus",
+     "player": "Gabriel Jesus",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4468,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Xavi Espart",
+     "player": "Xavi Espart",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4468,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 30.4903
+  },
+  "Betis": {
+   "page": "2026–27 Real Betis season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Marc Bartra",
+     "player": "Marc Bartra",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 2,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Cucho Hernández",
+     "player": "Cucho Hernández",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Troy Parrott",
+     "player": "Troy Parrott",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Rodrigo Riquelme (footballer, born 2000)",
+     "player": "Rodrigo Riquelme",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Abde Ezzalzouli",
+     "player": "Abde Ezzalzouli",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Pablo García (footballer, born 2006)",
+     "player": "Pablo García",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Natan (footballer, born 2001)",
+     "player": "Natan",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    63,
+    83,
+    34,
+    45,
+    81,
+    39,
+    43,
+    45,
+    43
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Cucho Hernández",
+     "player": "Cucho Hernández",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.8595,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Rodrigo Riquelme (footballer, born 2000)",
+     "player": "Rodrigo Riquelme",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.8595,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Abde Ezzalzouli",
+     "player": "Abde Ezzalzouli",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4297,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Marc Bartra",
+     "player": "Marc Bartra",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4297,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Natan (footballer, born 2001)",
+     "player": "Natan",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4297,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Pablo García (footballer, born 2006)",
+     "player": "Pablo García",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4297,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Troy Parrott",
+     "player": "Troy Parrott",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.4297,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 34.3136
+  },
+  "Celta": {
+   "page": "2026–27 RC Celta de Vigo season",
+   "matches_checked": 7,
+   "matches_complete": 3,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 3 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Elche": {
+   "page": "2026–27 Elche CF season",
+   "matches_checked": 0,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "No Wikipedia season page with match details was found for this club."
+  },
+  "Espanol": {
+   "page": "2026–27 RCD Espanyol season",
+   "matches_checked": 7,
+   "matches_complete": 4,
+   "all_competitions": [
+    {
+     "player_id": "Roberto Fernández (footballer, born 2002)",
+     "player": "Roberto Fernández",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Marcos Fernández (footballer, born May 2003)",
+     "player": "Marcos Fernández",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Tyrhys Dolan",
+     "player": "Tyrhys Dolan",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Álex Calatrava (footballer)",
+     "player": "Álex Calatrava",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    5,
+    40,
+    80,
+    30,
+    45,
+    90
+   ],
+   "status": "Wikipedia scorers add up for 4 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Getafe": {
+   "page": "2026–27 Getafe CF season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Enes Ünal",
+     "player": "Enes Ünal",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Iván Azón",
+     "player": "Iván Azón",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Martín Satriano",
+     "player": "Martín Satriano",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ramon Terrats",
+     "player": "Ramon Terrats",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    81,
+    21,
+    66,
+    85
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Enes Ünal",
+     "player": "Enes Ünal",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9876,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Iván Azón",
+     "player": "Iván Azón",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9876,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Martín Satriano",
+     "player": "Martín Satriano",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9876,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Ramon Terrats",
+     "player": "Ramon Terrats",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9876,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 23.7032
+  },
+  "La Coruna": {
+   "page": "2026–27 Deportivo de La Coruña season",
+   "matches_checked": 0,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "No Wikipedia season page with match details was found for this club."
+  },
+  "Levante": {
+   "page": "2026–27 Levante UD season",
+   "matches_checked": 6,
+   "matches_complete": 4,
+   "all_competitions": [
+    {
+     "player_id": "Roger Brugué",
+     "player": "Roger Brugué",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Adrián de la Fuente",
+     "player": "Adrián de la Fuente",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Enzo Bardeli",
+     "player": "Enzo Bardeli",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Jon Ander Olasagasti",
+     "player": "Jon Ander Olasagasti",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    24,
+    45,
+    56,
+    70,
+    90
+   ],
+   "status": "Wikipedia scorers add up for 4 of 6 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Malaga": {
+   "page": "2026–27 Málaga CF season",
+   "matches_checked": 7,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 0 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Osasuna": {
+   "page": "2026–27 CA Osasuna season",
+   "matches_checked": 7,
+   "matches_complete": 1,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 1 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Real Madrid": {
+   "page": "2026–27 Real Madrid CF season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Kylian Mbappé",
+     "player": "Kylian Mbappé",
+     "goals": 8,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 7
+     }
+    },
+    {
+     "player_id": "Jude Bellingham",
+     "player": "Jude Bellingham",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Carlos Espí",
+     "player": "Carlos Espí",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Antonio Rüdiger",
+     "player": "Antonio Rüdiger",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Federico Valverde",
+     "player": "Federico Valverde",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Arda Güler",
+     "player": "Arda Güler",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Vinícius Júnior",
+     "player": "Vinícius Júnior",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Álvaro Carreras",
+     "player": "Álvaro Carreras",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    9,
+    90,
+    40,
+    60,
+    80,
+    68,
+    19,
+    30,
+    90,
+    14,
+    90,
+    17,
+    35,
+    33,
+    90,
+    89
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Kylian Mbappé",
+     "player": "Kylian Mbappé",
+     "goals": 7,
+     "previous_share": 0.3247,
+     "projected": 24.0978,
+     "low": 10.0,
+     "high": 43.0
+    },
+    {
+     "player_id": "Jude Bellingham",
+     "player": "Jude Bellingham",
+     "goals": 3,
+     "previous_share": 0.0779,
+     "projected": 9.1748,
+     "low": 4.0,
+     "high": 16.0
+    },
+    {
+     "player_id": "Vinícius Júnior",
+     "player": "Vinícius Júnior",
+     "goals": 1,
+     "previous_share": 0.2078,
+     "projected": 6.4819,
+     "low": 2.0,
+     "high": 13.0
+    },
+    {
+     "player_id": "Carlos Espí",
+     "player": "Carlos Espí",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 5.1383,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Arda Güler",
+     "player": "Arda Güler",
+     "goals": 1,
+     "previous_share": 0.0519,
+     "projected": 3.5474,
+     "low": 1.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Álvaro Carreras",
+     "player": "Álvaro Carreras",
+     "goals": 1,
+     "previous_share": 0.026,
+     "projected": 3.0583,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Antonio Rüdiger",
+     "player": "Antonio Rüdiger",
+     "goals": 1,
+     "previous_share": 0.013,
+     "projected": 2.8137,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 27.5929
+  },
+  "Santander": {
+   "page": "2026–27 Racing de Santander season",
+   "matches_checked": 7,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 0 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Sevilla": {
+   "page": "2026–27 Sevilla FC season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Isaac Romero",
+     "player": "Isaac Romero",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Miguel Sierra (footballer)",
+     "player": "Miguel Sierra",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Chidera Ejuke",
+     "player": "Chidera Ejuke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Jon Guridi",
+     "player": "Jon Guridi",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Gerard Fernández",
+     "player": "Gerard Fernández",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Juan Iglesias",
+     "player": "Juan Iglesias",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Lucas Stassin",
+     "player": "Lucas Stassin",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Oso (footballer)",
+     "player": "Oso",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Youssouf Fofana (footballer, born 1999)",
+     "player": "Youssouf Fofana",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Mid-season": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    52,
+    90,
+    15,
+    50,
+    57,
+    66,
+    85,
+    81,
+    52,
+    19
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Miguel Sierra (footballer)",
+     "player": "Miguel Sierra",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.2576,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Isaac Romero",
+     "player": "Isaac Romero",
+     "goals": 1,
+     "previous_share": 0.087,
+     "projected": 3.3067,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Oso (footballer)",
+     "player": "Oso",
+     "goals": 1,
+     "previous_share": 0.0435,
+     "projected": 2.7178,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Gerard Fernández",
+     "player": "Gerard Fernández",
+     "goals": 1,
+     "previous_share": 0.0435,
+     "projected": 2.7178,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Chidera Ejuke",
+     "player": "Chidera Ejuke",
+     "goals": 1,
+     "previous_share": 0.0217,
+     "projected": 2.4233,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Juan Iglesias",
+     "player": "Juan Iglesias",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1288,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Jon Guridi",
+     "player": "Jon Guridi",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1288,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Lucas Stassin",
+     "player": "Lucas Stassin",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1288,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Youssouf Fofana (footballer, born 1999)",
+     "player": "Youssouf Fofana",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1288,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 24.4412
+  },
+  "Sociedad": {
+   "page": "2026–27 Real Sociedad season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Luka Sučić",
+     "player": "Luka Sučić",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Ander Barrenetxea (footballer)",
+     "player": "Ander Barrenetxea",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Carlos Soler",
+     "player": "Carlos Soler",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Job Ochieng",
+     "player": "Job Ochieng",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Orri Óskarsson",
+     "player": "Orri Óskarsson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Sergio Gómez (footballer, born 2000)",
+     "player": "Sergio Gómez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Yangel Herrera",
+     "player": "Yangel Herrera",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    44,
+    4,
+    61,
+    11,
+    32,
+    90,
+    26,
+    75,
+    90
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Luka Sučić",
+     "player": "Luka Sučić",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 6.9117,
+     "low": 3.0,
+     "high": 12.0
+    },
+    {
+     "player_id": "Ander Barrenetxea (footballer)",
+     "player": "Ander Barrenetxea",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.6078,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Carlos Soler",
+     "player": "Carlos Soler",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3039,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Job Ochieng",
+     "player": "Job Ochieng",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3039,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Orri Óskarsson",
+     "player": "Orri Óskarsson",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3039,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Yangel Herrera",
+     "player": "Yangel Herrera",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.3039,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 31.2932
+  },
+  "Valencia": {
+   "page": "2026–27 Valencia CF season",
+   "matches_checked": 7,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 0 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Vallecano": {
+   "page": "2026–27 Rayo Vallecano season",
+   "matches_checked": 7,
+   "matches_complete": 0,
+   "all_competitions": [],
+   "league_goal_minutes": [],
+   "status": "Wikipedia scorers add up for 0 of 7 league matches, so player forecasts are withheld until the page is complete."
+  },
+  "Villarreal": {
+   "page": "2026–27 Villarreal CF season",
+   "matches_checked": 7,
+   "matches_complete": 7,
+   "all_competitions": [
+    {
+     "player_id": "Pape Gueye",
+     "player": "Pape Gueye",
+     "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Georges Mikautadze",
+     "player": "Georges Mikautadze",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Alberto Moleiro",
+     "player": "Alberto Moleiro",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Nicolas Pépé",
+     "player": "Nicolas Pépé",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Gerard Moreno",
+     "player": "Gerard Moreno",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Ayoze Pérez",
+     "player": "Ayoze Pérez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Santiago Mouriño",
+     "player": "Santiago Mouriño",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    45,
+    45,
+    66,
+    78,
+    19,
+    29,
+    40,
+    45,
+    86,
+    41,
+    54,
+    86
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Pape Gueye",
+     "player": "Pape Gueye",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 7.5042,
+     "low": 3.0,
+     "high": 13.0
+    },
+    {
+     "player_id": "Alberto Moleiro",
+     "player": "Alberto Moleiro",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 5.0028,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Gerard Moreno",
+     "player": "Gerard Moreno",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 5.0028,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Georges Mikautadze",
+     "player": "Georges Mikautadze",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 5.0028,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Nicolas Pépé",
+     "player": "Nicolas Pépé",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 5.0028,
+     "low": 2.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Ayoze Pérez",
+     "player": "Ayoze Pérez",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.5014,
+     "low": 1.0,
+     "high": 5.0
+    }
+   ],
+   "unassigned_remaining": 37.5352
+  }
+ }
+}
