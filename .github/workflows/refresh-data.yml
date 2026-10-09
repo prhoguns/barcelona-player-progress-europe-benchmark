@@ -1,0 +1,54 @@
+name: Refresh forecasts
+
+on:
+  schedule:
+    - cron: "17 6 * * *"  # daily, 06:17 UTC
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+concurrency:
+  group: refresh-data
+  cancel-in-progress: false
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    timeout-minutes: 30
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Rebuild forecasts for every league
+        run: python scripts/build_forecasts.py
+
+      - name: Check for new results or scorers
+        id: changes
+        # Forecast files carry today's date on every run; only commit when the
+        # underlying results or Wikipedia scorer data actually changed.
+        run: |
+          if git diff --quiet -- data/current/*/matches.csv data/derived/wikipedia; then
+            echo "No new results."
+          else
+            echo "changed=true" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Run tests
+        if: steps.changes.outputs.changed == 'true'
+        run: python -m pytest -q
+
+      - name: Commit updated data
+        if: steps.changes.outputs.changed == 'true'
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/current data/derived/wikipedia
+          git commit -m "Refresh results and forecasts ($(date -u +%Y-%m-%d))"
+          git push

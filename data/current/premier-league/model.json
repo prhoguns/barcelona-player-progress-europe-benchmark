@@ -1,0 +1,819 @@
+{
+ "league": "Premier League",
+ "built_at_utc": "2026-10-09T14:49:52+00:00",
+ "params": {
+  "alpha": 0.015,
+  "carry": 0.95,
+  "learner": "poisson_glm",
+  "train_from": 2011
+ },
+ "tuning": [
+  {
+   "alpha": 0.01,
+   "carry": 0.7,
+   "learner": "poisson_glm",
+   "log_loss": 0.9644,
+   "brier": 0.5708,
+   "rps": 0.1948,
+   "accuracy": 0.5395,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.01,
+   "carry": 0.85,
+   "learner": "poisson_glm",
+   "log_loss": 0.9621,
+   "brier": 0.5691,
+   "rps": 0.1941,
+   "accuracy": 0.5386,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.01,
+   "carry": 0.95,
+   "learner": "poisson_glm",
+   "log_loss": 0.9619,
+   "brier": 0.5686,
+   "rps": 0.194,
+   "accuracy": 0.5412,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.015,
+   "carry": 0.7,
+   "learner": "poisson_glm",
+   "log_loss": 0.9646,
+   "brier": 0.571,
+   "rps": 0.1947,
+   "accuracy": 0.5447,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.015,
+   "carry": 0.85,
+   "learner": "poisson_glm",
+   "log_loss": 0.9618,
+   "brier": 0.569,
+   "rps": 0.1939,
+   "accuracy": 0.5439,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.015,
+   "carry": 0.95,
+   "learner": "poisson_glm",
+   "log_loss": 0.961,
+   "brier": 0.5682,
+   "rps": 0.1937,
+   "accuracy": 0.5465,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.02,
+   "carry": 0.7,
+   "learner": "poisson_glm",
+   "log_loss": 0.9659,
+   "brier": 0.5718,
+   "rps": 0.1949,
+   "accuracy": 0.5456,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.02,
+   "carry": 0.85,
+   "learner": "poisson_glm",
+   "log_loss": 0.9627,
+   "brier": 0.5696,
+   "rps": 0.194,
+   "accuracy": 0.5465,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.02,
+   "carry": 0.95,
+   "learner": "poisson_glm",
+   "log_loss": 0.9615,
+   "brier": 0.5687,
+   "rps": 0.1936,
+   "accuracy": 0.5482,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.03,
+   "carry": 0.7,
+   "learner": "poisson_glm",
+   "log_loss": 0.9697,
+   "brier": 0.5746,
+   "rps": 0.1956,
+   "accuracy": 0.55,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.03,
+   "carry": 0.85,
+   "learner": "poisson_glm",
+   "log_loss": 0.9664,
+   "brier": 0.5723,
+   "rps": 0.1947,
+   "accuracy": 0.5474,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.03,
+   "carry": 0.95,
+   "learner": "poisson_glm",
+   "log_loss": 0.9649,
+   "brier": 0.5712,
+   "rps": 0.1943,
+   "accuracy": 0.5509,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.05,
+   "carry": 0.7,
+   "learner": "poisson_glm",
+   "log_loss": 0.9802,
+   "brier": 0.5825,
+   "rps": 0.1978,
+   "accuracy": 0.5333,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.05,
+   "carry": 0.85,
+   "learner": "poisson_glm",
+   "log_loss": 0.977,
+   "brier": 0.5803,
+   "rps": 0.197,
+   "accuracy": 0.5395,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.05,
+   "carry": 0.95,
+   "learner": "poisson_glm",
+   "log_loss": 0.9753,
+   "brier": 0.5791,
+   "rps": 0.1966,
+   "accuracy": 0.543,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.08,
+   "carry": 0.7,
+   "learner": "poisson_glm",
+   "log_loss": 0.9931,
+   "brier": 0.5923,
+   "rps": 0.2009,
+   "accuracy": 0.5167,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.08,
+   "carry": 0.85,
+   "learner": "poisson_glm",
+   "log_loss": 0.9905,
+   "brier": 0.5905,
+   "rps": 0.2003,
+   "accuracy": 0.5202,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.08,
+   "carry": 0.95,
+   "learner": "poisson_glm",
+   "log_loss": 0.989,
+   "brier": 0.5895,
+   "rps": 0.2,
+   "accuracy": 0.5237,
+   "matches": 1140
+  },
+  {
+   "alpha": 0.015,
+   "carry": 0.95,
+   "learner": "gradient_boosting",
+   "log_loss": 0.9869,
+   "brier": 0.5856,
+   "rps": 0.201,
+   "accuracy": 0.5368,
+   "matches": 1140
+  }
+ ],
+ "model": {
+  "learner": "poisson_glm",
+  "features": [
+   "attack_goals",
+   "opp_defence_goals",
+   "attack_sot",
+   "opp_defence_sot",
+   "home"
+  ],
+  "dixon_coles_rho": -0.035,
+  "goal_dispersion": 0.0228,
+  "coefficients": {
+   "intercept": -0.6299,
+   "attack_goals": 0.8799,
+   "opp_defence_goals": 0.8739,
+   "attack_sot": 0.1558,
+   "opp_defence_sot": 0.0189,
+   "home": 0.2178
+  }
+ },
+ "evaluation": {
+  "overall": [
+   {
+    "model": "Trained model (goals + shots on target)",
+    "log_loss": 0.9779,
+    "brier": 0.5813,
+    "rps": 0.2012,
+    "accuracy": 0.5311,
+    "matches": 4180
+   },
+   {
+    "model": "Goals-only model",
+    "log_loss": 0.978,
+    "brier": 0.5813,
+    "rps": 0.2013,
+    "accuracy": 0.5313,
+    "matches": 4180
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "log_loss": 0.9953,
+    "brier": 0.5924,
+    "rps": 0.2067,
+    "accuracy": 0.5179,
+    "matches": 4180
+   },
+   {
+    "model": "Base rates (home/draw/away frequencies)",
+    "log_loss": 1.0672,
+    "brier": 0.6456,
+    "rps": 0.2324,
+    "accuracy": 0.4433,
+    "matches": 4180
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "log_loss": 0.9562,
+    "brier": 0.5665,
+    "rps": 0.1943,
+    "accuracy": 0.5474,
+    "matches": 4180
+   }
+  ],
+  "per_season": [
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2015,
+    "log_loss": 1.0452,
+    "brier": 0.6285,
+    "rps": 0.2133,
+    "accuracy": 0.4605,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2016,
+    "log_loss": 0.9296,
+    "brier": 0.5486,
+    "rps": 0.1882,
+    "accuracy": 0.5947,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2017,
+    "log_loss": 0.9585,
+    "brier": 0.5682,
+    "rps": 0.19,
+    "accuracy": 0.5395,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2018,
+    "log_loss": 0.8993,
+    "brier": 0.5261,
+    "rps": 0.1874,
+    "accuracy": 0.5921,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2019,
+    "log_loss": 0.9802,
+    "brier": 0.5832,
+    "rps": 0.2018,
+    "accuracy": 0.5263,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2020,
+    "log_loss": 1.0213,
+    "brier": 0.6064,
+    "rps": 0.2176,
+    "accuracy": 0.5237,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2021,
+    "log_loss": 0.9477,
+    "brier": 0.5603,
+    "rps": 0.1925,
+    "accuracy": 0.5447,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2022,
+    "log_loss": 1.0025,
+    "brier": 0.5977,
+    "rps": 0.2113,
+    "accuracy": 0.5211,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2023,
+    "log_loss": 0.932,
+    "brier": 0.5486,
+    "rps": 0.1912,
+    "accuracy": 0.5553,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2024,
+    "log_loss": 0.9979,
+    "brier": 0.5973,
+    "rps": 0.2066,
+    "accuracy": 0.5079,
+    "matches": 380
+   },
+   {
+    "model": "Trained model (goals + shots on target)",
+    "season": 2025,
+    "log_loss": 1.0426,
+    "brier": 0.6289,
+    "rps": 0.2137,
+    "accuracy": 0.4763,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2015,
+    "log_loss": 1.0472,
+    "brier": 0.63,
+    "rps": 0.2138,
+    "accuracy": 0.4658,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2016,
+    "log_loss": 0.9283,
+    "brier": 0.5475,
+    "rps": 0.1879,
+    "accuracy": 0.5895,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2017,
+    "log_loss": 0.9595,
+    "brier": 0.5689,
+    "rps": 0.1903,
+    "accuracy": 0.5342,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2018,
+    "log_loss": 0.8966,
+    "brier": 0.5245,
+    "rps": 0.187,
+    "accuracy": 0.5974,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2019,
+    "log_loss": 0.9805,
+    "brier": 0.5835,
+    "rps": 0.2019,
+    "accuracy": 0.5237,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2020,
+    "log_loss": 1.0219,
+    "brier": 0.6067,
+    "rps": 0.2178,
+    "accuracy": 0.5289,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2021,
+    "log_loss": 0.9471,
+    "brier": 0.5599,
+    "rps": 0.1924,
+    "accuracy": 0.55,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2022,
+    "log_loss": 1.0029,
+    "brier": 0.5979,
+    "rps": 0.2114,
+    "accuracy": 0.5158,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2023,
+    "log_loss": 0.9318,
+    "brier": 0.5486,
+    "rps": 0.1912,
+    "accuracy": 0.5579,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2024,
+    "log_loss": 0.9985,
+    "brier": 0.5977,
+    "rps": 0.2068,
+    "accuracy": 0.5079,
+    "matches": 380
+   },
+   {
+    "model": "Goals-only model",
+    "season": 2025,
+    "log_loss": 1.0436,
+    "brier": 0.6295,
+    "rps": 0.214,
+    "accuracy": 0.4737,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2015,
+    "log_loss": 1.1157,
+    "brier": 0.6713,
+    "rps": 0.2329,
+    "accuracy": 0.4184,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2016,
+    "log_loss": 0.9424,
+    "brier": 0.5578,
+    "rps": 0.1932,
+    "accuracy": 0.5711,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2017,
+    "log_loss": 0.9865,
+    "brier": 0.5848,
+    "rps": 0.1992,
+    "accuracy": 0.5263,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2018,
+    "log_loss": 0.9103,
+    "brier": 0.5341,
+    "rps": 0.1911,
+    "accuracy": 0.5842,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2019,
+    "log_loss": 0.9802,
+    "brier": 0.5829,
+    "rps": 0.2014,
+    "accuracy": 0.5211,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2020,
+    "log_loss": 1.03,
+    "brier": 0.6121,
+    "rps": 0.2208,
+    "accuracy": 0.5184,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2021,
+    "log_loss": 0.9626,
+    "brier": 0.5704,
+    "rps": 0.1972,
+    "accuracy": 0.5237,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2022,
+    "log_loss": 1.0219,
+    "brier": 0.609,
+    "rps": 0.2166,
+    "accuracy": 0.5237,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2023,
+    "log_loss": 0.9533,
+    "brier": 0.563,
+    "rps": 0.1978,
+    "accuracy": 0.5474,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2024,
+    "log_loss": 0.9954,
+    "brier": 0.5954,
+    "rps": 0.206,
+    "accuracy": 0.4974,
+    "matches": 380
+   },
+   {
+    "model": "Gradient boosting (same features)",
+    "season": 2025,
+    "log_loss": 1.0502,
+    "brier": 0.6354,
+    "rps": 0.2169,
+    "accuracy": 0.4658,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2015,
+    "log_loss": 1.0328,
+    "brier": 0.6192,
+    "rps": 0.2092,
+    "accuracy": 0.4684,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2016,
+    "log_loss": 0.9065,
+    "brier": 0.5324,
+    "rps": 0.1809,
+    "accuracy": 0.6079,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2017,
+    "log_loss": 0.9405,
+    "brier": 0.5569,
+    "rps": 0.1848,
+    "accuracy": 0.5447,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2018,
+    "log_loss": 0.8907,
+    "brier": 0.5208,
+    "rps": 0.1849,
+    "accuracy": 0.5789,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2019,
+    "log_loss": 0.9722,
+    "brier": 0.5744,
+    "rps": 0.1984,
+    "accuracy": 0.5368,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2020,
+    "log_loss": 0.9971,
+    "brier": 0.5921,
+    "rps": 0.2111,
+    "accuracy": 0.5158,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2021,
+    "log_loss": 0.9367,
+    "brier": 0.5543,
+    "rps": 0.189,
+    "accuracy": 0.5842,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2022,
+    "log_loss": 0.9622,
+    "brier": 0.5712,
+    "rps": 0.1975,
+    "accuracy": 0.5474,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2023,
+    "log_loss": 0.8995,
+    "brier": 0.5258,
+    "rps": 0.1805,
+    "accuracy": 0.5974,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2024,
+    "log_loss": 0.9664,
+    "brier": 0.5751,
+    "rps": 0.1961,
+    "accuracy": 0.5526,
+    "matches": 380
+   },
+   {
+    "model": "Bookmakers (closing odds)",
+    "season": 2025,
+    "log_loss": 1.0139,
+    "brier": 0.6092,
+    "rps": 0.2051,
+    "accuracy": 0.4868,
+    "matches": 380
+   }
+  ],
+  "calibration": [
+   {
+    "predicted": 0.0826,
+    "observed": 0.0833,
+    "matches": 48
+   },
+   {
+    "predicted": 0.1576,
+    "observed": 0.1488,
+    "matches": 363
+   },
+   {
+    "predicted": 0.2514,
+    "observed": 0.2718,
+    "matches": 585
+   },
+   {
+    "predicted": 0.3523,
+    "observed": 0.3636,
+    "matches": 781
+   },
+   {
+    "predicted": 0.4484,
+    "observed": 0.4345,
+    "matches": 847
+   },
+   {
+    "predicted": 0.5458,
+    "observed": 0.5175,
+    "matches": 601
+   },
+   {
+    "predicted": 0.649,
+    "observed": 0.6208,
+    "matches": 480
+   },
+   {
+    "predicted": 0.7451,
+    "observed": 0.7515,
+    "matches": 330
+   },
+   {
+    "predicted": 0.8402,
+    "observed": 0.8705,
+    "matches": 139
+   },
+   {
+    "predicted": 0.9096,
+    "observed": 1.0,
+    "matches": 6
+   }
+  ]
+ },
+ "team_backtest": [
+  {
+   "matches_played": 0,
+   "points_mae": 9.2359,
+   "naive_points_mae": 10.4225,
+   "goals_mae": 9.164,
+   "naive_goals_mae": 9.9947,
+   "points_coverage": 0.7318,
+   "goals_coverage": 0.8,
+   "forecasts": 220
+  },
+  {
+   "matches_played": 7,
+   "points_mae": 7.8283,
+   "naive_points_mae": 12.8779,
+   "goals_mae": 7.7131,
+   "naive_goals_mae": 12.5253,
+   "points_coverage": 0.7364,
+   "goals_coverage": 0.8045,
+   "forecasts": 220
+  },
+  {
+   "matches_played": 19,
+   "points_mae": 4.9637,
+   "naive_points_mae": 6.1,
+   "goals_mae": 5.065,
+   "naive_goals_mae": 5.9591,
+   "points_coverage": 0.8,
+   "goals_coverage": 0.8,
+   "forecasts": 220
+  },
+  {
+   "matches_played": 28,
+   "points_mae": 3.6178,
+   "naive_points_mae": 3.8994,
+   "goals_mae": 3.6487,
+   "naive_goals_mae": 3.7412,
+   "points_coverage": 0.8045,
+   "goals_coverage": 0.8091,
+   "forecasts": 220
+  }
+ ],
+ "player_model": {
+  "params": {
+   "strength": 32,
+   "weight": 0.5,
+   "baseline": 0.0,
+   "dispersion": 0.72
+  },
+  "evaluation": {
+   "train_seasons": [
+    "2013/14",
+    "2014/15",
+    "2015/16",
+    "2016/17",
+    "2017/18",
+    "2018/19"
+   ],
+   "test_seasons": [
+    "2019/20",
+    "2020/21",
+    "2021/22",
+    "2022/23",
+    "2023/24",
+    "2024/25",
+    "2025/26"
+   ],
+   "test": [
+    {
+     "matches_played": 7,
+     "model_mae": 2.5769,
+     "pace_mae": 4.8454,
+     "no_more_goals_mae": 4.1753,
+     "coverage": 0.8395,
+     "players": 679
+    },
+    {
+     "matches_played": 19,
+     "model_mae": 1.4293,
+     "pace_mae": 1.7319,
+     "no_more_goals_mae": 1.9342,
+     "coverage": 0.8968,
+     "players": 1201
+    },
+    {
+     "matches_played": 28,
+     "model_mae": 0.8678,
+     "pace_mae": 0.9641,
+     "no_more_goals_mae": 0.9527,
+     "coverage": 0.9203,
+     "players": 1481
+    }
+   ],
+   "club_seasons_used": 205
+  }
+ },
+ "data": {
+  "seasons": "2010/11–2026/27",
+  "matches": 6130,
+  "current_matches": 50,
+  "test_seasons": "2015/16–2025/26",
+  "validation_seasons": "2012/13–2014/15"
+ }
+}

@@ -8,3 +8,4 @@ data/raw/
 *.png
 !assets/dashboard.png
 !assets/statsbomb-logo.png
+data/cache/
