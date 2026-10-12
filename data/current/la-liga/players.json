@@ -643,7 +643,19 @@
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 2,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Abde Ezzalzouli",
+     "player": "Abde Ezzalzouli",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Champions League": 0,
       "league": 1
      }
     },
@@ -653,8 +665,20 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 2
+     }
+    },
+    {
+     "player_id": "Isco",
+     "player": "Isco",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "La Liga": 2,
+      "UEFA Champions League": 0,
+      "league": 0
      }
     },
     {
@@ -663,6 +687,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 1
      }
@@ -673,18 +698,20 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 2
      }
     },
     {
-     "player_id": "Abde Ezzalzouli",
-     "player": "Abde Ezzalzouli",
+     "player_id": "José Antonio Morante (footballer, born 2007)",
+     "player": "José Antonio Morante",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 1,
       "UEFA Champions League": 0,
-      "league": 1
+      "league": 0
      }
     },
     {
@@ -693,6 +720,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -703,6 +731,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -1423,6 +1452,7 @@
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 3
      }
@@ -1433,8 +1463,20 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 2
+     }
+    },
+    {
+     "player_id": "Arsen Zakharyan",
+     "player": "Arsen Zakharyan",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Europa League": 0,
+      "league": 0
      }
     },
     {
@@ -1443,6 +1485,7 @@
      "goals": 1,
      "penalties": 1,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1453,8 +1496,31 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Gonçalo Guedes",
+     "player": "Gonçalo Guedes",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jon Martín",
+     "player": "Jon Martín",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Europa League": 0,
+      "league": 0
      }
     },
     {
@@ -1463,6 +1529,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1473,6 +1540,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -1483,6 +1551,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }

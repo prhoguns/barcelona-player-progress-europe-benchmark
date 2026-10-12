@@ -16515,6 +16515,11 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-14,Villarreal,league,"Natan (footballer, born 2001)",Natan,43,False,False,True,la-liga,2026,Betis
 2026-09-17,Getafe,league,Abde Ezzalzouli,Abde Ezzalzouli,45,False,False,True,la-liga,2026,Betis
 2026-09-20,La Coruna,league,Cucho Hernández,Cucho Hernández,43,False,False,True,la-liga,2026,Betis
+2026-10-11,Osasuna,La Liga,Isco,Isco,10,True,False,False,la-liga,2026,Betis
+2026-10-11,Osasuna,La Liga,Isco,Isco,67,False,False,False,la-liga,2026,Betis
+2026-10-11,Osasuna,La Liga,Abde Ezzalzouli,Abde Ezzalzouli,31,False,False,False,la-liga,2026,Betis
+2026-10-11,Osasuna,La Liga,Ante Budimir,Ante Budimir,48,False,True,False,la-liga,2026,Betis
+2026-10-11,Osasuna,La Liga,"José Antonio Morante (footballer, born 2007)",José Antonio Morante,90+6,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,33,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,49,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Troy Parrott,Troy Parrott,53,False,False,False,la-liga,2026,Betis
@@ -16594,6 +16599,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-20,Valencia,league,Luka Sučić,Luka Sučić,26,False,False,True,la-liga,2026,Sociedad
 2026-09-20,Valencia,league,Carlos Soler,Carlos Soler,75,True,False,True,la-liga,2026,Sociedad
 2026-09-20,Valencia,league,Ander Barrenetxea (footballer),Ander Barrenetxea,90+1,False,False,True,la-liga,2026,Sociedad
+2026-10-11,Deportivo A Coruña,La Liga,Jon Martín,Jon Martín,29,False,False,False,la-liga,2026,Sociedad
+2026-10-11,Deportivo A Coruña,La Liga,Arsen Zakharyan,Arsen Zakharyan,34,False,False,False,la-liga,2026,Sociedad
+2026-10-11,Deportivo A Coruña,La Liga,Gonçalo Guedes,Gonçalo Guedes,54,False,False,False,la-liga,2026,Sociedad
 2026-09-17,{{fbaicon|ENG}} Bournemouth,UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,57,False,False,False,la-liga,2026,Sociedad
 2026-08-16,Santander,league,Pape Gueye,Pape Gueye,45,False,False,True,la-liga,2026,Villarreal
 2026-08-16,Santander,league,Nicolas Pépé,Nicolas Pépé,45+1,False,False,True,la-liga,2026,Villarreal
