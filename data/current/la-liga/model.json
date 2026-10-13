@@ -1,6 +1,6 @@
 {
  "league": "La Liga",
- "built_at_utc": "2026-10-12T15:37:40+00:00",
+ "built_at_utc": "2026-10-13T14:19:52+00:00",
  "params": {
   "alpha": 0.02,
   "carry": 0.95,
@@ -811,8 +811,8 @@
  },
  "data": {
   "seasons": "2010/11–2026/27",
-  "matches": 6149,
-  "current_matches": 69,
+  "matches": 6158,
+  "current_matches": 78,
   "test_seasons": "2015/16–2025/26",
   "validation_seasons": "2012/13–2014/15"
  }
