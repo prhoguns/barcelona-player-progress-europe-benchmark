@@ -7,6 +7,18 @@
    "matches_complete": 6,
    "all_competitions": [
     {
+     "player_id": "Bukayo Saka",
+     "player": "Bukayo Saka",
+     "goals": 4,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 1,
+      "league": 3
+     }
+    },
+    {
      "player_id": "Martin Ødegaard",
      "player": "Martin Ødegaard",
      "goals": 4,
@@ -16,18 +28,6 @@
       "FA Community Shield": 1,
       "UEFA Champions League": 1,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Bukayo Saka",
-     "player": "Bukayo Saka",
-     "goals": 3,
-     "penalties": 1,
-     "by_competition": {
-      "EFL Cup": 0,
-      "FA Community Shield": 0,
-      "UEFA Champions League": 0,
-      "league": 3
      }
     },
     {
@@ -55,6 +55,18 @@
      }
     },
     {
+     "player_id": "Riccardo Calafiori",
+     "player": "Riccardo Calafiori",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 1,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Max Dowman",
      "player": "Max Dowman",
      "goals": 2,
@@ -67,15 +79,27 @@
      }
     },
     {
-     "player_id": "Riccardo Calafiori",
-     "player": "Riccardo Calafiori",
-     "goals": 2,
+     "player_id": "Eberechi Eze",
+     "player": "Eberechi Eze",
+     "goals": 1,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "FA Community Shield": 1,
-      "UEFA Champions League": 0,
-      "league": 1
+      "FA Community Shield": 0,
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jurriën Timber",
+     "player": "Jurriën Timber",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {

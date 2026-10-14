@@ -233,6 +233,16 @@
      }
     },
     {
+     "player_id": "Ademola Lookman",
+     "player": "Ademola Lookman",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Giuliano Simeone",
      "player": "Giuliano Simeone",
      "goals": 2,
@@ -253,8 +263,8 @@
      }
     },
     {
-     "player_id": "Ademola Lookman",
-     "player": "Ademola Lookman",
+     "player_id": "Cristian Romero",
+     "player": "Cristian Romero",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -263,13 +273,13 @@
      }
     },
     {
-     "player_id": "Cristian Romero",
-     "player": "Cristian Romero",
+     "player_id": "Marcos Llorente",
+     "player": "Marcos Llorente",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 1
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {
@@ -293,8 +303,8 @@
      }
     },
     {
-     "player_id": "Marcos Llorente",
-     "player": "Marcos Llorente",
+     "player_id": "Pablo Barrios (footballer)",
+     "player": "Pablo Barrios",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -437,11 +447,21 @@
     {
      "player_id": "Fermín López",
      "player": "Fermín López",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 4
+     }
+    },
+    {
+     "player_id": "Karim Adeyemi",
+     "player": "Karim Adeyemi",
      "goals": 4,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 4
+      "UEFA Champions League": 2,
+      "league": 2
      }
     },
     {
@@ -455,38 +475,28 @@
      }
     },
     {
-     "player_id": "Karim Adeyemi",
-     "player": "Karim Adeyemi",
-     "goals": 3,
+     "player_id": "Anthony Gordon (footballer)",
+     "player": "Anthony Gordon",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
       "UEFA Champions League": 1,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Anthony Gordon (footballer)",
-     "player": "Anthony Gordon",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Jules Koundé",
-     "player": "Jules Koundé",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
       "league": 1
      }
     },
     {
      "player_id": "João Cancelo",
      "player": "João Cancelo",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Jules Koundé",
+     "player": "Jules Koundé",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -917,10 +927,21 @@
     {
      "player_id": "Enes Ünal",
      "player": "Enes Ünal",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Conference League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Andrés García (footballer, born 2003)",
+     "player": "Andrés García",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "league": 1
+      "UEFA Conference League": 1,
+      "league": 0
      }
     },
     {
@@ -929,7 +950,18 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "UEFA Conference League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Johan Mojica",
+     "player": "Johan Mojica",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Conference League": 1,
+      "league": 0
      }
     },
     {
@@ -938,6 +970,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "UEFA Conference League": 0,
       "league": 1
      }
     },
@@ -947,6 +980,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "UEFA Conference League": 0,
       "league": 1
      }
     }
@@ -1678,10 +1712,22 @@
   "Valencia": {
    "page": "2026–27 Valencia CF season",
    "matches_checked": 8,
-   "matches_complete": 0,
-   "all_competitions": [],
-   "league_goal_minutes": [],
-   "status": "Wikipedia scorers add up for 0 of 8 league matches, so player forecasts are withheld until the page is complete."
+   "matches_complete": 5,
+   "all_competitions": [
+    {
+     "player_id": "Aaron Mayol",
+     "player": "Aaron Mayol",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    57
+   ],
+   "status": "Wikipedia scorers add up for 5 of 8 league matches, so player forecasts are withheld until the page is complete."
   },
   "Vallecano": {
    "page": "2026–27 Rayo Vallecano season",

@@ -16453,6 +16453,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-14,Marseille,Pre-season and friendlies,Rodri Mendoza,Rodri Mendoza,39,False,False,False,la-liga,2026,Ath Madrid
 2026-08-14,Marseille,Pre-season and friendlies,Carlos Martín (footballer),Carlos Martín,78,False,False,False,la-liga,2026,Ath Madrid
 2026-09-09,Liverpool {{fbaicon|ENG}},UEFA Champions League,Marcos Llorente,Marcos Llorente,17,False,False,False,la-liga,2026,Ath Madrid
+2026-10-13,{{fbaicon|ENG}} Manchester United,UEFA Champions League,Pablo Barrios (footballer),Pablo Barrios,1,False,False,False,la-liga,2026,Ath Madrid
+2026-10-13,{{fbaicon|ENG}} Manchester United,UEFA Champions League,Ademola Lookman,Ademola Lookman,79,False,False,False,la-liga,2026,Ath Madrid
 2026-08-23,Elche,league,Raphinha,Raphinha,14,True,False,True,la-liga,2026,Barcelona
 2026-08-23,Elche,league,Raphinha,Raphinha,67,False,False,True,la-liga,2026,Barcelona
 2026-08-23,Elche,league,Karim Adeyemi,Karim Adeyemi,45+3,False,False,True,la-liga,2026,Barcelona
@@ -16506,6 +16508,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-09,{{fbaicon|NED}} Feyenoord,UEFA Champions League,Karim Adeyemi,Karim Adeyemi,22,False,False,False,la-liga,2026,Barcelona
 2026-09-09,{{fbaicon|NED}} Feyenoord,UEFA Champions League,Lamine Yamal,Lamine Yamal,77,False,False,False,la-liga,2026,Barcelona
 2026-09-09,{{fbaicon|NED}} Feyenoord,UEFA Champions League,Gabriel Jesus,Gabriel Jesus,85,False,False,False,la-liga,2026,Barcelona
+2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,João Cancelo,João Cancelo,43,False,False,False,la-liga,2026,Barcelona
+2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,Fermín López,Fermín López,50,False,False,False,la-liga,2026,Barcelona
+2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,Anthony Gordon (footballer),Anthony Gordon,53,False,False,False,la-liga,2026,Barcelona
+2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,Karim Adeyemi,Karim Adeyemi,65,False,False,False,la-liga,2026,Barcelona
 2026-08-21,Sociedad,league,"Rodrigo Riquelme (footballer, born 2000)",Rodrigo Riquelme,63,False,False,True,la-liga,2026,Betis
 2026-08-25,Valencia,league,"Pablo García (footballer, born 2006)",Pablo García,83,False,False,True,la-liga,2026,Betis
 2026-08-29,Levante,league,Marc Bartra,Marc Bartra,34,False,False,True,la-liga,2026,Betis
@@ -16533,6 +16539,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-07,Celta,league,Martín Satriano,Martín Satriano,21,False,False,True,la-liga,2026,Getafe
 2026-09-13,La Coruna,league,Ramon Terrats,Ramon Terrats,66,False,False,True,la-liga,2026,Getafe
 2026-09-20,Malaga,league,Iván Azón,Iván Azón,85,False,False,True,la-liga,2026,Getafe
+2026-08-20,{{fbaicon|SRB}} Partizan,UEFA Conference League,Enes Ünal,Enes Ünal,10,False,False,False,la-liga,2026,Getafe
+2026-08-20,{{fbaicon|SRB}} Partizan,UEFA Conference League,"Andrés García (footballer, born 2003)",Andrés García,87,False,False,False,la-liga,2026,Getafe
+2026-08-20,{{fbaicon|SRB}} Partizan,UEFA Conference League,Johan Mojica,Johan Mojica,90,False,False,False,la-liga,2026,Getafe
 2026-08-29,Betis,league,Adrián de la Fuente,Adrián de la Fuente,24,False,False,True,la-liga,2026,Levante
 2026-08-29,Betis,league,Enzo Bardeli,Enzo Bardeli,45+1,False,False,True,la-liga,2026,Levante
 2026-08-29,Betis,league,Roger Brugué,Roger Brugué,56,False,False,True,la-liga,2026,Levante
@@ -16606,6 +16615,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-11,La Coruna,league,Arsen Zakharyan,Arsen Zakharyan,34,False,False,True,la-liga,2026,Sociedad
 2026-10-11,La Coruna,league,Gonçalo Guedes,Gonçalo Guedes,54,False,False,True,la-liga,2026,Sociedad
 2026-09-17,{{fbaicon|ENG}} Bournemouth,UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,57,False,False,False,la-liga,2026,Sociedad
+2026-09-20,Sociedad,league,Aaron Mayol,Aaron Mayol,57,False,False,True,la-liga,2026,Valencia
+2026-09-20,Sociedad,league,Luken Beitia,Luken Beitia,84,False,True,True,la-liga,2026,Valencia
 2026-08-16,Santander,league,Pape Gueye,Pape Gueye,45,False,False,True,la-liga,2026,Villarreal
 2026-08-16,Santander,league,Nicolas Pépé,Nicolas Pépé,45+1,False,False,True,la-liga,2026,Villarreal
 2026-08-23,Ath Madrid,league,Gerard Moreno,Gerard Moreno,66,True,False,True,la-liga,2026,Villarreal
