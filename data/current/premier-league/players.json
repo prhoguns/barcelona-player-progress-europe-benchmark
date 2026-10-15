@@ -197,13 +197,49 @@
     {
      "player_id": "Nicolas Jackson",
      "player": "Nicolas Jackson",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 3,
+      "UEFA Super Cup": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Ross Barkley",
+     "player": "Ross Barkley",
      "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 2,
+      "UEFA Super Cup": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Tammy Abraham",
+     "player": "Tammy Abraham",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Champions League": 1,
+      "UEFA Super Cup": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Johan Manzambi",
+     "player": "Johan Manzambi",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
       "UEFA Champions League": 1,
       "UEFA Super Cup": 0,
-      "league": 2
+      "league": 1
      }
     },
     {
@@ -231,20 +267,8 @@
      }
     },
     {
-     "player_id": "Tammy Abraham",
-     "player": "Tammy Abraham",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "UEFA Champions League": 0,
-      "UEFA Super Cup": 0,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Johan Manzambi",
-     "player": "Johan Manzambi",
+     "player_id": "Alysson (footballer, born 2006)",
+     "player": "Alysson",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -263,30 +287,6 @@
       "EFL Cup": 0,
       "UEFA Champions League": 0,
       "UEFA Super Cup": 1,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Alysson (footballer, born 2006)",
-     "player": "Alysson",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Champions League": 0,
-      "UEFA Super Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Ross Barkley",
-     "player": "Ross Barkley",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Champions League": 0,
-      "UEFA Super Cup": 0,
       "league": 0
      }
     }
@@ -2197,6 +2197,17 @@
      }
     },
     {
+     "player_id": "Bradley Barcola",
+     "player": "Bradley Barcola",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 3,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Dominik Szoboszlai",
      "player": "Dominik Szoboszlai",
      "goals": 3,
@@ -2227,6 +2238,39 @@
       "EFL Cup": 1,
       "UEFA Champions League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Jeremie Frimpong",
+     "player": "Jeremie Frimpong",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Lewis Koumas",
+     "player": "Lewis Koumas",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Ronald Araújo",
+     "player": "Ronald Araújo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {
@@ -2299,11 +2343,11 @@
     {
      "player_id": "Erling Haaland",
      "player": "Erling Haaland",
-     "goals": 8,
+     "goals": 10,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "UEFA Champions League": 2,
+      "UEFA Champions League": 4,
       "league": 6
      }
     },

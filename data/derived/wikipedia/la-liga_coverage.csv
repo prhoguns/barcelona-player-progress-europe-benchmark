@@ -9577,13 +9577,13 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Getafe,Away,0,False,False,la-liga,2026,Malaga
 2026-10-09,Espanol,Home,1,False,False,la-liga,2026,Malaga
 2026-08-24,Levante,Home,0,True,True,la-liga,2026,Osasuna
-2026-08-27,Celta,Away,2,False,False,la-liga,2026,Osasuna
+2026-08-27,Celta,Away,2,True,True,la-liga,2026,Osasuna
 2026-08-31,Getafe,Home,1,False,False,la-liga,2026,Osasuna
 2026-09-06,Alaves,Away,2,False,False,la-liga,2026,Osasuna
 2026-09-12,Espanol,Home,0,False,False,la-liga,2026,Osasuna
 2026-09-16,Ath Madrid,Away,0,False,False,la-liga,2026,Osasuna
 2026-09-19,Vallecano,Home,1,False,False,la-liga,2026,Osasuna
-2026-10-11,Betis,Away,2,False,False,la-liga,2026,Osasuna
+2026-10-11,Betis,Away,2,True,True,la-liga,2026,Osasuna
 2026-08-22,Espanol,Away,2,True,True,la-liga,2026,Real Madrid
 2026-08-26,Sociedad,Home,4,True,True,la-liga,2026,Real Madrid
 2026-08-30,Malaga,Home,4,True,True,la-liga,2026,Real Madrid

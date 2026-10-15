@@ -17523,6 +17523,12 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-08,Club Brugge {{fbaicon|BEL}},UEFA Champions League,John McGinn,John McGinn,11,False,False,False,premier-league,2026,Aston Villa
 2026-09-08,Club Brugge {{fbaicon|BEL}},UEFA Champions League,Emiliano Buendía,Emiliano Buendía,22,False,False,False,premier-league,2026,Aston Villa
 2026-09-08,Club Brugge {{fbaicon|BEL}},UEFA Champions League,Nicolas Jackson,Nicolas Jackson,43,False,False,False,premier-league,2026,Aston Villa
+2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Johan Manzambi,Johan Manzambi,12,False,False,False,premier-league,2026,Aston Villa
+2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Nicolas Jackson,Nicolas Jackson,31,False,False,False,premier-league,2026,Aston Villa
+2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Nicolas Jackson,Nicolas Jackson,39,False,False,False,premier-league,2026,Aston Villa
+2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Ross Barkley,Ross Barkley,68,True,False,False,premier-league,2026,Aston Villa
+2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Ross Barkley,Ross Barkley,72,False,False,False,premier-league,2026,Aston Villa
+2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Tammy Abraham,Tammy Abraham,90,False,False,False,premier-league,2026,Aston Villa
 2026-08-23,Man City,league,Marcus Tavernier,Marcus Tavernier,26,False,False,True,premier-league,2026,Bournemouth
 2026-08-29,Everton,league,"Alex Scott (footballer, born 2003)",Alex Scott,41,False,False,True,premier-league,2026,Bournemouth
 2026-09-05,Newcastle,league,Marcus Tavernier,Marcus Tavernier,9,False,False,True,premier-league,2026,Bournemouth
@@ -17852,6 +17858,12 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-15,Tottenham Hotspur,EFL Cup,Dominik Szoboszlai,Dominik Szoboszlai,90+1,False,False,False,premier-league,2026,Liverpool
 2026-09-09,{{fbaicon|ESP}} Atlético Madrid,UEFA Champions League,Alexis Mac Allister,Alexis Mac Allister,50,False,False,False,premier-league,2026,Liverpool
 2026-09-09,{{fbaicon|ESP}} Atlético Madrid,UEFA Champions League,Dominik Szoboszlai,Dominik Szoboszlai,40,False,False,False,premier-league,2026,Liverpool
+2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Ronald Araújo,Ronald Araújo,22,False,False,False,premier-league,2026,Liverpool
+2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Bradley Barcola,Bradley Barcola,24,False,False,False,premier-league,2026,Liverpool
+2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Bradley Barcola,Bradley Barcola,37,False,False,False,premier-league,2026,Liverpool
+2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Bradley Barcola,Bradley Barcola,66,False,False,False,premier-league,2026,Liverpool
+2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Jeremie Frimpong,Jeremie Frimpong,51,False,False,False,premier-league,2026,Liverpool
+2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Lewis Koumas,Lewis Koumas,72,False,False,False,premier-league,2026,Liverpool
 2026-08-23,Bournemouth,league,Marc Guéhi,Marc Guéhi,84,False,False,True,premier-league,2026,Man City
 2026-08-23,Bournemouth,league,Joško Gvardiol,Joško Gvardiol,90+1,False,False,True,premier-league,2026,Man City
 2026-08-28,Crystal Palace,league,Erling Haaland,Erling Haaland,17,False,False,True,premier-league,2026,Man City
@@ -17882,6 +17894,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-17,Norwich City,EFL Cup,Ryan McAidoo,Ryan McAidoo,90,False,False,False,premier-league,2026,Man City
 2026-09-08,Porto {{fbaicon|POR}},UEFA Champions League,Erling Haaland,Erling Haaland,47,False,False,False,premier-league,2026,Man City
 2026-09-08,Porto {{fbaicon|POR}},UEFA Champions League,Erling Haaland,Erling Haaland,90+1,False,False,False,premier-league,2026,Man City
+2026-10-14,{{fbaicon|FRA}} Paris Saint-Germain,UEFA Champions League,Erling Haaland,Erling Haaland,53,False,False,False,premier-league,2026,Man City
+2026-10-14,{{fbaicon|FRA}} Paris Saint-Germain,UEFA Champions League,Erling Haaland,Erling Haaland,75,False,False,False,premier-league,2026,Man City
 2026-08-23,Liverpool,league,Anthony Elanga,Anthony Elanga,5,False,False,True,premier-league,2026,Newcastle
 2026-08-23,Liverpool,league,Joe Willock,Joe Willock,57,False,False,True,premier-league,2026,Newcastle
 2026-08-29,Tottenham,league,Anthony Elanga,Anthony Elanga,62,False,False,True,premier-league,2026,Newcastle

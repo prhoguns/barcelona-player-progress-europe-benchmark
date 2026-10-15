@@ -16529,6 +16529,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,33,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,49,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Troy Parrott,Troy Parrott,53,False,False,False,la-liga,2026,Betis
+2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Abde Ezzalzouli,Abde Ezzalzouli,47,False,False,False,la-liga,2026,Betis
+2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Cucho Hernández,Cucho Hernández,74,False,False,False,la-liga,2026,Betis
+2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Isco,Isco,84,False,False,False,la-liga,2026,Betis
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,5,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,40,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,Tyrhys Dolan,Tyrhys Dolan,80,False,False,True,la-liga,2026,Espanol
@@ -16547,6 +16550,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-29,Betis,league,Roger Brugué,Roger Brugué,56,False,False,True,la-liga,2026,Levante
 2026-08-29,Betis,league,Roger Brugué,Roger Brugué,70,False,False,True,la-liga,2026,Levante
 2026-08-29,Betis,league,Jon Ander Olasagasti,Jon Ander Olasagasti,90+5,False,False,True,la-liga,2026,Levante
+2026-08-27,Celta,league,Kike Barja,Kike Barja,54,False,False,True,la-liga,2026,Osasuna
+2026-08-27,Celta,league,Ante Budimir,Ante Budimir,64,True,False,True,la-liga,2026,Osasuna
+2026-10-11,Betis,league,Ante Budimir,Ante Budimir,51,False,False,True,la-liga,2026,Osasuna
+2026-10-11,Betis,league,"Raúl García (footballer, born 2000)",Raúl García,56,False,False,True,la-liga,2026,Osasuna
 2026-08-22,Espanol,league,Jude Bellingham,Jude Bellingham,9,False,False,True,la-liga,2026,Real Madrid
 2026-08-22,Espanol,league,Carlos Espí,Carlos Espí,90,False,False,True,la-liga,2026,Real Madrid
 2026-08-26,Sociedad,league,Kylian Mbappé,Kylian Mbappé,40,False,False,True,la-liga,2026,Real Madrid
@@ -16581,6 +16588,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Carlos Espí,Carlos Espí,57,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,14,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Federico Valverde,Federico Valverde,23,False,False,False,la-liga,2026,Real Madrid
+2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Kylian Mbappé,Kylian Mbappé,25,False,False,False,la-liga,2026,Real Madrid
+2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Carlos Espí,Carlos Espí,82,False,False,False,la-liga,2026,Real Madrid
+2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Endrick,Endrick,85,False,False,False,la-liga,2026,Real Madrid
+2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Antonio Rüdiger,Antonio Rüdiger,90,False,False,False,la-liga,2026,Real Madrid
 2026-08-15,Vallecano,league,Jon Guridi,Jon Guridi,52,True,False,True,la-liga,2026,Sevilla
 2026-08-15,Vallecano,league,Gerard Fernández,Gerard Fernández,90+7,True,False,True,la-liga,2026,Sevilla
 2026-08-22,Ath Bilbao,league,Oso (footballer),Oso,15,False,False,True,la-liga,2026,Sevilla

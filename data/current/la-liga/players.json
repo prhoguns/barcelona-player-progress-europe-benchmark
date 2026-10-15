@@ -660,6 +660,36 @@
    "matches_complete": 8,
    "all_competitions": [
     {
+     "player_id": "Abde Ezzalzouli",
+     "player": "Abde Ezzalzouli",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Cucho Hernández",
+     "player": "Cucho Hernández",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Isco",
+     "player": "Isco",
+     "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
      "player_id": "Marc Bartra",
      "player": "Marc Bartra",
      "goals": 3,
@@ -667,36 +697,6 @@
      "by_competition": {
       "UEFA Champions League": 2,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Abde Ezzalzouli",
-     "player": "Abde Ezzalzouli",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Cucho Hernández",
-     "player": "Cucho Hernández",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Isco",
-     "player": "Isco",
-     "goals": 2,
-     "penalties": 1,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 2
      }
     },
     {
@@ -1063,10 +1063,43 @@
   "Osasuna": {
    "page": "2026–27 CA Osasuna season",
    "matches_checked": 8,
-   "matches_complete": 1,
-   "all_competitions": [],
-   "league_goal_minutes": [],
-   "status": "Wikipedia scorers add up for 1 of 8 league matches, so player forecasts are withheld until the page is complete."
+   "matches_complete": 3,
+   "all_competitions": [
+    {
+     "player_id": "Ante Budimir",
+     "player": "Ante Budimir",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Kike Barja",
+     "player": "Kike Barja",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Raúl García (footballer, born 2000)",
+     "player": "Raúl García",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    54,
+    64,
+    51,
+    56
+   ],
+   "status": "Wikipedia scorers add up for 3 of 8 league matches, so player forecasts are withheld until the page is complete."
   },
   "Real Madrid": {
    "page": "2026–27 Real Madrid CF season",
@@ -1076,11 +1109,21 @@
     {
      "player_id": "Kylian Mbappé",
      "player": "Kylian Mbappé",
-     "goals": 8,
+     "goals": 9,
      "penalties": 1,
      "by_competition": {
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 2,
       "league": 7
+     }
+    },
+    {
+     "player_id": "Carlos Espí",
+     "player": "Carlos Espí",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 2
      }
     },
     {
@@ -1094,22 +1137,12 @@
      }
     },
     {
-     "player_id": "Carlos Espí",
-     "player": "Carlos Espí",
+     "player_id": "Antonio Rüdiger",
+     "player": "Antonio Rüdiger",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Antonio Rüdiger",
-     "player": "Antonio Rüdiger",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
+      "UEFA Champions League": 1,
       "league": 1
      }
     },
@@ -1121,6 +1154,16 @@
      "by_competition": {
       "UEFA Champions League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Endrick",
+     "player": "Endrick",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {
