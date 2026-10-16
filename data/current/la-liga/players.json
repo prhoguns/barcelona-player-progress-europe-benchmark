@@ -855,7 +855,17 @@
    "page": "2026–27 RC Celta de Vigo season",
    "matches_checked": 8,
    "matches_complete": 3,
-   "all_competitions": [],
+   "all_competitions": [
+    {
+     "player_id": "Hugo Álvarez (footballer, born 2003)",
+     "player": "Hugo Álvarez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 1
+     }
+    }
+   ],
    "league_goal_minutes": [],
    "status": "Wikipedia scorers add up for 3 of 8 league matches, so player forecasts are withheld until the page is complete."
   },
@@ -1063,15 +1073,15 @@
   "Osasuna": {
    "page": "2026–27 CA Osasuna season",
    "matches_checked": 8,
-   "matches_complete": 3,
+   "matches_complete": 7,
    "all_competitions": [
     {
      "player_id": "Ante Budimir",
      "player": "Ante Budimir",
-     "goals": 2,
-     "penalties": 1,
+     "goals": 5,
+     "penalties": 3,
      "by_competition": {
-      "league": 2
+      "league": 5
      }
     },
     {
@@ -1096,10 +1106,13 @@
    "league_goal_minutes": [
     54,
     64,
+    45,
+    46,
+    64,
     51,
     56
    ],
-   "status": "Wikipedia scorers add up for 3 of 8 league matches, so player forecasts are withheld until the page is complete."
+   "status": "Wikipedia scorers add up for 7 of 8 league matches, so player forecasts are withheld until the page is complete."
   },
   "Real Madrid": {
    "page": "2026–27 Real Madrid CF season",
@@ -1579,6 +1592,16 @@
      "by_competition": {
       "UEFA Europa League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Beñat Turrientes",
+     "player": "Beñat Turrientes",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 1,
+      "league": 0
      }
     },
     {

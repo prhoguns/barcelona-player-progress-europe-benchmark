@@ -366,6 +366,17 @@
      }
     },
     {
+     "player_id": "Rayan (footballer, born 2006)",
+     "player": "Rayan",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 2,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Marcus Tavernier",
      "player": "Marcus Tavernier",
      "goals": 3,
@@ -374,6 +385,17 @@
       "EFL Cup": 0,
       "UEFA Europa League": 0,
       "league": 3
+     }
+    },
+    {
+     "player_id": "Evanilson (footballer, born 1999)",
+     "player": "Evanilson",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 1
      }
     },
     {
@@ -388,28 +410,6 @@
      }
     },
     {
-     "player_id": "Rayan (footballer, born 2006)",
-     "player": "Rayan",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Europa League": 1,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Evanilson (footballer, born 1999)",
-     "player": "Evanilson",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 0,
-      "league": 1
-     }
-    },
-    {
      "player_id": "Alex Scott (footballer, born 2003)",
      "player": "Alex Scott",
      "goals": 1,
@@ -418,6 +418,17 @@
       "EFL Cup": 0,
       "UEFA Europa League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Álvaro Rodríguez (footballer, born 2004)",
+     "player": "Álvaro Rodríguez",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
      }
     }
    ],
@@ -747,12 +758,23 @@
     {
      "player_id": "Jack Hinshelwood",
      "player": "Jack Hinshelwood",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Georginio Rutter",
+     "player": "Georginio Rutter",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "UEFA Conference League": 0,
-      "league": 2
+      "UEFA Conference League": 2,
+      "league": 0
      }
     },
     {
@@ -767,8 +789,8 @@
      }
     },
     {
-     "player_id": "Chema Andrés",
-     "player": "Chema Andrés",
+     "player_id": "Lewis Dunk",
+     "player": "Lewis Dunk",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -789,25 +811,14 @@
      }
     },
     {
-     "player_id": "Lewis Dunk",
-     "player": "Lewis Dunk",
+     "player_id": "Chema Andrés",
+     "player": "Chema Andrés",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
       "UEFA Conference League": 0,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Mats Wieffer",
-     "player": "Mats Wieffer",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Conference League": 1,
-      "league": 0
      }
     },
     {
@@ -819,6 +830,28 @@
       "EFL Cup": 0,
       "UEFA Conference League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Matt O'Riley",
+     "player": "Matt O'Riley",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Mats Wieffer",
+     "player": "Mats Wieffer",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Conference League": 1,
+      "league": 0
      }
     },
     {
@@ -1279,6 +1312,28 @@
      }
     },
     {
+     "player_id": "Yéremy Pino",
+     "player": "Yéremy Pino",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 2,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Daichi Kamada",
+     "player": "Daichi Kamada",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 1,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Tyrick Mitchell",
      "player": "Tyrick Mitchell",
      "goals": 2,
@@ -1287,28 +1342,6 @@
       "EFL Cup": 0,
       "UEFA Europa League": 0,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Daichi Kamada",
-     "player": "Daichi Kamada",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Europa League": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Yéremy Pino",
-     "player": "Yéremy Pino",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 1
      }
     },
     {
@@ -2849,6 +2882,17 @@
      }
     },
     {
+     "player_id": "Jules Ahoka",
+     "player": "Jules Ahoka",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Nilson Angulo",
      "player": "Nilson Angulo",
      "goals": 1,
@@ -2857,6 +2901,17 @@
       "EFL Cup": 0,
       "UEFA Europa League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Noah Sadiki",
+     "player": "Noah Sadiki",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
      }
     },
     {

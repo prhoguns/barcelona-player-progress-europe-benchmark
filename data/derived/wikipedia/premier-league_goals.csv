@@ -17564,6 +17564,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-08,Lincoln City,EFL Cup,"Rayan (footballer, born 2006)",Rayan,90+4,False,False,False,premier-league,2026,Bournemouth
 2026-09-17,Real Sociedad {{fbaicon|ESP}},UEFA Europa League,Justin Kluivert,Justin Kluivert,11,False,False,False,premier-league,2026,Bournemouth
 2026-09-17,Real Sociedad {{fbaicon|ESP}},UEFA Europa League,"Rayan (footballer, born 2006)",Rayan,20,False,False,False,premier-league,2026,Bournemouth
+2026-10-15,{{fbaicon|AUT}} Sturm Graz,UEFA Europa League,"Evanilson (footballer, born 1999)",Evanilson,43,False,False,False,premier-league,2026,Bournemouth
+2026-10-15,{{fbaicon|AUT}} Sturm Graz,UEFA Europa League,"Rayan (footballer, born 2006)",Rayan,76,False,False,False,premier-league,2026,Bournemouth
+2026-10-15,{{fbaicon|AUT}} Sturm Graz,UEFA Europa League,"Álvaro Rodríguez (footballer, born 2004)",Álvaro Rodríguez,90+2,True,False,False,premier-league,2026,Bournemouth
 2026-08-22,Tottenham,league,Keane Lewis-Potter,Keane Lewis-Potter,12,False,False,True,premier-league,2026,Brentford
 2026-08-22,Tottenham,league,Vitaly Janelt,Vitaly Janelt,33,False,False,True,premier-league,2026,Brentford
 2026-08-22,Tottenham,league,Michael Kayode,Michael Kayode,49,False,False,True,premier-league,2026,Brentford
@@ -17641,6 +17644,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Maxim De Cuyper,Maxim De Cuyper,33,False,False,False,premier-league,2026,Brighton
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Mats Wieffer,Mats Wieffer,38,False,False,False,premier-league,2026,Brighton
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Olivier Boscagli,Olivier Boscagli,86,False,False,False,premier-league,2026,Brighton
+2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Georginio Rutter,Georginio Rutter,41,False,False,False,premier-league,2026,Brighton
+2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Georginio Rutter,Georginio Rutter,53,False,False,False,premier-league,2026,Brighton
+2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Jack Hinshelwood,Jack Hinshelwood,45+2,False,False,False,premier-league,2026,Brighton
+2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Matt O'Riley,Matt O'Riley,67,False,False,False,premier-league,2026,Brighton
 2026-08-24,Fulham,league,"João Pedro (footballer, born 2001)",João Pedro,1,False,False,True,premier-league,2026,Chelsea
 2026-08-24,Fulham,league,Morgan Rogers,Morgan Rogers,41,False,False,True,premier-league,2026,Chelsea
 2026-08-24,Fulham,league,Cole Palmer,Cole Palmer,49,False,False,True,premier-league,2026,Chelsea
@@ -17722,6 +17729,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Chris Richards (soccer),Chris Richards,27,False,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Jørgen Strand Larsen,Jørgen Strand Larsen,34,True,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Eddie Nketiah,Eddie Nketiah,89,False,False,False,premier-league,2026,Crystal Palace
+2026-10-15,Lyon {{fbaicon|FRA}},UEFA Europa League,Yéremy Pino,Yéremy Pino,50,False,False,False,premier-league,2026,Crystal Palace
+2026-10-15,Lyon {{fbaicon|FRA}},UEFA Europa League,Daichi Kamada,Daichi Kamada,81,False,False,False,premier-league,2026,Crystal Palace
 2026-08-22,Crystal Palace,league,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall,42,False,False,True,premier-league,2026,Everton
 2026-08-22,Crystal Palace,league,"Thierno Barry (footballer, born 2002)",Thierno Barry,53,False,False,True,premier-league,2026,Everton
 2026-08-29,Bournemouth,league,James Tarkowski,James Tarkowski,90+1,False,False,True,premier-league,2026,Everton
@@ -17957,6 +17966,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-15,Rennes,Pre-season and friendlies,Trai Hume,Trai Hume,70,False,False,False,premier-league,2026,Sunderland
 2026-09-08,Hull City,EFL Cup,Chemsdine Talbi,Chemsdine Talbi,71,False,False,False,premier-league,2026,Sunderland
 2026-09-16,{{fbaicon|NED}} AZ,UEFA Europa League,Enzo Le Fée,Enzo Le Fée,66,True,False,False,premier-league,2026,Sunderland
+2026-10-15,Torreense {{fbaicon|POR}},UEFA Europa League,Jules Ahoka,Jules Ahoka,67,False,False,False,premier-league,2026,Sunderland
+2026-10-15,Torreense {{fbaicon|POR}},UEFA Europa League,Noah Sadiki,Noah Sadiki,90+3,False,False,False,premier-league,2026,Sunderland
 2026-09-19,Aston Villa,league,Jan Paul van Hecke,Jan Paul van Hecke,90+8,False,False,True,premier-league,2026,Tottenham
 2026-09-19,Aston Villa,league,Conor Gallagher,Conor Gallagher,86,False,False,True,premier-league,2026,Tottenham
 2026-10-10,Man United,league,Dominic Solanke,Dominic Solanke,90+2,False,False,True,premier-league,2026,Tottenham

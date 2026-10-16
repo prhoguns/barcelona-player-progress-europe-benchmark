@@ -16532,6 +16532,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Abde Ezzalzouli,Abde Ezzalzouli,47,False,False,False,la-liga,2026,Betis
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Cucho Hernández,Cucho Hernández,74,False,False,False,la-liga,2026,Betis
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Isco,Isco,84,False,False,False,la-liga,2026,Betis
+2026-10-15,{{fbaicon|ITA}} Juventus,UEFA Europa League,"Hugo Álvarez (footballer, born 2003)",Hugo Álvarez,18,False,False,False,la-liga,2026,Celta
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,5,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,40,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,Tyrhys Dolan,Tyrhys Dolan,80,False,False,True,la-liga,2026,Espanol
@@ -16552,6 +16553,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-29,Betis,league,Jon Ander Olasagasti,Jon Ander Olasagasti,90+5,False,False,True,la-liga,2026,Levante
 2026-08-27,Celta,league,Kike Barja,Kike Barja,54,False,False,True,la-liga,2026,Osasuna
 2026-08-27,Celta,league,Ante Budimir,Ante Budimir,64,True,False,True,la-liga,2026,Osasuna
+2026-08-31,Getafe,league,Ante Budimir,Ante Budimir,45+2,True,False,True,la-liga,2026,Osasuna
+2026-09-06,Alaves,league,Ante Budimir,Ante Budimir,46,False,False,True,la-liga,2026,Osasuna
+2026-09-06,Alaves,league,Ante Budimir,Ante Budimir,64,True,False,True,la-liga,2026,Osasuna
 2026-10-11,Betis,league,Ante Budimir,Ante Budimir,51,False,False,True,la-liga,2026,Osasuna
 2026-10-11,Betis,league,"Raúl García (footballer, born 2000)",Raúl García,56,False,False,True,la-liga,2026,Osasuna
 2026-08-22,Espanol,league,Jude Bellingham,Jude Bellingham,9,False,False,True,la-liga,2026,Real Madrid
@@ -16626,6 +16630,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-11,La Coruna,league,Arsen Zakharyan,Arsen Zakharyan,34,False,False,True,la-liga,2026,Sociedad
 2026-10-11,La Coruna,league,Gonçalo Guedes,Gonçalo Guedes,54,False,False,True,la-liga,2026,Sociedad
 2026-09-17,{{fbaicon|ENG}} Bournemouth,UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,57,False,False,False,la-liga,2026,Sociedad
+2026-10-15,Union Saint-Gilloise {{fbaicon|BEL}},UEFA Europa League,Beñat Turrientes,Beñat Turrientes,46,False,False,False,la-liga,2026,Sociedad
 2026-09-20,Sociedad,league,Aaron Mayol,Aaron Mayol,57,False,False,True,la-liga,2026,Valencia
 2026-09-20,Sociedad,league,Luken Beitia,Luken Beitia,84,False,True,True,la-liga,2026,Valencia
 2026-08-16,Santander,league,Pape Gueye,Pape Gueye,45,False,False,True,la-liga,2026,Villarreal
