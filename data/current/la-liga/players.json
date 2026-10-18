@@ -205,9 +205,10 @@
     {
      "player_id": "Álex Baena",
      "player": "Álex Baena",
-     "goals": 4,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 1,
       "UEFA Champions League": 0,
       "league": 4
      }
@@ -218,6 +219,7 @@
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 3
      }
@@ -228,6 +230,7 @@
      "goals": 3,
      "penalties": 2,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 3
      }
@@ -238,6 +241,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 1
      }
@@ -248,6 +252,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 2
      }
@@ -258,6 +263,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 2
      }
@@ -268,6 +274,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -278,6 +285,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -288,6 +296,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -298,6 +307,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -308,6 +318,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -430,6 +441,7 @@
      "goals": 14,
      "penalties": 3,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 2,
       "league": 12
      }
@@ -437,9 +449,10 @@
     {
      "player_id": "Lamine Yamal",
      "player": "Lamine Yamal",
-     "goals": 8,
+     "goals": 9,
      "penalties": 1,
      "by_competition": {
+      "La Liga": 1,
       "UEFA Champions League": 1,
       "league": 7
      }
@@ -450,8 +463,20 @@
      "goals": 5,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 4
+     }
+    },
+    {
+     "player_id": "Gabriel Jesus",
+     "player": "Gabriel Jesus",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Champions League": 1,
+      "league": 2
      }
     },
     {
@@ -460,17 +485,8 @@
      "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 2,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Gabriel Jesus",
-     "player": "Gabriel Jesus",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 1,
       "league": 2
      }
     },
@@ -480,6 +496,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 1
      }
@@ -490,8 +507,31 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Dani Olmo",
+     "player": "Dani Olmo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Eric Garcia (footballer, born 2001)",
+     "player": "Eric Garcia",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Champions League": 0,
+      "league": 0
      }
     },
     {
@@ -500,6 +540,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -510,8 +551,20 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Rodri",
+     "player": "Rodri",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Champions League": 0,
+      "league": 0
      }
     },
     {
@@ -520,6 +573,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -932,7 +986,7 @@
   "Getafe": {
    "page": "2026–27 Getafe CF season",
    "matches_checked": 8,
-   "matches_complete": 7,
+   "matches_complete": 8,
    "all_competitions": [
     {
      "player_id": "Enes Ünal",
@@ -1001,7 +1055,46 @@
     66,
     85
    ],
-   "status": "Wikipedia scorers add up for 7 of 8 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Enes Ünal",
+     "player": "Enes Ünal",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Iván Azón",
+     "player": "Iván Azón",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Martín Satriano",
+     "player": "Martín Satriano",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Ramon Terrats",
+     "player": "Ramon Terrats",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9505,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 22.8122
   },
   "La Coruna": {
    "page": "2026–27 Deportivo de La Coruña season",
@@ -1778,7 +1871,7 @@
   "Valencia": {
    "page": "2026–27 Valencia CF season",
    "matches_checked": 8,
-   "matches_complete": 5,
+   "matches_complete": 8,
    "all_competitions": [
     {
      "player_id": "Aaron Mayol",
@@ -1788,12 +1881,100 @@
      "by_competition": {
       "league": 1
      }
+    },
+    {
+     "player_id": "Dani Raba",
+     "player": "Dani Raba",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "David Otorbi",
+     "player": "David Otorbi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Luis Rioja",
+     "player": "Luis Rioja",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Umar Sadiq",
+     "player": "Umar Sadiq",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
     }
    ],
    "league_goal_minutes": [
-    57
+    26,
+    78,
+    57,
+    2,
+    65
    ],
-   "status": "Wikipedia scorers add up for 5 of 8 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Aaron Mayol",
+     "player": "Aaron Mayol",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Dani Raba",
+     "player": "Dani Raba",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "David Otorbi",
+     "player": "David Otorbi",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Luis Rioja",
+     "player": "Luis Rioja",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1505,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Umar Sadiq",
+     "player": "Umar Sadiq",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.1505,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 28.7634
   },
   "Vallecano": {
    "page": "2026–27 Rayo Vallecano season",
