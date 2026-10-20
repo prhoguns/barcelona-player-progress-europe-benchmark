@@ -17472,6 +17472,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-12,Sunderland,league,Bukayo Saka,Bukayo Saka,90+7,True,False,True,premier-league,2026,Arsenal
 2026-10-10,Leeds,league,Riccardo Calafiori,Riccardo Calafiori,62,False,False,True,premier-league,2026,Arsenal
 2026-10-10,Leeds,league,Bruno Guimarães,Bruno Guimarães,70,False,False,True,premier-league,2026,Arsenal
+2026-10-18,Nott'm Forest,league,Noni Madueke,Noni Madueke,80,False,False,True,premier-league,2026,Arsenal
 2026-08-01,Girona,Pre-season and friendlies,Kai Havertz,Kai Havertz,16,False,False,False,premier-league,2026,Arsenal
 2026-08-01,Girona,Pre-season and friendlies,Christos Tzolis,Christos Tzolis,30,False,False,False,premier-league,2026,Arsenal
 2026-08-01,Girona,Pre-season and friendlies,Max Dowman,Max Dowman,53,False,False,False,premier-league,2026,Arsenal
@@ -17497,6 +17498,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-19,Tottenham,league,Emiliano Buendía,Emiliano Buendía,79,False,False,True,premier-league,2026,Aston Villa
 2026-10-10,Brentford,league,Nicolas Jackson,Nicolas Jackson,12,False,False,True,premier-league,2026,Aston Villa
 2026-10-10,Brentford,league,John McGinn,John McGinn,77,False,False,True,premier-league,2026,Aston Villa
+2026-10-17,Newcastle,league,Johan Manzambi,Johan Manzambi,36,False,False,True,premier-league,2026,Aston Villa
 2026-07-21,Walsall,Pre-season and friendlies,Brian Madjo,Brian Madjo,24,False,False,False,premier-league,2026,Aston Villa
 2026-07-21,Walsall,Pre-season and friendlies,Brian Madjo,Brian Madjo,44,False,False,False,premier-league,2026,Aston Villa
 2026-07-21,Walsall,Pre-season and friendlies,George Hemmings,George Hemmings,42,False,False,False,premier-league,2026,Aston Villa
@@ -17516,7 +17518,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-02,Sevilla,Pre-season and friendlies,Ross Barkley,Ross Barkley,71,False,False,False,premier-league,2026,Aston Villa
 2026-10-02,Sevilla,Pre-season and friendlies,Alejandro Garnacho,Alejandro Garnacho,79,False,False,False,premier-league,2026,Aston Villa
 2026-10-02,Sevilla,Pre-season and friendlies,Max Jenner,Max Jenner,83,False,False,False,premier-league,2026,Aston Villa
-2026-10-17,Newcastle United,Premier League,Johan Manzambi,Johan Manzambi,36,False,False,False,premier-league,2026,Aston Villa
 2026-09-16,Coventry City,EFL Cup,Tammy Abraham,Tammy Abraham,7,False,False,False,premier-league,2026,Aston Villa
 2026-09-16,Coventry City,EFL Cup,Tammy Abraham,Tammy Abraham,59,False,False,False,premier-league,2026,Aston Villa
 2026-09-16,Coventry City,EFL Cup,Ross Barkley,Ross Barkley,40,False,False,False,premier-league,2026,Aston Villa
@@ -17537,6 +17538,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-12,Brentford,league,Justin Kluivert,Justin Kluivert,38,False,False,True,premier-league,2026,Bournemouth
 2026-09-12,Brentford,league,Marcus Tavernier,Marcus Tavernier,52,False,False,True,premier-league,2026,Bournemouth
 2026-10-10,Chelsea,league,"Evanilson (footballer, born 1999)",Evanilson,51,False,False,True,premier-league,2026,Bournemouth
+2026-10-18,Sunderland,league,Marcus Tavernier,Marcus Tavernier,6,False,False,True,premier-league,2026,Bournemouth
+2026-10-18,Sunderland,league,"Evanilson (footballer, born 1999)",Evanilson,48,False,False,True,premier-league,2026,Bournemouth
 2026-07-24,FC St. Pauli {{fbaicon|GER}},Pre-season and friendlies,Ben Gannon-Doak,Ben Gannon-Doak,25,False,False,False,premier-league,2026,Bournemouth
 2026-07-24,FC St. Pauli {{fbaicon|GER}},Pre-season and friendlies,William,William,39,False,False,False,premier-league,2026,Bournemouth
 2026-07-24,FC St. Pauli {{fbaicon|GER}},Pre-season and friendlies,Daniel Jebbison,Daniel Jebbison,48,False,False,False,premier-league,2026,Bournemouth
@@ -17580,6 +17583,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-18,Chelsea,league,"Fábio Carvalho (footballer, born 2002)",Fábio Carvalho,90+4,False,False,True,premier-league,2026,Brentford
 2026-10-10,Aston Villa,league,Yehor Yarmolyuk,Yehor Yarmolyuk,10,False,False,True,premier-league,2026,Brentford
 2026-10-10,Aston Villa,league,Kristoffer Ajer,Kristoffer Ajer,79,False,False,True,premier-league,2026,Brentford
+2026-10-17,Liverpool,league,Keane Lewis-Potter,Keane Lewis-Potter,44,False,False,True,premier-league,2026,Brentford
 2026-07-15,AFC Wimbledon,Pre-season and friendlies,Iwan Morgan,Iwan Morgan,40,False,False,False,premier-league,2026,Brentford
 2026-07-15,AFC Wimbledon,Pre-season and friendlies,Mikkel Damsgaard,Mikkel Damsgaard,75,False,False,False,premier-league,2026,Brentford
 2026-08-05,Wycombe Wanderers,Pre-season and friendlies,Mikkel Damsgaard,Mikkel Damsgaard,25,False,False,False,premier-league,2026,Brentford
@@ -17600,7 +17604,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-15,Eintracht Frankfurt,Pre-season and friendlies,Keane Lewis-Potter,Keane Lewis-Potter,58,False,False,False,premier-league,2026,Brentford
 2026-10-02,Norwich City,Pre-season and friendlies,Keane Lewis-Potter,Keane Lewis-Potter,44,False,False,False,premier-league,2026,Brentford
 2026-10-02,Norwich City,Pre-season and friendlies,"Fábio Carvalho (footballer, born 2002)",Fábio Carvalho,49,False,False,False,premier-league,2026,Brentford
-2026-10-17,Liverpool,Premier League,Keane Lewis-Potter,Keane Lewis-Potter,44,False,False,False,premier-league,2026,Brentford
 2026-08-25,Birmingham City,EFL Cup,Callum Wilson,Callum Wilson,6,False,False,False,premier-league,2026,Brentford
 2026-08-25,Birmingham City,EFL Cup,Aaron Hickey,Aaron Hickey,35,False,False,False,premier-league,2026,Brentford
 2026-08-25,Birmingham City,EFL Cup,Nathan Collins,Nathan Collins,40,False,False,False,premier-league,2026,Brentford
@@ -17627,6 +17630,11 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-19,Arsenal,league,Chema Andrés,Chema Andrés,57,False,False,True,premier-league,2026,Brighton
 2026-10-10,Sunderland,league,Maxim De Cuyper,Maxim De Cuyper,53,False,False,True,premier-league,2026,Brighton
 2026-10-10,Sunderland,league,Jaouen Hadjam,Jaouen Hadjam,90+3,False,False,True,premier-league,2026,Brighton
+2026-10-18,Crystal Palace,league,Jaydee Canvot,Jaydee Canvot,4,False,True,True,premier-league,2026,Brighton
+2026-10-18,Crystal Palace,league,Diego Gómez (Paraguayan footballer),Diego Gómez,7,False,False,True,premier-league,2026,Brighton
+2026-10-18,Crystal Palace,league,Yasin Ayari,Yasin Ayari,10,False,False,True,premier-league,2026,Brighton
+2026-10-18,Crystal Palace,league,Charalampos Kostoulas,Charalampos Kostoulas,49,False,False,True,premier-league,2026,Brighton
+2026-10-18,Crystal Palace,league,Jack Hinshelwood,Jack Hinshelwood,84,False,False,True,premier-league,2026,Brighton
 2026-07-18,Wycombe Wanderers,Pre-season and friendlies,Charalampos Kostoulas,Charalampos Kostoulas,15,False,False,False,premier-league,2026,Brighton
 2026-07-18,Wycombe Wanderers,Pre-season and friendlies,Charalampos Kostoulas,Charalampos Kostoulas,25,False,False,False,premier-league,2026,Brighton
 2026-07-18,Wycombe Wanderers,Pre-season and friendlies,"Ibrahim Osman (footballer, born 2004)",Ibrahim Osman,35,False,False,False,premier-league,2026,Brighton
@@ -17647,7 +17655,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Mats Wieffer,Mats Wieffer,38,False,False,False,premier-league,2026,Brighton
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Olivier Boscagli,Olivier Boscagli,86,False,False,False,premier-league,2026,Brighton
 2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Georginio Rutter,Georginio Rutter,41,False,False,False,premier-league,2026,Brighton
-2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Georginio Rutter,Georginio Rutter,53,False,False,False,premier-league,2026,Brighton
+2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Georginio Rutter,Georginio Rutter,54,False,False,False,premier-league,2026,Brighton
 2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Jack Hinshelwood,Jack Hinshelwood,45+2,False,False,False,premier-league,2026,Brighton
 2026-10-15,{{fbaicon|LTU}} Kauno Žalgiris,UEFA Conference League,Matt O'Riley,Matt O'Riley,67,False,False,False,premier-league,2026,Brighton
 2026-08-24,Fulham,league,"João Pedro (footballer, born 2001)",João Pedro,1,False,False,True,premier-league,2026,Chelsea
@@ -17665,6 +17673,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-10,Bournemouth,league,Morgan Rogers,Morgan Rogers,3,False,False,True,premier-league,2026,Chelsea
 2026-10-10,Bournemouth,league,"João Pedro (footballer, born 2001)",João Pedro,46,False,False,True,premier-league,2026,Chelsea
 2026-10-10,Bournemouth,league,"João Pedro (footballer, born 2001)",João Pedro,67,False,False,True,premier-league,2026,Chelsea
+2026-10-17,Everton,league,Pedro Neto,Pedro Neto,46,False,False,True,premier-league,2026,Chelsea
+2026-10-17,Everton,league,Pedro Neto,Pedro Neto,90,False,False,True,premier-league,2026,Chelsea
 2026-07-28,Western Sydney Wanderers,Pre-season and friendlies,Dastan Satpayev,Dastan Satpayev,6,False,False,False,premier-league,2026,Chelsea
 2026-07-28,Western Sydney Wanderers,Pre-season and friendlies,Dário Essugo,Dário Essugo,38,False,False,False,premier-league,2026,Chelsea
 2026-07-28,Western Sydney Wanderers,Pre-season and friendlies,Jamie Gittens,Jamie Gittens,66,False,False,False,premier-league,2026,Chelsea
@@ -17681,8 +17691,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-15,Real Sociedad,Pre-season and friendlies,Morgan Rogers,Morgan Rogers,11,False,False,False,premier-league,2026,Chelsea
 2026-08-15,Real Sociedad,Pre-season and friendlies,"João Pedro (footballer, born 2001)",João Pedro,47,False,False,False,premier-league,2026,Chelsea
 2026-08-15,Real Sociedad,Pre-season and friendlies,"João Pedro (footballer, born 2001)",João Pedro,77,False,False,False,premier-league,2026,Chelsea
-2026-10-17,Everton,Premier League,Pedro Neto,Pedro Neto,46,False,False,False,premier-league,2026,Chelsea
-2026-10-17,Everton,Premier League,Pedro Neto,Pedro Neto,90,False,False,False,premier-league,2026,Chelsea
 2026-08-27,Luton Town,EFL Cup,Danny Welbeck,Danny Welbeck,50,False,False,False,premier-league,2026,Chelsea
 2026-08-27,Luton Town,EFL Cup,Hakeem Odoffin,Hakeem Odoffin,79,False,True,False,premier-league,2026,Chelsea
 2026-09-09,Leeds United,EFL Cup,Cole Palmer,Cole Palmer,53,True,False,False,premier-league,2026,Chelsea
@@ -17696,6 +17704,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-12,Newcastle,league,Sidiki Cherif,Sidiki Cherif,48,False,False,True,premier-league,2026,Coventry
 2026-10-12,Newcastle,league,Ellis Simms,Ellis Simms,81,False,False,True,premier-league,2026,Coventry
 2026-10-12,Newcastle,league,Stephen Mfuni,Stephen Mfuni,86,False,False,True,premier-league,2026,Coventry
+2026-10-19,Tottenham,league,Jack Rudoni,Jack Rudoni,49,False,False,True,premier-league,2026,Coventry
 2026-08-01,Leicester City,Pre-season friendlies,Joel Latibeaudiere,Joel Latibeaudiere,80,False,False,False,premier-league,2026,Coventry
 2026-08-08,{{fbaicon|ESP}} Espanyol,Pre-season friendlies,Tatsuhiro Sakamoto,Tatsuhiro Sakamoto,69,False,False,False,premier-league,2026,Coventry
 2026-08-08,{{fbaicon|ESP}} Espanyol,Pre-season friendlies,Josh Eccles,Josh Eccles,75,False,False,False,premier-league,2026,Coventry
@@ -17715,7 +17724,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-12,Ipswich,league,Jørgen Strand Larsen,Jørgen Strand Larsen,75,False,False,True,premier-league,2026,Crystal Palace
 2026-10-11,Nott'm Forest,league,Daichi Kamada,Daichi Kamada,41,False,False,True,premier-league,2026,Crystal Palace
 2026-10-11,Nott'm Forest,league,Jefferson Lerma,Jefferson Lerma,45+4,False,False,True,premier-league,2026,Crystal Palace
-2026-10-11,Nott'm Forest,league,Yéremy Pino,Yéremy Pino,59,False,False,True,premier-league,2026,Crystal Palace
+2026-10-11,Nott'm Forest,league,Yeremy Pino,Yeremy Pino,59,False,False,True,premier-league,2026,Crystal Palace
 2026-07-18,Swindon Town,Pre-season and friendlies,Eddie Nketiah,Eddie Nketiah,9,False,False,False,premier-league,2026,Crystal Palace
 2026-07-18,Swindon Town,Pre-season and friendlies,Eddie Nketiah,Eddie Nketiah,21,False,False,False,premier-league,2026,Crystal Palace
 2026-07-18,Swindon Town,Pre-season and friendlies,Matheus França,Matheus França,56,False,False,False,premier-league,2026,Crystal Palace
@@ -17729,11 +17738,11 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-08,Middlesbrough,EFL Cup,Jørgen Strand Larsen,Jørgen Strand Larsen,37,False,False,False,premier-league,2026,Crystal Palace
 2026-09-08,Middlesbrough,EFL Cup,Jørgen Strand Larsen,Jørgen Strand Larsen,53,False,False,False,premier-league,2026,Crystal Palace
 2026-09-08,Middlesbrough,EFL Cup,Daichi Kamada,Daichi Kamada,72,False,False,False,premier-league,2026,Crystal Palace
-2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Yéremy Pino,Yéremy Pino,10,False,False,False,premier-league,2026,Crystal Palace
+2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Yeremy Pino,Yeremy Pino,10,False,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Chris Richards (soccer),Chris Richards,27,False,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Jørgen Strand Larsen,Jørgen Strand Larsen,34,True,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Eddie Nketiah,Eddie Nketiah,89,False,False,False,premier-league,2026,Crystal Palace
-2026-10-15,Lyon {{fbaicon|FRA}},UEFA Europa League,Yéremy Pino,Yéremy Pino,50,False,False,False,premier-league,2026,Crystal Palace
+2026-10-15,Lyon {{fbaicon|FRA}},UEFA Europa League,Yeremy Pino,Yeremy Pino,50,False,False,False,premier-league,2026,Crystal Palace
 2026-10-15,Lyon {{fbaicon|FRA}},UEFA Europa League,Daichi Kamada,Daichi Kamada,81,False,False,False,premier-league,2026,Crystal Palace
 2026-08-22,Crystal Palace,league,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall,42,False,False,True,premier-league,2026,Everton
 2026-08-22,Crystal Palace,league,"Thierno Barry (footballer, born 2002)",Thierno Barry,53,False,False,True,premier-league,2026,Everton
@@ -17768,6 +17777,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-05,Crystal Palace,league,"César Palacios (footballer, born 2004)",César Palacios,42,False,False,True,premier-league,2026,Fulham
 2026-09-20,Man United,league,Lisandro Martínez,Lisandro Martínez,63,False,True,True,premier-league,2026,Fulham
 2026-10-10,Ipswich,league,Ryan Sessegnon,Ryan Sessegnon,55,False,False,True,premier-league,2026,Fulham
+2026-10-17,Hull,league,Alex Iwobi,Alex Iwobi,33,False,False,True,premier-league,2026,Fulham
 2026-07-28,Al-Ahli,Pre-season and friendlies,Ryan Sessegnon,Ryan Sessegnon,40,False,False,False,premier-league,2026,Fulham
 2026-08-01,Farense,Pre-season and friendlies,Alex Iwobi,Alex Iwobi,52,True,False,False,premier-league,2026,Fulham
 2026-08-01,Farense,Pre-season and friendlies,Rodrigo Muniz (Brazilian footballer),Rodrigo Muniz,89,False,False,False,premier-league,2026,Fulham
@@ -17775,7 +17785,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-12,Málaga,Pre-season and friendlies,Ryan Sessegnon,Ryan Sessegnon,24,False,False,False,premier-league,2026,Fulham
 2026-08-12,Málaga,Pre-season and friendlies,Alex Iwobi,Alex Iwobi,57,False,False,False,premier-league,2026,Fulham
 2026-08-15,VfB Stuttgart,Pre-season and friendlies,Timothy Castagne,Timothy Castagne,67,False,False,False,premier-league,2026,Fulham
-2026-10-17,Hull City,Premier League,Alex Iwobi,Alex Iwobi,33,False,False,False,premier-league,2026,Fulham
 2026-08-27,AFC Wimbledon,EFL Cup,Emile Smith Rowe,Emile Smith Rowe,37,False,False,False,premier-league,2026,Fulham
 2026-08-27,AFC Wimbledon,EFL Cup,Rodrigo Muniz (Brazilian footballer),Rodrigo Muniz,42,False,False,False,premier-league,2026,Fulham
 2026-08-27,AFC Wimbledon,EFL Cup,"Gonzalo García (footballer, born 2004)",Gonzalo García,90+3,False,False,False,premier-league,2026,Fulham
@@ -17806,6 +17815,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-12,Crystal Palace,league,Zian Flemming,Zian Flemming,90,False,False,True,premier-league,2026,Ipswich
 2026-10-10,Fulham,league,Abdoul Ouattara,Abdoul Ouattara,88,False,False,True,premier-league,2026,Ipswich
 2026-10-10,Fulham,league,Dara O'Shea,Dara O'Shea,90+1,False,False,True,premier-league,2026,Ipswich
+2026-10-17,Man City,league,Daizen Maeda,Daizen Maeda,21,False,False,True,premier-league,2026,Ipswich
+2026-10-17,Man City,league,Zian Flemming,Zian Flemming,90,True,False,True,premier-league,2026,Ipswich
 2026-07-29,CA Osasuna,Pre-season and friendlies,Chuba Akpom,Chuba Akpom,53,False,False,False,premier-league,2026,Ipswich
 2026-08-01,Wycombe Wanderers,Pre-season and friendlies,"Cameron Humphreys (footballer, born 2003)",Cameron Humphreys,75,False,False,False,premier-league,2026,Ipswich
 2026-08-01,Wycombe Wanderers,Pre-season and friendlies,"Cameron Humphreys (footballer, born 2003)",Cameron Humphreys,89,False,False,False,premier-league,2026,Ipswich
@@ -17817,8 +17828,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-15,Union Berlin,Pre-season and friendlies,Emersonn,Emersonn,41,False,False,False,premier-league,2026,Ipswich
 2026-08-15,Union Berlin,Pre-season and friendlies,Dara O'Shea,Dara O'Shea,45+1,False,False,False,premier-league,2026,Ipswich
 2026-08-15,Union Berlin,Pre-season and friendlies,Kasey McAteer,Kasey McAteer,78,False,False,False,premier-league,2026,Ipswich
-2026-10-17,Manchester City,Premier League,Daizen Maeda,Daizen Maeda,21,False,False,False,premier-league,2026,Ipswich
-2026-10-17,Manchester City,Premier League,Zian Flemming,Zian Flemming,90,True,False,False,premier-league,2026,Ipswich
 2026-08-25,Leicester City,EFL Cup,Sindre Walle Egeli,Sindre Walle Egeli,62,False,False,False,premier-league,2026,Ipswich
 2026-08-25,Leicester City,EFL Cup,Marcelino Núñez,Marcelino Núñez,71,False,False,False,premier-league,2026,Ipswich
 2026-08-25,Leicester City,EFL Cup,Marcelino Núñez,Marcelino Núñez,90+1,False,False,False,premier-league,2026,Ipswich
@@ -17832,6 +17841,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-14,Newcastle,league,Dominic Calvert-Lewin,Dominic Calvert-Lewin,45+1,False,False,True,premier-league,2026,Leeds
 2026-09-14,Newcastle,league,Noah Okafor,Noah Okafor,59,False,False,True,premier-league,2026,Leeds
 2026-10-10,Arsenal,league,James Justin,James Justin,55,False,False,True,premier-league,2026,Leeds
+2026-10-18,Man United,league,Dominic Calvert-Lewin,Dominic Calvert-Lewin,51,False,False,True,premier-league,2026,Leeds
 2026-07-25,Wrexham,Pre-season and friendlies,Joël Piroe,Joël Piroe,29,False,False,False,premier-league,2026,Leeds
 2026-07-25,Wrexham,Pre-season and friendlies,Sean Longstaff,Sean Longstaff,45,False,False,False,premier-league,2026,Leeds
 2026-07-30,Sunderland,Pre-season and friendlies,Lukas Nmecha,Lukas Nmecha,8,False,False,False,premier-league,2026,Leeds
@@ -17858,6 +17868,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-04,Ipswich,league,Alexander Isak,Alexander Isak,6,False,False,True,premier-league,2026,Liverpool
 2026-09-04,Ipswich,league,Alexander Isak,Alexander Isak,9,False,False,True,premier-league,2026,Liverpool
 2026-09-20,Bournemouth,league,Alexander Isak,Alexander Isak,57,False,False,True,premier-league,2026,Liverpool
+2026-10-17,Brentford,league,"Víctor Muñoz (footballer, born 2003)",Víctor Muñoz,62,False,False,True,premier-league,2026,Liverpool
+2026-10-17,Brentford,league,Alexander Isak,Alexander Isak,70,False,False,True,premier-league,2026,Liverpool
 2026-07-25,Sunderland,Pre-season and friendlies,Kieran Morrison (footballer),Kieran Morrison,13,False,False,False,premier-league,2026,Liverpool
 2026-07-25,Sunderland,Pre-season and friendlies,Dominik Szoboszlai,Dominik Szoboszlai,56,False,False,False,premier-league,2026,Liverpool
 2026-07-25,Sunderland,Pre-season and friendlies,Federico Chiesa,Federico Chiesa,72,False,False,False,premier-league,2026,Liverpool
@@ -17869,8 +17881,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-09,Monaco,Pre-season and friendlies,Florian Wirtz,Florian Wirtz,29,False,False,False,premier-league,2026,Liverpool
 2026-08-16,Como,Pre-season and friendlies,Cody Gakpo,Cody Gakpo,23,False,False,False,premier-league,2026,Liverpool
 2026-08-16,Como,Pre-season and friendlies,Jérémy Jacquet,Jérémy Jacquet,44,False,False,False,premier-league,2026,Liverpool
-2026-10-17,Brentford,Premier League,"Víctor Muñoz (footballer, born 2003)",Víctor Muñoz,62,False,False,False,premier-league,2026,Liverpool
-2026-10-17,Brentford,Premier League,Alexander Isak,Alexander Isak,70,False,False,False,premier-league,2026,Liverpool
 2026-09-15,Tottenham Hotspur,EFL Cup,Alexis Mac Allister,Alexis Mac Allister,21,False,False,False,premier-league,2026,Liverpool
 2026-09-15,Tottenham Hotspur,EFL Cup,Cody Gakpo,Cody Gakpo,54,False,False,False,premier-league,2026,Liverpool
 2026-09-15,Tottenham Hotspur,EFL Cup,Dominik Szoboszlai,Dominik Szoboszlai,90+1,False,False,False,premier-league,2026,Liverpool
@@ -17898,6 +17908,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-11,Liverpool,league,Erling Haaland,Erling Haaland,65,False,False,True,premier-league,2026,Man City
 2026-10-11,Liverpool,league,Jérémy Doku,Jérémy Doku,68,False,False,True,premier-league,2026,Man City
 2026-10-11,Liverpool,league,Rayan Cherki,Rayan Cherki,78,False,False,True,premier-league,2026,Man City
+2026-10-17,Ipswich,league,Phil Foden,Phil Foden,19,False,False,True,premier-league,2026,Man City
+2026-10-17,Ipswich,league,Erling Haaland,Erling Haaland,34,False,False,True,premier-league,2026,Man City
+2026-10-17,Ipswich,league,Erling Haaland,Erling Haaland,69,False,False,True,premier-league,2026,Man City
 2026-08-01,Inter Milan,Pre-season and friendlies,Divin Mubama,Divin Mubama,14,False,False,False,premier-league,2026,Man City
 2026-08-05,K-League All Stars,Pre-season and friendlies,Rayan Aït-Nouri,Rayan Aït-Nouri,9,False,False,False,premier-league,2026,Man City
 2026-08-05,K-League All Stars,Pre-season and friendlies,Tijjani Reijnders,Tijjani Reijnders,20,False,False,False,premier-league,2026,Man City
@@ -17905,9 +17918,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-09,Atlético Madrid,Pre-season and friendlies,Omar Marmoush,Omar Marmoush,57,False,False,False,premier-league,2026,Man City
 2026-08-09,Atlético Madrid,Pre-season and friendlies,Omar Marmoush,Omar Marmoush,59,False,False,False,premier-league,2026,Man City
 2026-08-09,Atlético Madrid,Pre-season and friendlies,Rayan Aït-Nouri,Rayan Aït-Nouri,90,False,False,False,premier-league,2026,Man City
-2026-10-17,Ipswich Town,Premier League,Phil Foden,Phil Foden,19,False,False,False,premier-league,2026,Man City
-2026-10-17,Ipswich Town,Premier League,Erling Haaland,Erling Haaland,34,False,False,False,premier-league,2026,Man City
-2026-10-17,Ipswich Town,Premier League,Erling Haaland,Erling Haaland,69,False,False,False,premier-league,2026,Man City
 2026-09-17,Norwich City,EFL Cup,Floyd Samba,Floyd Samba,29,False,False,False,premier-league,2026,Man City
 2026-09-17,Norwich City,EFL Cup,Floyd Samba,Floyd Samba,54,False,False,False,premier-league,2026,Man City
 2026-09-17,Norwich City,EFL Cup,Rayan Cherki,Rayan Cherki,32,False,False,False,premier-league,2026,Man City
@@ -17983,6 +17993,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-19,Aston Villa,league,Jan Paul van Hecke,Jan Paul van Hecke,90+8,False,False,True,premier-league,2026,Tottenham
 2026-09-19,Aston Villa,league,Conor Gallagher,Conor Gallagher,86,False,False,True,premier-league,2026,Tottenham
 2026-10-10,Man United,league,Dominic Solanke,Dominic Solanke,90+2,False,False,True,premier-league,2026,Tottenham
+2026-10-19,Coventry,league,James Maddison,James Maddison,14,False,False,True,premier-league,2026,Tottenham
+2026-10-19,Coventry,league,Omar Marmoush,Omar Marmoush,58,False,False,True,premier-league,2026,Tottenham
+2026-10-19,Coventry,league,"Ben Davies (footballer, born 1993)",Ben Davies,90+6,False,False,True,premier-league,2026,Tottenham
 2026-07-22,Milton Keynes Dons,Pre-season and friendlies,Mateus Fernandes (footballer),Mateus Fernandes,3,False,False,False,premier-league,2026,Tottenham
 2026-07-26,Auckland FC,Pre-season and friendlies,Dane Scarlett,Dane Scarlett,12,False,False,False,premier-league,2026,Tottenham
 2026-07-26,Auckland FC,Pre-season and friendlies,Richarlison,Richarlison,70,False,False,False,premier-league,2026,Tottenham
