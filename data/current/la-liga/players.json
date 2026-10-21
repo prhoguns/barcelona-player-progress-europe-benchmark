@@ -4,7 +4,7 @@
   "Alaves": {
    "page": "2026–27 Deportivo Alavés season",
    "matches_checked": 9,
-   "matches_complete": 7,
+   "matches_complete": 8,
    "all_competitions": [
     {
      "player_id": "Lucas Boyé",
@@ -50,6 +50,15 @@
      "by_competition": {
       "league": 1
      }
+    },
+    {
+     "player_id": "Ville Koski",
+     "player": "Ville Koski",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
     }
    ],
    "league_goal_minutes": [
@@ -63,9 +72,10 @@
     68,
     36,
     90,
+    18,
     45
    ],
-   "status": "Wikipedia scorers add up for 7 of 9 league matches, so player forecasts are withheld until the page is complete."
+   "status": "Wikipedia scorers add up for 8 of 9 league matches, so player forecasts are withheld until the page is complete."
   },
   "Ath Bilbao": {
    "page": "2026–27 Athletic Bilbao season",
@@ -259,8 +269,8 @@
      }
     },
     {
-     "player_id": "Giuliano Simeone",
-     "player": "Giuliano Simeone",
+     "player_id": "Lee Kang-in",
+     "player": "Lee Kang-in",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -269,8 +279,8 @@
      }
     },
     {
-     "player_id": "Lee Kang-in",
-     "player": "Lee Kang-in",
+     "player_id": "Giuliano Simeone",
+     "player": "Giuliano Simeone",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -286,6 +296,16 @@
      "by_competition": {
       "UEFA Champions League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Julián Alvarez",
+     "player": "Julián Alvarez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {
@@ -454,10 +474,10 @@
     {
      "player_id": "Lamine Yamal",
      "player": "Lamine Yamal",
-     "goals": 9,
+     "goals": 10,
      "penalties": 1,
      "by_competition": {
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 2,
       "league": 8
      }
     },
@@ -492,8 +512,8 @@
      }
     },
     {
-     "player_id": "Anthony Gordon (footballer)",
-     "player": "Anthony Gordon",
+     "player_id": "Xavi Espart",
+     "player": "Xavi Espart",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -512,8 +532,18 @@
      }
     },
     {
-     "player_id": "Dani Olmo",
-     "player": "Dani Olmo",
+     "player_id": "Anthony Gordon (footballer)",
+     "player": "Anthony Gordon",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Eric Garcia (footballer, born 2001)",
+     "player": "Eric Garcia",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -522,8 +552,8 @@
      }
     },
     {
-     "player_id": "Eric Garcia (footballer, born 2001)",
-     "player": "Eric Garcia",
+     "player_id": "Dani Olmo",
+     "player": "Dani Olmo",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -554,16 +584,6 @@
     {
      "player_id": "Rodri",
      "player": "Rodri",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Xavi Espart",
-     "player": "Xavi Espart",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2136,10 +2156,10 @@
     {
      "player_id": "Georges Mikautadze",
      "player": "Georges Mikautadze",
-     "goals": 3,
+     "goals": 4,
      "penalties": 1,
      "by_competition": {
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 2,
       "league": 2
      }
     },
@@ -2154,16 +2174,6 @@
      }
     },
     {
-     "player_id": "Gerard Moreno",
-     "player": "Gerard Moreno",
-     "goals": 2,
-     "penalties": 1,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 2
-     }
-    },
-    {
      "player_id": "Alberto Moleiro",
      "player": "Alberto Moleiro",
      "goals": 2,
@@ -2171,16 +2181,6 @@
      "by_competition": {
       "UEFA Champions League": 0,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Santiago Mouriño",
-     "player": "Santiago Mouriño",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 2,
-      "league": 0
      }
     },
     {
@@ -2194,6 +2194,36 @@
      }
     },
     {
+     "player_id": "Gerard Moreno",
+     "player": "Gerard Moreno",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Tani Oluwaseyi",
+     "player": "Tani Oluwaseyi",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Santiago Mouriño",
+     "player": "Santiago Mouriño",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 2,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Ayoze Pérez",
      "player": "Ayoze Pérez",
      "goals": 1,
@@ -2204,8 +2234,8 @@
      }
     },
     {
-     "player_id": "Tani Oluwaseyi",
-     "player": "Tani Oluwaseyi",
+     "player_id": "Sergi Cardona",
+     "player": "Sergi Cardona",
      "goals": 1,
      "penalties": 0,
      "by_competition": {

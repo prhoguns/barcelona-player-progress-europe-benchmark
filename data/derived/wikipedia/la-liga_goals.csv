@@ -16425,6 +16425,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-06,Osasuna,league,Lucas Boyé,Lucas Boyé,68,False,False,True,la-liga,2026,Alaves
 2026-09-06,Osasuna,league,Mariano Díaz,Mariano Díaz,36,False,False,True,la-liga,2026,Alaves
 2026-09-06,Osasuna,league,"Pablo Ibáñez (footballer, born 1998)",Pablo Ibáñez,90,False,False,True,la-liga,2026,Alaves
+2026-09-12,Santander,league,Ville Koski,Ville Koski,18,False,False,True,la-liga,2026,Alaves
 2026-10-10,Ath Madrid,league,Lucas Boyé,Lucas Boyé,45+6,True,False,True,la-liga,2026,Alaves
 2026-08-22,Sevilla,league,Aitor Paredes,Aitor Paredes,70,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Álex Berenguer,Álex Berenguer,20,False,False,True,la-liga,2026,Ath Bilbao
@@ -16463,6 +16464,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-09,Liverpool {{fbaicon|ENG}},UEFA Champions League,Marcos Llorente,Marcos Llorente,17,False,False,False,la-liga,2026,Ath Madrid
 2026-10-13,{{fbaicon|ENG}} Manchester United,UEFA Champions League,Pablo Barrios (footballer),Pablo Barrios,1,False,False,False,la-liga,2026,Ath Madrid
 2026-10-13,{{fbaicon|ENG}} Manchester United,UEFA Champions League,Ademola Lookman,Ademola Lookman,79,False,False,False,la-liga,2026,Ath Madrid
+2026-10-20,VfB Stuttgart {{fbaicon|GER}},UEFA Champions League,Julián Alvarez,Julián Alvarez,47,False,False,False,la-liga,2026,Ath Madrid
 2026-08-23,Elche,league,Raphinha,Raphinha,14,True,False,True,la-liga,2026,Barcelona
 2026-08-23,Elche,league,Raphinha,Raphinha,67,False,False,True,la-liga,2026,Barcelona
 2026-08-23,Elche,league,Karim Adeyemi,Karim Adeyemi,45+3,False,False,True,la-liga,2026,Barcelona
@@ -16525,6 +16527,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,Fermín López,Fermín López,50,False,False,False,la-liga,2026,Barcelona
 2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,Anthony Gordon (footballer),Anthony Gordon,53,False,False,False,la-liga,2026,Barcelona
 2026-10-13,Galatasaray {{fbaicon|TUR}},UEFA Champions League,Karim Adeyemi,Karim Adeyemi,65,False,False,False,la-liga,2026,Barcelona
+2026-10-20,Paris Saint-Germain {{fbaicon|FRA}},UEFA Champions League,Xavi Espart,Xavi Espart,55,False,False,False,la-liga,2026,Barcelona
+2026-10-20,Paris Saint-Germain {{fbaicon|FRA}},UEFA Champions League,Lamine Yamal,Lamine Yamal,79,False,False,False,la-liga,2026,Barcelona
 2026-08-21,Sociedad,league,"Rodrigo Riquelme (footballer, born 2000)",Rodrigo Riquelme,63,False,False,True,la-liga,2026,Betis
 2026-08-25,Valencia,league,"Pablo García (footballer, born 2006)",Pablo García,83,False,False,True,la-liga,2026,Betis
 2026-08-29,Levante,league,Marc Bartra,Marc Bartra,34,False,False,True,la-liga,2026,Betis
@@ -16695,3 +16699,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-13,{{fbaicon|ITA}} Napoli,UEFA Champions League,Georges Mikautadze,Georges Mikautadze,23,False,False,False,la-liga,2026,Villarreal
 2026-10-13,{{fbaicon|ITA}} Napoli,UEFA Champions League,Santiago Mouriño,Santiago Mouriño,26,False,False,False,la-liga,2026,Villarreal
 2026-10-13,{{fbaicon|ITA}} Napoli,UEFA Champions League,Tani Oluwaseyi,Tani Oluwaseyi,86,False,False,False,la-liga,2026,Villarreal
+2026-10-20,Liverpool {{fbaicon|ENG}},UEFA Champions League,Georges Mikautadze,Georges Mikautadze,4,False,False,False,la-liga,2026,Villarreal
+2026-10-20,Liverpool {{fbaicon|ENG}},UEFA Champions League,Sergi Cardona,Sergi Cardona,29,False,False,False,la-liga,2026,Villarreal
+2026-10-20,Liverpool {{fbaicon|ENG}},UEFA Champions League,Tani Oluwaseyi,Tani Oluwaseyi,87,False,False,False,la-liga,2026,Villarreal

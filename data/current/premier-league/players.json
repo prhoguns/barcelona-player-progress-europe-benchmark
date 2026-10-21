@@ -2313,6 +2313,17 @@
      }
     },
     {
+     "player_id": "Alexis Mac Allister",
+     "player": "Alexis Mac Allister",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 3,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Bradley Barcola",
      "player": "Bradley Barcola",
      "goals": 3,
@@ -2332,17 +2343,6 @@
       "EFL Cup": 1,
       "UEFA Champions League": 1,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Alexis Mac Allister",
-     "player": "Alexis Mac Allister",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Champions League": 1,
-      "league": 0
      }
     },
     {
@@ -2368,8 +2368,19 @@
      }
     },
     {
-     "player_id": "Jeremie Frimpong",
-     "player": "Jeremie Frimpong",
+     "player_id": "Ronald Araújo",
+     "player": "Ronald Araújo",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Florian Wirtz",
+     "player": "Florian Wirtz",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2390,8 +2401,8 @@
      }
     },
     {
-     "player_id": "Ronald Araújo",
-     "player": "Ronald Araújo",
+     "player_id": "Jeremie Frimpong",
+     "player": "Jeremie Frimpong",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2472,12 +2483,23 @@
     {
      "player_id": "Rayan Cherki",
      "player": "Rayan Cherki",
-     "goals": 5,
+     "goals": 6,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "UEFA Champions League": 0,
+      "UEFA Champions League": 1,
       "league": 4
+     }
+    },
+    {
+     "player_id": "Phil Foden",
+     "player": "Phil Foden",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 3,
+      "league": 1
      }
     },
     {
@@ -2503,6 +2525,17 @@
      }
     },
     {
+     "player_id": "Enzo Fernández",
+     "player": "Enzo Fernández",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Allan (footballer, born 2004)",
      "player": "Allan",
      "goals": 1,
@@ -2514,8 +2547,19 @@
      }
     },
     {
-     "player_id": "Enzo Fernández",
-     "player": "Enzo Fernández",
+     "player_id": "Elliot Anderson",
+     "player": "Elliot Anderson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jérémy Doku",
+     "player": "Jérémy Doku",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2536,30 +2580,8 @@
      }
     },
     {
-     "player_id": "Jérémy Doku",
-     "player": "Jérémy Doku",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Champions League": 0,
-      "league": 1
-     }
-    },
-    {
      "player_id": "Marc Guéhi",
      "player": "Marc Guéhi",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Champions League": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Phil Foden",
-     "player": "Phil Foden",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
