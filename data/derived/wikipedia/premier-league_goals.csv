@@ -17492,6 +17492,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-13,{{flagg|cxxlo|FRA}} Lille,UEFA Champions League,Jurriën Timber,Jurriën Timber,64,False,False,False,premier-league,2026,Arsenal
 2026-10-13,{{flagg|cxxlo|FRA}} Lille,UEFA Champions League,Eberechi Eze,Eberechi Eze,67,False,False,False,premier-league,2026,Arsenal
 2026-10-13,{{flagg|cxxlo|FRA}} Lille,UEFA Champions League,Bukayo Saka,Bukayo Saka,71,False,False,False,premier-league,2026,Arsenal
+2026-10-21,Bayern Munich {{flagg|cxxlo|GER}},UEFA Champions League,Eberechi Eze,Eberechi Eze,25,False,False,False,premier-league,2026,Arsenal
+2026-10-21,Bayern Munich {{flagg|cxxlo|GER}},UEFA Champions League,Declan Rice,Declan Rice,82,False,False,False,premier-league,2026,Arsenal
 2026-09-12,Nott'm Forest,league,"Alysson (footballer, born 2006)",Alysson,74,False,False,True,premier-league,2026,Aston Villa
 2026-09-19,Tottenham,league,Johan Manzambi,Johan Manzambi,45+4,False,False,True,premier-league,2026,Aston Villa
 2026-09-19,Tottenham,league,Nicolas Jackson,Nicolas Jackson,67,False,False,True,premier-league,2026,Aston Villa
@@ -17531,6 +17533,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Ross Barkley,Ross Barkley,68,True,False,False,premier-league,2026,Aston Villa
 2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Ross Barkley,Ross Barkley,72,False,False,False,premier-league,2026,Aston Villa
 2026-10-14,{{fbaicon|TUR}} Fenerbahçe,UEFA Champions League,Tammy Abraham,Tammy Abraham,90,False,False,False,premier-league,2026,Aston Villa
+2026-10-21,{{fbaicon|NOR}} Viking,UEFA Champions League,Ross Barkley,Ross Barkley,23,False,False,False,premier-league,2026,Aston Villa
+2026-10-21,{{fbaicon|NOR}} Viking,UEFA Champions League,Emiliano Buendía,Emiliano Buendía,37,True,False,False,premier-league,2026,Aston Villa
+2026-10-21,{{fbaicon|NOR}} Viking,UEFA Champions League,Henrik Heggheim,Henrik Heggheim,62,False,True,False,premier-league,2026,Aston Villa
 2026-08-23,Man City,league,Marcus Tavernier,Marcus Tavernier,26,False,False,True,premier-league,2026,Bournemouth
 2026-08-29,Everton,league,"Alex Scott (footballer, born 2003)",Alex Scott,41,False,False,True,premier-league,2026,Bournemouth
 2026-09-05,Newcastle,league,Marcus Tavernier,Marcus Tavernier,9,False,False,True,premier-league,2026,Bournemouth

@@ -16431,9 +16431,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-30,Celta,league,Álex Berenguer,Álex Berenguer,20,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Robert Navarro,Robert Navarro,22,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-05,Ath Madrid,league,Nico Williams,Nico Williams,46,False,False,True,la-liga,2026,Ath Bilbao
-2026-09-05,Ath Madrid,league,|Navarro]],|Navarro]],48,False,False,True,la-liga,2026,Ath Bilbao
+2026-09-05,Ath Madrid,league,Robert Navarro (footballer),Robert Navarro,48,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-05,Ath Madrid,league,Oihan Sancet,Oihan Sancet,90,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-12,Elche,league,Víctor Chust,Víctor Chust,79,False,False,True,la-liga,2026,Ath Bilbao
+2026-10-21,Levante,league,Álex Berenguer,Álex Berenguer,67,True,False,True,la-liga,2026,Ath Bilbao
 2026-08-19,Malaga,league,Lee Kang-in,Lee Kang-in,70,False,False,True,la-liga,2026,Ath Madrid
 2026-08-19,Malaga,league,Álex Baena,Álex Baena,85,False,False,True,la-liga,2026,Ath Madrid
 2026-08-23,Villarreal,league,Marc Pubill,Marc Pubill,59,False,False,True,la-liga,2026,Ath Madrid
@@ -16551,6 +16552,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Abde Ezzalzouli,Abde Ezzalzouli,47,False,False,False,la-liga,2026,Betis
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Cucho Hernández,Cucho Hernández,74,False,False,False,la-liga,2026,Betis
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Isco,Isco,84,False,False,False,la-liga,2026,Betis
+2026-10-21,{{flagicon|NED}} Feyenoord,UEFA Champions League,Isco,Isco,59,True,False,False,la-liga,2026,Betis
 2026-10-15,{{fbaicon|ITA}} Juventus,UEFA Europa League,"Hugo Álvarez (footballer, born 2003)",Hugo Álvarez,18,False,False,False,la-liga,2026,Celta
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,5,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,40,False,False,True,la-liga,2026,Espanol
@@ -16562,6 +16564,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-07,Celta,league,Martín Satriano,Martín Satriano,21,False,False,True,la-liga,2026,Getafe
 2026-09-13,La Coruna,league,Ramon Terrats,Ramon Terrats,66,False,False,True,la-liga,2026,Getafe
 2026-09-20,Malaga,league,Iván Azón,Iván Azón,85,False,False,True,la-liga,2026,Getafe
+2026-10-19,Vallecano,league,Martín Satriano,Martín Satriano,56,False,False,True,la-liga,2026,Getafe
 2026-08-20,{{fbaicon|SRB}} Partizan,UEFA Conference League,Enes Ünal,Enes Ünal,10,False,False,False,la-liga,2026,Getafe
 2026-08-20,{{fbaicon|SRB}} Partizan,UEFA Conference League,"Andrés García (footballer, born 2003)",Andrés García,87,False,False,False,la-liga,2026,Getafe
 2026-08-20,{{fbaicon|SRB}} Partizan,UEFA Conference League,Johan Mojica,Johan Mojica,90,False,False,False,la-liga,2026,Getafe
@@ -16619,6 +16622,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Carlos Espí,Carlos Espí,82,False,False,False,la-liga,2026,Real Madrid
 2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Endrick,Endrick,85,False,False,False,la-liga,2026,Real Madrid
 2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Antonio Rüdiger,Antonio Rüdiger,90,False,False,False,la-liga,2026,Real Madrid
+2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Bernardo Silva,Bernardo Silva,44,False,False,False,la-liga,2026,Real Madrid
+2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Arda Güler,Arda Güler,52,False,False,False,la-liga,2026,Real Madrid
+2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,83,False,False,False,la-liga,2026,Real Madrid
+2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Yan Diomande,Yan Diomande,87,False,False,False,la-liga,2026,Real Madrid
 2026-09-05,Vallecano,league,Sergio Canales,Sergio Canales,4,False,False,True,la-liga,2026,Santander
 2026-09-05,Vallecano,league,"Pablo García (footballer, born 2006)",Pablo García,28,False,False,True,la-liga,2026,Santander
 2026-08-15,Vallecano,league,Jon Guridi,Jon Guridi,52,True,False,True,la-liga,2026,Sevilla
