@@ -16669,6 +16669,12 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-18,Malaga,league,Gonçalo Guedes,Gonçalo Guedes,73,False,False,True,la-liga,2026,Sociedad
 2026-09-17,{{fbaicon|ENG}} Bournemouth,UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,57,False,False,False,la-liga,2026,Sociedad
 2026-10-15,Union Saint-Gilloise {{fbaicon|BEL}},UEFA Europa League,Beñat Turrientes,Beñat Turrientes,46,False,False,False,la-liga,2026,Sociedad
+2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,25,False,False,False,la-liga,2026,Sociedad
+2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,27,False,False,False,la-liga,2026,Sociedad
+2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,Luka Sučić,Luka Sučić,33,False,False,False,la-liga,2026,Sociedad
+2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,Luka Sučić,Luka Sučić,72,False,False,False,la-liga,2026,Sociedad
+2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,Orri Óskarsson,Orri Óskarsson,64,False,False,False,la-liga,2026,Sociedad
+2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,Arsen Zakharyan,Arsen Zakharyan,80,False,False,False,la-liga,2026,Sociedad
 2026-08-30,La Coruna,league,Umar Sadiq,Umar Sadiq,26,False,False,True,la-liga,2026,Valencia
 2026-09-15,Alaves,league,Luis Rioja,Luis Rioja,78,False,False,True,la-liga,2026,Valencia
 2026-09-20,Sociedad,league,Aaron Mayol,Aaron Mayol,57,False,False,True,la-liga,2026,Valencia
@@ -16685,6 +16691,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-12,Real Madrid,league,Sergio Camello,Sergio Camello,51,False,False,True,la-liga,2026,Vallecano
 2026-09-15,Espanol,league,"Álvaro García (footballer, born 1992)",Álvaro García,3,False,False,True,la-liga,2026,Vallecano
 2026-09-15,Espanol,league,Adrià Pedrosa,Adrià Pedrosa,26,False,False,True,la-liga,2026,Vallecano
+2026-09-19,Osasuna,league,Sergio Camello,Sergio Camello,50,False,False,True,la-liga,2026,Vallecano
+2026-10-19,Getafe,league,"Álvaro García (footballer, born 1992)",Álvaro García,11,False,False,True,la-liga,2026,Vallecano
 2026-08-16,Santander,league,Pape Gueye,Pape Gueye,45,False,False,True,la-liga,2026,Villarreal
 2026-08-16,Santander,league,Nicolas Pépé,Nicolas Pépé,45+1,False,False,True,la-liga,2026,Villarreal
 2026-08-23,Ath Madrid,league,Gerard Moreno,Gerard Moreno,66,True,False,True,la-liga,2026,Villarreal

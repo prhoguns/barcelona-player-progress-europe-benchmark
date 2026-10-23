@@ -380,12 +380,23 @@
     {
      "player_id": "Marcus Tavernier",
      "player": "Marcus Tavernier",
-     "goals": 4,
-     "penalties": 0,
+     "goals": 5,
+     "penalties": 1,
      "by_competition": {
       "EFL Cup": 0,
-      "UEFA Europa League": 0,
+      "UEFA Europa League": 1,
       "league": 4
+     }
+    },
+    {
+     "player_id": "Justin Kluivert",
+     "player": "Justin Kluivert",
+     "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 2,
+      "league": 1
      }
     },
     {
@@ -422,14 +433,14 @@
      }
     },
     {
-     "player_id": "Justin Kluivert",
-     "player": "Justin Kluivert",
-     "goals": 2,
+     "player_id": "Amine Adli",
+     "player": "Amine Adli",
+     "goals": 1,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
       "UEFA Europa League": 1,
-      "league": 1
+      "league": 0
      }
     },
     {
@@ -1365,17 +1376,6 @@
      }
     },
     {
-     "player_id": "Yeremy Pino",
-     "player": "Yeremy Pino",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 2,
-      "league": 1
-     }
-    },
-    {
      "player_id": "Daichi Kamada",
      "player": "Daichi Kamada",
      "goals": 3,
@@ -1383,6 +1383,17 @@
      "by_competition": {
       "EFL Cup": 1,
       "UEFA Europa League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Yeremy Pino",
+     "player": "Yeremy Pino",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 2,
       "league": 1
      }
     },
@@ -1398,28 +1409,6 @@
      }
     },
     {
-     "player_id": "Anan Khalaili",
-     "player": "Anan Khalaili",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Eddie Nketiah",
-     "player": "Eddie Nketiah",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 0
-     }
-    },
-    {
      "player_id": "Chris Richards (soccer)",
      "player": "Chris Richards",
      "goals": 1,
@@ -1428,6 +1417,17 @@
       "EFL Cup": 0,
       "UEFA Europa League": 1,
       "league": 0
+     }
+    },
+    {
+     "player_id": "Anan Khalaili",
+     "player": "Anan Khalaili",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 0,
+      "league": 1
      }
     },
     {
@@ -1450,6 +1450,39 @@
       "EFL Cup": 0,
       "UEFA Europa League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Jean-Philippe Mateta",
+     "player": "Jean-Philippe Mateta",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Eddie Nketiah",
+     "player": "Eddie Nketiah",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Yéremy Pino",
+     "player": "Yéremy Pino",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
      }
     }
    ],
@@ -3048,6 +3081,17 @@
     {
      "player_id": "Noah Sadiki",
      "player": "Noah Sadiki",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Timur Tutyerov",
+     "player": "Timur Tutyerov",
      "goals": 1,
      "penalties": 0,
      "by_competition": {

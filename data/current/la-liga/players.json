@@ -1784,11 +1784,51 @@
     {
      "player_id": "Luka Sučić",
      "player": "Luka Sučić",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 2,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Orri Óskarsson",
+     "player": "Orri Óskarsson",
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "UEFA Europa League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Sergio Gómez (footballer, born 2000)",
+     "player": "Sergio Gómez",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 3,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Arsen Zakharyan",
+     "player": "Arsen Zakharyan",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ander Barrenetxea (footballer)",
+     "player": "Ander Barrenetxea",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
       "UEFA Europa League": 0,
-      "league": 3
+      "league": 2
      }
     },
     {
@@ -1802,28 +1842,8 @@
      }
     },
     {
-     "player_id": "Orri Óskarsson",
-     "player": "Orri Óskarsson",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Europa League": 0,
-      "league": 2
-     }
-    },
-    {
      "player_id": "Mikel Oyarzabal",
      "player": "Mikel Oyarzabal",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Europa League": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Ander Barrenetxea (footballer)",
-     "player": "Ander Barrenetxea",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -1852,8 +1872,8 @@
      }
     },
     {
-     "player_id": "Arsen Zakharyan",
-     "player": "Arsen Zakharyan",
+     "player_id": "Job Ochieng",
+     "player": "Job Ochieng",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -1869,26 +1889,6 @@
      "by_competition": {
       "UEFA Europa League": 0,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Job Ochieng",
-     "player": "Job Ochieng",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Europa League": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Sergio Gómez (footballer, born 2000)",
-     "player": "Sergio Gómez",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Europa League": 1,
-      "league": 0
      }
     },
     {
@@ -2146,24 +2146,24 @@
   "Vallecano": {
    "page": "2026–27 Rayo Vallecano season",
    "matches_checked": 8,
-   "matches_complete": 6,
+   "matches_complete": 8,
    "all_competitions": [
     {
      "player_id": "Sergio Camello",
      "player": "Sergio Camello",
-     "goals": 6,
+     "goals": 7,
      "penalties": 0,
      "by_competition": {
-      "league": 6
+      "league": 7
      }
     },
     {
      "player_id": "Álvaro García (footballer, born 1992)",
      "player": "Álvaro García",
-     "goals": 2,
+     "goals": 3,
      "penalties": 0,
      "by_competition": {
-      "league": 2
+      "league": 3
      }
     },
     {
@@ -2195,9 +2195,50 @@
     47,
     51,
     3,
-    26
+    26,
+    50,
+    11
    ],
-   "status": "Wikipedia scorers add up for 6 of 8 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Sergio Camello",
+     "player": "Sergio Camello",
+     "goals": 7,
+     "previous_share": null,
+     "projected": 14.1982,
+     "low": 8.0,
+     "high": 23.0
+    },
+    {
+     "player_id": "Álvaro García (footballer, born 1992)",
+     "player": "Álvaro García",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 6.0849,
+     "low": 3.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Andrei Rațiu",
+     "player": "Andrei Rațiu",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0283,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Adrià Pedrosa",
+     "player": "Adrià Pedrosa",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0283,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 24.6794
   },
   "Villarreal": {
    "page": "2026–27 Villarreal CF season",

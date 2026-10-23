@@ -9648,8 +9648,8 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-05,Santander,Home,3,True,True,la-liga,2026,Vallecano
 2026-09-12,Real Madrid,Away,1,True,True,la-liga,2026,Vallecano
 2026-09-15,Espanol,Home,2,True,True,la-liga,2026,Vallecano
-2026-09-19,Osasuna,Away,1,True,False,la-liga,2026,Vallecano
-2026-10-19,Getafe,Away,1,False,False,la-liga,2026,Vallecano
+2026-09-19,Osasuna,Away,1,True,True,la-liga,2026,Vallecano
+2026-10-19,Getafe,Away,1,True,True,la-liga,2026,Vallecano
 2026-08-16,Santander,Away,2,True,True,la-liga,2026,Villarreal
 2026-08-23,Ath Madrid,Away,2,True,True,la-liga,2026,Villarreal
 2026-08-28,Alaves,Away,0,True,True,la-liga,2026,Villarreal
