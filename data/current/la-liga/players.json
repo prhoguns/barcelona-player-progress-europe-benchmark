@@ -1226,10 +1226,93 @@
   "Malaga": {
    "page": "2026–27 Málaga CF season",
    "matches_checked": 9,
-   "matches_complete": 0,
-   "all_competitions": [],
-   "league_goal_minutes": [],
-   "status": "Wikipedia scorers add up for 0 of 9 league matches, so player forecasts are withheld until the page is complete."
+   "matches_complete": 9,
+   "all_competitions": [
+    {
+     "player_id": "Adrián Niño",
+     "player": "Adrián Niño",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Carlos Dotor",
+     "player": "Carlos Dotor",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Chupete",
+     "player": "Chupete",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Pablo Martínez (Spanish footballer)",
+     "player": "Pablo Martínez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    34,
+    83,
+    12,
+    90,
+    54,
+    66
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Adrián Niño",
+     "player": "Adrián Niño",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 5.944,
+     "low": 3.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Carlos Dotor",
+     "player": "Carlos Dotor",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9813,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Chupete",
+     "player": "Chupete",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9813,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Pablo Martínez (Spanish footballer)",
+     "player": "Pablo Martínez",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9813,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 23.5521
   },
   "Osasuna": {
    "page": "2026–27 CA Osasuna season",

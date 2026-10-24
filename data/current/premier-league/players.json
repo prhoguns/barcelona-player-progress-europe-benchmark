@@ -2001,7 +2001,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Marcelino Núñez",
+     "player": "Marcelino Núñez",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "Premier League": 0,
+      "league": 0
      }
     },
     {
@@ -2011,6 +2023,7 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -2021,17 +2034,8 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Marcelino Núñez",
-     "player": "Marcelino Núñez",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "league": 0
      }
     },
     {
@@ -2041,17 +2045,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
     {
-     "player_id": "Anis Mehmeti",
-     "player": "Anis Mehmeti",
+     "player_id": "Daizen Maeda",
+     "player": "Daizen Maeda",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 1,
-      "league": 0
+      "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 1
      }
     },
     {
@@ -2061,7 +2067,30 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Anis Mehmeti",
+     "player": "Anis Mehmeti",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Julio Enciso (footballer, born 2004)",
+     "player": "Julio Enciso",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 0
      }
     },
     {
@@ -2071,6 +2100,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2081,16 +2111,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Daizen Maeda",
-     "player": "Daizen Maeda",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2101,6 +2122,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     }
@@ -2939,6 +2961,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -2948,6 +2971,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2957,6 +2981,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2966,7 +2991,18 @@
      "goals": 1,
      "penalties": 1,
      "by_competition": {
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Neco Williams",
+     "player": "Neco Williams",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Premier League": 1,
+      "league": 0
      }
     }
    ],

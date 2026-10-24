@@ -17838,6 +17838,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-15,Union Berlin,Pre-season and friendlies,Emersonn,Emersonn,41,False,False,False,premier-league,2026,Ipswich
 2026-08-15,Union Berlin,Pre-season and friendlies,Dara O'Shea,Dara O'Shea,45+1,False,False,False,premier-league,2026,Ipswich
 2026-08-15,Union Berlin,Pre-season and friendlies,Kasey McAteer,Kasey McAteer,78,False,False,False,premier-league,2026,Ipswich
+2026-10-23,Nottingham Forest,Premier League,"Julio Enciso (footballer, born 2004)",Julio Enciso,41,False,False,False,premier-league,2026,Ipswich
 2026-08-25,Leicester City,EFL Cup,Sindre Walle Egeli,Sindre Walle Egeli,62,False,False,False,premier-league,2026,Ipswich
 2026-08-25,Leicester City,EFL Cup,Marcelino Núñez,Marcelino Núñez,71,False,False,False,premier-league,2026,Ipswich
 2026-08-25,Leicester City,EFL Cup,Marcelino Núñez,Marcelino Núñez,90+1,False,False,False,premier-league,2026,Ipswich
@@ -17986,6 +17987,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-12,Bayer Leverkusen,Pre-season and friendlies,Arnaud Kalimuendo,Arnaud Kalimuendo,90,False,False,False,premier-league,2026,Nott'm Forest
 2026-08-16,Brest,Pre-season and friendlies,"Chris Wood (footballer, born 1991)",Chris Wood,23,True,False,False,premier-league,2026,Nott'm Forest
 2026-08-16,Brest,Pre-season and friendlies,Luca Netz,Luca Netz,33,False,False,False,premier-league,2026,Nott'm Forest
+2026-10-23,Ipswich Town,Premier League,Neco Williams,Neco Williams,13,False,False,False,premier-league,2026,Nott'm Forest
 2026-08-22,Ipswich,league,Nilson Angulo,Nilson Angulo,39,False,False,True,premier-league,2026,Sunderland
 2026-08-30,Fulham,league,Wilson Isidor,Wilson Isidor,75,False,False,True,premier-league,2026,Sunderland
 2026-09-05,Brentford,league,Enzo Le Fée,Enzo Le Fée,82,True,False,True,premier-league,2026,Sunderland

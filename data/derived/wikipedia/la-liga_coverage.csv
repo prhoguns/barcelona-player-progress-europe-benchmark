@@ -9579,15 +9579,15 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-12,Sevilla,Home,3,False,False,la-liga,2026,Levante
 2026-10-16,La Coruna,Away,1,False,False,la-liga,2026,Levante
 2026-10-21,Ath Bilbao,Home,3,False,False,la-liga,2026,Levante
-2026-08-19,Ath Madrid,Away,0,False,False,la-liga,2026,Malaga
-2026-08-24,La Coruna,Home,1,False,False,la-liga,2026,Malaga
-2026-08-30,Real Madrid,Away,0,False,False,la-liga,2026,Malaga
-2026-09-06,Levante,Home,0,False,False,la-liga,2026,Malaga
-2026-09-13,Celta,Away,1,False,False,la-liga,2026,Malaga
-2026-09-17,Villarreal,Home,1,False,False,la-liga,2026,Malaga
-2026-09-20,Getafe,Away,0,False,False,la-liga,2026,Malaga
-2026-10-09,Espanol,Home,1,False,False,la-liga,2026,Malaga
-2026-10-18,Sociedad,Home,2,False,False,la-liga,2026,Malaga
+2026-08-19,Ath Madrid,Away,0,True,True,la-liga,2026,Malaga
+2026-08-24,La Coruna,Home,1,True,True,la-liga,2026,Malaga
+2026-08-30,Real Madrid,Away,0,True,True,la-liga,2026,Malaga
+2026-09-06,Levante,Home,0,True,True,la-liga,2026,Malaga
+2026-09-13,Celta,Away,1,True,True,la-liga,2026,Malaga
+2026-09-17,Villarreal,Home,1,True,True,la-liga,2026,Malaga
+2026-09-20,Getafe,Away,0,True,True,la-liga,2026,Malaga
+2026-10-09,Espanol,Home,1,True,True,la-liga,2026,Malaga
+2026-10-18,Sociedad,Home,2,True,True,la-liga,2026,Malaga
 2026-08-24,Levante,Home,0,True,True,la-liga,2026,Osasuna
 2026-08-27,Celta,Away,2,True,True,la-liga,2026,Osasuna
 2026-08-31,Getafe,Home,1,True,True,la-liga,2026,Osasuna
