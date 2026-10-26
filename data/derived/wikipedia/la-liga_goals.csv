@@ -16427,6 +16427,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-06,Osasuna,league,"Pablo Ibáñez (footballer, born 1998)",Pablo Ibáñez,90,False,False,True,la-liga,2026,Alaves
 2026-09-12,Santander,league,Ville Koski,Ville Koski,18,False,False,True,la-liga,2026,Alaves
 2026-10-10,Ath Madrid,league,Lucas Boyé,Lucas Boyé,45+6,True,False,True,la-liga,2026,Alaves
+2026-10-18,Celta,La Liga,Hugo Novoa,Hugo Novoa,87,False,False,False,la-liga,2026,Alaves
+2026-10-23,Málaga CF,La Liga,Aitor Mañas,Aitor Mañas,89,False,False,False,la-liga,2026,Alaves
 2026-08-22,Sevilla,league,Aitor Paredes,Aitor Paredes,70,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Álex Berenguer,Álex Berenguer,20,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Robert Navarro,Robert Navarro,22,False,False,True,la-liga,2026,Ath Bilbao
@@ -16435,6 +16437,10 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-05,Ath Madrid,league,Oihan Sancet,Oihan Sancet,90,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-12,Elche,league,Víctor Chust,Víctor Chust,79,False,False,True,la-liga,2026,Ath Bilbao
 2026-10-21,Levante,league,Álex Berenguer,Álex Berenguer,67,True,False,True,la-liga,2026,Ath Bilbao
+2026-10-25,Getafe,La Liga,Álex Berenguer,Álex Berenguer,17,False,False,False,la-liga,2026,Ath Bilbao
+2026-10-25,Getafe,La Liga,Iñaki Williams,Iñaki Williams,35,False,False,False,la-liga,2026,Ath Bilbao
+2026-10-25,Getafe,La Liga,Aitor Paredes,Aitor Paredes,70,False,False,False,la-liga,2026,Ath Bilbao
+2026-10-25,Getafe,La Liga,Yuri Berchiche,Yuri Berchiche,88,False,False,False,la-liga,2026,Ath Bilbao
 2026-08-19,Malaga,league,Lee Kang-in,Lee Kang-in,70,False,False,True,la-liga,2026,Ath Madrid
 2026-08-19,Malaga,league,Álex Baena,Álex Baena,85,False,False,True,la-liga,2026,Ath Madrid
 2026-08-23,Villarreal,league,Marc Pubill,Marc Pubill,59,False,False,True,la-liga,2026,Ath Madrid
@@ -16623,6 +16629,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Kylian Mbappé,Kylian Mbappé,6,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Dean Huijsen,Dean Huijsen,20,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Carlos Espí,Carlos Espí,57,False,False,False,la-liga,2026,Real Madrid
+2026-10-25,Barcelona,La Liga,Kylian Mbappé,Kylian Mbappé,41,False,False,False,la-liga,2026,Real Madrid
+2026-10-25,Barcelona,La Liga,Kylian Mbappé,Kylian Mbappé,87,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,14,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Federico Valverde,Federico Valverde,23,False,False,False,la-liga,2026,Real Madrid
 2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Kylian Mbappé,Kylian Mbappé,25,False,False,False,la-liga,2026,Real Madrid
@@ -16674,6 +16682,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-18,Malaga,league,Mikel Oyarzabal,Mikel Oyarzabal,59,False,False,True,la-liga,2026,Sociedad
 2026-10-18,Malaga,league,Mikel Oyarzabal,Mikel Oyarzabal,67,False,False,True,la-liga,2026,Sociedad
 2026-10-18,Malaga,league,Gonçalo Guedes,Gonçalo Guedes,73,False,False,True,la-liga,2026,Sociedad
+2026-10-25,Levante,La Liga,Orri Óskarsson,Orri Óskarsson,6,False,False,False,la-liga,2026,Sociedad
+2026-10-25,Levante,La Liga,Beñat Turrientes,Beñat Turrientes,27,False,False,False,la-liga,2026,Sociedad
 2026-09-17,{{fbaicon|ENG}} Bournemouth,UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,57,False,False,False,la-liga,2026,Sociedad
 2026-10-15,Union Saint-Gilloise {{fbaicon|BEL}},UEFA Europa League,Beñat Turrientes,Beñat Turrientes,46,False,False,False,la-liga,2026,Sociedad
 2026-10-22,Lillestrøm {{fbaicon|NOR}},UEFA Europa League,"Sergio Gómez (footballer, born 2000)",Sergio Gómez,25,False,False,False,la-liga,2026,Sociedad
