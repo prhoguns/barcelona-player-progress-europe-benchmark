@@ -1,6 +1,6 @@
 {
  "league": "Premier League",
- "built_at_utc": "2026-10-26T13:14:45+00:00",
+ "built_at_utc": "2026-10-27T12:22:59+00:00",
  "params": {
   "alpha": 0.015,
   "carry": 0.95,
@@ -811,8 +811,8 @@
  },
  "data": {
   "seasons": "2010/11–2026/27",
-  "matches": 6150,
-  "current_matches": 70,
+  "matches": 6160,
+  "current_matches": 80,
   "test_seasons": "2015/16–2025/26",
   "validation_seasons": "2012/13–2014/15"
  }

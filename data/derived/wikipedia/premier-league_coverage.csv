@@ -9278,6 +9278,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Brighton,Away,0,True,True,premier-league,2026,Arsenal
 2026-10-10,Leeds,Home,2,True,True,premier-league,2026,Arsenal
 2026-10-18,Nott'm Forest,Away,1,True,True,premier-league,2026,Arsenal
+2026-10-24,Everton,Home,2,True,True,premier-league,2026,Arsenal
 2026-08-23,Brighton,Away,0,True,True,premier-league,2026,Aston Villa
 2026-08-31,Arsenal,Home,0,True,True,premier-league,2026,Aston Villa
 2026-09-05,Hull,Away,0,True,True,premier-league,2026,Aston Villa
@@ -9285,6 +9286,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Tottenham,Away,3,True,True,premier-league,2026,Aston Villa
 2026-10-10,Brentford,Home,2,True,True,premier-league,2026,Aston Villa
 2026-10-17,Newcastle,Away,1,True,True,premier-league,2026,Aston Villa
+2026-10-24,Man City,Home,2,True,True,premier-league,2026,Aston Villa
 2026-08-23,Man City,Away,1,True,True,premier-league,2026,Bournemouth
 2026-08-29,Everton,Home,1,True,True,premier-league,2026,Bournemouth
 2026-09-05,Newcastle,Away,2,True,True,premier-league,2026,Bournemouth
@@ -9292,6 +9294,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Liverpool,Home,0,True,True,premier-league,2026,Bournemouth
 2026-10-10,Chelsea,Away,1,True,True,premier-league,2026,Bournemouth
 2026-10-18,Sunderland,Home,2,True,True,premier-league,2026,Bournemouth
+2026-10-25,Man United,Away,3,True,True,premier-league,2026,Bournemouth
 2026-08-22,Tottenham,Home,3,True,True,premier-league,2026,Brentford
 2026-08-30,Leeds,Away,1,True,True,premier-league,2026,Brentford
 2026-09-05,Sunderland,Home,1,True,True,premier-league,2026,Brentford
@@ -9299,6 +9302,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-18,Chelsea,Home,3,True,True,premier-league,2026,Brentford
 2026-10-10,Aston Villa,Away,2,True,True,premier-league,2026,Brentford
 2026-10-17,Liverpool,Home,1,True,True,premier-league,2026,Brentford
+2026-10-25,Hull,Away,1,True,True,premier-league,2026,Brentford
 2026-08-23,Aston Villa,Home,4,True,True,premier-league,2026,Brighton
 2026-08-30,Chelsea,Away,3,True,True,premier-league,2026,Brighton
 2026-09-05,Leeds,Home,1,True,True,premier-league,2026,Brighton
@@ -9306,6 +9310,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Arsenal,Home,3,True,True,premier-league,2026,Brighton
 2026-10-10,Sunderland,Away,2,True,True,premier-league,2026,Brighton
 2026-10-18,Crystal Palace,Home,5,True,True,premier-league,2026,Brighton
+2026-10-25,Liverpool,Away,0,True,True,premier-league,2026,Brighton
 2026-08-24,Fulham,Away,3,True,True,premier-league,2026,Chelsea
 2026-08-30,Brighton,Home,4,True,True,premier-league,2026,Chelsea
 2026-09-06,Arsenal,Away,1,True,True,premier-league,2026,Chelsea
@@ -9313,6 +9318,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-18,Brentford,Away,0,True,True,premier-league,2026,Chelsea
 2026-10-10,Bournemouth,Home,5,True,True,premier-league,2026,Chelsea
 2026-10-17,Everton,Away,2,True,True,premier-league,2026,Chelsea
+2026-10-24,Tottenham,Home,0,True,True,premier-league,2026,Chelsea
 2026-08-21,Arsenal,Away,0,True,True,premier-league,2026,Coventry
 2026-08-29,Hull,Home,0,True,True,premier-league,2026,Coventry
 2026-09-05,Man City,Away,0,True,True,premier-league,2026,Coventry
@@ -9320,6 +9326,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Nott'm Forest,Away,1,True,True,premier-league,2026,Coventry
 2026-10-12,Newcastle,Home,4,True,True,premier-league,2026,Coventry
 2026-10-19,Tottenham,Away,1,True,True,premier-league,2026,Coventry
+2026-10-24,Fulham,Home,0,True,True,premier-league,2026,Coventry
 2026-08-22,Everton,Away,0,True,True,premier-league,2026,Crystal Palace
 2026-08-28,Man City,Home,1,True,True,premier-league,2026,Crystal Palace
 2026-09-05,Fulham,Away,3,True,True,premier-league,2026,Crystal Palace
@@ -9327,6 +9334,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Leeds,Away,0,True,True,premier-league,2026,Crystal Palace
 2026-10-11,Nott'm Forest,Home,3,True,True,premier-league,2026,Crystal Palace
 2026-10-18,Brighton,Away,0,True,True,premier-league,2026,Crystal Palace
+2026-10-25,Newcastle,Home,0,True,True,premier-league,2026,Crystal Palace
 2026-08-22,Crystal Palace,Home,2,True,True,premier-league,2026,Everton
 2026-08-29,Bournemouth,Away,1,True,True,premier-league,2026,Everton
 2026-09-06,Man United,Home,2,True,True,premier-league,2026,Everton
@@ -9334,6 +9342,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Ipswich,Home,1,True,True,premier-league,2026,Everton
 2026-10-11,Hull,Away,2,True,True,premier-league,2026,Everton
 2026-10-17,Chelsea,Home,0,True,True,premier-league,2026,Everton
+2026-10-24,Arsenal,Away,0,True,True,premier-league,2026,Everton
 2026-08-24,Chelsea,Home,2,True,True,premier-league,2026,Fulham
 2026-08-30,Sunderland,Away,0,True,True,premier-league,2026,Fulham
 2026-09-05,Crystal Palace,Home,2,True,True,premier-league,2026,Fulham
@@ -9341,6 +9350,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Man United,Home,1,True,True,premier-league,2026,Fulham
 2026-10-10,Ipswich,Away,1,True,True,premier-league,2026,Fulham
 2026-10-17,Hull,Home,1,True,True,premier-league,2026,Fulham
+2026-10-24,Coventry,Away,1,True,True,premier-league,2026,Fulham
 2026-08-22,Man United,Home,2,True,True,premier-league,2026,Hull
 2026-08-29,Coventry,Away,1,True,True,premier-league,2026,Hull
 2026-09-05,Aston Villa,Home,0,True,True,premier-league,2026,Hull
@@ -9348,6 +9358,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Newcastle,Away,1,True,True,premier-league,2026,Hull
 2026-10-11,Everton,Home,2,True,True,premier-league,2026,Hull
 2026-10-17,Fulham,Away,0,True,True,premier-league,2026,Hull
+2026-10-25,Brentford,Home,1,True,True,premier-league,2026,Hull
 2026-08-22,Sunderland,Home,2,True,True,premier-league,2026,Ipswich
 2026-08-30,Man United,Away,2,True,True,premier-league,2026,Ipswich
 2026-09-04,Liverpool,Home,0,True,True,premier-league,2026,Ipswich
@@ -9355,6 +9366,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Everton,Away,0,True,True,premier-league,2026,Ipswich
 2026-10-10,Fulham,Home,2,True,True,premier-league,2026,Ipswich
 2026-10-17,Man City,Away,2,True,True,premier-league,2026,Ipswich
+2026-10-23,Nott'm Forest,Home,1,True,True,premier-league,2026,Ipswich
 2026-08-22,Nott'm Forest,Away,1,True,True,premier-league,2026,Leeds
 2026-08-30,Brentford,Home,1,True,True,premier-league,2026,Leeds
 2026-09-05,Brighton,Away,1,True,True,premier-league,2026,Leeds
@@ -9362,6 +9374,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Crystal Palace,Home,0,True,True,premier-league,2026,Leeds
 2026-10-10,Arsenal,Away,1,True,True,premier-league,2026,Leeds
 2026-10-18,Man United,Home,1,True,True,premier-league,2026,Leeds
+2026-10-25,Sunderland,Away,0,True,True,premier-league,2026,Leeds
 2026-08-23,Newcastle,Away,2,True,True,premier-league,2026,Liverpool
 2026-08-29,Nott'm Forest,Home,2,True,True,premier-league,2026,Liverpool
 2026-09-04,Ipswich,Away,2,True,True,premier-league,2026,Liverpool
@@ -9369,6 +9382,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Bournemouth,Away,1,True,True,premier-league,2026,Liverpool
 2026-10-11,Man City,Home,0,True,True,premier-league,2026,Liverpool
 2026-10-17,Brentford,Away,2,True,True,premier-league,2026,Liverpool
+2026-10-25,Brighton,Home,2,True,True,premier-league,2026,Liverpool
 2026-08-23,Bournemouth,Home,2,True,True,premier-league,2026,Man City
 2026-08-28,Crystal Palace,Away,4,True,True,premier-league,2026,Man City
 2026-09-05,Coventry,Home,1,True,True,premier-league,2026,Man City
@@ -9376,6 +9390,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Sunderland,Home,5,True,True,premier-league,2026,Man City
 2026-10-11,Liverpool,Away,3,True,True,premier-league,2026,Man City
 2026-10-17,Ipswich,Home,3,True,True,premier-league,2026,Man City
+2026-10-24,Aston Villa,Away,1,True,True,premier-league,2026,Man City
 2026-08-22,Hull,Away,0,False,False,premier-league,2026,Man United
 2026-08-30,Ipswich,Home,5,False,False,premier-league,2026,Man United
 2026-09-06,Everton,Away,2,False,False,premier-league,2026,Man United
@@ -9383,6 +9398,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Fulham,Away,1,False,False,premier-league,2026,Man United
 2026-10-10,Tottenham,Home,1,False,False,premier-league,2026,Man United
 2026-10-18,Leeds,Away,1,False,False,premier-league,2026,Man United
+2026-10-25,Bournemouth,Home,0,False,False,premier-league,2026,Man United
 2026-08-23,Liverpool,Home,2,True,True,premier-league,2026,Newcastle
 2026-08-29,Tottenham,Away,2,True,True,premier-league,2026,Newcastle
 2026-09-05,Bournemouth,Home,2,True,True,premier-league,2026,Newcastle
@@ -9390,6 +9406,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Hull,Home,2,True,True,premier-league,2026,Newcastle
 2026-10-12,Coventry,Away,1,True,True,premier-league,2026,Newcastle
 2026-10-17,Aston Villa,Home,0,True,True,premier-league,2026,Newcastle
+2026-10-25,Crystal Palace,Away,2,True,True,premier-league,2026,Newcastle
 2026-08-22,Leeds,Home,0,True,True,premier-league,2026,Nott'm Forest
 2026-08-29,Liverpool,Away,2,True,True,premier-league,2026,Nott'm Forest
 2026-09-05,Tottenham,Home,0,True,True,premier-league,2026,Nott'm Forest
@@ -9397,6 +9414,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Coventry,Home,0,True,True,premier-league,2026,Nott'm Forest
 2026-10-11,Crystal Palace,Away,1,True,True,premier-league,2026,Nott'm Forest
 2026-10-18,Arsenal,Home,0,True,True,premier-league,2026,Nott'm Forest
+2026-10-23,Ipswich,Away,1,True,True,premier-league,2026,Nott'm Forest
 2026-08-22,Ipswich,Away,1,True,True,premier-league,2026,Sunderland
 2026-08-30,Fulham,Home,1,True,True,premier-league,2026,Sunderland
 2026-09-05,Brentford,Away,1,True,True,premier-league,2026,Sunderland
@@ -9404,6 +9422,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-20,Man City,Away,3,True,True,premier-league,2026,Sunderland
 2026-10-10,Brighton,Home,0,True,True,premier-league,2026,Sunderland
 2026-10-18,Bournemouth,Away,0,True,True,premier-league,2026,Sunderland
+2026-10-25,Leeds,Home,0,True,True,premier-league,2026,Sunderland
 2026-08-22,Brentford,Away,0,True,True,premier-league,2026,Tottenham
 2026-08-29,Newcastle,Home,0,True,True,premier-league,2026,Tottenham
 2026-09-05,Nott'm Forest,Away,0,True,True,premier-league,2026,Tottenham
@@ -9411,3 +9430,4 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-19,Aston Villa,Home,2,True,True,premier-league,2026,Tottenham
 2026-10-10,Man United,Away,1,True,True,premier-league,2026,Tottenham
 2026-10-19,Coventry,Home,3,True,True,premier-league,2026,Tottenham
+2026-10-24,Chelsea,Away,2,True,True,premier-league,2026,Tottenham
