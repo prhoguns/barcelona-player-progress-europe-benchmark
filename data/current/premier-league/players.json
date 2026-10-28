@@ -43,15 +43,15 @@
      }
     },
     {
-     "player_id": "Bruno Guimarães",
-     "player": "Bruno Guimarães",
+     "player_id": "Max Dowman",
+     "player": "Max Dowman",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 0,
+      "EFL Cup": 2,
       "FA Community Shield": 0,
       "UEFA Champions League": 0,
-      "league": 2
+      "league": 0
      }
     },
     {
@@ -67,6 +67,18 @@
      }
     },
     {
+     "player_id": "Bruno Guimarães",
+     "player": "Bruno Guimarães",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
      "player_id": "Riccardo Calafiori",
      "player": "Riccardo Calafiori",
      "goals": 2,
@@ -76,18 +88,6 @@
       "FA Community Shield": 1,
       "UEFA Champions League": 0,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Max Dowman",
-     "player": "Max Dowman",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "FA Community Shield": 0,
-      "UEFA Champions League": 0,
-      "league": 0
      }
     },
     {
@@ -127,18 +127,6 @@
      }
     },
     {
-     "player_id": "Jurriën Timber",
-     "player": "Jurriën Timber",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "FA Community Shield": 0,
-      "UEFA Champions League": 1,
-      "league": 0
-     }
-    },
-    {
      "player_id": "Gabriel Magalhães",
      "player": "Gabriel Magalhães",
      "goals": 1,
@@ -151,8 +139,32 @@
      }
     },
     {
+     "player_id": "Jurriën Timber",
+     "player": "Jurriën Timber",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 1,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Mikel Merino",
      "player": "Mikel Merino",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Viktor Gyökeres",
+     "player": "Viktor Gyökeres",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
