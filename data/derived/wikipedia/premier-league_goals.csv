@@ -17579,6 +17579,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-08,Lincoln City,EFL Cup,Ryan Christie,Ryan Christie,69,False,False,False,premier-league,2026,Bournemouth
 2026-09-08,Lincoln City,EFL Cup,Ryan Christie,Ryan Christie,88,False,False,False,premier-league,2026,Bournemouth
 2026-09-08,Lincoln City,EFL Cup,"Rayan (footballer, born 2006)",Rayan,90+4,False,False,False,premier-league,2026,Bournemouth
+2026-10-28,Aston Villa,EFL Cup,Amine Adli,Amine Adli,7,False,False,False,premier-league,2026,Bournemouth
+2026-10-28,Aston Villa,EFL Cup,"Lewis Cook (footballer, born 1997)",Lewis Cook,51,False,False,False,premier-league,2026,Bournemouth
+2026-10-28,Aston Villa,EFL Cup,"Álvaro Rodríguez (footballer, born 2004)",Álvaro Rodríguez,69,False,False,False,premier-league,2026,Bournemouth
 2026-09-17,Real Sociedad {{fbaicon|ESP}},UEFA Europa League,Justin Kluivert,Justin Kluivert,11,False,False,False,premier-league,2026,Bournemouth
 2026-09-17,Real Sociedad {{fbaicon|ESP}},UEFA Europa League,"Rayan (footballer, born 2006)",Rayan,20,False,False,False,premier-league,2026,Bournemouth
 2026-10-15,{{fbaicon|AUT}} Sturm Graz,UEFA Europa League,"Evanilson (footballer, born 1999)",Evanilson,43,False,False,False,premier-league,2026,Bournemouth
@@ -17629,6 +17632,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-25,Birmingham City,EFL Cup,Igor Thiago,Igor Thiago,73,False,False,False,premier-league,2026,Brentford
 2026-09-15,Reading,EFL Cup,Callum Wilson,Callum Wilson,3,False,False,False,premier-league,2026,Brentford
 2026-09-15,Reading,EFL Cup,"Fábio Carvalho (footballer, born 2002)",Fábio Carvalho,45+1,False,False,False,premier-league,2026,Brentford
+2026-10-28,Sunderland,EFL Cup,Callum Wilson,Callum Wilson,42,False,False,False,premier-league,2026,Brentford
+2026-10-28,Sunderland,EFL Cup,Igor Thiago,Igor Thiago,90+4,False,False,False,premier-league,2026,Brentford
 2026-08-23,Aston Villa,league,Victor Lindelöf,Victor Lindelöf,8,False,True,True,premier-league,2026,Brighton
 2026-08-23,Aston Villa,league,Maxim De Cuyper,Maxim De Cuyper,18,False,False,True,premier-league,2026,Brighton
 2026-08-23,Aston Villa,league,Jack Hinshelwood,Jack Hinshelwood,30,False,False,True,premier-league,2026,Brighton
@@ -17667,6 +17672,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-16,Manchester United,EFL Cup,Charalampos Kostoulas,Charalampos Kostoulas,45+1,False,False,False,premier-league,2026,Brighton
 2026-09-16,Manchester United,EFL Cup,Pascal Groß,Pascal Groß,65,False,False,False,premier-league,2026,Brighton
 2026-09-16,Manchester United,EFL Cup,Maxim De Cuyper,Maxim De Cuyper,69,False,False,False,premier-league,2026,Brighton
+2026-10-28,Manchester City,EFL Cup,Malick Yalcouyé,Malick Yalcouyé,30,False,False,False,premier-league,2026,Brighton
+2026-10-28,Manchester City,EFL Cup,Georginio Rutter,Georginio Rutter,47,False,False,False,premier-league,2026,Brighton
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Charalampos Kostoulas,Charalampos Kostoulas,22,False,False,False,premier-league,2026,Brighton
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Maxim De Cuyper,Maxim De Cuyper,33,False,False,False,premier-league,2026,Brighton
 2026-08-27,{{fbaicon|NOR}} Tromsø,UEFA Conference League,Mats Wieffer,Mats Wieffer,38,False,False,False,premier-league,2026,Brighton
@@ -17716,6 +17723,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-09,Leeds United,EFL Cup,Danny Welbeck,Danny Welbeck,65,False,False,False,premier-league,2026,Chelsea
 2026-09-09,Leeds United,EFL Cup,Danny Welbeck,Danny Welbeck,90+4,False,False,False,premier-league,2026,Chelsea
 2026-09-09,Leeds United,EFL Cup,Valentín Barco,Valentín Barco,80,False,False,False,premier-league,2026,Chelsea
+2026-10-28,Liverpool,EFL Cup,Morgan Rogers,Morgan Rogers,40,True,False,False,premier-league,2026,Chelsea
 2026-09-19,Nott'm Forest,league,Jay Dasilva,Jay Dasilva,55,False,False,True,premier-league,2026,Coventry
 2026-10-12,Newcastle,league,Jack Rudoni,Jack Rudoni,6,True,False,True,premier-league,2026,Coventry
 2026-10-12,Newcastle,league,Sidiki Cherif,Sidiki Cherif,48,False,False,True,premier-league,2026,Coventry
@@ -17755,6 +17763,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-08,Middlesbrough,EFL Cup,Jørgen Strand Larsen,Jørgen Strand Larsen,37,False,False,False,premier-league,2026,Crystal Palace
 2026-09-08,Middlesbrough,EFL Cup,Jørgen Strand Larsen,Jørgen Strand Larsen,53,False,False,False,premier-league,2026,Crystal Palace
 2026-09-08,Middlesbrough,EFL Cup,Daichi Kamada,Daichi Kamada,72,False,False,False,premier-league,2026,Crystal Palace
+2026-10-28,Fulham,EFL Cup,Eddie Nketiah,Eddie Nketiah,37,False,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Yeremy Pino,Yeremy Pino,10,False,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Chris Richards (soccer),Chris Richards,27,False,False,False,premier-league,2026,Crystal Palace
 2026-09-17,{{fbaicon|POL}} Lech Poznań,UEFA Europa League,Jørgen Strand Larsen,Jørgen Strand Larsen,34,True,False,False,premier-league,2026,Crystal Palace
@@ -17908,6 +17917,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-15,Tottenham Hotspur,EFL Cup,Alexis Mac Allister,Alexis Mac Allister,21,False,False,False,premier-league,2026,Liverpool
 2026-09-15,Tottenham Hotspur,EFL Cup,Cody Gakpo,Cody Gakpo,54,False,False,False,premier-league,2026,Liverpool
 2026-09-15,Tottenham Hotspur,EFL Cup,Dominik Szoboszlai,Dominik Szoboszlai,90+1,False,False,False,premier-league,2026,Liverpool
+2026-10-28,Chelsea,EFL Cup,Cody Gakpo,Cody Gakpo,43,True,False,False,premier-league,2026,Liverpool
 2026-09-09,{{fbaicon|ESP}} Atlético Madrid,UEFA Champions League,Alexis Mac Allister,Alexis Mac Allister,50,False,False,False,premier-league,2026,Liverpool
 2026-09-09,{{fbaicon|ESP}} Atlético Madrid,UEFA Champions League,Dominik Szoboszlai,Dominik Szoboszlai,40,False,False,False,premier-league,2026,Liverpool
 2026-10-14,LASK {{fbaicon|AUT}},UEFA Champions League,Ronald Araújo,Ronald Araújo,22,False,False,False,premier-league,2026,Liverpool
@@ -17952,6 +17962,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-17,Norwich City,EFL Cup,Rayan Cherki,Rayan Cherki,32,False,False,False,premier-league,2026,Man City
 2026-09-17,Norwich City,EFL Cup,"Allan (footballer, born 2004)",Allan,48,False,False,False,premier-league,2026,Man City
 2026-09-17,Norwich City,EFL Cup,Ryan McAidoo,Ryan McAidoo,90,False,False,False,premier-league,2026,Man City
+2026-10-28,Brighton & Hove Albion,EFL Cup,Mateo Kovačić,Mateo Kovačić,40,False,False,False,premier-league,2026,Man City
+2026-10-28,Brighton & Hove Albion,EFL Cup,Vitor Reis,Vitor Reis,72,False,False,False,premier-league,2026,Man City
 2026-09-08,Porto {{fbaicon|POR}},UEFA Champions League,Erling Haaland,Erling Haaland,47,False,False,False,premier-league,2026,Man City
 2026-09-08,Porto {{fbaicon|POR}},UEFA Champions League,Erling Haaland,Erling Haaland,90+1,False,False,False,premier-league,2026,Man City
 2026-10-14,{{fbaicon|FRA}} Paris Saint-Germain,UEFA Champions League,Erling Haaland,Erling Haaland,53,False,False,False,premier-league,2026,Man City
@@ -18024,6 +18036,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-15,Rennes,Pre-season and friendlies,Brian Brobbey,Brian Brobbey,66,False,False,False,premier-league,2026,Sunderland
 2026-08-15,Rennes,Pre-season and friendlies,Trai Hume,Trai Hume,70,False,False,False,premier-league,2026,Sunderland
 2026-09-08,Hull City,EFL Cup,Chemsdine Talbi,Chemsdine Talbi,71,False,False,False,premier-league,2026,Sunderland
+2026-10-28,Brentford,EFL Cup,Chemsdine Talbi,Chemsdine Talbi,27,False,False,False,premier-league,2026,Sunderland
+2026-10-28,Brentford,EFL Cup,Timur Tutyerov,Timur Tutyerov,29,False,False,False,premier-league,2026,Sunderland
+2026-10-28,Brentford,EFL Cup,Malick Fofana,Malick Fofana,39,False,False,False,premier-league,2026,Sunderland
 2026-09-16,{{fbaicon|NED}} AZ,UEFA Europa League,Enzo Le Fée,Enzo Le Fée,66,True,False,False,premier-league,2026,Sunderland
 2026-10-15,Torreense {{fbaicon|POR}},UEFA Europa League,Jules Ahoka,Jules Ahoka,67,False,False,False,premier-league,2026,Sunderland
 2026-10-15,Torreense {{fbaicon|POR}},UEFA Europa League,Noah Sadiki,Noah Sadiki,90+3,False,False,False,premier-league,2026,Sunderland

@@ -447,17 +447,6 @@
      }
     },
     {
-     "player_id": "Evanilson (footballer, born 1999)",
-     "player": "Evanilson",
-     "goals": 4,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 3
-     }
-    },
-    {
      "player_id": "Rayan (footballer, born 2006)",
      "player": "Rayan",
      "goals": 4,
@@ -469,14 +458,14 @@
      }
     },
     {
-     "player_id": "Justin Kluivert",
-     "player": "Justin Kluivert",
-     "goals": 3,
-     "penalties": 1,
+     "player_id": "Evanilson (footballer, born 1999)",
+     "player": "Evanilson",
+     "goals": 4,
+     "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "UEFA Europa League": 2,
-      "league": 1
+      "UEFA Europa League": 1,
+      "league": 3
      }
     },
     {
@@ -491,12 +480,34 @@
      }
     },
     {
-     "player_id": "Amine Adli",
-     "player": "Amine Adli",
-     "goals": 1,
-     "penalties": 0,
+     "player_id": "Justin Kluivert",
+     "player": "Justin Kluivert",
+     "goals": 3,
+     "penalties": 1,
      "by_competition": {
       "EFL Cup": 0,
+      "UEFA Europa League": 2,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Álvaro Rodríguez (footballer, born 2004)",
+     "player": "Álvaro Rodríguez",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Amine Adli",
+     "player": "Amine Adli",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -513,13 +524,13 @@
      }
     },
     {
-     "player_id": "Álvaro Rodríguez (footballer, born 2004)",
-     "player": "Álvaro Rodríguez",
+     "player_id": "Lewis Cook (footballer, born 1997)",
+     "player": "Lewis Cook",
      "goals": 1,
-     "penalties": 1,
+     "penalties": 0,
      "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
+      "EFL Cup": 1,
+      "UEFA Europa League": 0,
       "league": 0
      }
     }
@@ -593,6 +604,26 @@
    "matches_complete": 8,
    "all_competitions": [
     {
+     "player_id": "Callum Wilson",
+     "player": "Callum Wilson",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 3,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Igor Thiago",
+     "player": "Igor Thiago",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Kevin Schade",
      "player": "Kevin Schade",
      "goals": 3,
@@ -603,33 +634,13 @@
      }
     },
     {
-     "player_id": "Callum Wilson",
-     "player": "Callum Wilson",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Igor Thiago",
-     "player": "Igor Thiago",
+     "player_id": "Fábio Carvalho (footballer, born 2002)",
+     "player": "Fábio Carvalho",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Vitaly Janelt",
-     "player": "Vitaly Janelt",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 2
      }
     },
     {
@@ -643,13 +654,13 @@
      }
     },
     {
-     "player_id": "Fábio Carvalho (footballer, born 2002)",
-     "player": "Fábio Carvalho",
+     "player_id": "Vitaly Janelt",
+     "player": "Vitaly Janelt",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 1,
-      "league": 1
+      "EFL Cup": 0,
+      "league": 2
      }
     },
     {
@@ -896,12 +907,23 @@
     {
      "player_id": "Malick Yalcouyé",
      "player": "Malick Yalcouyé",
-     "goals": 2,
+     "goals": 3,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 0,
+      "EFL Cup": 1,
       "UEFA Conference League": 0,
       "league": 2
+     }
+    },
+    {
+     "player_id": "Georginio Rutter",
+     "player": "Georginio Rutter",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Conference League": 2,
+      "league": 0
      }
     },
     {
@@ -913,17 +935,6 @@
       "EFL Cup": 0,
       "UEFA Conference League": 0,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Georginio Rutter",
-     "player": "Georginio Rutter",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Conference League": 2,
-      "league": 0
      }
     },
     {
@@ -1157,13 +1168,13 @@
      }
     },
     {
-     "player_id": "Cole Palmer",
-     "player": "Cole Palmer",
-     "goals": 4,
+     "player_id": "Morgan Rogers",
+     "player": "Morgan Rogers",
+     "goals": 5,
      "penalties": 1,
      "by_competition": {
-      "EFL Cup": 2,
-      "league": 2
+      "EFL Cup": 1,
+      "league": 4
      }
     },
     {
@@ -1177,13 +1188,13 @@
      }
     },
     {
-     "player_id": "Morgan Rogers",
-     "player": "Morgan Rogers",
+     "player_id": "Cole Palmer",
+     "player": "Cole Palmer",
      "goals": 4,
-     "penalties": 0,
+     "penalties": 1,
      "by_competition": {
-      "EFL Cup": 0,
-      "league": 4
+      "EFL Cup": 2,
+      "league": 2
      }
     },
     {
@@ -1488,6 +1499,17 @@
      }
     },
     {
+     "player_id": "Eddie Nketiah",
+     "player": "Eddie Nketiah",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Tyrick Mitchell",
      "player": "Tyrick Mitchell",
      "goals": 2,
@@ -1496,17 +1518,6 @@
       "EFL Cup": 0,
       "UEFA Europa League": 0,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Ben Chilwell",
-     "player": "Ben Chilwell",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 0,
-      "league": 1
      }
     },
     {
@@ -1521,30 +1532,30 @@
      }
     },
     {
-     "player_id": "Jean-Philippe Mateta",
-     "player": "Jean-Philippe Mateta",
+     "player_id": "Ben Chilwell",
+     "player": "Ben Chilwell",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Eddie Nketiah",
-     "player": "Eddie Nketiah",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 0
+      "UEFA Europa League": 0,
+      "league": 1
      }
     },
     {
      "player_id": "Chris Richards (soccer)",
      "player": "Chris Richards",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jean-Philippe Mateta",
+     "player": "Jean-Philippe Mateta",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2509,6 +2520,17 @@
      }
     },
     {
+     "player_id": "Cody Gakpo",
+     "player": "Cody Gakpo",
+     "goals": 3,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Dominik Szoboszlai",
      "player": "Dominik Szoboszlai",
      "goals": 3,
@@ -2516,17 +2538,6 @@
      "by_competition": {
       "EFL Cup": 1,
       "UEFA Champions League": 1,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Cody Gakpo",
-     "player": "Cody Gakpo",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Champions League": 0,
       "league": 1
      }
     },
@@ -2700,17 +2711,6 @@
      }
     },
     {
-     "player_id": "Enzo Fernández",
-     "player": "Enzo Fernández",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Champions League": 0,
-      "league": 1
-     }
-    },
-    {
      "player_id": "Allan (footballer, born 2004)",
      "player": "Allan",
      "goals": 1,
@@ -2733,8 +2733,8 @@
      }
     },
     {
-     "player_id": "Jérémy Doku",
-     "player": "Jérémy Doku",
+     "player_id": "Enzo Fernández",
+     "player": "Enzo Fernández",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2755,6 +2755,28 @@
      }
     },
     {
+     "player_id": "Jérémy Doku",
+     "player": "Jérémy Doku",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Mateo Kovačić",
+     "player": "Mateo Kovačić",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Marc Guéhi",
      "player": "Marc Guéhi",
      "goals": 1,
@@ -2768,6 +2790,17 @@
     {
      "player_id": "Ryan McAidoo",
      "player": "Ryan McAidoo",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Vitor Reis",
+     "player": "Vitor Reis",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -3206,6 +3239,17 @@
      }
     },
     {
+     "player_id": "Chemsdine Talbi",
+     "player": "Chemsdine Talbi",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Enzo Le Fée",
      "player": "Enzo Le Fée",
      "goals": 2,
@@ -3217,13 +3261,13 @@
      }
     },
     {
-     "player_id": "Chemsdine Talbi",
-     "player": "Chemsdine Talbi",
-     "goals": 1,
+     "player_id": "Timur Tutyerov",
+     "player": "Timur Tutyerov",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "UEFA Europa League": 0,
+      "UEFA Europa League": 1,
       "league": 0
      }
     },
@@ -3235,6 +3279,17 @@
      "by_competition": {
       "EFL Cup": 0,
       "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Malick Fofana",
+     "player": "Malick Fofana",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 0,
       "league": 0
      }
     },
@@ -3252,17 +3307,6 @@
     {
      "player_id": "Noah Sadiki",
      "player": "Noah Sadiki",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Timur Tutyerov",
-     "player": "Timur Tutyerov",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
