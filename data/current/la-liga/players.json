@@ -1632,8 +1632,20 @@
      "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 1,
       "league": 3
+     }
+    },
+    {
+     "player_id": "Gerard Fernández",
+     "player": "Gerard Fernández",
+     "goals": 2,
+     "penalties": 2,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "Mid-season": 0,
+      "league": 1
      }
     },
     {
@@ -1642,8 +1654,20 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 2
+     }
+    },
+    {
+     "player_id": "Robbie Ure",
+     "player": "Robbie Ure",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "Mid-season": 0,
+      "league": 1
      }
     },
     {
@@ -1652,28 +1676,9 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 2
-     }
-    },
-    {
-     "player_id": "Chidera Ejuke",
-     "player": "Chidera Ejuke",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "Mid-season": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Gerard Fernández",
-     "player": "Gerard Fernández",
-     "goals": 1,
-     "penalties": 1,
-     "by_competition": {
-      "Mid-season": 0,
-      "league": 1
      }
     },
     {
@@ -1682,6 +1687,18 @@
      "goals": 1,
      "penalties": 1,
      "by_competition": {
+      "Copa del Rey": 0,
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Chidera Ejuke",
+     "player": "Chidera Ejuke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -1692,6 +1709,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -1702,6 +1720,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -1712,6 +1731,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -1722,18 +1742,20 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 1
      }
     },
     {
-     "player_id": "Robbie Ure",
-     "player": "Robbie Ure",
+     "player_id": "Rubén Vargas",
+     "player": "Rubén Vargas",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 1,
       "Mid-season": 0,
-      "league": 1
+      "league": 0
      }
     },
     {
@@ -1742,6 +1764,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "Mid-season": 0,
       "league": 1
      }

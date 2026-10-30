@@ -17799,6 +17799,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-26,Preston North End,EFL Cup,"Thierno Barry (footballer, born 2002)",Thierno Barry,70,False,False,False,premier-league,2026,Everton
 2026-08-26,Preston North End,EFL Cup,Brennan Johnson,Brennan Johnson,72,False,False,False,premier-league,2026,Everton
 2026-09-16,Wolverhampton Wanderers,EFL Cup,Charly Alcaraz,Charly Alcaraz,80,False,False,False,premier-league,2026,Everton
+2026-10-29,Newcastle United,EFL Cup,"James Garner (footballer, born 2001)",James Garner,34,False,False,False,premier-league,2026,Everton
+2026-10-29,Newcastle United,EFL Cup,Hayden Hackney,Hayden Hackney,45,False,False,False,premier-league,2026,Everton
+2026-10-29,Newcastle United,EFL Cup,"Thierno Barry (footballer, born 2002)",Thierno Barry,69,False,False,False,premier-league,2026,Everton
 2026-08-24,Chelsea,league,"Josh King (footballer, born 2007)",Josh King,23,False,False,True,premier-league,2026,Fulham
 2026-08-24,Chelsea,league,"Gonzalo García (footballer, born 2004)",Gonzalo García,54,False,False,True,premier-league,2026,Fulham
 2026-09-05,Crystal Palace,league,"Josh King (footballer, born 2007)",Josh King,11,False,False,True,premier-league,2026,Fulham
@@ -17999,6 +18002,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-26,West Bromwich Albion,EFL Cup,Harvey Barnes,Harvey Barnes,48,False,False,False,premier-league,2026,Newcastle
 2026-08-26,West Bromwich Albion,EFL Cup,Harvey Barnes,Harvey Barnes,81,False,False,False,premier-league,2026,Newcastle
 2026-09-08,Millwall,EFL Cup,Joe Willock,Joe Willock,81,False,False,False,premier-league,2026,Newcastle
+2026-10-29,Everton,EFL Cup,Dan Burn,Dan Burn,88,False,False,False,premier-league,2026,Newcastle
 2026-08-29,Liverpool,league,Dan Ndoye,Dan Ndoye,24,False,False,True,premier-league,2026,Nott'm Forest
 2026-08-29,Liverpool,league,Morgan Gibbs-White,Morgan Gibbs-White,70,True,False,True,premier-league,2026,Nott'm Forest
 2026-09-12,Aston Villa,league,Liam Delap,Liam Delap,46,False,False,True,premier-league,2026,Nott'm Forest
@@ -18026,11 +18030,11 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-07-18,York City,Pre-season and friendlies,Enzo Le Fée,Enzo Le Fée,45,False,False,False,premier-league,2026,Sunderland
 2026-07-18,York City,Pre-season and friendlies,Chris Rigg,Chris Rigg,37,False,False,False,premier-league,2026,Sunderland
 2026-07-18,York City,Pre-season and friendlies,Timur Tutierov,Timur Tutierov,44,False,False,False,premier-league,2026,Sunderland
-2026-07-18,York City,Pre-season and friendlies,Proctor,Proctor,56,False,False,False,premier-league,2026,Sunderland
+2026-07-18,York City,Pre-season and friendlies,Tom Proctor (footballer),Tom Proctor,56,False,False,False,premier-league,2026,Sunderland
 2026-07-25,Liverpool,Pre-season and friendlies,Enzo Le Fée,Enzo Le Fée,28,False,False,False,premier-league,2026,Sunderland
 2026-07-25,Liverpool,Pre-season and friendlies,Timur Tutierov,Timur Tutierov,49,False,False,False,premier-league,2026,Sunderland
 2026-08-02,Wrexham,Pre-season and friendlies,Nordi Mukiele,Nordi Mukiele,34,False,False,False,premier-league,2026,Sunderland
-2026-08-08,Lens,Pre-season and friendlies,",",",",11,False,False,False,premier-league,2026,Sunderland
+2026-08-08,Lens,Pre-season and friendlies,Tom Proctor (footballer),Tom Proctor,11,False,False,False,premier-league,2026,Sunderland
 2026-08-08,Lens,Pre-season and friendlies,Trai Hume,Trai Hume,66,False,False,False,premier-league,2026,Sunderland
 2026-08-08,Lens,Pre-season and friendlies,Wilson Isidor,Wilson Isidor,82,False,False,False,premier-league,2026,Sunderland
 2026-08-15,Rennes,Pre-season and friendlies,Brian Brobbey,Brian Brobbey,66,False,False,False,premier-league,2026,Sunderland

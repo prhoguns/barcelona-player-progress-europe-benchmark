@@ -1662,10 +1662,10 @@
     {
      "player_id": "Thierno Barry (footballer, born 2002)",
      "player": "Thierno Barry",
-     "goals": 6,
+     "goals": 7,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 3,
+      "EFL Cup": 4,
       "league": 3
      }
     },
@@ -1690,6 +1690,16 @@
      }
     },
     {
+     "player_id": "Brennan Johnson",
+     "player": "Brennan Johnson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Charly Alcaraz",
      "player": "Charly Alcaraz",
      "goals": 1,
@@ -1700,8 +1710,18 @@
      }
     },
     {
-     "player_id": "Brennan Johnson",
-     "player": "Brennan Johnson",
+     "player_id": "James Garner (footballer, born 2001)",
+     "player": "James Garner",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Hayden Hackney",
+     "player": "Hayden Hackney",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -2943,6 +2963,16 @@
      }
     },
     {
+     "player_id": "Bazoumana Touré",
+     "player": "Bazoumana Touré",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Anthony Elanga",
      "player": "Anthony Elanga",
      "goals": 2,
@@ -2953,13 +2983,13 @@
      }
     },
     {
-     "player_id": "Bazoumana Touré",
-     "player": "Bazoumana Touré",
-     "goals": 2,
+     "player_id": "Dan Burn",
+     "player": "Dan Burn",
+     "goals": 1,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "league": 1
+      "league": 0
      }
     },
     {
