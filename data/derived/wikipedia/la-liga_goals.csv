@@ -16431,7 +16431,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-18,Celta,La Liga,Hugo Novoa,Hugo Novoa,87,False,False,False,la-liga,2026,Alaves
 2026-08-22,Sevilla,league,Aitor Paredes,Aitor Paredes,70,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Álex Berenguer,Álex Berenguer,20,False,False,True,la-liga,2026,Ath Bilbao
-2026-08-30,Celta,league,Robert Navarro,Robert Navarro,22,False,False,True,la-liga,2026,Ath Bilbao
+2026-08-30,Celta,league,Robert Navarro (footballer),Robert Navarro,22,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-05,Ath Madrid,league,Nico Williams,Nico Williams,46,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-05,Ath Madrid,league,Robert Navarro (footballer),Robert Navarro,48,False,False,True,la-liga,2026,Ath Bilbao
 2026-09-05,Ath Madrid,league,Oihan Sancet,Oihan Sancet,90,False,False,True,la-liga,2026,Ath Bilbao
@@ -16561,7 +16561,42 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Cucho Hernández,Cucho Hernández,74,False,False,False,la-liga,2026,Betis
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Isco,Isco,84,False,False,False,la-liga,2026,Betis
 2026-10-21,{{flagicon|NED}} Feyenoord,UEFA Champions League,Isco,Isco,59,True,False,False,la-liga,2026,Betis
+2026-08-27,Osasuna,league,Iago Aspas,Iago Aspas,14,False,False,True,la-liga,2026,Celta
+2026-09-07,Getafe,league,Carl Starfelt,Carl Starfelt,57,False,False,True,la-liga,2026,Celta
+2026-09-13,Malaga,league,Ferran Jutglà,Ferran Jutglà,41,False,False,True,la-liga,2026,Celta
+2026-09-19,Santander,league,Hugo González (Spanish footballer),Hugo González,32,False,False,True,la-liga,2026,Celta
+2026-09-19,Santander,league,Ilaix Moriba,Ilaix Moriba,43,False,False,True,la-liga,2026,Celta
+2026-09-19,Santander,league,Miguel Román (footballer),Miguel Román,69,False,False,True,la-liga,2026,Celta
+2026-09-19,Santander,league,Pablo Durán,Pablo Durán,78,False,False,True,la-liga,2026,Celta
+2026-09-19,Santander,league,Pablo Durán,Pablo Durán,90+2,False,False,True,la-liga,2026,Celta
+2026-10-18,Alaves,league,Ferran Jutglà,Ferran Jutglà,53,False,False,True,la-liga,2026,Celta
+2026-10-18,Alaves,league,Javi Rodríguez (footballer),Javi Rodríguez,71,False,False,True,la-liga,2026,Celta
 2026-10-15,{{fbaicon|ITA}} Juventus,UEFA Europa League,"Hugo Álvarez (footballer, born 2003)",Hugo Álvarez,18,False,False,False,la-liga,2026,Celta
+2026-10-22,Celtic {{fbaicon|SCO}},UEFA Europa League,Javi Rodríguez (footballer),Javi Rodríguez,68,False,False,False,la-liga,2026,Celta
+2026-10-22,Celtic {{fbaicon|SCO}},UEFA Europa League,Javi Rodríguez (footballer),Javi Rodríguez,71,False,False,False,la-liga,2026,Celta
+2026-08-17,La Coruna,league,Marc Aguado,Marc Aguado,76,False,False,True,la-liga,2026,Elche
+2026-08-28,Santander,league,Buba Sangaré,Buba Sangaré,78,False,False,True,la-liga,2026,Elche
+2026-08-28,Santander,league,Fer Niño,Fer Niño,79,False,False,True,la-liga,2026,Elche
+2026-09-07,Sociedad,league,Thomas Lemar,Thomas Lemar,67,False,False,True,la-liga,2026,Elche
+2026-09-07,Sociedad,league,Fer Niño,Fer Niño,74,False,False,True,la-liga,2026,Elche
+2026-09-12,Ath Bilbao,league,Facundo Buonanotte,Facundo Buonanotte,50,True,False,True,la-liga,2026,Elche
+2026-09-15,Real Madrid,league,Abiel Osorio,Abiel Osorio,71,False,False,True,la-liga,2026,Elche
+2026-09-15,Real Madrid,league,Fer Niño,Fer Niño,83,False,False,True,la-liga,2026,Elche
+2026-09-18,Espanol,league,Fer Niño,Fer Niño,26,False,False,True,la-liga,2026,Elche
+2026-09-18,Espanol,league,Fer Niño,Fer Niño,29,False,False,True,la-liga,2026,Elche
+2026-09-18,Espanol,league,Germán Valera,Germán Valera,78,False,False,True,la-liga,2026,Elche
+2026-10-24,Vallecano,league,Federico Redondo,Federico Redondo,23,True,False,True,la-liga,2026,Elche
+2026-10-24,Vallecano,league,Fer Niño,Fer Niño,36,True,False,True,la-liga,2026,Elche
+2026-10-24,Vallecano,league,Germán Valera,Germán Valera,68,False,False,True,la-liga,2026,Elche
+2026-07-18,Kaizer Chiefs,Pre-season and friendlies,Ali Houary,Ali Houary,24,False,False,False,la-liga,2026,Elche
+2026-07-18,Kaizer Chiefs,Pre-season and friendlies,Umaru Konare,Umaru Konare,45,False,False,False,la-liga,2026,Elche
+2026-07-28,Al Ain,Pre-season and friendlies,Umaru Konare,Umaru Konare,10,False,False,False,la-liga,2026,Elche
+2026-07-28,Al Ain,Pre-season and friendlies,"Álex Sánchez (footballer, born 2006)",Álex Sánchez,82,False,False,False,la-liga,2026,Elche
+2026-07-31,Córdoba,Pre-season and friendlies,Umaru Konare,Umaru Konare,48,False,False,False,la-liga,2026,Elche
+2026-07-31,Córdoba,Pre-season and friendlies,Umaru Konare,Umaru Konare,50,False,False,False,la-liga,2026,Elche
+2026-08-08,Toulouse,Pre-season and friendlies,Germán Valera,Germán Valera,14,False,False,False,la-liga,2026,Elche
+2026-08-08,Toulouse,Pre-season and friendlies,Grady Diangana,Grady Diangana,83,False,False,False,la-liga,2026,Elche
+2026-08-08,Toulouse,Pre-season and friendlies,Fer Niño,Fer Niño,90+1,False,False,False,la-liga,2026,Elche
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,5,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,40,False,False,True,la-liga,2026,Espanol
 2026-08-16,Levante,league,Tyrhys Dolan,Tyrhys Dolan,80,False,False,True,la-liga,2026,Espanol

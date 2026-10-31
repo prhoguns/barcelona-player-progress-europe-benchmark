@@ -128,6 +128,15 @@
      }
     },
     {
+     "player_id": "Robert Navarro (footballer)",
+     "player": "Robert Navarro",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "league": 2
+     }
+    },
+    {
      "player_id": "Iñaki Williams",
      "player": "Iñaki Williams",
      "goals": 1,
@@ -148,24 +157,6 @@
     {
      "player_id": "Nico Williams",
      "player": "Nico Williams",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Robert Navarro",
-     "player": "Robert Navarro",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Robert Navarro (footballer)",
-     "player": "Robert Navarro",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -226,6 +217,15 @@
      "high": 7.0
     },
     {
+     "player_id": "Robert Navarro (footballer)",
+     "player": "Robert Navarro",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 4.1332,
+     "low": 2.0,
+     "high": 7.0
+    },
+    {
      "player_id": "Iñaki Williams",
      "player": "Iñaki Williams",
      "goals": 1,
@@ -246,24 +246,6 @@
     {
      "player_id": "Nico Williams",
      "player": "Nico Williams",
-     "goals": 1,
-     "previous_share": null,
-     "projected": 2.0666,
-     "low": 1.0,
-     "high": 4.0
-    },
-    {
-     "player_id": "Robert Navarro",
-     "player": "Robert Navarro",
-     "goals": 1,
-     "previous_share": null,
-     "projected": 2.0666,
-     "low": 1.0,
-     "high": 4.0
-    },
-    {
-     "player_id": "Robert Navarro (footballer)",
-     "player": "Robert Navarro",
      "goals": 1,
      "previous_share": null,
      "projected": 2.0666,
@@ -960,28 +942,283 @@
   "Celta": {
    "page": "2026–27 RC Celta de Vigo season",
    "matches_checked": 10,
-   "matches_complete": 3,
+   "matches_complete": 10,
    "all_competitions": [
+    {
+     "player_id": "Javi Rodríguez (footballer)",
+     "player": "Javi Rodríguez",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 2,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Pablo Durán",
+     "player": "Pablo Durán",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Ferran Jutglà",
+     "player": "Ferran Jutglà",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Carl Starfelt",
+     "player": "Carl Starfelt",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Hugo González (Spanish footballer)",
+     "player": "Hugo González",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Iago Aspas",
+     "player": "Iago Aspas",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
     {
      "player_id": "Hugo Álvarez (footballer, born 2003)",
      "player": "Hugo Álvarez",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "UEFA Europa League": 1
+      "UEFA Europa League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Ilaix Moriba",
+     "player": "Ilaix Moriba",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Miguel Román (footballer)",
+     "player": "Miguel Román",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 0,
+      "league": 1
      }
     }
    ],
-   "league_goal_minutes": [],
-   "status": "Wikipedia scorers add up for 3 of 10 league matches, so player forecasts are withheld until the page is complete."
+   "league_goal_minutes": [
+    14,
+    57,
+    41,
+    32,
+    43,
+    69,
+    78,
+    90,
+    53,
+    71
+   ],
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Ferran Jutglà",
+     "player": "Ferran Jutglà",
+     "goals": 2,
+     "previous_share": 0.1509,
+     "projected": 6.1565,
+     "low": 2.0,
+     "high": 11.0
+    },
+    {
+     "player_id": "Pablo Durán",
+     "player": "Pablo Durán",
+     "goals": 2,
+     "previous_share": 0.0377,
+     "projected": 4.675,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Iago Aspas",
+     "player": "Iago Aspas",
+     "goals": 1,
+     "previous_share": 0.0943,
+     "projected": 3.3252,
+     "low": 1.0,
+     "high": 7.0
+    },
+    {
+     "player_id": "Ilaix Moriba",
+     "player": "Ilaix Moriba",
+     "goals": 1,
+     "previous_share": 0.0377,
+     "projected": 2.5844,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Miguel Román (footballer)",
+     "player": "Miguel Román",
+     "goals": 1,
+     "previous_share": 0.0189,
+     "projected": 2.3375,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Carl Starfelt",
+     "player": "Carl Starfelt",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0906,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Hugo González (Spanish footballer)",
+     "player": "Hugo González",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0906,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Javi Rodríguez (footballer)",
+     "player": "Javi Rodríguez",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 2.0906,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 21.7289
   },
   "Elche": {
    "page": "2026–27 Elche CF season",
-   "matches_checked": 0,
-   "matches_complete": 0,
-   "all_competitions": [],
-   "league_goal_minutes": [],
-   "status": "No Wikipedia season page with match details was found for this club."
+   "matches_checked": 10,
+   "matches_complete": 9,
+   "all_competitions": [
+    {
+     "player_id": "Fer Niño",
+     "player": "Fer Niño",
+     "goals": 6,
+     "penalties": 1,
+     "by_competition": {
+      "league": 6
+     }
+    },
+    {
+     "player_id": "Germán Valera",
+     "player": "Germán Valera",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Abiel Osorio",
+     "player": "Abiel Osorio",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Buba Sangaré",
+     "player": "Buba Sangaré",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Federico Redondo",
+     "player": "Federico Redondo",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Facundo Buonanotte",
+     "player": "Facundo Buonanotte",
+     "goals": 1,
+     "penalties": 1,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Marc Aguado",
+     "player": "Marc Aguado",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Thomas Lemar",
+     "player": "Thomas Lemar",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    }
+   ],
+   "league_goal_minutes": [
+    76,
+    78,
+    79,
+    67,
+    74,
+    50,
+    71,
+    83,
+    26,
+    29,
+    78,
+    23,
+    36,
+    68
+   ],
+   "status": "Wikipedia scorers add up for 9 of 10 league matches, so player forecasts are withheld until the page is complete."
   },
   "Espanol": {
    "page": "2026–27 RCD Espanyol season",
@@ -1051,7 +1288,7 @@
   "Getafe": {
    "page": "2026–27 Getafe CF season",
    "matches_checked": 10,
-   "matches_complete": 9,
+   "matches_complete": 10,
    "all_competitions": [
     {
      "player_id": "Enes Ünal",
@@ -1121,7 +1358,46 @@
     85,
     56
    ],
-   "status": "Wikipedia scorers add up for 9 of 10 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Martín Satriano",
+     "player": "Martín Satriano",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.6878,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Enes Ünal",
+     "player": "Enes Ünal",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8439,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Iván Azón",
+     "player": "Iván Azón",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8439,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Ramon Terrats",
+     "player": "Ramon Terrats",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8439,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 20.2532
   },
   "La Coruna": {
    "page": "2026–27 Deportivo de La Coruña season",
