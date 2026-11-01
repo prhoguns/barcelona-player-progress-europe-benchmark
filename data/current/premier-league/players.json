@@ -275,10 +275,11 @@
     {
      "player_id": "Nicolas Jackson",
      "player": "Nicolas Jackson",
-     "goals": 7,
+     "goals": 8,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 1,
       "UEFA Champions League": 3,
       "UEFA Super Cup": 0,
       "league": 4
@@ -291,6 +292,7 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 3,
       "UEFA Super Cup": 0,
       "league": 0
@@ -303,6 +305,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "UEFA Super Cup": 0,
       "league": 2
@@ -315,6 +318,7 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 2,
       "UEFA Super Cup": 0,
       "league": 1
@@ -327,6 +331,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "UEFA Super Cup": 0,
       "league": 0
@@ -339,6 +344,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "UEFA Super Cup": 0,
       "league": 1
@@ -351,6 +357,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "UEFA Super Cup": 0,
       "league": 1
@@ -363,6 +370,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "UEFA Super Cup": 1,
       "league": 0
@@ -442,8 +450,21 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 1,
       "league": 5
+     }
+    },
+    {
+     "player_id": "Evanilson (footballer, born 1999)",
+     "player": "Evanilson",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "UEFA Europa League": 1,
+      "league": 3
      }
     },
     {
@@ -453,19 +474,9 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Europa League": 2,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Evanilson (footballer, born 1999)",
-     "player": "Evanilson",
-     "goals": 4,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 3
      }
     },
     {
@@ -475,7 +486,20 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 3,
+      "Premier League": 0,
       "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Amine Adli",
+     "player": "Amine Adli",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "Premier League": 1,
+      "UEFA Europa League": 1,
       "league": 0
      }
     },
@@ -486,6 +510,7 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 2,
       "league": 1
      }
@@ -497,17 +522,7 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 1,
-      "UEFA Europa League": 1,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Amine Adli",
-     "player": "Amine Adli",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -519,6 +534,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -530,6 +546,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 0
      }
@@ -604,23 +621,25 @@
    "matches_complete": 8,
    "all_competitions": [
     {
+     "player_id": "Igor Thiago",
+     "player": "Igor Thiago",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "Premier League": 1,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Callum Wilson",
      "player": "Callum Wilson",
      "goals": 3,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 3,
+      "Premier League": 0,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Igor Thiago",
-     "player": "Igor Thiago",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "league": 1
      }
     },
     {
@@ -630,6 +649,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 3
      }
     },
@@ -640,6 +660,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -650,6 +671,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -660,6 +682,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -670,6 +693,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -680,6 +704,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -690,6 +715,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -700,6 +726,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -710,6 +737,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -720,6 +748,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -730,6 +759,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -740,6 +770,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     }
@@ -867,6 +898,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Conference League": 1,
       "league": 3
      }
@@ -878,6 +910,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 1,
       "league": 3
      }
@@ -889,6 +922,7 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Conference League": 0,
       "league": 3
      }
@@ -900,6 +934,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Conference League": 1,
       "league": 2
      }
@@ -911,6 +946,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
+      "UEFA Conference League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Yasin Ayari",
+     "player": "Yasin Ayari",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
       "UEFA Conference League": 0,
       "league": 2
      }
@@ -922,19 +970,9 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Conference League": 2,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Yasin Ayari",
-     "player": "Yasin Ayari",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Conference League": 0,
-      "league": 2
      }
     },
     {
@@ -944,6 +982,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 0,
       "league": 1
      }
@@ -955,6 +994,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 0,
       "league": 1
      }
@@ -966,6 +1006,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 0,
       "league": 1
      }
@@ -977,6 +1018,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 0,
       "league": 1
      }
@@ -988,6 +1030,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 1,
       "league": 0
      }
@@ -999,6 +1042,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 1,
       "league": 0
      }
@@ -1010,6 +1054,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 0,
       "league": 1
      }
@@ -1021,6 +1066,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Conference League": 1,
       "league": 0
      }
@@ -1158,23 +1204,36 @@
    "matches_complete": 8,
    "all_competitions": [
     {
+     "player_id": "Morgan Rogers",
+     "player": "Morgan Rogers",
+     "goals": 6,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 1,
+      "Premier League": 1,
+      "league": 4
+     }
+    },
+    {
+     "player_id": "Cole Palmer",
+     "player": "Cole Palmer",
+     "goals": 5,
+     "penalties": 2,
+     "by_competition": {
+      "EFL Cup": 2,
+      "Premier League": 1,
+      "league": 2
+     }
+    },
+    {
      "player_id": "João Pedro (footballer, born 2001)",
      "player": "João Pedro",
      "goals": 5,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 5
-     }
-    },
-    {
-     "player_id": "Morgan Rogers",
-     "player": "Morgan Rogers",
-     "goals": 5,
-     "penalties": 1,
-     "by_competition": {
-      "EFL Cup": 1,
-      "league": 4
      }
     },
     {
@@ -1184,17 +1243,8 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 3
-     }
-    },
-    {
-     "player_id": "Cole Palmer",
-     "player": "Cole Palmer",
-     "goals": 4,
-     "penalties": 1,
-     "by_competition": {
-      "EFL Cup": 2,
-      "league": 2
      }
     },
     {
@@ -1204,6 +1254,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 3,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -1214,6 +1265,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -1224,6 +1276,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1234,6 +1287,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     }
@@ -1324,10 +1378,11 @@
     {
      "player_id": "Jack Rudoni",
      "player": "Jack Rudoni",
-     "goals": 3,
+     "goals": 4,
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 1,
       "league": 2
      }
     },
@@ -1338,16 +1393,18 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 0,
       "league": 0
      }
     },
     {
-     "player_id": "Ephron Mason-Clark",
-     "player": "Ephron Mason-Clark",
-     "goals": 1,
+     "player_id": "Taiwo Awoniyi",
+     "player": "Taiwo Awoniyi",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 1,
       "league": 0
      }
     },
@@ -1358,6 +1415,29 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ephron Mason-Clark",
+     "player": "Ephron Mason-Clark",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Sidiki Cherif",
+     "player": "Sidiki Cherif",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1368,16 +1448,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Sidiki Cherif",
-     "player": "Sidiki Cherif",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1388,16 +1459,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
     {
-     "player_id": "Taiwo Awoniyi",
-     "player": "Taiwo Awoniyi",
+     "player_id": "Tatsuhiro Sakamoto",
+     "player": "Tatsuhiro Sakamoto",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 1,
+      "EFL Cup": 0,
+      "Premier League": 1,
       "league": 0
      }
     }
@@ -1976,7 +2049,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 3
+     }
+    },
+    {
+     "player_id": "Oli McBurnie",
+     "player": "Oli McBurnie",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 1
      }
     },
     {
@@ -1986,6 +2071,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Liam Millar",
+     "player": "Liam Millar",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1996,17 +2093,8 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Liam Millar",
-     "player": "Liam Millar",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 1
      }
     },
     {
@@ -2016,6 +2104,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2026,16 +2115,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Oli McBurnie",
-     "player": "Oli McBurnie",
-     "goals": 1,
-     "penalties": 1,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2046,7 +2126,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Tim Iroegbunam",
+     "player": "Tim Iroegbunam",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 0
      }
     }
    ],
@@ -2141,37 +2233,8 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Marcelino Núñez",
-     "player": "Marcelino Núñez",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Zian Flemming",
-     "player": "Zian Flemming",
-     "goals": 2,
-     "penalties": 1,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Emersonn",
-     "player": "Emersonn",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 2
      }
     },
     {
@@ -2181,6 +2244,51 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Marcelino Núñez",
+     "player": "Marcelino Núñez",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "Premier League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Julio Enciso (footballer, born 2004)",
+     "player": "Julio Enciso",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Emersonn",
+     "player": "Emersonn",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Zian Flemming",
+     "player": "Zian Flemming",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -2191,16 +2299,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Abdoul Ouattara",
-     "player": "Abdoul Ouattara",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2211,26 +2310,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
     {
-     "player_id": "Julio Enciso (footballer, born 2004)",
-     "player": "Julio Enciso",
+     "player_id": "Abdoul Ouattara",
+     "player": "Abdoul Ouattara",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Jack Clarke (footballer, born 2000)",
-     "player": "Jack Clarke",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2241,6 +2332,29 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Florentino Luis",
+     "player": "Florentino Luis",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jack Clarke (footballer, born 2000)",
+     "player": "Jack Clarke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2251,6 +2365,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     }
@@ -3264,8 +3379,21 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 3
+     }
+    },
+    {
+     "player_id": "Enzo Le Fée",
+     "player": "Enzo Le Fée",
+     "goals": 3,
+     "penalties": 3,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "UEFA Europa League": 1,
+      "league": 1
      }
     },
     {
@@ -3275,19 +3403,9 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Enzo Le Fée",
-     "player": "Enzo Le Fée",
-     "goals": 2,
-     "penalties": 2,
-     "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Europa League": 1,
-      "league": 1
      }
     },
     {
@@ -3297,6 +3415,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -3308,6 +3427,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -3319,6 +3439,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 0
      }
@@ -3330,6 +3451,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -3341,6 +3463,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -3352,6 +3475,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -3418,6 +3542,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3428,6 +3553,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3438,7 +3564,30 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Jan Paul van Hecke",
+     "player": "Jan Paul van Hecke",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Archie Gray",
+     "player": "Archie Gray",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 0
      }
     },
     {
@@ -3448,16 +3597,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Jan Paul van Hecke",
-     "player": "Jan Paul van Hecke",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3468,6 +3608,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -3478,6 +3619,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3488,6 +3630,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -3498,6 +3641,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3508,6 +3652,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     }
