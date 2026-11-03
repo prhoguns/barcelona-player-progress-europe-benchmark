@@ -1,7 +1,7 @@
 {
  "league": "Premier League",
  "season": "2026/27",
- "as_of": "2026-11-02",
+ "as_of": "2026-11-03",
  "clubs": {
   "Arsenal": {
    "record": {
@@ -14,13 +14,13 @@
     "goals_against": 5
    },
    "projection": {
-    "points": 82.2147,
+    "points": 82.2144,
     "points_low": 71,
     "points_high": 92,
-    "goals_for": 68.498,
+    "goals_for": 68.4629,
     "goals_for_low": 54,
     "goals_for_high": 83,
-    "goals_against": 31.3236,
+    "goals_against": 31.2927,
     "goals_against_low": 23,
     "goals_against_high": 40,
     "remaining": 29
@@ -267,11 +267,11 @@
      "date": "2026-11-21",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.4916,
-     "draw": 0.2516,
-     "loss": 0.2568,
-     "xg_for": 1.6569,
-     "xg_against": 1.1342
+     "win": 0.4938,
+     "draw": 0.2524,
+     "loss": 0.2538,
+     "xg_for": 1.6502,
+     "xg_against": 1.1177
     },
     {
      "round": "Matchday 12",
@@ -388,11 +388,11 @@
      "date": "2027-01-23",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.6359,
-     "draw": 0.2099,
-     "loss": 0.1542,
-     "xg_for": 2.0601,
-     "xg_against": 0.9122
+     "win": 0.6374,
+     "draw": 0.2103,
+     "loss": 0.1524,
+     "xg_for": 2.0518,
+     "xg_against": 0.8989
     },
     {
      "round": "Matchday 23",
@@ -553,11 +553,11 @@
      "date": "2027-05-23",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.5257,
-     "draw": 0.268,
-     "loss": 0.2063,
-     "xg_for": 1.5185,
-     "xg_against": 0.8506
+     "win": 0.5207,
+     "draw": 0.2704,
+     "loss": 0.2089,
+     "xg_for": 1.4983,
+     "xg_against": 0.8494
     },
     {
      "round": "Matchday 38",
@@ -589,15 +589,15 @@
     "goals_against": 13
    },
    "projection": {
-    "points": 54.8127,
+    "points": 54.798,
     "points_low": 43,
     "points_high": 66,
-    "goals_for": 54.1765,
+    "goals_for": 54.1331,
     "goals_for_low": 42,
     "goals_for_high": 67,
-    "goals_against": 52.9422,
+    "goals_against": 52.9186,
     "goals_against_low": 42,
-    "goals_against_high": 64,
+    "goals_against_high": 65,
     "remaining": 29
    },
    "progression": [
@@ -864,11 +864,11 @@
      "date": "2026-12-02",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.4811,
-     "draw": 0.2646,
-     "loss": 0.2543,
-     "xg_for": 1.531,
-     "xg_against": 1.0442
+     "win": 0.4762,
+     "draw": 0.2666,
+     "loss": 0.2572,
+     "xg_for": 1.5107,
+     "xg_against": 1.0426
     },
     {
      "round": "Matchday 14",
@@ -941,11 +941,11 @@
      "date": "2027-01-05",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.3457,
-     "draw": 0.2769,
-     "loss": 0.3774,
-     "xg_for": 1.2313,
-     "xg_against": 1.2983
+     "win": 0.3416,
+     "draw": 0.278,
+     "loss": 0.3804,
+     "xg_for": 1.215,
+     "xg_against": 1.2964
     },
     {
      "round": "Matchday 21",
@@ -1117,11 +1117,11 @@
      "date": "2027-05-15",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.4378,
-     "draw": 0.2453,
-     "loss": 0.3169,
-     "xg_for": 1.6706,
-     "xg_against": 1.3922
+     "win": 0.4405,
+     "draw": 0.2463,
+     "loss": 0.3132,
+     "xg_for": 1.6638,
+     "xg_against": 1.372
     },
     {
      "round": "Matchday 37",
@@ -1164,14 +1164,14 @@
     "goals_against": 13
    },
    "projection": {
-    "points": 52.8726,
-    "points_low": 42,
+    "points": 52.8711,
+    "points_low": 41,
     "points_high": 64,
-    "goals_for": 56.6461,
+    "goals_for": 56.6234,
     "goals_for_low": 45,
     "goals_for_high": 69,
-    "goals_against": 54.2599,
-    "goals_against_low": 44,
+    "goals_against": 54.2371,
+    "goals_against_low": 43,
     "goals_against_high": 66,
     "remaining": 29
    },
@@ -1615,11 +1615,11 @@
      "date": "2027-03-13",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.4214,
-     "draw": 0.2455,
-     "loss": 0.3331,
-     "xg_for": 1.6437,
-     "xg_against": 1.4401
+     "win": 0.4241,
+     "draw": 0.2466,
+     "loss": 0.3293,
+     "xg_for": 1.637,
+     "xg_against": 1.4192
     },
     {
      "round": "Matchday 30",
@@ -1648,11 +1648,11 @@
      "date": "2027-04-17",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.3316,
-     "draw": 0.2748,
-     "loss": 0.3936,
-     "xg_for": 1.2115,
-     "xg_against": 1.343
+     "win": 0.3277,
+     "draw": 0.2758,
+     "loss": 0.3966,
+     "xg_for": 1.1954,
+     "xg_against": 1.341
     },
     {
      "round": "Matchday 33",
@@ -1739,13 +1739,13 @@
     "goals_against": 9
    },
    "projection": {
-    "points": 55.5655,
+    "points": 55.5611,
     "points_low": 44,
     "points_high": 67,
-    "goals_for": 59.4727,
-    "goals_for_low": 47,
-    "goals_for_high": 72,
-    "goals_against": 50.1582,
+    "goals_for": 59.423,
+    "goals_for_low": 48,
+    "goals_for_high": 71,
+    "goals_against": 50.1095,
     "goals_against_low": 39,
     "goals_against_high": 62,
     "remaining": 29
@@ -1992,11 +1992,11 @@
      "date": "2026-11-21",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.4879,
-     "draw": 0.262,
-     "loss": 0.2502,
-     "xg_for": 1.558,
-     "xg_against": 1.0448
+     "win": 0.4829,
+     "draw": 0.264,
+     "loss": 0.2531,
+     "xg_for": 1.5374,
+     "xg_against": 1.0433
     },
     {
      "round": "Matchday 12",
@@ -2047,11 +2047,11 @@
      "date": "2026-12-19",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.4447,
-     "draw": 0.2434,
-     "loss": 0.312,
-     "xg_for": 1.7001,
-     "xg_against": 1.3931
+     "win": 0.4473,
+     "draw": 0.2443,
+     "loss": 0.3083,
+     "xg_for": 1.6932,
+     "xg_against": 1.3729
     },
     {
      "round": "Matchday 17",
@@ -2113,11 +2113,11 @@
      "date": "2027-01-23",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.3513,
-     "draw": 0.2756,
-     "loss": 0.3731,
-     "xg_for": 1.2531,
-     "xg_against": 1.2991
+     "win": 0.3473,
+     "draw": 0.2767,
+     "loss": 0.3761,
+     "xg_for": 1.2364,
+     "xg_against": 1.2972
     },
     {
      "round": "Matchday 23",
@@ -2168,11 +2168,11 @@
      "date": "2027-02-27",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.3004,
-     "draw": 0.2419,
-     "loss": 0.4577,
-     "xg_for": 1.3673,
-     "xg_against": 1.7321
+     "win": 0.3034,
+     "draw": 0.2437,
+     "loss": 0.453,
+     "xg_for": 1.3618,
+     "xg_against": 1.707
     },
     {
      "round": "Matchday 28",
@@ -2314,13 +2314,13 @@
     "goals_against": 7
    },
    "projection": {
-    "points": 66.146,
+    "points": 66.1396,
     "points_low": 54,
-    "points_high": 78,
-    "goals_for": 72.5607,
+    "points_high": 77,
+    "goals_for": 72.5069,
     "goals_for_low": 60,
     "goals_for_high": 86,
-    "goals_against": 44.368,
+    "goals_against": 44.3219,
     "goals_against_low": 34,
     "goals_against_high": 56,
     "remaining": 29
@@ -2578,11 +2578,11 @@
      "date": "2026-11-28",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.4945,
-     "draw": 0.2349,
-     "loss": 0.2706,
-     "xg_for": 1.8421,
-     "xg_against": 1.3158
+     "win": 0.497,
+     "draw": 0.2356,
+     "loss": 0.2674,
+     "xg_for": 1.8347,
+     "xg_against": 1.2967
     },
     {
      "round": "Matchday 13",
@@ -2611,11 +2611,11 @@
      "date": "2026-12-12",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.5343,
-     "draw": 0.2494,
-     "loss": 0.2163,
-     "xg_for": 1.6882,
-     "xg_against": 0.9869
+     "win": 0.5292,
+     "draw": 0.2517,
+     "loss": 0.2192,
+     "xg_for": 1.6658,
+     "xg_against": 0.9854
     },
     {
      "round": "Matchday 16",
@@ -2699,11 +2699,11 @@
      "date": "2027-01-30",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.3444,
-     "draw": 0.2445,
-     "loss": 0.4111,
-     "xg_for": 1.4815,
-     "xg_against": 1.636
+     "win": 0.3473,
+     "draw": 0.246,
+     "loss": 0.4066,
+     "xg_for": 1.4756,
+     "xg_against": 1.6123
     },
     {
      "round": "Matchday 24",
@@ -2809,11 +2809,11 @@
      "date": "2027-04-24",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.3942,
-     "draw": 0.2729,
-     "loss": 0.3328,
-     "xg_for": 1.3578,
-     "xg_against": 1.227
+     "win": 0.3898,
+     "draw": 0.2743,
+     "loss": 0.3359,
+     "xg_for": 1.3398,
+     "xg_against": 1.2253
     },
     {
      "round": "Matchday 34",
@@ -2889,14 +2889,14 @@
     "goals_against": 15
    },
    "projection": {
-    "points": 61.5575,
-    "points_low": 49,
+    "points": 61.5637,
+    "points_low": 50,
     "points_high": 73,
-    "goals_for": 67.8169,
+    "goals_for": 67.7807,
     "goals_for_low": 55,
-    "goals_for_high": 82,
-    "goals_against": 55.2313,
-    "goals_against_low": 45,
+    "goals_for_high": 81,
+    "goals_against": 55.1844,
+    "goals_against_low": 44,
     "goals_against_high": 67,
     "remaining": 29
    },
@@ -3230,11 +3230,11 @@
      "date": "2027-01-03",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.4836,
-     "draw": 0.2323,
-     "loss": 0.2841,
-     "xg_for": 1.8666,
-     "xg_against": 1.392
+     "win": 0.4862,
+     "draw": 0.2331,
+     "loss": 0.2807,
+     "xg_for": 1.859,
+     "xg_against": 1.3718
     },
     {
      "round": "Matchday 20",
@@ -3296,11 +3296,11 @@
      "date": "2027-02-10",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.332,
-     "draw": 0.2386,
-     "loss": 0.4294,
-     "xg_for": 1.5012,
-     "xg_against": 1.7307
+     "win": 0.335,
+     "draw": 0.2402,
+     "loss": 0.4248,
+     "xg_for": 1.4952,
+     "xg_against": 1.7056
     },
     {
      "round": "Matchday 26",
@@ -3417,11 +3417,11 @@
      "date": "2027-05-15",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.5259,
-     "draw": 0.2472,
-     "loss": 0.2269,
-     "xg_for": 1.7106,
-     "xg_against": 1.044
+     "win": 0.5208,
+     "draw": 0.2494,
+     "loss": 0.2298,
+     "xg_for": 1.6879,
+     "xg_against": 1.0425
     },
     {
      "round": "Matchday 37",
@@ -3464,13 +3464,13 @@
     "goals_against": 16
    },
    "projection": {
-    "points": 37.0146,
+    "points": 37.0068,
     "points_low": 27,
     "points_high": 48,
-    "goals_for": 41.2015,
+    "goals_for": 41.1699,
     "goals_for_low": 32,
     "goals_for_high": 51,
-    "goals_against": 67.1925,
+    "goals_against": 67.1567,
     "goals_against_low": 54,
     "goals_against_high": 81,
     "remaining": 29
@@ -3706,11 +3706,11 @@
      "date": "2026-11-07",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.2102,
-     "draw": 0.2558,
-     "loss": 0.534,
-     "xg_for": 0.9257,
-     "xg_against": 1.6258
+     "win": 0.2075,
+     "draw": 0.256,
+     "loss": 0.5365,
+     "xg_for": 0.9134,
+     "xg_against": 1.6234
     },
     {
      "round": "Matchday 11",
@@ -3827,11 +3827,11 @@
      "date": "2027-01-16",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.3221,
-     "draw": 0.2807,
-     "loss": 0.3972,
-     "xg_for": 1.151,
-     "xg_against": 1.3076
+     "win": 0.3183,
+     "draw": 0.2817,
+     "loss": 0.4,
+     "xg_for": 1.1357,
+     "xg_against": 1.3057
     },
     {
      "round": "Matchday 22",
@@ -3981,11 +3981,11 @@
      "date": "2027-05-08",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.1624,
-     "draw": 0.2033,
-     "loss": 0.6344,
-     "xg_for": 1.0101,
-     "xg_against": 2.1677
+     "win": 0.165,
+     "draw": 0.206,
+     "loss": 0.629,
+     "xg_for": 1.006,
+     "xg_against": 2.1362
     },
     {
      "round": "Matchday 36",
@@ -4039,13 +4039,13 @@
     "goals_against": 21
    },
    "projection": {
-    "points": 41.6595,
+    "points": 41.6587,
     "points_low": 31,
     "points_high": 53,
-    "goals_for": 45.1781,
+    "goals_for": 45.1566,
     "goals_for_low": 35,
     "goals_for_high": 56,
-    "goals_against": 65.5453,
+    "goals_against": 65.5164,
     "goals_against_low": 54,
     "goals_against_high": 78,
     "remaining": 29
@@ -4512,11 +4512,11 @@
      "date": "2027-04-10",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.3931,
-     "draw": 0.284,
-     "loss": 0.3229,
-     "xg_for": 1.2782,
-     "xg_against": 1.1332
+     "win": 0.3887,
+     "draw": 0.2855,
+     "loss": 0.3258,
+     "xg_for": 1.2613,
+     "xg_against": 1.1316
     },
     {
      "round": "Matchday 32",
@@ -4578,11 +4578,11 @@
      "date": "2027-05-23",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.2212,
-     "draw": 0.232,
-     "loss": 0.5468,
-     "xg_for": 1.1218,
-     "xg_against": 1.8786
+     "win": 0.224,
+     "draw": 0.2344,
+     "loss": 0.5416,
+     "xg_for": 1.1172,
+     "xg_against": 1.8514
     },
     {
      "round": "Matchday 38",
@@ -4605,25 +4605,25 @@
   },
   "Everton": {
    "record": {
-    "played": 8,
-    "points": 10,
-    "wins": 2,
+    "played": 9,
+    "points": 13,
+    "wins": 3,
     "draws": 4,
     "losses": 2,
-    "goals_for": 8,
+    "goals_for": 9,
     "goals_against": 9
    },
    "projection": {
-    "points": 48.2757,
-    "points_low": 37,
-    "points_high": 60,
-    "goals_for": 44.2796,
+    "points": 50.5782,
+    "points_low": 40,
+    "points_high": 62,
+    "goals_for": 44.1357,
     "goals_for_low": 34,
     "goals_for_high": 55,
-    "goals_against": 49.5257,
-    "goals_against_low": 39,
-    "goals_against_high": 61,
-    "remaining": 30
+    "goals_against": 47.3383,
+    "goals_against_low": 37,
+    "goals_against_high": 59,
+    "remaining": 29
    },
    "progression": [
     {
@@ -4751,6 +4751,20 @@
      "goals_against_low": 39,
      "goals_against_high": 62,
      "remaining": 30
+    },
+    {
+     "matches_played": 9,
+     "as_of": "2026-11-02",
+     "points": 50.5782,
+     "points_low": 40,
+     "points_high": 62,
+     "goals_for": 44.1357,
+     "goals_for_low": 34,
+     "goals_for_high": 55,
+     "goals_against": 47.3383,
+     "goals_against_low": 37,
+     "goals_against_high": 59,
+     "remaining": 29
     }
    ],
    "played": [
@@ -4825,345 +4839,343 @@
      "goals_for": 0,
      "goals_against": 2,
      "result": "L"
-    }
-   ],
-   "fixtures": [
+    },
     {
      "round": "Matchday 9",
      "date": "2026-11-02",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.2461,
-     "draw": 0.2526,
-     "loss": 0.5013,
-     "xg_for": 1.0875,
-     "xg_against": 1.6523
-    },
+     "goals_for": 1,
+     "goals_against": 0,
+     "result": "W"
+    }
+   ],
+   "fixtures": [
     {
      "round": "Matchday 10",
      "date": "2026-11-07",
      "opponent": "Coventry",
      "venue": "Home",
-     "win": 0.534,
-     "draw": 0.2558,
-     "loss": 0.2102,
-     "xg_for": 1.6258,
-     "xg_against": 0.9257
+     "win": 0.5365,
+     "draw": 0.256,
+     "loss": 0.2075,
+     "xg_for": 1.6234,
+     "xg_against": 0.9134
     },
     {
      "round": "Matchday 11",
      "date": "2026-11-21",
      "opponent": "Brentford",
      "venue": "Away",
-     "win": 0.2502,
-     "draw": 0.262,
-     "loss": 0.4879,
-     "xg_for": 1.0448,
-     "xg_against": 1.558
+     "win": 0.2531,
+     "draw": 0.264,
+     "loss": 0.4829,
+     "xg_for": 1.0433,
+     "xg_against": 1.5374
     },
     {
      "round": "Matchday 12",
      "date": "2026-11-28",
      "opponent": "Liverpool",
      "venue": "Home",
-     "win": 0.2874,
-     "draw": 0.2627,
-     "loss": 0.4499,
-     "xg_for": 1.1663,
-     "xg_against": 1.5198
+     "win": 0.2905,
+     "draw": 0.2644,
+     "loss": 0.4451,
+     "xg_for": 1.1646,
+     "xg_against": 1.4996
     },
     {
      "round": "Matchday 13",
      "date": "2026-12-02",
      "opponent": "Aston Villa",
      "venue": "Away",
-     "win": 0.2543,
-     "draw": 0.2646,
-     "loss": 0.4811,
-     "xg_for": 1.0442,
-     "xg_against": 1.531
+     "win": 0.2572,
+     "draw": 0.2666,
+     "loss": 0.4762,
+     "xg_for": 1.0426,
+     "xg_against": 1.5107
     },
     {
      "round": "Matchday 14",
      "date": "2026-12-05",
      "opponent": "Fulham",
      "venue": "Home",
-     "win": 0.4188,
-     "draw": 0.2849,
-     "loss": 0.2963,
-     "xg_for": 1.3115,
-     "xg_against": 1.0596
+     "win": 0.4215,
+     "draw": 0.2857,
+     "loss": 0.2928,
+     "xg_for": 1.3096,
+     "xg_against": 1.0455
     },
     {
      "round": "Matchday 15",
      "date": "2026-12-12",
      "opponent": "Brighton",
      "venue": "Away",
-     "win": 0.2163,
-     "draw": 0.2494,
-     "loss": 0.5343,
-     "xg_for": 0.9869,
-     "xg_against": 1.6882
+     "win": 0.2192,
+     "draw": 0.2517,
+     "loss": 0.5292,
+     "xg_for": 0.9854,
+     "xg_against": 1.6658
     },
     {
      "round": "Matchday 16",
      "date": "2026-12-19",
      "opponent": "Nott'm Forest",
      "venue": "Away",
-     "win": 0.2996,
-     "draw": 0.2859,
-     "loss": 0.4145,
-     "xg_for": 1.0628,
-     "xg_against": 1.2988
+     "win": 0.3023,
+     "draw": 0.2876,
+     "loss": 0.4101,
+     "xg_for": 1.0613,
+     "xg_against": 1.2815
     },
     {
      "round": "Matchday 17",
      "date": "2026-12-26",
      "opponent": "Sunderland",
      "venue": "Home",
-     "win": 0.5387,
-     "draw": 0.2583,
-     "loss": 0.203,
-     "xg_for": 1.602,
-     "xg_against": 0.8834
+     "win": 0.5411,
+     "draw": 0.2585,
+     "loss": 0.2004,
+     "xg_for": 1.5996,
+     "xg_against": 0.8716
     },
     {
      "round": "Matchday 18",
      "date": "2026-12-29",
      "opponent": "Man City",
      "venue": "Home",
-     "win": 0.2108,
-     "draw": 0.2454,
-     "loss": 0.5438,
-     "xg_for": 0.9861,
-     "xg_against": 1.7269
+     "win": 0.2136,
+     "draw": 0.2478,
+     "loss": 0.5386,
+     "xg_for": 0.9847,
+     "xg_against": 1.704
     },
     {
      "round": "Matchday 19",
      "date": "2027-01-01",
      "opponent": "Leeds",
      "venue": "Away",
-     "win": 0.3679,
-     "draw": 0.2835,
-     "loss": 0.3485,
-     "xg_for": 1.2358,
-     "xg_against": 1.1955
+     "win": 0.3708,
+     "draw": 0.2847,
+     "loss": 0.3445,
+     "xg_for": 1.234,
+     "xg_against": 1.1796
     },
     {
      "round": "Matchday 20",
      "date": "2027-01-05",
      "opponent": "Aston Villa",
      "venue": "Home",
-     "win": 0.3774,
-     "draw": 0.2769,
-     "loss": 0.3457,
-     "xg_for": 1.2983,
-     "xg_against": 1.2313
+     "win": 0.3804,
+     "draw": 0.278,
+     "loss": 0.3416,
+     "xg_for": 1.2964,
+     "xg_against": 1.215
     },
     {
      "round": "Matchday 21",
      "date": "2027-01-16",
      "opponent": "Coventry",
      "venue": "Away",
-     "win": 0.3972,
-     "draw": 0.2807,
-     "loss": 0.3221,
-     "xg_for": 1.3076,
-     "xg_against": 1.151
+     "win": 0.4,
+     "draw": 0.2817,
+     "loss": 0.3183,
+     "xg_for": 1.3057,
+     "xg_against": 1.1357
     },
     {
      "round": "Matchday 22",
      "date": "2027-01-23",
      "opponent": "Brentford",
      "venue": "Home",
-     "win": 0.3731,
-     "draw": 0.2756,
-     "loss": 0.3513,
-     "xg_for": 1.2991,
-     "xg_against": 1.2531
+     "win": 0.3761,
+     "draw": 0.2767,
+     "loss": 0.3473,
+     "xg_for": 1.2972,
+     "xg_against": 1.2364
     },
     {
      "round": "Matchday 23",
      "date": "2027-01-30",
      "opponent": "Liverpool",
      "venue": "Away",
-     "win": 0.1788,
-     "draw": 0.228,
-     "loss": 0.5932,
-     "xg_for": 0.938,
-     "xg_against": 1.8896
+     "win": 0.1815,
+     "draw": 0.2306,
+     "loss": 0.5879,
+     "xg_for": 0.9366,
+     "xg_against": 1.8646
     },
     {
      "round": "Matchday 24",
      "date": "2027-02-06",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.3715,
-     "draw": 0.2678,
-     "loss": 0.3607,
-     "xg_for": 1.3522,
-     "xg_against": 1.3288
+     "win": 0.3771,
+     "draw": 0.2704,
+     "loss": 0.3526,
+     "xg_for": 1.3448,
+     "xg_against": 1.2922
     },
     {
      "round": "Matchday 25",
      "date": "2027-02-10",
      "opponent": "Leeds",
      "venue": "Home",
-     "win": 0.5025,
-     "draw": 0.2652,
-     "loss": 0.2323,
-     "xg_for": 1.5365,
-     "xg_against": 0.9615
+     "win": 0.5051,
+     "draw": 0.2656,
+     "loss": 0.2293,
+     "xg_for": 1.5343,
+     "xg_against": 0.9487
     },
     {
      "round": "Matchday 26",
      "date": "2027-02-20",
      "opponent": "Sunderland",
      "venue": "Away",
-     "win": 0.4036,
-     "draw": 0.2851,
-     "loss": 0.3113,
-     "xg_for": 1.2884,
-     "xg_against": 1.0983
+     "win": 0.4064,
+     "draw": 0.286,
+     "loss": 0.3077,
+     "xg_for": 1.2865,
+     "xg_against": 1.0838
     },
     {
      "round": "Matchday 27",
      "date": "2027-02-27",
      "opponent": "Nott'm Forest",
      "venue": "Home",
-     "win": 0.425,
-     "draw": 0.2847,
-     "loss": 0.2903,
-     "xg_for": 1.3215,
-     "xg_against": 1.0446
+     "win": 0.4277,
+     "draw": 0.2854,
+     "loss": 0.2868,
+     "xg_for": 1.3196,
+     "xg_against": 1.0307
     },
     {
      "round": "Matchday 28",
      "date": "2027-03-03",
      "opponent": "Man City",
      "venue": "Away",
-     "win": 0.1225,
-     "draw": 0.1955,
-     "loss": 0.682,
-     "xg_for": 0.7931,
-     "xg_against": 2.1472
+     "win": 0.1248,
+     "draw": 0.1984,
+     "loss": 0.6767,
+     "xg_for": 0.7919,
+     "xg_against": 2.1187
     },
     {
      "round": "Matchday 29",
      "date": "2027-03-13",
      "opponent": "Man United",
      "venue": "Away",
-     "win": 0.2441,
-     "draw": 0.2573,
-     "loss": 0.4986,
-     "xg_for": 1.0507,
-     "xg_against": 1.606
+     "win": 0.2471,
+     "draw": 0.2593,
+     "loss": 0.4936,
+     "xg_for": 1.0491,
+     "xg_against": 1.5847
     },
     {
      "round": "Matchday 30",
      "date": "2027-03-20",
      "opponent": "Tottenham",
      "venue": "Home",
-     "win": 0.4069,
-     "draw": 0.2702,
-     "loss": 0.3229,
-     "xg_for": 1.3999,
-     "xg_against": 1.2199
+     "win": 0.4099,
+     "draw": 0.2711,
+     "loss": 0.3191,
+     "xg_for": 1.3978,
+     "xg_against": 1.2037
     },
     {
      "round": "Matchday 31",
      "date": "2027-04-10",
      "opponent": "Crystal Palace",
      "venue": "Away",
-     "win": 0.3229,
-     "draw": 0.284,
-     "loss": 0.3931,
-     "xg_for": 1.1332,
-     "xg_against": 1.2782
+     "win": 0.3258,
+     "draw": 0.2855,
+     "loss": 0.3887,
+     "xg_for": 1.1316,
+     "xg_against": 1.2613
     },
     {
      "round": "Matchday 32",
      "date": "2027-04-17",
      "opponent": "Bournemouth",
      "venue": "Home",
-     "win": 0.3936,
-     "draw": 0.2748,
-     "loss": 0.3316,
-     "xg_for": 1.343,
-     "xg_against": 1.2115
+     "win": 0.3966,
+     "draw": 0.2758,
+     "loss": 0.3277,
+     "xg_for": 1.341,
+     "xg_against": 1.1954
     },
     {
      "round": "Matchday 33",
      "date": "2027-04-24",
      "opponent": "Brighton",
      "venue": "Home",
-     "win": 0.3328,
-     "draw": 0.2729,
-     "loss": 0.3942,
-     "xg_for": 1.227,
-     "xg_against": 1.3578
+     "win": 0.3359,
+     "draw": 0.2743,
+     "loss": 0.3898,
+     "xg_for": 1.2253,
+     "xg_against": 1.3398
     },
     {
      "round": "Matchday 34",
      "date": "2027-05-01",
      "opponent": "Fulham",
      "venue": "Away",
-     "win": 0.2939,
-     "draw": 0.2846,
-     "loss": 0.4216,
-     "xg_for": 1.0548,
-     "xg_against": 1.3175
+     "win": 0.2967,
+     "draw": 0.2863,
+     "loss": 0.417,
+     "xg_for": 1.0532,
+     "xg_against": 1.3
     },
     {
      "round": "Matchday 35",
      "date": "2027-05-08",
      "opponent": "Hull",
      "venue": "Home",
-     "win": 0.5135,
-     "draw": 0.2627,
-     "loss": 0.2238,
-     "xg_for": 1.5621,
-     "xg_against": 0.9435
+     "win": 0.516,
+     "draw": 0.263,
+     "loss": 0.221,
+     "xg_for": 1.5598,
+     "xg_against": 0.931
     },
     {
      "round": "Matchday 36",
      "date": "2027-05-15",
      "opponent": "Chelsea",
      "venue": "Away",
-     "win": 0.2269,
-     "draw": 0.2472,
-     "loss": 0.5259,
-     "xg_for": 1.044,
-     "xg_against": 1.7106
+     "win": 0.2298,
+     "draw": 0.2494,
+     "loss": 0.5208,
+     "xg_for": 1.0425,
+     "xg_against": 1.6879
     },
     {
      "round": "Matchday 37",
      "date": "2027-05-23",
      "opponent": "Arsenal",
      "venue": "Home",
-     "win": 0.2063,
-     "draw": 0.268,
-     "loss": 0.5257,
-     "xg_for": 0.8506,
-     "xg_against": 1.5185
+     "win": 0.2089,
+     "draw": 0.2704,
+     "loss": 0.5207,
+     "xg_for": 0.8494,
+     "xg_against": 1.4983
     },
     {
      "round": "Matchday 38",
      "date": "2027-05-30",
      "opponent": "Ipswich",
      "venue": "Away",
-     "win": 0.3879,
-     "draw": 0.2757,
-     "loss": 0.3364,
-     "xg_for": 1.3264,
-     "xg_against": 1.2177
+     "win": 0.3908,
+     "draw": 0.2767,
+     "loss": 0.3325,
+     "xg_for": 1.3245,
+     "xg_against": 1.2015
     }
    ],
    "rating": {
-    "gf": 1.1758,
-    "ga": 1.3113,
-    "sotf": 4.0794,
-    "sota": 4.4427
+    "gf": 1.1732,
+    "ga": 1.2916,
+    "sotf": 4.0932,
+    "sota": 4.4061
    }
   },
   "Fulham": {
@@ -5177,15 +5189,15 @@
     "goals_against": 11
    },
    "projection": {
-    "points": 45.4347,
+    "points": 45.4329,
     "points_low": 35,
     "points_high": 57,
-    "goals_for": 45.6555,
+    "goals_for": 45.6135,
     "goals_for_low": 35,
-    "goals_for_high": 57,
-    "goals_against": 52.9268,
+    "goals_for_high": 56,
+    "goals_against": 52.8775,
     "goals_against_low": 42,
-    "goals_against_high": 65,
+    "goals_against_high": 64,
     "remaining": 29
    },
    "progression": [
@@ -5419,11 +5431,11 @@
      "date": "2026-11-07",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.3777,
-     "draw": 0.2588,
-     "loss": 0.3636,
-     "xg_for": 1.4376,
-     "xg_against": 1.4063
+     "win": 0.3803,
+     "draw": 0.2601,
+     "loss": 0.3596,
+     "xg_for": 1.4318,
+     "xg_against": 1.3859
     },
     {
      "round": "Matchday 11",
@@ -5463,11 +5475,11 @@
      "date": "2026-12-05",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.2963,
-     "draw": 0.2849,
-     "loss": 0.4188,
-     "xg_for": 1.0596,
-     "xg_against": 1.3115
+     "win": 0.2928,
+     "draw": 0.2857,
+     "loss": 0.4215,
+     "xg_for": 1.0455,
+     "xg_against": 1.3096
     },
     {
      "round": "Matchday 15",
@@ -5540,11 +5552,11 @@
      "date": "2027-01-16",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.2479,
-     "draw": 0.2435,
-     "loss": 0.5086,
-     "xg_for": 1.1562,
-     "xg_against": 1.7486
+     "win": 0.2507,
+     "draw": 0.2457,
+     "loss": 0.5036,
+     "xg_for": 1.1515,
+     "xg_against": 1.7232
     },
     {
      "round": "Matchday 22",
@@ -5683,11 +5695,11 @@
      "date": "2027-05-01",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.4216,
-     "draw": 0.2846,
-     "loss": 0.2939,
-     "xg_for": 1.3175,
-     "xg_against": 1.0548
+     "win": 0.417,
+     "draw": 0.2863,
+     "loss": 0.2967,
+     "xg_for": 1.3,
+     "xg_against": 1.0532
     },
     {
      "round": "Matchday 35",
@@ -5752,13 +5764,13 @@
     "goals_against": 10
    },
    "projection": {
-    "points": 39.9343,
+    "points": 39.9365,
     "points_low": 30,
     "points_high": 51,
-    "goals_for": 43.396,
+    "goals_for": 43.3783,
     "goals_for_low": 34,
     "goals_for_high": 53,
-    "goals_against": 60.1948,
+    "goals_against": 60.1682,
     "goals_against_low": 48,
     "goals_against_high": 74,
     "remaining": 29
@@ -6269,11 +6281,11 @@
      "date": "2027-05-08",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.2238,
-     "draw": 0.2627,
-     "loss": 0.5135,
-     "xg_for": 0.9435,
-     "xg_against": 1.5621
+     "win": 0.221,
+     "draw": 0.263,
+     "loss": 0.516,
+     "xg_for": 0.931,
+     "xg_against": 1.5598
     },
     {
      "round": "Matchday 36",
@@ -6302,11 +6314,11 @@
      "date": "2027-05-30",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.2892,
-     "draw": 0.2477,
-     "loss": 0.463,
-     "xg_for": 1.2801,
-     "xg_against": 1.675
+     "win": 0.2921,
+     "draw": 0.2497,
+     "loss": 0.4583,
+     "xg_for": 1.2749,
+     "xg_against": 1.6507
     }
    ],
    "rating": {
@@ -6327,13 +6339,13 @@
     "goals_against": 18
    },
    "projection": {
-    "points": 39.8493,
+    "points": 39.8599,
     "points_low": 29,
     "points_high": 51,
-    "goals_for": 48.1142,
+    "goals_for": 48.0884,
     "goals_for_low": 38,
     "goals_for_high": 58,
-    "goals_against": 70.399,
+    "goals_against": 70.3395,
     "goals_against_low": 57,
     "goals_against_high": 85,
     "remaining": 29
@@ -6624,11 +6636,11 @@
      "date": "2026-12-12",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.2853,
-     "draw": 0.24,
-     "loss": 0.4746,
-     "xg_for": 1.3287,
-     "xg_against": 1.7685
+     "win": 0.2883,
+     "draw": 0.242,
+     "loss": 0.4698,
+     "xg_for": 1.3233,
+     "xg_against": 1.7428
     },
     {
      "round": "Matchday 16",
@@ -6822,11 +6834,11 @@
      "date": "2027-04-24",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.1705,
-     "draw": 0.2024,
-     "loss": 0.6271,
-     "xg_for": 1.0686,
-     "xg_against": 2.1989
+     "win": 0.1732,
+     "draw": 0.2051,
+     "loss": 0.6217,
+     "xg_for": 1.0643,
+     "xg_against": 2.167
     },
     {
      "round": "Matchday 34",
@@ -6877,11 +6889,11 @@
      "date": "2027-05-30",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.3364,
-     "draw": 0.2757,
-     "loss": 0.3879,
-     "xg_for": 1.2177,
-     "xg_against": 1.3264
+     "win": 0.3325,
+     "draw": 0.2767,
+     "loss": 0.3908,
+     "xg_for": 1.2015,
+     "xg_against": 1.3245
     }
    ],
    "rating": {
@@ -6902,13 +6914,13 @@
     "goals_against": 8
    },
    "projection": {
-    "points": 41.8864,
+    "points": 41.8777,
     "points_low": 31,
     "points_high": 53,
-    "goals_for": 42.845,
+    "goals_for": 42.8121,
     "goals_for_low": 33,
     "goals_for_high": 53,
-    "goals_against": 56.3345,
+    "goals_against": 56.3007,
     "goals_against_low": 44,
     "goals_against_high": 70,
     "remaining": 29
@@ -7243,11 +7255,11 @@
      "date": "2027-01-01",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.3485,
-     "draw": 0.2835,
-     "loss": 0.3679,
-     "xg_for": 1.1955,
-     "xg_against": 1.2358
+     "win": 0.3445,
+     "draw": 0.2847,
+     "loss": 0.3708,
+     "xg_for": 1.1796,
+     "xg_against": 1.234
     },
     {
      "round": "Matchday 20",
@@ -7309,11 +7321,11 @@
      "date": "2027-02-10",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.2323,
-     "draw": 0.2652,
-     "loss": 0.5025,
-     "xg_for": 0.9615,
-     "xg_against": 1.5365
+     "win": 0.2293,
+     "draw": 0.2656,
+     "loss": 0.5051,
+     "xg_for": 0.9487,
+     "xg_against": 1.5343
     },
     {
      "round": "Matchday 26",
@@ -7364,11 +7376,11 @@
      "date": "2027-03-20",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.1837,
-     "draw": 0.2154,
-     "loss": 0.6009,
-     "xg_for": 1.0491,
-     "xg_against": 2.0486
+     "win": 0.1863,
+     "draw": 0.218,
+     "loss": 0.5956,
+     "xg_for": 1.0449,
+     "xg_against": 2.0189
     },
     {
      "round": "Matchday 31",
@@ -7477,14 +7489,14 @@
     "goals_against": 9
    },
    "projection": {
-    "points": 67.2785,
+    "points": 67.2599,
     "points_low": 55,
     "points_high": 78,
-    "goals_for": 65.8725,
+    "goals_for": 65.8189,
     "goals_for_low": 52,
-    "goals_for_high": 81,
-    "goals_against": 44.2641,
-    "goals_against_low": 35,
+    "goals_for_high": 80,
+    "goals_against": 44.2429,
+    "goals_against_low": 34,
     "goals_against_high": 55,
     "remaining": 29
    },
@@ -7741,11 +7753,11 @@
      "date": "2026-11-28",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.4499,
-     "draw": 0.2627,
-     "loss": 0.2874,
-     "xg_for": 1.5198,
-     "xg_against": 1.1663
+     "win": 0.4451,
+     "draw": 0.2644,
+     "loss": 0.2905,
+     "xg_for": 1.4996,
+     "xg_against": 1.1646
     },
     {
      "round": "Matchday 13",
@@ -7862,11 +7874,11 @@
      "date": "2027-01-30",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.5932,
-     "draw": 0.228,
-     "loss": 0.1788,
-     "xg_for": 1.8896,
-     "xg_against": 0.938
+     "win": 0.5879,
+     "draw": 0.2306,
+     "loss": 0.1815,
+     "xg_for": 1.8646,
+     "xg_against": 0.9366
     },
     {
      "round": "Matchday 24",
@@ -7950,11 +7962,11 @@
      "date": "2027-04-10",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.5576,
-     "draw": 0.2179,
-     "loss": 0.2245,
-     "xg_for": 2.0619,
-     "xg_against": 1.2506
+     "win": 0.5599,
+     "draw": 0.2184,
+     "loss": 0.2217,
+     "xg_for": 2.0536,
+     "xg_against": 1.2325
     },
     {
      "round": "Matchday 32",
@@ -8052,14 +8064,14 @@
     "goals_against": 10
    },
    "projection": {
-    "points": 79.7302,
+    "points": 79.7177,
     "points_low": 68,
     "points_high": 90,
-    "goals_for": 80.5271,
-    "goals_for_low": 66,
+    "goals_for": 80.4586,
+    "goals_for_low": 65,
     "goals_for_high": 96,
-    "goals_against": 40.2255,
-    "goals_against_low": 31,
+    "goals_against": 40.1885,
+    "goals_against_low": 32,
     "goals_against_high": 50,
     "remaining": 29
    },
@@ -8371,22 +8383,22 @@
      "date": "2026-12-26",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.5043,
-     "draw": 0.2317,
-     "loss": 0.2639,
-     "xg_for": 1.8843,
-     "xg_against": 1.3148
+     "win": 0.5068,
+     "draw": 0.2324,
+     "loss": 0.2608,
+     "xg_for": 1.8767,
+     "xg_against": 1.2957
     },
     {
      "round": "Matchday 18",
      "date": "2026-12-29",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.5438,
-     "draw": 0.2454,
-     "loss": 0.2108,
-     "xg_for": 1.7269,
-     "xg_against": 0.9861
+     "win": 0.5386,
+     "draw": 0.2478,
+     "loss": 0.2136,
+     "xg_for": 1.704,
+     "xg_against": 0.9847
     },
     {
      "round": "Matchday 19",
@@ -8470,11 +8482,11 @@
      "date": "2027-02-20",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.6572,
-     "draw": 0.1895,
-     "loss": 0.1533,
-     "xg_for": 2.3429,
-     "xg_against": 1.0574
+     "win": 0.6589,
+     "draw": 0.1897,
+     "loss": 0.1514,
+     "xg_for": 2.3334,
+     "xg_against": 1.0421
     },
     {
      "round": "Matchday 27",
@@ -8492,11 +8504,11 @@
      "date": "2027-03-03",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.682,
-     "draw": 0.1955,
-     "loss": 0.1225,
-     "xg_for": 2.1472,
-     "xg_against": 0.7931
+     "win": 0.6767,
+     "draw": 0.1984,
+     "loss": 0.1248,
+     "xg_for": 2.1187,
+     "xg_against": 0.7919
     },
     {
      "round": "Matchday 29",
@@ -8627,13 +8639,13 @@
     "goals_against": 15
    },
    "projection": {
-    "points": 49.9424,
-    "points_low": 38,
+    "points": 49.9491,
+    "points_low": 39,
     "points_high": 61,
-    "goals_for": 55.3627,
+    "goals_for": 55.3287,
     "goals_for_low": 43,
     "goals_for_high": 68,
-    "goals_against": 55.955,
+    "goals_against": 55.9079,
     "goals_against_low": 45,
     "goals_against_high": 68,
     "remaining": 29
@@ -8902,11 +8914,11 @@
      "date": "2026-12-02",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.3087,
-     "draw": 0.2403,
-     "loss": 0.4511,
-     "xg_for": 1.4094,
-     "xg_against": 1.7418
+     "win": 0.3116,
+     "draw": 0.242,
+     "loss": 0.4463,
+     "xg_for": 1.4037,
+     "xg_against": 1.7165
     },
     {
      "round": "Matchday 14",
@@ -8979,11 +8991,11 @@
      "date": "2027-01-07",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.4554,
-     "draw": 0.2398,
-     "loss": 0.3049,
-     "xg_for": 1.7524,
-     "xg_against": 1.4009
+     "win": 0.458,
+     "draw": 0.2407,
+     "loss": 0.3013,
+     "xg_for": 1.7454,
+     "xg_against": 1.3805
     },
     {
      "round": "Matchday 21",
@@ -9078,11 +9090,11 @@
      "date": "2027-03-13",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.4986,
-     "draw": 0.2573,
-     "loss": 0.2441,
-     "xg_for": 1.606,
-     "xg_against": 1.0507
+     "win": 0.4936,
+     "draw": 0.2593,
+     "loss": 0.2471,
+     "xg_for": 1.5847,
+     "xg_against": 1.0491
     },
     {
      "round": "Matchday 30",
@@ -9193,25 +9205,25 @@
   },
   "Newcastle": {
    "record": {
-    "played": 8,
+    "played": 9,
     "points": 11,
     "wins": 3,
     "draws": 2,
-    "losses": 3,
+    "losses": 4,
     "goals_for": 12,
-    "goals_against": 14
+    "goals_against": 15
    },
    "projection": {
-    "points": 54.7084,
-    "points_low": 43,
-    "points_high": 67,
-    "goals_for": 59.6165,
-    "goals_for_low": 47,
-    "goals_for_high": 73,
-    "goals_against": 58.1829,
+    "points": 52.6235,
+    "points_low": 41,
+    "points_high": 64,
+    "goals_for": 57.2797,
+    "goals_for_low": 45,
+    "goals_for_high": 69,
+    "goals_against": 57.9198,
     "goals_against_low": 47,
     "goals_against_high": 70,
-    "remaining": 30
+    "remaining": 29
    },
    "progression": [
     {
@@ -9339,6 +9351,20 @@
      "goals_against_low": 47,
      "goals_against_high": 71,
      "remaining": 30
+    },
+    {
+     "matches_played": 9,
+     "as_of": "2026-11-02",
+     "points": 52.6235,
+     "points_low": 41,
+     "points_high": 64,
+     "goals_for": 57.2797,
+     "goals_for_low": 45,
+     "goals_for_high": 69,
+     "goals_against": 57.9198,
+     "goals_against_low": 47,
+     "goals_against_high": 70,
+     "remaining": 29
     }
    ],
    "played": [
@@ -9413,345 +9439,343 @@
      "goals_for": 2,
      "goals_against": 0,
      "result": "W"
-    }
-   ],
-   "fixtures": [
+    },
     {
      "round": "Matchday 9",
      "date": "2026-11-02",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.5013,
-     "draw": 0.2526,
-     "loss": 0.2461,
-     "xg_for": 1.6523,
-     "xg_against": 1.0875
-    },
+     "goals_for": 0,
+     "goals_against": 1,
+     "result": "L"
+    }
+   ],
+   "fixtures": [
     {
      "round": "Matchday 10",
      "date": "2026-11-07",
      "opponent": "Fulham",
      "venue": "Away",
-     "win": 0.3636,
-     "draw": 0.2588,
-     "loss": 0.3777,
-     "xg_for": 1.4063,
-     "xg_against": 1.4376
+     "win": 0.3596,
+     "draw": 0.2601,
+     "loss": 0.3803,
+     "xg_for": 1.3859,
+     "xg_against": 1.4318
     },
     {
      "round": "Matchday 11",
      "date": "2026-11-21",
      "opponent": "Arsenal",
      "venue": "Home",
-     "win": 0.2568,
-     "draw": 0.2516,
-     "loss": 0.4916,
-     "xg_for": 1.1342,
-     "xg_against": 1.6569
+     "win": 0.2538,
+     "draw": 0.2524,
+     "loss": 0.4938,
+     "xg_for": 1.1177,
+     "xg_against": 1.6502
     },
     {
      "round": "Matchday 12",
      "date": "2026-11-28",
      "opponent": "Brighton",
      "venue": "Away",
-     "win": 0.2706,
-     "draw": 0.2349,
-     "loss": 0.4945,
-     "xg_for": 1.3158,
-     "xg_against": 1.8421
+     "win": 0.2674,
+     "draw": 0.2356,
+     "loss": 0.497,
+     "xg_for": 1.2967,
+     "xg_against": 1.8347
     },
     {
      "round": "Matchday 13",
      "date": "2026-12-02",
      "opponent": "Man United",
      "venue": "Home",
-     "win": 0.4511,
-     "draw": 0.2403,
-     "loss": 0.3087,
-     "xg_for": 1.7418,
-     "xg_against": 1.4094
+     "win": 0.4463,
+     "draw": 0.242,
+     "loss": 0.3116,
+     "xg_for": 1.7165,
+     "xg_against": 1.4037
     },
     {
      "round": "Matchday 14",
      "date": "2026-12-05",
      "opponent": "Sunderland",
      "venue": "Home",
-     "win": 0.6389,
-     "draw": 0.2045,
-     "loss": 0.1566,
-     "xg_for": 2.1359,
-     "xg_against": 0.9639
+     "win": 0.6336,
+     "draw": 0.2073,
+     "loss": 0.1591,
+     "xg_for": 2.1049,
+     "xg_against": 0.96
     },
     {
      "round": "Matchday 15",
      "date": "2026-12-12",
      "opponent": "Ipswich",
      "venue": "Away",
-     "win": 0.4746,
-     "draw": 0.24,
-     "loss": 0.2853,
-     "xg_for": 1.7685,
-     "xg_against": 1.3287
+     "win": 0.4698,
+     "draw": 0.242,
+     "loss": 0.2883,
+     "xg_for": 1.7428,
+     "xg_against": 1.3233
     },
     {
      "round": "Matchday 16",
      "date": "2026-12-19",
      "opponent": "Brentford",
      "venue": "Away",
-     "win": 0.312,
-     "draw": 0.2434,
-     "loss": 0.4447,
-     "xg_for": 1.3931,
-     "xg_against": 1.7001
+     "win": 0.3083,
+     "draw": 0.2443,
+     "loss": 0.4473,
+     "xg_for": 1.3729,
+     "xg_against": 1.6932
     },
     {
      "round": "Matchday 17",
      "date": "2026-12-26",
      "opponent": "Man City",
      "venue": "Home",
-     "win": 0.2639,
-     "draw": 0.2317,
-     "loss": 0.5043,
-     "xg_for": 1.3148,
-     "xg_against": 1.8843
+     "win": 0.2608,
+     "draw": 0.2324,
+     "loss": 0.5068,
+     "xg_for": 1.2957,
+     "xg_against": 1.8767
     },
     {
      "round": "Matchday 18",
      "date": "2026-12-30",
      "opponent": "Nott'm Forest",
      "venue": "Home",
-     "win": 0.5156,
-     "draw": 0.2424,
-     "loss": 0.2421,
-     "xg_for": 1.7619,
-     "xg_against": 1.1398
+     "win": 0.5106,
+     "draw": 0.2446,
+     "loss": 0.2448,
+     "xg_for": 1.7364,
+     "xg_against": 1.1352
     },
     {
      "round": "Matchday 19",
      "date": "2027-01-03",
      "opponent": "Chelsea",
      "venue": "Away",
-     "win": 0.2841,
-     "draw": 0.2323,
-     "loss": 0.4836,
-     "xg_for": 1.392,
-     "xg_against": 1.8666
+     "win": 0.2807,
+     "draw": 0.2331,
+     "loss": 0.4862,
+     "xg_for": 1.3718,
+     "xg_against": 1.859
     },
     {
      "round": "Matchday 20",
      "date": "2027-01-07",
      "opponent": "Man United",
      "venue": "Away",
-     "win": 0.3049,
-     "draw": 0.2398,
-     "loss": 0.4554,
-     "xg_for": 1.4009,
-     "xg_against": 1.7524
+     "win": 0.3013,
+     "draw": 0.2407,
+     "loss": 0.458,
+     "xg_for": 1.3805,
+     "xg_against": 1.7454
     },
     {
      "round": "Matchday 21",
      "date": "2027-01-16",
      "opponent": "Fulham",
      "venue": "Home",
-     "win": 0.5086,
-     "draw": 0.2435,
-     "loss": 0.2479,
-     "xg_for": 1.7486,
-     "xg_against": 1.1562
+     "win": 0.5036,
+     "draw": 0.2457,
+     "loss": 0.2507,
+     "xg_for": 1.7232,
+     "xg_against": 1.1515
     },
     {
      "round": "Matchday 22",
      "date": "2027-01-23",
      "opponent": "Arsenal",
      "venue": "Away",
-     "win": 0.1542,
-     "draw": 0.2099,
-     "loss": 0.6359,
-     "xg_for": 0.9122,
-     "xg_against": 2.0601
+     "win": 0.1524,
+     "draw": 0.2103,
+     "loss": 0.6374,
+     "xg_for": 0.8989,
+     "xg_against": 2.0518
     },
     {
      "round": "Matchday 23",
      "date": "2027-01-30",
      "opponent": "Brighton",
      "venue": "Home",
-     "win": 0.4111,
-     "draw": 0.2445,
-     "loss": 0.3444,
-     "xg_for": 1.636,
-     "xg_against": 1.4815
+     "win": 0.4066,
+     "draw": 0.246,
+     "loss": 0.3473,
+     "xg_for": 1.6123,
+     "xg_against": 1.4756
     },
     {
      "round": "Matchday 24",
      "date": "2027-02-06",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.3607,
-     "draw": 0.2678,
-     "loss": 0.3715,
-     "xg_for": 1.3288,
-     "xg_against": 1.3522
+     "win": 0.3526,
+     "draw": 0.2704,
+     "loss": 0.3771,
+     "xg_for": 1.2922,
+     "xg_against": 1.3448
     },
     {
      "round": "Matchday 25",
      "date": "2027-02-10",
      "opponent": "Chelsea",
      "venue": "Home",
-     "win": 0.4294,
-     "draw": 0.2386,
-     "loss": 0.332,
-     "xg_for": 1.7307,
-     "xg_against": 1.5012
+     "win": 0.4248,
+     "draw": 0.2402,
+     "loss": 0.335,
+     "xg_for": 1.7056,
+     "xg_against": 1.4952
     },
     {
      "round": "Matchday 26",
      "date": "2027-02-20",
      "opponent": "Man City",
      "venue": "Away",
-     "win": 0.1533,
-     "draw": 0.1895,
-     "loss": 0.6572,
-     "xg_for": 1.0574,
-     "xg_against": 2.3429
+     "win": 0.1514,
+     "draw": 0.1897,
+     "loss": 0.6589,
+     "xg_for": 1.0421,
+     "xg_against": 2.3334
     },
     {
      "round": "Matchday 27",
      "date": "2027-02-27",
      "opponent": "Brentford",
      "venue": "Home",
-     "win": 0.4577,
-     "draw": 0.2419,
-     "loss": 0.3004,
-     "xg_for": 1.7321,
-     "xg_against": 1.3673
+     "win": 0.453,
+     "draw": 0.2437,
+     "loss": 0.3034,
+     "xg_for": 1.707,
+     "xg_against": 1.3618
     },
     {
      "round": "Matchday 28",
      "date": "2027-03-03",
      "opponent": "Nott'm Forest",
      "venue": "Away",
-     "win": 0.3703,
-     "draw": 0.2593,
-     "loss": 0.3704,
-     "xg_for": 1.4171,
-     "xg_against": 1.4172
+     "win": 0.3663,
+     "draw": 0.2607,
+     "loss": 0.373,
+     "xg_for": 1.3965,
+     "xg_against": 1.4115
     },
     {
      "round": "Matchday 29",
      "date": "2027-03-13",
      "opponent": "Bournemouth",
      "venue": "Away",
-     "win": 0.3331,
-     "draw": 0.2455,
-     "loss": 0.4214,
-     "xg_for": 1.4401,
-     "xg_against": 1.6437
+     "win": 0.3293,
+     "draw": 0.2466,
+     "loss": 0.4241,
+     "xg_for": 1.4192,
+     "xg_against": 1.637
     },
     {
      "round": "Matchday 30",
      "date": "2027-03-20",
      "opponent": "Leeds",
      "venue": "Home",
-     "win": 0.6009,
-     "draw": 0.2154,
-     "loss": 0.1837,
-     "xg_for": 2.0486,
-     "xg_against": 1.0491
+     "win": 0.5956,
+     "draw": 0.218,
+     "loss": 0.1863,
+     "xg_for": 2.0189,
+     "xg_against": 1.0449
     },
     {
      "round": "Matchday 31",
      "date": "2027-04-10",
      "opponent": "Liverpool",
      "venue": "Away",
-     "win": 0.2245,
-     "draw": 0.2179,
-     "loss": 0.5576,
-     "xg_for": 1.2506,
-     "xg_against": 2.0619
+     "win": 0.2217,
+     "draw": 0.2184,
+     "loss": 0.5599,
+     "xg_for": 1.2325,
+     "xg_against": 2.0536
     },
     {
      "round": "Matchday 32",
      "date": "2027-04-17",
      "opponent": "Tottenham",
      "venue": "Home",
-     "win": 0.4967,
-     "draw": 0.2329,
-     "loss": 0.2703,
-     "xg_for": 1.8665,
-     "xg_against": 1.3311
+     "win": 0.4917,
+     "draw": 0.235,
+     "loss": 0.2733,
+     "xg_for": 1.8394,
+     "xg_against": 1.3257
     },
     {
      "round": "Matchday 33",
      "date": "2027-04-24",
      "opponent": "Ipswich",
      "venue": "Home",
-     "win": 0.6271,
-     "draw": 0.2024,
-     "loss": 0.1705,
-     "xg_for": 2.1989,
-     "xg_against": 1.0686
+     "win": 0.6217,
+     "draw": 0.2051,
+     "loss": 0.1732,
+     "xg_for": 2.167,
+     "xg_against": 1.0643
     },
     {
      "round": "Matchday 34",
      "date": "2027-05-01",
      "opponent": "Sunderland",
      "venue": "Away",
-     "win": 0.4916,
-     "draw": 0.2457,
-     "loss": 0.2627,
-     "xg_for": 1.7179,
-     "xg_against": 1.1985
+     "win": 0.4867,
+     "draw": 0.2478,
+     "loss": 0.2655,
+     "xg_for": 1.6929,
+     "xg_against": 1.1936
     },
     {
      "round": "Matchday 35",
      "date": "2027-05-08",
      "opponent": "Coventry",
      "venue": "Home",
-     "win": 0.6344,
-     "draw": 0.2033,
-     "loss": 0.1624,
-     "xg_for": 2.1677,
-     "xg_against": 1.0101
+     "win": 0.629,
+     "draw": 0.206,
+     "loss": 0.165,
+     "xg_for": 2.1362,
+     "xg_against": 1.006
     },
     {
      "round": "Matchday 36",
      "date": "2027-05-15",
      "opponent": "Aston Villa",
      "venue": "Away",
-     "win": 0.3169,
-     "draw": 0.2453,
-     "loss": 0.4378,
-     "xg_for": 1.3922,
-     "xg_against": 1.6706
+     "win": 0.3132,
+     "draw": 0.2463,
+     "loss": 0.4405,
+     "xg_for": 1.372,
+     "xg_against": 1.6638
     },
     {
      "round": "Matchday 37",
      "date": "2027-05-23",
      "opponent": "Crystal Palace",
      "venue": "Home",
-     "win": 0.5468,
-     "draw": 0.232,
-     "loss": 0.2212,
-     "xg_for": 1.8786,
-     "xg_against": 1.1218
+     "win": 0.5416,
+     "draw": 0.2344,
+     "loss": 0.224,
+     "xg_for": 1.8514,
+     "xg_against": 1.1172
     },
     {
      "round": "Matchday 38",
      "date": "2027-05-30",
      "opponent": "Hull",
      "venue": "Away",
-     "win": 0.463,
-     "draw": 0.2477,
-     "loss": 0.2892,
-     "xg_for": 1.675,
-     "xg_against": 1.2801
+     "win": 0.4583,
+     "draw": 0.2497,
+     "loss": 0.2921,
+     "xg_for": 1.6507,
+     "xg_against": 1.2749
     }
    ],
    "rating": {
-    "gf": 1.5977,
-    "ga": 1.4479,
-    "sotf": 4.5752,
-    "sota": 4.5794
+    "gf": 1.5737,
+    "ga": 1.4412,
+    "sotf": 4.5366,
+    "sota": 4.5857
    }
   },
   "Nott'm Forest": {
@@ -9765,13 +9789,13 @@
     "goals_against": 12
    },
    "projection": {
-    "points": 42.683,
+    "points": 42.6815,
     "points_low": 32,
     "points_high": 54,
-    "goals_for": 42.7253,
+    "goals_for": 42.6839,
     "goals_for_low": 32,
-    "goals_for_high": 54,
-    "goals_against": 53.6714,
+    "goals_for_high": 53,
+    "goals_against": 53.6219,
     "goals_against_low": 43,
     "goals_against_high": 65,
     "remaining": 29
@@ -10073,11 +10097,11 @@
      "date": "2026-12-19",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.4145,
-     "draw": 0.2859,
-     "loss": 0.2996,
-     "xg_for": 1.2988,
-     "xg_against": 1.0628
+     "win": 0.4101,
+     "draw": 0.2876,
+     "loss": 0.3023,
+     "xg_for": 1.2815,
+     "xg_against": 1.0613
     },
     {
      "round": "Matchday 17",
@@ -10095,11 +10119,11 @@
      "date": "2026-12-30",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.2421,
-     "draw": 0.2424,
-     "loss": 0.5156,
-     "xg_for": 1.1398,
-     "xg_against": 1.7619
+     "win": 0.2448,
+     "draw": 0.2446,
+     "loss": 0.5106,
+     "xg_for": 1.1352,
+     "xg_against": 1.7364
     },
     {
      "round": "Matchday 19",
@@ -10194,22 +10218,22 @@
      "date": "2027-02-27",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.2903,
-     "draw": 0.2847,
-     "loss": 0.425,
-     "xg_for": 1.0446,
-     "xg_against": 1.3215
+     "win": 0.2868,
+     "draw": 0.2854,
+     "loss": 0.4277,
+     "xg_for": 1.0307,
+     "xg_against": 1.3196
     },
     {
      "round": "Matchday 28",
      "date": "2027-03-03",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.3704,
-     "draw": 0.2593,
-     "loss": 0.3703,
-     "xg_for": 1.4172,
-     "xg_against": 1.4171
+     "win": 0.373,
+     "draw": 0.2607,
+     "loss": 0.3663,
+     "xg_for": 1.4115,
+     "xg_against": 1.3965
     },
     {
      "round": "Matchday 29",
@@ -10340,15 +10364,15 @@
     "goals_against": 17
    },
    "projection": {
-    "points": 32.6509,
+    "points": 32.6539,
     "points_low": 23,
-    "points_high": 44,
-    "goals_for": 37.9829,
+    "points_high": 43,
+    "goals_for": 37.9479,
     "goals_for_low": 29,
-    "goals_for_high": 47,
-    "goals_against": 67.4961,
+    "goals_for_high": 48,
+    "goals_against": 67.436,
     "goals_against_low": 55,
-    "goals_against_high": 81,
+    "goals_against_high": 80,
     "remaining": 29
    },
    "progression": [
@@ -10626,11 +10650,11 @@
      "date": "2026-12-05",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.1566,
-     "draw": 0.2045,
-     "loss": 0.6389,
-     "xg_for": 0.9639,
-     "xg_against": 2.1359
+     "win": 0.1591,
+     "draw": 0.2073,
+     "loss": 0.6336,
+     "xg_for": 0.96,
+     "xg_against": 2.1049
     },
     {
      "round": "Matchday 15",
@@ -10659,11 +10683,11 @@
      "date": "2026-12-26",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.203,
-     "draw": 0.2583,
-     "loss": 0.5387,
-     "xg_for": 0.8834,
-     "xg_against": 1.602
+     "win": 0.2004,
+     "draw": 0.2585,
+     "loss": 0.5411,
+     "xg_for": 0.8716,
+     "xg_against": 1.5996
     },
     {
      "round": "Matchday 18",
@@ -10758,11 +10782,11 @@
      "date": "2027-02-20",
      "opponent": "Everton",
      "venue": "Home",
-     "win": 0.3113,
-     "draw": 0.2851,
-     "loss": 0.4036,
-     "xg_for": 1.0983,
-     "xg_against": 1.2884
+     "win": 0.3077,
+     "draw": 0.286,
+     "loss": 0.4064,
+     "xg_for": 1.0838,
+     "xg_against": 1.2865
     },
     {
      "round": "Matchday 27",
@@ -10846,11 +10870,11 @@
      "date": "2027-05-01",
      "opponent": "Newcastle",
      "venue": "Home",
-     "win": 0.2627,
-     "draw": 0.2457,
-     "loss": 0.4916,
-     "xg_for": 1.1985,
-     "xg_against": 1.7179
+     "win": 0.2655,
+     "draw": 0.2478,
+     "loss": 0.4867,
+     "xg_for": 1.1936,
+     "xg_against": 1.6929
     },
     {
      "round": "Matchday 35",
@@ -10915,13 +10939,13 @@
     "goals_against": 10
    },
    "projection": {
-    "points": 51.0821,
+    "points": 51.0824,
     "points_low": 40,
     "points_high": 63,
-    "goals_for": 52.4378,
+    "goals_for": 52.4163,
     "goals_for_low": 41,
     "goals_for_high": 65,
-    "goals_against": 54.1689,
+    "goals_against": 54.1398,
     "goals_against_low": 43,
     "goals_against_high": 67,
     "remaining": 29
@@ -11377,11 +11401,11 @@
      "date": "2027-03-20",
      "opponent": "Everton",
      "venue": "Away",
-     "win": 0.3229,
-     "draw": 0.2702,
-     "loss": 0.4069,
-     "xg_for": 1.2199,
-     "xg_against": 1.3999
+     "win": 0.3191,
+     "draw": 0.2711,
+     "loss": 0.4099,
+     "xg_for": 1.2037,
+     "xg_against": 1.3978
     },
     {
      "round": "Matchday 31",
@@ -11399,11 +11423,11 @@
      "date": "2027-04-17",
      "opponent": "Newcastle",
      "venue": "Away",
-     "win": 0.2703,
-     "draw": 0.2329,
-     "loss": 0.4967,
-     "xg_for": 1.3311,
-     "xg_against": 1.8665
+     "win": 0.2733,
+     "draw": 0.235,
+     "loss": 0.4917,
+     "xg_for": 1.3257,
+     "xg_against": 1.8394
     },
     {
      "round": "Matchday 33",
@@ -11486,221 +11510,221 @@
    "played": 9,
    "points": 24,
    "goal_difference": 9,
-   "projected_points": 82.2147,
+   "projected_points": 82.2144,
    "points_low": 71,
    "points_high": 92,
-   "projected_goals_for": 68.498,
-   "projected_goals_against": 31.3236
+   "projected_goals_for": 68.4629,
+   "projected_goals_against": 31.2927
   },
   {
    "club": "Man City",
    "played": 9,
    "points": 21,
    "goal_difference": 10,
-   "projected_points": 79.7302,
+   "projected_points": 79.7177,
    "points_low": 68,
    "points_high": 90,
-   "projected_goals_for": 80.5271,
-   "projected_goals_against": 40.2255
+   "projected_goals_for": 80.4586,
+   "projected_goals_against": 40.1885
   },
   {
    "club": "Liverpool",
    "played": 9,
    "points": 15,
    "goal_difference": 2,
-   "projected_points": 67.2785,
+   "projected_points": 67.2599,
    "points_low": 55,
    "points_high": 78,
-   "projected_goals_for": 65.8725,
-   "projected_goals_against": 44.2641
+   "projected_goals_for": 65.8189,
+   "projected_goals_against": 44.2429
   },
   {
    "club": "Brighton",
    "played": 9,
    "points": 19,
    "goal_difference": 17,
-   "projected_points": 66.146,
+   "projected_points": 66.1396,
    "points_low": 54,
-   "points_high": 78,
-   "projected_goals_for": 72.5607,
-   "projected_goals_against": 44.368
+   "points_high": 77,
+   "projected_goals_for": 72.5069,
+   "projected_goals_against": 44.3219
   },
   {
    "club": "Chelsea",
    "played": 9,
    "points": 16,
    "goal_difference": 4,
-   "projected_points": 61.5575,
-   "points_low": 49,
+   "projected_points": 61.5637,
+   "points_low": 50,
    "points_high": 73,
-   "projected_goals_for": 67.8169,
-   "projected_goals_against": 55.2313
+   "projected_goals_for": 67.7807,
+   "projected_goals_against": 55.1844
   },
   {
    "club": "Brentford",
    "played": 9,
    "points": 14,
    "goal_difference": 7,
-   "projected_points": 55.5655,
+   "projected_points": 55.5611,
    "points_low": 44,
    "points_high": 67,
-   "projected_goals_for": 59.4727,
-   "projected_goals_against": 50.1582
+   "projected_goals_for": 59.423,
+   "projected_goals_against": 50.1095
   },
   {
    "club": "Aston Villa",
    "played": 9,
    "points": 12,
    "goal_difference": -3,
-   "projected_points": 54.8127,
+   "projected_points": 54.798,
    "points_low": 43,
    "points_high": 66,
-   "projected_goals_for": 54.1765,
-   "projected_goals_against": 52.9422
-  },
-  {
-   "club": "Newcastle",
-   "played": 8,
-   "points": 11,
-   "goal_difference": -2,
-   "projected_points": 54.7084,
-   "points_low": 43,
-   "points_high": 67,
-   "projected_goals_for": 59.6165,
-   "projected_goals_against": 58.1829
+   "projected_goals_for": 54.1331,
+   "projected_goals_against": 52.9186
   },
   {
    "club": "Bournemouth",
    "played": 9,
    "points": 12,
    "goal_difference": 1,
-   "projected_points": 52.8726,
-   "points_low": 42,
+   "projected_points": 52.8711,
+   "points_low": 41,
    "points_high": 64,
-   "projected_goals_for": 56.6461,
-   "projected_goals_against": 54.2599
+   "projected_goals_for": 56.6234,
+   "projected_goals_against": 54.2371
+  },
+  {
+   "club": "Newcastle",
+   "played": 9,
+   "points": 11,
+   "goal_difference": -3,
+   "projected_points": 52.6235,
+   "points_low": 41,
+   "points_high": 64,
+   "projected_goals_for": 57.2797,
+   "projected_goals_against": 57.9198
   },
   {
    "club": "Tottenham",
    "played": 9,
    "points": 12,
    "goal_difference": 0,
-   "projected_points": 51.0821,
+   "projected_points": 51.0824,
    "points_low": 40,
    "points_high": 63,
-   "projected_goals_for": 52.4378,
-   "projected_goals_against": 54.1689
+   "projected_goals_for": 52.4163,
+   "projected_goals_against": 54.1398
+  },
+  {
+   "club": "Everton",
+   "played": 9,
+   "points": 13,
+   "goal_difference": 0,
+   "projected_points": 50.5782,
+   "points_low": 40,
+   "points_high": 62,
+   "projected_goals_for": 44.1357,
+   "projected_goals_against": 47.3383
   },
   {
    "club": "Man United",
    "played": 9,
    "points": 7,
    "goal_difference": -5,
-   "projected_points": 49.9424,
-   "points_low": 38,
+   "projected_points": 49.9491,
+   "points_low": 39,
    "points_high": 61,
-   "projected_goals_for": 55.3627,
-   "projected_goals_against": 55.955
-  },
-  {
-   "club": "Everton",
-   "played": 8,
-   "points": 10,
-   "goal_difference": -1,
-   "projected_points": 48.2757,
-   "points_low": 37,
-   "points_high": 60,
-   "projected_goals_for": 44.2796,
-   "projected_goals_against": 49.5257
+   "projected_goals_for": 55.3287,
+   "projected_goals_against": 55.9079
   },
   {
    "club": "Fulham",
    "played": 9,
    "points": 9,
    "goal_difference": -2,
-   "projected_points": 45.4347,
+   "projected_points": 45.4329,
    "points_low": 35,
    "points_high": 57,
-   "projected_goals_for": 45.6555,
-   "projected_goals_against": 52.9268
+   "projected_goals_for": 45.6135,
+   "projected_goals_against": 52.8775
   },
   {
    "club": "Nott'm Forest",
    "played": 9,
    "points": 6,
    "goal_difference": -6,
-   "projected_points": 42.683,
+   "projected_points": 42.6815,
    "points_low": 32,
    "points_high": 54,
-   "projected_goals_for": 42.7253,
-   "projected_goals_against": 53.6714
+   "projected_goals_for": 42.6839,
+   "projected_goals_against": 53.6219
   },
   {
    "club": "Leeds",
    "played": 9,
    "points": 11,
    "goal_difference": 1,
-   "projected_points": 41.8864,
+   "projected_points": 41.8777,
    "points_low": 31,
    "points_high": 53,
-   "projected_goals_for": 42.845,
-   "projected_goals_against": 56.3345
+   "projected_goals_for": 42.8121,
+   "projected_goals_against": 56.3007
   },
   {
    "club": "Crystal Palace",
    "played": 9,
    "points": 7,
    "goal_difference": -12,
-   "projected_points": 41.6595,
+   "projected_points": 41.6587,
    "points_low": 31,
    "points_high": 53,
-   "projected_goals_for": 45.1781,
-   "projected_goals_against": 65.5453
+   "projected_goals_for": 45.1566,
+   "projected_goals_against": 65.5164
   },
   {
    "club": "Hull",
    "played": 9,
    "points": 11,
    "goal_difference": 1,
-   "projected_points": 39.9343,
+   "projected_points": 39.9365,
    "points_low": 30,
    "points_high": 51,
-   "projected_goals_for": 43.396,
-   "projected_goals_against": 60.1948
+   "projected_goals_for": 43.3783,
+   "projected_goals_against": 60.1682
   },
   {
    "club": "Ipswich",
    "played": 9,
    "points": 11,
    "goal_difference": -4,
-   "projected_points": 39.8493,
+   "projected_points": 39.8599,
    "points_low": 29,
    "points_high": 51,
-   "projected_goals_for": 48.1142,
-   "projected_goals_against": 70.399
+   "projected_goals_for": 48.0884,
+   "projected_goals_against": 70.3395
   },
   {
    "club": "Coventry",
    "played": 9,
    "points": 9,
    "goal_difference": -7,
-   "projected_points": 37.0146,
+   "projected_points": 37.0068,
    "points_low": 27,
    "points_high": 48,
-   "projected_goals_for": 41.2015,
-   "projected_goals_against": 67.1925
+   "projected_goals_for": 41.1699,
+   "projected_goals_against": 67.1567
   },
   {
    "club": "Sunderland",
    "played": 9,
    "points": 5,
    "goal_difference": -10,
-   "projected_points": 32.6509,
+   "projected_points": 32.6539,
    "points_low": 23,
-   "points_high": 44,
-   "projected_goals_for": 37.9829,
-   "projected_goals_against": 67.4961
+   "points_high": 43,
+   "projected_goals_for": 37.9479,
+   "projected_goals_against": 67.436
   }
  ],
- "results_through": "2026-11-01"
+ "results_through": "2026-11-02"
 }
