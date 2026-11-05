@@ -17498,6 +17498,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-13,{{flagg|cxxlo|FRA}} Lille,UEFA Champions League,Bukayo Saka,Bukayo Saka,71,False,False,False,premier-league,2026,Arsenal
 2026-10-21,Bayern Munich {{flagg|cxxlo|GER}},UEFA Champions League,Eberechi Eze,Eberechi Eze,25,False,False,False,premier-league,2026,Arsenal
 2026-10-21,Bayern Munich {{flagg|cxxlo|GER}},UEFA Champions League,Declan Rice,Declan Rice,82,False,False,False,premier-league,2026,Arsenal
+2026-11-04,Slavia Prague {{flagg|cxxlo|CZE}},UEFA Champions League,Noni Madueke,Noni Madueke,9,False,False,False,premier-league,2026,Arsenal
+2026-11-04,Slavia Prague {{flagg|cxxlo|CZE}},UEFA Champions League,Viktor Gyökeres,Viktor Gyökeres,38,False,False,False,premier-league,2026,Arsenal
 2026-09-12,Nott'm Forest,league,"Alysson (footballer, born 2006)",Alysson,74,False,False,True,premier-league,2026,Aston Villa
 2026-09-19,Tottenham,league,Johan Manzambi,Johan Manzambi,45+4,False,False,True,premier-league,2026,Aston Villa
 2026-09-19,Tottenham,league,Nicolas Jackson,Nicolas Jackson,67,False,False,True,premier-league,2026,Aston Villa
@@ -17951,6 +17953,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-20,{{fbaicon|ESP}} Villarreal,UEFA Champions League,Alexis Mac Allister,Alexis Mac Allister,65,False,False,False,premier-league,2026,Liverpool
 2026-10-20,{{fbaicon|ESP}} Villarreal,UEFA Champions League,Ronald Araújo,Ronald Araújo,45+2,False,False,False,premier-league,2026,Liverpool
 2026-10-20,{{fbaicon|ESP}} Villarreal,UEFA Champions League,Florian Wirtz,Florian Wirtz,69,False,False,False,premier-league,2026,Liverpool
+2026-11-04,Fenerbahçe {{fbaicon|TUR}},UEFA Champions League,Trey Nyoni,Trey Nyoni,25,False,False,False,premier-league,2026,Liverpool
+2026-11-04,Fenerbahçe {{fbaicon|TUR}},UEFA Champions League,Alexander Isak,Alexander Isak,69,False,False,False,premier-league,2026,Liverpool
 2026-08-23,Bournemouth,league,Marc Guéhi,Marc Guéhi,84,False,False,True,premier-league,2026,Man City
 2026-08-23,Bournemouth,league,Joško Gvardiol,Joško Gvardiol,90+1,False,False,True,premier-league,2026,Man City
 2026-08-28,Crystal Palace,league,Erling Haaland,Erling Haaland,17,False,False,True,premier-league,2026,Man City
@@ -17994,6 +17998,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-20,{{fbaicon|GRE}} AEK Athens,UEFA Champions League,Phil Foden,Phil Foden,65,False,False,False,premier-league,2026,Man City
 2026-10-20,{{fbaicon|GRE}} AEK Athens,UEFA Champions League,Phil Foden,Phil Foden,76,False,False,False,premier-league,2026,Man City
 2026-10-20,{{fbaicon|GRE}} AEK Athens,UEFA Champions League,Rayan Cherki,Rayan Cherki,57,False,False,False,premier-league,2026,Man City
+2026-11-04,RB Leipzig {{fbaicon|GER}},UEFA Champions League,Castello Lukeba,Castello Lukeba,37,False,True,False,premier-league,2026,Man City
+2026-11-04,RB Leipzig {{fbaicon|GER}},UEFA Champions League,Enzo Fernández,Enzo Fernández,58,False,False,False,premier-league,2026,Man City
+2026-11-04,RB Leipzig {{fbaicon|GER}},UEFA Champions League,Erling Haaland,Erling Haaland,78,False,False,False,premier-league,2026,Man City
 2026-08-23,Liverpool,league,Anthony Elanga,Anthony Elanga,5,False,False,True,premier-league,2026,Newcastle
 2026-08-23,Liverpool,league,Joe Willock,Joe Willock,57,False,False,True,premier-league,2026,Newcastle
 2026-08-29,Tottenham,league,Anthony Elanga,Anthony Elanga,62,False,False,True,premier-league,2026,Newcastle

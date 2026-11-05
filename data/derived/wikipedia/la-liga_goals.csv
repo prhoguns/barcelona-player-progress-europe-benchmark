@@ -16577,6 +16577,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Cucho Hernández,Cucho Hernández,74,False,False,False,la-liga,2026,Betis
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Isco,Isco,84,False,False,False,la-liga,2026,Betis
 2026-10-21,{{flagicon|NED}} Feyenoord,UEFA Champions League,Isco,Isco,59,True,False,False,la-liga,2026,Betis
+2026-11-04,Borussia Dortmund {{fbaicon|GER}},UEFA Champions League,Aitor Ruibal,Aitor Ruibal,67,False,False,False,la-liga,2026,Betis
 2026-08-27,Osasuna,league,Iago Aspas,Iago Aspas,14,False,False,True,la-liga,2026,Celta
 2026-09-07,Getafe,league,Carl Starfelt,Carl Starfelt,57,False,False,True,la-liga,2026,Celta
 2026-09-13,Malaga,league,Ferran Jutglà,Ferran Jutglà,41,False,False,True,la-liga,2026,Celta
@@ -16725,6 +16726,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Arda Güler,Arda Güler,52,False,False,False,la-liga,2026,Real Madrid
 2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,83,False,False,False,la-liga,2026,Real Madrid
 2026-10-21,{{fbaicon|GER}} RB Leipzig,UEFA Champions League,Yan Diomande,Yan Diomande,87,False,False,False,la-liga,2026,Real Madrid
+2026-11-04,AEK Athens {{fbaicon|GRE}},UEFA Champions League,Jude Bellingham,Jude Bellingham,32,False,False,False,la-liga,2026,Real Madrid
+2026-11-04,AEK Athens {{fbaicon|GRE}},UEFA Champions League,Kylian Mbappé,Kylian Mbappé,78,False,False,False,la-liga,2026,Real Madrid
+2026-11-04,AEK Athens {{fbaicon|GRE}},UEFA Champions League,Federico Valverde,Federico Valverde,90+2,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Villarreal,league,Andrés Martín (footballer),Andrés Martín,21,True,False,True,la-liga,2026,Santander
 2026-08-16,Villarreal,league,Sergio Canales,Sergio Canales,34,False,False,True,la-liga,2026,Santander
 2026-08-28,Elche,league,Yassir Zabiri,Yassir Zabiri,15,False,False,True,la-liga,2026,Santander

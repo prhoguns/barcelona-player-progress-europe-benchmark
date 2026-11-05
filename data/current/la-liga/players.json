@@ -871,6 +871,16 @@
      }
     },
     {
+     "player_id": "Troy Parrott",
+     "player": "Troy Parrott",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Rodrigo Riquelme (footballer, born 2000)",
      "player": "Rodrigo Riquelme",
      "goals": 2,
@@ -881,13 +891,13 @@
      }
     },
     {
-     "player_id": "Troy Parrott",
-     "player": "Troy Parrott",
-     "goals": 2,
+     "player_id": "Aitor Ruibal",
+     "player": "Aitor Ruibal",
+     "goals": 1,
      "penalties": 0,
      "by_competition": {
       "UEFA Champions League": 1,
-      "league": 1
+      "league": 0
      }
     },
     {
@@ -2006,20 +2016,20 @@
     {
      "player_id": "Kylian Mbappé",
      "player": "Kylian Mbappé",
-     "goals": 15,
+     "goals": 16,
      "penalties": 3,
      "by_competition": {
-      "UEFA Champions League": 3,
+      "UEFA Champions League": 4,
       "league": 12
      }
     },
     {
      "player_id": "Jude Bellingham",
      "player": "Jude Bellingham",
-     "goals": 4,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 0,
+      "UEFA Champions League": 1,
       "league": 4
      }
     },
@@ -2054,6 +2064,16 @@
      }
     },
     {
+     "player_id": "Federico Valverde",
+     "player": "Federico Valverde",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 2,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Antonio Rüdiger",
      "player": "Antonio Rüdiger",
      "goals": 2,
@@ -2066,16 +2086,6 @@
     {
      "player_id": "Bernardo Silva",
      "player": "Bernardo Silva",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 1,
-      "league": 0
-     }
-    },
-    {
-     "player_id": "Federico Valverde",
-     "player": "Federico Valverde",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
