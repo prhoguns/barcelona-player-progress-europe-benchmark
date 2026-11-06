@@ -1080,6 +1080,16 @@
    "matches_complete": 11,
    "all_competitions": [
     {
+     "player_id": "Pablo Durán",
+     "player": "Pablo Durán",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Europa League": 1,
+      "league": 2
+     }
+    },
+    {
      "player_id": "Javi Rodríguez (footballer)",
      "player": "Javi Rodríguez",
      "goals": 3,
@@ -1087,16 +1097,6 @@
      "by_competition": {
       "UEFA Europa League": 2,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Pablo Durán",
-     "player": "Pablo Durán",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Europa League": 0,
-      "league": 2
      }
     },
     {
@@ -2719,10 +2719,10 @@
     {
      "player_id": "Orri Óskarsson",
      "player": "Orri Óskarsson",
-     "goals": 4,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
-      "UEFA Europa League": 1,
+      "UEFA Europa League": 2,
       "league": 3
      }
     },

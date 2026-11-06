@@ -451,22 +451,33 @@
     {
      "player_id": "Evanilson (footballer, born 1999)",
      "player": "Evanilson",
-     "goals": 5,
+     "goals": 6,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "UEFA Europa League": 1,
+      "UEFA Europa League": 2,
       "league": 4
      }
     },
     {
      "player_id": "Rayan (footballer, born 2006)",
      "player": "Rayan",
-     "goals": 4,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "UEFA Europa League": 2,
+      "UEFA Europa League": 3,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Amine Adli",
+     "player": "Amine Adli",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 1,
       "league": 1
      }
     },
@@ -479,17 +490,6 @@
       "EFL Cup": 3,
       "UEFA Europa League": 0,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Amine Adli",
-     "player": "Amine Adli",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Europa League": 1,
-      "league": 1
      }
     },
     {
@@ -533,6 +533,17 @@
      "by_competition": {
       "EFL Cup": 1,
       "UEFA Europa League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Tyler Adams",
+     "player": "Tyler Adams",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Europa League": 1,
       "league": 0
      }
     }
@@ -897,14 +908,14 @@
      }
     },
     {
-     "player_id": "Pascal Groß",
-     "player": "Pascal Groß",
+     "player_id": "Malick Yalcouyé",
+     "player": "Malick Yalcouyé",
      "goals": 4,
-     "penalties": 1,
+     "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "UEFA Conference League": 0,
-      "league": 3
+      "UEFA Conference League": 1,
+      "league": 2
      }
     },
     {
@@ -919,14 +930,14 @@
      }
     },
     {
-     "player_id": "Malick Yalcouyé",
-     "player": "Malick Yalcouyé",
-     "goals": 3,
-     "penalties": 0,
+     "player_id": "Pascal Groß",
+     "player": "Pascal Groß",
+     "goals": 4,
+     "penalties": 1,
      "by_competition": {
       "EFL Cup": 1,
       "UEFA Conference League": 0,
-      "league": 2
+      "league": 3
      }
     },
     {
@@ -1525,6 +1536,17 @@
      }
     },
     {
+     "player_id": "Daichi Kamada",
+     "player": "Daichi Kamada",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "UEFA Europa League": 2,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Yeremy Pino",
      "player": "Yeremy Pino",
      "goals": 4,
@@ -1532,17 +1554,6 @@
      "by_competition": {
       "EFL Cup": 0,
       "UEFA Europa League": 3,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Daichi Kamada",
-     "player": "Daichi Kamada",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "UEFA Europa League": 1,
       "league": 1
      }
     },
