@@ -1356,17 +1356,8 @@
      "penalties": 1,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 3
-     }
-    },
-    {
-     "player_id": "Victor Torp",
-     "player": "Victor Torp",
-     "goals": 2,
-     "penalties": 1,
-     "by_competition": {
-      "EFL Cup": 2,
-      "league": 0
      }
     },
     {
@@ -1376,7 +1367,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Victor Torp",
+     "player": "Victor Torp",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "EFL Cup": 2,
+      "Premier League": 0,
+      "league": 0
      }
     },
     {
@@ -1386,6 +1389,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1396,17 +1400,8 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Sidiki Cherif",
-     "player": "Sidiki Cherif",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 1
      }
     },
     {
@@ -1416,6 +1411,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1426,6 +1422,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Sidiki Cherif",
+     "player": "Sidiki Cherif",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1436,7 +1444,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Yann Gboho",
+     "player": "Yann Gboho",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 0
      }
     }
    ],
@@ -1721,20 +1741,22 @@
     {
      "player_id": "Thierno Barry (footballer, born 2002)",
      "player": "Thierno Barry",
-     "goals": 8,
+     "goals": 10,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 4,
+      "Premier League": 2,
       "league": 4
      }
     },
     {
      "player_id": "Kiernan Dewsbury-Hall",
      "player": "Kiernan Dewsbury-Hall",
-     "goals": 2,
+     "goals": 3,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 1,
       "league": 2
      }
     },
@@ -1745,6 +1767,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1755,6 +1778,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -1765,6 +1789,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -1775,6 +1800,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -1785,6 +1811,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -1795,6 +1822,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1805,6 +1833,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     }

@@ -17754,6 +17754,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-08,{{fbaicon|ESP}} Espanyol,Pre-season friendlies,Ellis Simms,Ellis Simms,84,False,False,False,premier-league,2026,Coventry
 2026-08-14,{{fbaicon|FRA}} Monaco,Pre-season friendlies,Ellis Simms,Ellis Simms,12,False,False,False,premier-league,2026,Coventry
 2026-08-14,{{fbaicon|FRA}} Monaco,Pre-season friendlies,Loum Tchaouna,Loum Tchaouna,32,False,False,False,premier-league,2026,Coventry
+2026-11-06,Everton,Premier League,Yann Gboho,Yann Gboho,52,False,False,False,premier-league,2026,Coventry
 2026-08-25,Plymouth Argyle,EFL Cup,Taiwo Awoniyi,Taiwo Awoniyi,3,False,False,False,premier-league,2026,Coventry
 2026-08-25,Plymouth Argyle,EFL Cup,Jack Rudoni,Jack Rudoni,5,False,False,False,premier-league,2026,Coventry
 2026-08-25,Plymouth Argyle,EFL Cup,Ephron Mason-Clark,Ephron Mason-Clark,67,False,False,False,premier-league,2026,Coventry
@@ -17814,6 +17815,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-02,Blackburn Rovers,Pre-season and friendlies,Charly Alcaraz,Charly Alcaraz,8,True,False,False,premier-league,2026,Everton
 2026-10-02,Blackburn Rovers,Pre-season and friendlies,"Thierno Barry (footballer, born 2002)",Thierno Barry,45,False,False,False,premier-league,2026,Everton
 2026-10-02,Blackburn Rovers,Pre-season and friendlies,,,90,False,False,False,premier-league,2026,Everton
+2026-11-06,Coventry City,Premier League,"Thierno Barry (footballer, born 2002)",Thierno Barry,56,False,False,False,premier-league,2026,Everton
+2026-11-06,Coventry City,Premier League,"Thierno Barry (footballer, born 2002)",Thierno Barry,61,False,False,False,premier-league,2026,Everton
+2026-11-06,Coventry City,Premier League,Kiernan Dewsbury-Hall,Kiernan Dewsbury-Hall,81,False,False,False,premier-league,2026,Everton
 2026-08-26,Preston North End,EFL Cup,"Thierno Barry (footballer, born 2002)",Thierno Barry,25,False,False,False,premier-league,2026,Everton
 2026-08-26,Preston North End,EFL Cup,"Thierno Barry (footballer, born 2002)",Thierno Barry,59,False,False,False,premier-league,2026,Everton
 2026-08-26,Preston North End,EFL Cup,"Thierno Barry (footballer, born 2002)",Thierno Barry,70,False,False,False,premier-league,2026,Everton
