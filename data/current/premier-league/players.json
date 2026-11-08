@@ -7,6 +7,19 @@
    "matches_complete": 9,
    "all_competitions": [
     {
+     "player_id": "Martin Ødegaard",
+     "player": "Martin Ødegaard",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 1,
+      "Premier League": 1,
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
      "player_id": "Bukayo Saka",
      "player": "Bukayo Saka",
      "goals": 4,
@@ -14,6 +27,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 3
      }
@@ -26,20 +40,9 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 3
-     }
-    },
-    {
-     "player_id": "Martin Ødegaard",
-     "player": "Martin Ødegaard",
-     "goals": 4,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "FA Community Shield": 1,
-      "UEFA Champions League": 1,
-      "league": 2
      }
     },
     {
@@ -50,6 +53,7 @@
      "by_competition": {
       "EFL Cup": 1,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 1
      }
@@ -62,6 +66,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 2,
       "league": 0
      }
@@ -74,6 +79,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 2
      }
@@ -86,6 +92,7 @@
      "by_competition": {
       "EFL Cup": 1,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -98,6 +105,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -110,6 +118,7 @@
      "by_competition": {
       "EFL Cup": 2,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -122,6 +131,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -134,6 +144,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -146,6 +157,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -158,6 +170,7 @@
      "by_competition": {
       "EFL Cup": 0,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -170,6 +183,7 @@
      "by_competition": {
       "EFL Cup": 1,
       "FA Community Shield": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -1905,32 +1919,24 @@
    "matches_complete": 9,
    "all_competitions": [
     {
+     "player_id": "Rodrigo Muniz (Brazilian footballer)",
+     "player": "Rodrigo Muniz",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "Premier League": 1,
+      "league": 0
+     }
+    },
+    {
      "player_id": "César Palacios (footballer, born 2004)",
      "player": "César Palacios",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Gonzalo García (footballer, born 2004)",
-     "player": "Gonzalo García",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Oscar Bobb",
-     "player": "Oscar Bobb",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1941,17 +1947,30 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
     {
-     "player_id": "Rodrigo Muniz (Brazilian footballer)",
-     "player": "Rodrigo Muniz",
+     "player_id": "Gonzalo García (footballer, born 2004)",
+     "player": "Gonzalo García",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 2,
-      "league": 0
+      "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Oscar Bobb",
+     "player": "Oscar Bobb",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 1
      }
     },
     {
@@ -1961,6 +1980,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1971,6 +1991,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -1981,6 +2002,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     }
@@ -2498,6 +2520,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 4
      }
     },
@@ -2508,17 +2531,19 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
     {
-     "player_id": "Brenden Aaronson",
-     "player": "Brenden Aaronson",
-     "goals": 1,
+     "player_id": "Noah Okafor",
+     "player": "Noah Okafor",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 1,
-      "league": 0
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "league": 1
      }
     },
     {
@@ -2528,6 +2553,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2538,6 +2564,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Brenden Aaronson",
+     "player": "Brenden Aaronson",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -2548,16 +2586,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Noah Okafor",
-     "player": "Noah Okafor",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2568,6 +2597,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     }
@@ -2824,6 +2854,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 5,
       "league": 9
      }
@@ -2831,10 +2862,11 @@
     {
      "player_id": "Rayan Cherki",
      "player": "Rayan Cherki",
-     "goals": 6,
+     "goals": 7,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 1,
       "UEFA Champions League": 1,
       "league": 4
      }
@@ -2846,6 +2878,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 3,
       "league": 1
      }
@@ -2857,6 +2890,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 1
      }
@@ -2868,6 +2902,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -2879,6 +2914,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 2
      }
@@ -2890,6 +2926,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -2901,6 +2938,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -2912,6 +2950,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -2923,6 +2962,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -2934,6 +2974,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -2945,6 +2986,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -2956,6 +2998,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -2967,6 +3010,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -3091,6 +3135,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -3101,6 +3146,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Anthony Elanga",
+     "player": "Anthony Elanga",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -3111,17 +3168,8 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Anthony Elanga",
-     "player": "Anthony Elanga",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 2
      }
     },
     {
@@ -3131,6 +3179,18 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Jacob Murphy",
+     "player": "Jacob Murphy",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
       "league": 0
      }
     },
@@ -3141,6 +3201,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3151,6 +3212,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3161,6 +3223,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3171,6 +3234,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3181,6 +3245,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     }
@@ -3291,11 +3356,22 @@
    "matches_complete": 9,
    "all_competitions": [
     {
+     "player_id": "Liam Delap",
+     "player": "Liam Delap",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "Premier League": 2,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Dan Ndoye",
      "player": "Dan Ndoye",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -3305,16 +3381,18 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Premier League": 0,
       "league": 1
      }
     },
     {
-     "player_id": "Liam Delap",
-     "player": "Liam Delap",
+     "player_id": "Jair Cunha",
+     "player": "Jair Cunha",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "league": 1
+      "Premier League": 1,
+      "league": 0
      }
     },
     {
@@ -3323,6 +3401,7 @@
      "goals": 1,
      "penalties": 1,
      "by_competition": {
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -3332,6 +3411,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Premier League": 0,
       "league": 1
      }
     }
