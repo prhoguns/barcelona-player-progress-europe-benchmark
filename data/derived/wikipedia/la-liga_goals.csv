@@ -16466,6 +16466,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-24,La Coruna,league,Julián Alvarez,Julián Alvarez,48,False,False,True,la-liga,2026,Ath Madrid
 2026-10-31,Levante,league,Álex Grimaldo,Álex Grimaldo,36,False,False,True,la-liga,2026,Ath Madrid
 2026-10-31,Levante,league,Giuliano Simeone,Giuliano Simeone,62,False,False,True,la-liga,2026,Ath Madrid
+2026-11-08,Barcelona,league,Giuliano Simeone,Giuliano Simeone,10,False,False,True,la-liga,2026,Ath Madrid
 2026-07-29,Getafe,Pre-season and friendlies,Ademola Lookman,Ademola Lookman,5,False,False,False,la-liga,2026,Ath Madrid
 2026-07-29,Getafe,Pre-season and friendlies,Ademola Lookman,Ademola Lookman,35,False,False,False,la-liga,2026,Ath Madrid
 2026-07-29,Getafe,Pre-season and friendlies,Arnau Ortiz,Arnau Ortiz,56,False,False,False,la-liga,2026,Ath Madrid
@@ -16524,6 +16525,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-31,Alaves,league,Lamine Yamal,Lamine Yamal,45+1,False,False,True,la-liga,2026,Barcelona
 2026-10-31,Alaves,league,Lamine Yamal,Lamine Yamal,64,False,False,True,la-liga,2026,Barcelona
 2026-10-31,Alaves,league,Anthony Gordon (footballer),Anthony Gordon,81,False,False,True,la-liga,2026,Barcelona
+2026-11-08,Ath Madrid,league,Fermín López,Fermín López,45,False,False,True,la-liga,2026,Barcelona
+2026-11-08,Ath Madrid,league,Fermín López,Fermín López,66,False,False,True,la-liga,2026,Barcelona
 2026-07-24,Europa,Pre-season and friendlies,Ibrahim Diarra (footballer),Ibrahim Diarra,13,False,False,False,la-liga,2026,Barcelona
 2026-07-24,Europa,Pre-season and friendlies,Héctor Fort,Héctor Fort,29,False,False,False,la-liga,2026,Barcelona
 2026-07-24,Europa,Pre-season and friendlies,Ebrima Tunkara,Ebrima Tunkara,48,False,False,False,la-liga,2026,Barcelona
@@ -16570,6 +16573,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-17,Barcelona,league,Abde Ezzalzouli,Abde Ezzalzouli,53,False,False,True,la-liga,2026,Betis
 2026-10-31,Malaga,league,Marc Bartra,Marc Bartra,38,False,False,True,la-liga,2026,Betis
 2026-10-31,Malaga,league,Pablo Fornals,Pablo Fornals,45+2,False,False,True,la-liga,2026,Betis
+2026-11-08,Elche,league,"Rodrigo Riquelme (footballer, born 2000)",Rodrigo Riquelme,81,False,False,True,la-liga,2026,Betis
+2026-11-08,Elche,league,Marc Bartra,Marc Bartra,89,False,False,True,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,33,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,49,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Troy Parrott,Troy Parrott,53,False,False,False,la-liga,2026,Betis
@@ -16658,7 +16663,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-18,Sociedad,league,Pablo Martínez (Spanish footballer),Pablo Martínez,66,False,False,True,la-liga,2026,Malaga
 2026-10-23,Alaves,league,Adrián Niño,Adrián Niño,44+1,False,False,True,la-liga,2026,Malaga
 2026-10-31,Betis,league,Adrián Niño,Adrián Niño,68,False,False,True,la-liga,2026,Malaga
-2026-11-07,Racing,La Liga,Carlos Dotor,Carlos Dotor,28,False,False,False,la-liga,2026,Malaga
+2026-11-07,Santander,league,Carlos Dotor,Carlos Dotor,28,False,False,True,la-liga,2026,Malaga
 2026-10-27,Sporting de Alcázar,Copa del Rey,Chupete,Chupete,71,True,False,False,la-liga,2026,Malaga
 2026-10-27,Sporting de Alcázar,Copa del Rey,Chupete,Chupete,80,False,False,False,la-liga,2026,Malaga
 2026-10-27,Sporting de Alcázar,Copa del Rey,Dani Lorenzo,Dani Lorenzo,88,False,False,False,la-liga,2026,Malaga
@@ -16672,7 +16677,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-18,Santander,league,Ante Budimir,Ante Budimir,9,True,False,True,la-liga,2026,Osasuna
 2026-10-18,Santander,league,Asier Osambela,Asier Osambela,88,False,False,True,la-liga,2026,Osasuna
 2026-11-02,La Coruna,league,Ante Budimir,Ante Budimir,32,False,False,True,la-liga,2026,Osasuna
-2026-11-07,Athletic Bilbao,La Liga,Alejandro Catena,Alejandro Catena,90,False,False,False,la-liga,2026,Osasuna
+2026-11-07,Ath Bilbao,league,Alejandro Catena,Alejandro Catena,90,False,False,True,la-liga,2026,Osasuna
 2026-10-29,Atlético Calatayud,Copa del Rey,"Raúl García (footballer, born 2000)",Raúl García,13,False,False,False,la-liga,2026,Osasuna
 2026-10-29,Atlético Calatayud,Copa del Rey,"Raúl García (footballer, born 2000)",Raúl García,39,False,False,False,la-liga,2026,Osasuna
 2026-10-29,Atlético Calatayud,Copa del Rey,"Raúl García (footballer, born 2000)",Raúl García,59,False,False,False,la-liga,2026,Osasuna
@@ -16707,6 +16712,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-11-01,Santander,league,Kylian Mbappé,Kylian Mbappé,11,True,False,True,la-liga,2026,Real Madrid
 2026-11-01,Santander,league,Jude Bellingham,Jude Bellingham,21,False,False,True,la-liga,2026,Real Madrid
 2026-11-01,Santander,league,Yan Diomande,Yan Diomande,36,False,False,True,la-liga,2026,Real Madrid
+2026-11-07,Valencia,league,Federico Valverde,Federico Valverde,28,False,False,True,la-liga,2026,Real Madrid
+2026-11-07,Valencia,league,Arda Güler,Arda Güler,36,False,False,True,la-liga,2026,Real Madrid
+2026-11-07,Valencia,league,Kylian Mbappé,Kylian Mbappé,75,False,False,True,la-liga,2026,Real Madrid
 2026-07-24,Alcorcón,Pre-season and friendlies,Daniel Yáñez,Daniel Yáñez,81,True,False,False,la-liga,2026,Real Madrid
 2026-07-28,Leganés,Pre-season and friendlies,Federico Valverde,Federico Valverde,21,False,False,False,la-liga,2026,Real Madrid
 2026-07-28,Leganés,Pre-season and friendlies,"Gonzalo García (footballer, born 2004)",Gonzalo García,25,False,False,False,la-liga,2026,Real Madrid
@@ -16720,9 +16728,6 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Kylian Mbappé,Kylian Mbappé,6,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Dean Huijsen,Dean Huijsen,20,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Carlos Espí,Carlos Espí,57,False,False,False,la-liga,2026,Real Madrid
-2026-11-07,Valencia,La Liga,Federico Valverde,Federico Valverde,28,False,False,False,la-liga,2026,Real Madrid
-2026-11-07,Valencia,La Liga,Arda Güler,Arda Güler,36,False,False,False,la-liga,2026,Real Madrid
-2026-11-07,Valencia,La Liga,Kylian Mbappé,Kylian Mbappé,75,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,14,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Federico Valverde,Federico Valverde,23,False,False,False,la-liga,2026,Real Madrid
 2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Kylian Mbappé,Kylian Mbappé,25,False,False,False,la-liga,2026,Real Madrid
@@ -16751,8 +16756,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-11,Valencia,league,"Iván Martín (footballer, born 1999)",Iván Martín,47,False,False,True,la-liga,2026,Santander
 2026-10-24,Espanol,league,Jeanuël Belocian,Jeanuël Belocian,69,False,False,True,la-liga,2026,Santander
 2026-10-24,Espanol,league,Yassir Zabiri,Yassir Zabiri,84,False,False,True,la-liga,2026,Santander
-2026-11-07,Málaga CF,La Liga,Iker Luque,Iker Luque,50,False,False,False,la-liga,2026,Santander
-2026-11-07,Málaga CF,La Liga,Yassir Zabiri,Yassir Zabiri,60,False,False,False,la-liga,2026,Santander
+2026-11-07,Malaga,league,Iker Luque,Iker Luque,50,False,False,True,la-liga,2026,Santander
+2026-11-07,Malaga,league,Yassir Zabiri,Yassir Zabiri,60,False,False,True,la-liga,2026,Santander
 2026-10-29,Ribadesella,Copa del Rey,Asier Villalibre,Asier Villalibre,48,False,False,False,la-liga,2026,Santander
 2026-10-29,Ribadesella,Copa del Rey,Asier Villalibre,Asier Villalibre,63,False,False,False,la-liga,2026,Santander
 2026-08-15,Vallecano,league,Jon Guridi,Jon Guridi,52,True,False,True,la-liga,2026,Sevilla
@@ -16852,6 +16857,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-20,Levante,league,Georges Mikautadze,Georges Mikautadze,86,False,False,True,la-liga,2026,Villarreal
 2026-10-24,Valencia,league,Alex Freeman,Alex Freeman,69,False,False,True,la-liga,2026,Villarreal
 2026-10-24,Valencia,league,Georges Mikautadze,Georges Mikautadze,90+6,False,False,True,la-liga,2026,Villarreal
+2026-11-08,Getafe,league,Tajon Buchanan,Tajon Buchanan,80,False,False,True,la-liga,2026,Villarreal
+2026-11-08,Getafe,league,"Carlos Romero (footballer, born 2001)",Carlos Romero,90+1,False,False,True,la-liga,2026,Villarreal
 2026-07-29,Como,Pre-season,Alberto Moleiro,Alberto Moleiro,30,False,False,False,la-liga,2026,Villarreal
 2026-08-08,Galatasaray,Pre-season,Ayoze Pérez,Ayoze Pérez,3,True,False,False,la-liga,2026,Villarreal
 2026-08-08,Galatasaray,Pre-season,Georges Mikautadze,Georges Mikautadze,41,False,False,False,la-liga,2026,Villarreal
