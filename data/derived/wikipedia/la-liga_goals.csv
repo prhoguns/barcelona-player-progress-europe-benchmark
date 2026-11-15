@@ -16655,6 +16655,17 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-29,Betis,league,Roger Brugué,Roger Brugué,56,False,False,True,la-liga,2026,Levante
 2026-08-29,Betis,league,Roger Brugué,Roger Brugué,70,False,False,True,la-liga,2026,Levante
 2026-08-29,Betis,league,Jon Ander Olasagasti,Jon Ander Olasagasti,90+5,False,False,True,la-liga,2026,Levante
+2026-09-13,Barcelona,league,"Iván Romero (footballer, born 2001)",Iván Romero,79,False,False,True,la-liga,2026,Levante
+2026-09-13,Barcelona,league,Roger Brugué,Roger Brugué,88,False,False,True,la-liga,2026,Levante
+2026-09-20,Villarreal,league,"Iván Romero (footballer, born 2001)",Iván Romero,42,False,False,True,la-liga,2026,Levante
+2026-10-12,Sevilla,league,"Iván Romero (footballer, born 2001)",Iván Romero,57,False,False,True,la-liga,2026,Levante
+2026-10-12,Sevilla,league,Adrián de la Fuente,Adrián de la Fuente,90+2,False,False,True,la-liga,2026,Levante
+2026-10-12,Sevilla,league,Ifeanyi Ndukwe,Ifeanyi Ndukwe,90+10,False,False,True,la-liga,2026,Levante
+2026-10-16,La Coruna,league,Dani Requena,Dani Requena,82,False,False,True,la-liga,2026,Levante
+2026-10-21,Ath Bilbao,league,Roger Brugué,Roger Brugué,20,False,False,True,la-liga,2026,Levante
+2026-10-21,Ath Bilbao,league,Roger Brugué,Roger Brugué,22,False,False,True,la-liga,2026,Levante
+2026-10-21,Ath Bilbao,league,Karl Etta Eyong,Karl Etta Eyong,90+8,False,False,True,la-liga,2026,Levante
+2026-10-25,Sociedad,league,Nacho Pérez,Nacho Pérez,22,False,False,True,la-liga,2026,Levante
 2026-08-24,La Coruna,league,Chupete,Chupete,34,True,False,True,la-liga,2026,Malaga
 2026-09-13,Celta,league,Adrián Niño,Adrián Niño,83,False,False,True,la-liga,2026,Malaga
 2026-09-17,Villarreal,league,Carlos Dotor,Carlos Dotor,12,False,False,True,la-liga,2026,Malaga
@@ -16672,6 +16683,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-31,Getafe,league,Ante Budimir,Ante Budimir,45+2,True,False,True,la-liga,2026,Osasuna
 2026-09-06,Alaves,league,Ante Budimir,Ante Budimir,46,False,False,True,la-liga,2026,Osasuna
 2026-09-06,Alaves,league,Ante Budimir,Ante Budimir,64,True,False,True,la-liga,2026,Osasuna
+2026-09-19,Vallecano,league,Ante Budimir,Ante Budimir,16,False,False,True,la-liga,2026,Osasuna
 2026-10-11,Betis,league,Ante Budimir,Ante Budimir,51,False,False,True,la-liga,2026,Osasuna
 2026-10-11,Betis,league,"Raúl García (footballer, born 2000)",Raúl García,56,False,False,True,la-liga,2026,Osasuna
 2026-10-18,Santander,league,Ante Budimir,Ante Budimir,9,True,False,True,la-liga,2026,Osasuna

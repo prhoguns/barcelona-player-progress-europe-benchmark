@@ -9610,14 +9610,14 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-08-24,Osasuna,Away,0,True,True,la-liga,2026,Levante
 2026-08-29,Betis,Home,5,True,True,la-liga,2026,Levante
 2026-09-06,Malaga,Away,0,True,True,la-liga,2026,Levante
-2026-09-13,Barcelona,Home,2,False,False,la-liga,2026,Levante
-2026-09-20,Villarreal,Away,1,False,False,la-liga,2026,Levante
-2026-10-12,Sevilla,Home,3,False,False,la-liga,2026,Levante
-2026-10-16,La Coruna,Away,1,False,False,la-liga,2026,Levante
-2026-10-21,Ath Bilbao,Home,3,False,False,la-liga,2026,Levante
-2026-10-25,Sociedad,Away,1,False,False,la-liga,2026,Levante
-2026-10-31,Ath Madrid,Home,0,False,False,la-liga,2026,Levante
-2026-11-08,Celta,Away,0,False,False,la-liga,2026,Levante
+2026-09-13,Barcelona,Home,2,True,True,la-liga,2026,Levante
+2026-09-20,Villarreal,Away,1,True,True,la-liga,2026,Levante
+2026-10-12,Sevilla,Home,3,True,True,la-liga,2026,Levante
+2026-10-16,La Coruna,Away,1,True,True,la-liga,2026,Levante
+2026-10-21,Ath Bilbao,Home,3,True,True,la-liga,2026,Levante
+2026-10-25,Sociedad,Away,1,True,True,la-liga,2026,Levante
+2026-10-31,Ath Madrid,Home,0,True,True,la-liga,2026,Levante
+2026-11-08,Celta,Away,0,True,True,la-liga,2026,Levante
 2026-08-19,Ath Madrid,Away,0,True,True,la-liga,2026,Malaga
 2026-08-24,La Coruna,Home,1,True,True,la-liga,2026,Malaga
 2026-08-30,Real Madrid,Away,0,True,True,la-liga,2026,Malaga
@@ -9636,7 +9636,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-09-06,Alaves,Away,2,True,True,la-liga,2026,Osasuna
 2026-09-12,Espanol,Home,0,True,True,la-liga,2026,Osasuna
 2026-09-16,Ath Madrid,Away,0,True,True,la-liga,2026,Osasuna
-2026-09-19,Vallecano,Home,1,True,False,la-liga,2026,Osasuna
+2026-09-19,Vallecano,Home,1,True,True,la-liga,2026,Osasuna
 2026-10-11,Betis,Away,2,True,True,la-liga,2026,Osasuna
 2026-10-18,Santander,Home,2,True,True,la-liga,2026,Osasuna
 2026-10-26,Sevilla,Away,0,True,True,la-liga,2026,Osasuna

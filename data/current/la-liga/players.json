@@ -1629,11 +1629,29 @@
   "Levante": {
    "page": "2026–27 Levante UD season",
    "matches_checked": 12,
-   "matches_complete": 4,
+   "matches_complete": 12,
    "all_competitions": [
     {
      "player_id": "Roger Brugué",
      "player": "Roger Brugué",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "league": 5
+     }
+    },
+    {
+     "player_id": "Iván Romero (footballer, born 2001)",
+     "player": "Iván Romero",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Adrián de la Fuente",
+     "player": "Adrián de la Fuente",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -1641,8 +1659,8 @@
      }
     },
     {
-     "player_id": "Adrián de la Fuente",
-     "player": "Adrián de la Fuente",
+     "player_id": "Enzo Bardeli",
+     "player": "Enzo Bardeli",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -1650,8 +1668,17 @@
      }
     },
     {
-     "player_id": "Enzo Bardeli",
-     "player": "Enzo Bardeli",
+     "player_id": "Dani Requena",
+     "player": "Dani Requena",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Ifeanyi Ndukwe",
+     "player": "Ifeanyi Ndukwe",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -1666,6 +1693,24 @@
      "by_competition": {
       "league": 1
      }
+    },
+    {
+     "player_id": "Karl Etta Eyong",
+     "player": "Karl Etta Eyong",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Nacho Pérez",
+     "player": "Nacho Pérez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "league": 1
+     }
     }
    ],
    "league_goal_minutes": [
@@ -1673,9 +1718,104 @@
     45,
     56,
     70,
-    90
+    90,
+    79,
+    88,
+    42,
+    57,
+    90,
+    90,
+    82,
+    20,
+    22,
+    90,
+    22
    ],
-   "status": "Wikipedia scorers add up for 4 of 12 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Roger Brugué",
+     "player": "Roger Brugué",
+     "goals": 5,
+     "previous_share": null,
+     "projected": 8.8981,
+     "low": 5.0,
+     "high": 14.0
+    },
+    {
+     "player_id": "Iván Romero (footballer, born 2001)",
+     "player": "Iván Romero",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 5.3389,
+     "low": 3.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Adrián de la Fuente",
+     "player": "Adrián de la Fuente",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.5592,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Enzo Bardeli",
+     "player": "Enzo Bardeli",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7796,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Dani Requena",
+     "player": "Dani Requena",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7796,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Ifeanyi Ndukwe",
+     "player": "Ifeanyi Ndukwe",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7796,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Jon Ander Olasagasti",
+     "player": "Jon Ander Olasagasti",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7796,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Karl Etta Eyong",
+     "player": "Karl Etta Eyong",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7796,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Nacho Pérez",
+     "player": "Nacho Pérez",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7796,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 18.7108
   },
   "Malaga": {
    "page": "2026–27 Málaga CF season",
@@ -1788,16 +1928,16 @@
   "Osasuna": {
    "page": "2026–27 CA Osasuna season",
    "matches_checked": 12,
-   "matches_complete": 11,
+   "matches_complete": 12,
    "all_competitions": [
     {
      "player_id": "Ante Budimir",
      "player": "Ante Budimir",
-     "goals": 7,
+     "goals": 8,
      "penalties": 4,
      "by_competition": {
       "Copa del Rey": 0,
-      "league": 7
+      "league": 8
      }
     },
     {
@@ -1867,6 +2007,7 @@
     45,
     46,
     64,
+    16,
     51,
     56,
     9,
@@ -1874,7 +2015,55 @@
     32,
     90
    ],
-   "status": "Wikipedia scorers add up for 11 of 12 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Ante Budimir",
+     "player": "Ante Budimir",
+     "goals": 8,
+     "previous_share": null,
+     "projected": 14.7407,
+     "low": 9.0,
+     "high": 23.0
+    },
+    {
+     "player_id": "Alejandro Catena",
+     "player": "Alejandro Catena",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8426,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Asier Osambela",
+     "player": "Asier Osambela",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8426,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Kike Barja",
+     "player": "Kike Barja",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8426,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Raúl García (footballer, born 2000)",
+     "player": "Raúl García",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8426,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 20.2222
   },
   "Real Madrid": {
    "page": "2026–27 Real Madrid CF season",
