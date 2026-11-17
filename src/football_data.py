@@ -12,6 +12,8 @@ from pathlib import Path
 
 import pandas as pd
 import requests
+from requests.adapters import HTTPAdapter
+from urllib3.util.retry import Retry
 
 ROOT = Path(__file__).resolve().parents[1]
 CACHE = ROOT / "data" / "cache" / "football_data"
@@ -57,12 +59,20 @@ def parse_season(text: str, start_year: int) -> pd.DataFrame:
     return frame.sort_values(["date", "home"]).reset_index(drop=True)
 
 
+def get_with_retry(url: str, timeout: int = 60, **kwargs) -> requests.Response:
+    """GET with retries and backoff; football-data.co.uk times out now and then."""
+    retry = Retry(total=5, connect=5, read=5, backoff_factor=3, status_forcelist=(429, 500, 502, 503, 504))
+    with requests.Session() as session:
+        session.mount("https://", HTTPAdapter(max_retries=retry))
+        return session.get(url, timeout=timeout, **kwargs)
+
+
 def load_season(league: str, start_year: int, refresh: bool = False) -> pd.DataFrame:
     """Return one season, downloading it when missing or when refresh is requested."""
     CACHE.mkdir(parents=True, exist_ok=True)
     path = CACHE / f"{league}_{season_code(start_year)}.csv"
     if refresh or not path.exists():
-        response = requests.get(URL.format(code=season_code(start_year), league=league), timeout=30)
+        response = get_with_retry(URL.format(code=season_code(start_year), league=league))
         response.raise_for_status()
         path.write_bytes(response.content)
     return parse_season(path.read_bytes().decode("utf-8-sig", errors="replace"), start_year)
