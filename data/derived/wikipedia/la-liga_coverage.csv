@@ -9569,7 +9569,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-18,Alaves,Home,2,True,True,la-liga,2026,Celta
 2026-10-25,Betis,Home,0,True,True,la-liga,2026,Celta
 2026-10-31,Vallecano,Away,0,True,True,la-liga,2026,Celta
-2026-11-08,Levante,Home,0,False,False,la-liga,2026,Celta
+2026-11-08,Levante,Home,0,True,True,la-liga,2026,Celta
 2026-08-17,La Coruna,Away,1,True,True,la-liga,2026,Elche
 2026-08-23,Barcelona,Home,0,True,True,la-liga,2026,Elche
 2026-08-28,Santander,Away,2,True,True,la-liga,2026,Elche

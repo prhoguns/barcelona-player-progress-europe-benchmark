@@ -1007,7 +1007,7 @@
   "Celta": {
    "page": "2026–27 RC Celta de Vigo season",
    "matches_checked": 12,
-   "matches_complete": 11,
+   "matches_complete": 12,
    "all_competitions": [
     {
      "player_id": "Pablo Durán",
@@ -1112,7 +1112,82 @@
     53,
     71
    ],
-   "status": "Wikipedia scorers add up for 11 of 12 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Ferran Jutglà",
+     "player": "Ferran Jutglà",
+     "goals": 2,
+     "previous_share": 0.1509,
+     "projected": 5.6619,
+     "low": 2.0,
+     "high": 10.0
+    },
+    {
+     "player_id": "Pablo Durán",
+     "player": "Pablo Durán",
+     "goals": 2,
+     "previous_share": 0.0377,
+     "projected": 4.3566,
+     "low": 2.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Iago Aspas",
+     "player": "Iago Aspas",
+     "goals": 1,
+     "previous_share": 0.0943,
+     "projected": 3.0485,
+     "low": 1.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Ilaix Moriba",
+     "player": "Ilaix Moriba",
+     "goals": 1,
+     "previous_share": 0.0377,
+     "projected": 2.3959,
+     "low": 1.0,
+     "high": 5.0
+    },
+    {
+     "player_id": "Miguel Román (footballer)",
+     "player": "Miguel Román",
+     "goals": 1,
+     "previous_share": 0.0189,
+     "projected": 2.1783,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Carl Starfelt",
+     "player": "Carl Starfelt",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9608,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Hugo González (Spanish footballer)",
+     "player": "Hugo González",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9608,
+     "low": 1.0,
+     "high": 4.0
+    },
+    {
+     "player_id": "Javi Rodríguez (footballer)",
+     "player": "Javi Rodríguez",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9608,
+     "low": 1.0,
+     "high": 4.0
+    }
+   ],
+   "unassigned_remaining": 19.1432
   },
   "Elche": {
    "page": "2026–27 Elche CF season",
