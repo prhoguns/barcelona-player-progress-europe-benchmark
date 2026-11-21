@@ -1940,10 +1940,11 @@
     {
      "player_id": "Rodrigo Muniz (Brazilian footballer)",
      "player": "Rodrigo Muniz",
-     "goals": 3,
+     "goals": 4,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 2,
+      "Premier League": 1,
       "league": 1
      }
     },
@@ -1954,6 +1955,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1964,6 +1966,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 2
      }
     },
@@ -1974,6 +1977,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1984,6 +1988,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -1994,6 +1999,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     },
@@ -2004,6 +2010,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "league": 0
      }
     },
@@ -2014,6 +2021,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "league": 1
      }
     }
@@ -2890,6 +2898,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 5,
       "league": 9
      }
@@ -2901,6 +2910,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 5
      }
@@ -2912,8 +2922,21 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 3,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Elliot Anderson",
+     "player": "Elliot Anderson",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "Premier League": 1,
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {
@@ -2923,19 +2946,9 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 1,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Floyd Samba",
-     "player": "Floyd Samba",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "UEFA Champions League": 0,
-      "league": 0
      }
     },
     {
@@ -2945,18 +2958,20 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 2
      }
     },
     {
-     "player_id": "Elliot Anderson",
-     "player": "Elliot Anderson",
-     "goals": 1,
+     "player_id": "Floyd Samba",
+     "player": "Floyd Samba",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 0,
-      "UEFA Champions League": 1,
+      "EFL Cup": 2,
+      "Premier League": 0,
+      "UEFA Champions League": 0,
       "league": 0
      }
     },
@@ -2967,6 +2982,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -2978,6 +2994,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -2989,6 +3006,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -3000,6 +3018,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -3011,6 +3030,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 0,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -3022,6 +3042,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
@@ -3033,6 +3054,7 @@
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
+      "Premier League": 0,
       "UEFA Champions League": 0,
       "league": 0
      }
