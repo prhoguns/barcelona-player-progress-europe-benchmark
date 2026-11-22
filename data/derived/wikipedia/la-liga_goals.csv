@@ -16444,6 +16444,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-25,Getafe,league,Yuri Berchiche,Yuri Berchiche,88,False,False,True,la-liga,2026,Ath Bilbao
 2026-11-01,Sociedad,league,Iñaki Williams,Iñaki Williams,14,False,False,True,la-liga,2026,Ath Bilbao
 2026-11-01,Sociedad,league,Álex Berenguer,Álex Berenguer,45+2,True,False,True,la-liga,2026,Ath Bilbao
+2026-11-07,Osasuna,league,Nico Williams,Nico Williams,84,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-19,Malaga,league,Lee Kang-in,Lee Kang-in,70,False,False,True,la-liga,2026,Ath Madrid
 2026-08-19,Malaga,league,Álex Baena,Álex Baena,85,False,False,True,la-liga,2026,Ath Madrid
 2026-08-23,Villarreal,league,Marc Pubill,Marc Pubill,59,False,False,True,la-liga,2026,Ath Madrid
@@ -16575,6 +16576,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-31,Malaga,league,Pablo Fornals,Pablo Fornals,45+2,False,False,True,la-liga,2026,Betis
 2026-11-08,Elche,league,"Rodrigo Riquelme (footballer, born 2000)",Rodrigo Riquelme,81,False,False,True,la-liga,2026,Betis
 2026-11-08,Elche,league,Marc Bartra,Marc Bartra,89,False,False,True,la-liga,2026,Betis
+2026-11-22,Sevilla,La Liga,"Antony (footballer, born 2000)",Antony,50,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,33,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Marc Bartra,Marc Bartra,49,False,False,False,la-liga,2026,Betis
 2026-09-08,Lille {{fbaicon|FRA}},UEFA Champions League,Troy Parrott,Troy Parrott,53,False,False,False,la-liga,2026,Betis
@@ -16593,6 +16595,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-09-19,Santander,league,Pablo Durán,Pablo Durán,90+2,False,False,True,la-liga,2026,Celta
 2026-10-18,Alaves,league,Ferran Jutglà,Ferran Jutglà,53,False,False,True,la-liga,2026,Celta
 2026-10-18,Alaves,league,Javi Rodríguez (footballer),Javi Rodríguez,71,False,False,True,la-liga,2026,Celta
+2026-11-21,Real Madrid,La Liga,Pablo Durán,Pablo Durán,6,False,False,False,la-liga,2026,Celta
 2026-10-15,{{fbaicon|ITA}} Juventus,UEFA Europa League,"Hugo Álvarez (footballer, born 2003)",Hugo Álvarez,18,False,False,False,la-liga,2026,Celta
 2026-10-22,Celtic {{fbaicon|SCO}},UEFA Europa League,Javi Rodríguez (footballer),Javi Rodríguez,68,False,False,False,la-liga,2026,Celta
 2026-10-22,Celtic {{fbaicon|SCO}},UEFA Europa League,Javi Rodríguez (footballer),Javi Rodríguez,71,False,False,False,la-liga,2026,Celta
@@ -16633,6 +16636,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-09,Malaga,league,Bryan Zaragoza,Bryan Zaragoza,13,False,False,True,la-liga,2026,Espanol
 2026-10-24,Santander,league,Edu Expósito,Edu Expósito,62,False,False,True,la-liga,2026,Espanol
 2026-10-30,Villarreal,league,Leandro Cabrera,Leandro Cabrera,60,False,False,True,la-liga,2026,Espanol
+2026-11-20,Athletic Bilbao,La Liga,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,66,False,False,False,la-liga,2026,Espanol
 2026-10-27,Sestao River,Copa del Rey,"Marcos Fernández (footballer, born May 2003)",Marcos Fernández,6,True,False,False,la-liga,2026,Espanol
 2026-10-27,Sestao River,Copa del Rey,"Roberto Fernández (footballer, born 2002)",Roberto Fernández,90,True,False,False,la-liga,2026,Espanol
 2026-10-27,Sestao River,Copa del Rey,Gabriel Moscardo,Gabriel Moscardo,96,False,False,False,la-liga,2026,Espanol
@@ -16740,6 +16744,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Kylian Mbappé,Kylian Mbappé,6,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Dean Huijsen,Dean Huijsen,20,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Schalke 04 {{fbaicon|GER}},Pre-season and friendlies,Carlos Espí,Carlos Espí,57,False,False,False,la-liga,2026,Real Madrid
+2026-11-21,Celta Vigo,La Liga,Jude Bellingham,Jude Bellingham,66,False,False,False,la-liga,2026,Real Madrid
+2026-11-21,Celta Vigo,La Liga,Carlos Espí,Carlos Espí,85,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,14,False,False,False,la-liga,2026,Real Madrid
 2026-09-08,{{fbaicon|ITA}} Inter Milan,UEFA Champions League,Federico Valverde,Federico Valverde,23,False,False,False,la-liga,2026,Real Madrid
 2026-10-14,Roma {{fbaicon|ITA}},UEFA Champions League,Kylian Mbappé,Kylian Mbappé,25,False,False,False,la-liga,2026,Real Madrid
@@ -16797,6 +16803,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-08-02,Utrecht {{fbaicon|NED}},Pre-season,Gerard Fernández,Gerard Fernández,28,False,False,False,la-liga,2026,Sevilla
 2026-08-08,Bayer Leverkusen {{fbaicon|GER}},Pre-season,Miguel Sierra (footballer),Miguel Sierra,16,False,False,False,la-liga,2026,Sevilla
 2026-10-02,{{fbaicon|ENG}} Aston Villa,Mid-season,Isaac Romero,Isaac Romero,53,False,False,False,la-liga,2026,Sevilla
+2026-11-21,Real Betis,La Liga,Kike Salas,Kike Salas,90+1,False,False,False,la-liga,2026,Sevilla
 2026-10-29,Sporting Hortaleza,Copa del Rey,Robbie Ure,Robbie Ure,24,False,False,False,la-liga,2026,Sevilla
 2026-10-29,Sporting Hortaleza,Copa del Rey,Gerard Fernández,Gerard Fernández,40,True,False,False,la-liga,2026,Sevilla
 2026-10-29,Sporting Hortaleza,Copa del Rey,Rubén Vargas,Rubén Vargas,56,False,False,False,la-liga,2026,Sevilla

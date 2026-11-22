@@ -108,7 +108,7 @@
   "Ath Bilbao": {
    "page": "2026–27 Athletic Bilbao season",
    "matches_checked": 11,
-   "matches_complete": 10,
+   "matches_complete": 11,
    "all_competitions": [
     {
      "player_id": "Álex Berenguer",
@@ -129,8 +129,8 @@
      }
     },
     {
-     "player_id": "Robert Navarro (footballer)",
-     "player": "Robert Navarro",
+     "player_id": "Nico Williams",
+     "player": "Nico Williams",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -147,17 +147,17 @@
      }
     },
     {
-     "player_id": "Oihan Sancet",
-     "player": "Oihan Sancet",
-     "goals": 1,
+     "player_id": "Robert Navarro (footballer)",
+     "player": "Robert Navarro",
+     "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "league": 1
+      "league": 2
      }
     },
     {
-     "player_id": "Nico Williams",
-     "player": "Nico Williams",
+     "player_id": "Oihan Sancet",
+     "player": "Oihan Sancet",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
@@ -197,9 +197,85 @@
     70,
     88,
     14,
-    45
+    45,
+    84
    ],
-   "status": "Wikipedia scorers add up for 10 of 11 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Álex Berenguer",
+     "player": "Álex Berenguer",
+     "goals": 4,
+     "previous_share": null,
+     "projected": 7.6408,
+     "low": 4.0,
+     "high": 12.0
+    },
+    {
+     "player_id": "Aitor Paredes",
+     "player": "Aitor Paredes",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.8204,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Nico Williams",
+     "player": "Nico Williams",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.8204,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Iñaki Williams",
+     "player": "Iñaki Williams",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.8204,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Robert Navarro (footballer)",
+     "player": "Robert Navarro",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.8204,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Oihan Sancet",
+     "player": "Oihan Sancet",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9102,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Víctor Chust",
+     "player": "Víctor Chust",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9102,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Yuri Berchiche",
+     "player": "Yuri Berchiche",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.9102,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 21.845
   },
   "Ath Madrid": {
    "page": "2026–27 Atlético Madrid season",
@@ -764,17 +840,8 @@
      "goals": 5,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 2,
-      "league": 3
-     }
-    },
-    {
-     "player_id": "Abde Ezzalzouli",
-     "player": "Abde Ezzalzouli",
-     "goals": 4,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 1,
       "league": 3
      }
     },
@@ -784,18 +851,20 @@
      "goals": 4,
      "penalties": 2,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 2,
       "league": 2
      }
     },
     {
-     "player_id": "Cucho Hernández",
-     "player": "Cucho Hernández",
-     "goals": 3,
+     "player_id": "Abde Ezzalzouli",
+     "player": "Abde Ezzalzouli",
+     "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
-      "league": 2
+      "league": 3
      }
     },
     {
@@ -804,8 +873,20 @@
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 3
+     }
+    },
+    {
+     "player_id": "Cucho Hernández",
+     "player": "Cucho Hernández",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 0,
+      "UEFA Champions League": 1,
+      "league": 2
      }
     },
     {
@@ -814,8 +895,20 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Antony (footballer, born 2000)",
+     "player": "Antony",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "La Liga": 1,
+      "UEFA Champions League": 0,
+      "league": 0
      }
     },
     {
@@ -824,6 +917,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -834,6 +928,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -844,6 +939,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -854,6 +950,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -864,6 +961,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -874,6 +972,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -1012,9 +1111,10 @@
     {
      "player_id": "Pablo Durán",
      "player": "Pablo Durán",
-     "goals": 3,
+     "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 1,
       "UEFA Europa League": 1,
       "league": 2
      }
@@ -1025,6 +1125,7 @@
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 2,
       "league": 1
      }
@@ -1035,6 +1136,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 2
      }
@@ -1045,6 +1147,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1055,6 +1158,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1065,6 +1169,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1075,6 +1180,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 1,
       "league": 0
      }
@@ -1085,6 +1191,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1095,6 +1202,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Europa League": 0,
       "league": 1
      }
@@ -1368,10 +1476,11 @@
     {
      "player_id": "Roberto Fernández (footballer, born 2002)",
      "player": "Roberto Fernández",
-     "goals": 7,
+     "goals": 8,
      "penalties": 1,
      "by_competition": {
       "Copa del Rey": 1,
+      "La Liga": 1,
       "league": 6
      }
     },
@@ -1382,6 +1491,7 @@
      "penalties": 1,
      "by_competition": {
       "Copa del Rey": 1,
+      "La Liga": 0,
       "league": 1
      }
     },
@@ -1392,6 +1502,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "league": 1
      }
     },
@@ -1402,6 +1513,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "league": 1
      }
     },
@@ -1412,6 +1524,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "league": 1
      }
     },
@@ -1422,6 +1535,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 1,
+      "La Liga": 0,
       "league": 0
      }
     },
@@ -1432,6 +1546,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "league": 1
      }
     },
@@ -1442,6 +1557,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "league": 1
      }
     }
@@ -2151,6 +2267,7 @@
      "goals": 17,
      "penalties": 3,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 4,
       "league": 13
      }
@@ -2158,9 +2275,10 @@
     {
      "player_id": "Jude Bellingham",
      "player": "Jude Bellingham",
-     "goals": 5,
+     "goals": 6,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 1,
       "UEFA Champions League": 1,
       "league": 4
      }
@@ -2171,6 +2289,7 @@
      "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 3
      }
@@ -2181,6 +2300,7 @@
      "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 3
      }
@@ -2188,9 +2308,10 @@
     {
      "player_id": "Carlos Espí",
      "player": "Carlos Espí",
-     "goals": 3,
+     "goals": 4,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 1,
       "UEFA Champions League": 1,
       "league": 2
      }
@@ -2201,6 +2322,7 @@
      "goals": 3,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 2,
       "league": 1
      }
@@ -2211,6 +2333,7 @@
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 1
      }
@@ -2221,6 +2344,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -2231,6 +2355,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 1,
       "league": 0
      }
@@ -2241,6 +2366,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -2251,6 +2377,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "La Liga": 0,
       "UEFA Champions League": 0,
       "league": 1
      }
@@ -2577,6 +2704,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 1,
       "league": 3
      }
@@ -2588,6 +2716,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 2
      }
@@ -2599,6 +2728,19 @@
      "penalties": 2,
      "by_competition": {
       "Copa del Rey": 1,
+      "La Liga": 0,
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Robbie Ure",
+     "player": "Robbie Ure",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -2610,28 +2752,19 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 2
      }
     },
     {
-     "player_id": "Robbie Ure",
-     "player": "Robbie Ure",
+     "player_id": "Kike Salas",
+     "player": "Kike Salas",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
-      "Copa del Rey": 1,
-      "Mid-season": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Chidera Ejuke",
-     "player": "Chidera Ejuke",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 1,
       "Mid-season": 0,
       "league": 1
      }
@@ -2643,6 +2776,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -2654,6 +2788,19 @@
      "penalties": 1,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
+      "Mid-season": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Chidera Ejuke",
+     "player": "Chidera Ejuke",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -2665,17 +2812,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
-      "Mid-season": 0,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Kike Salas",
-     "player": "Kike Salas",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -2687,6 +2824,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -2698,6 +2836,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
@@ -2709,6 +2848,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 1,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 0
      }
@@ -2720,6 +2860,7 @@
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "La Liga": 0,
       "Mid-season": 0,
       "league": 1
      }
