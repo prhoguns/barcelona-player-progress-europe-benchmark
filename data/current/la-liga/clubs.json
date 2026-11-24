@@ -1,7 +1,7 @@
 {
  "league": "La Liga",
  "season": "2026/27",
- "as_of": "2026-11-23",
+ "as_of": "2026-11-24",
  "clubs": {
   "Alaves": {
    "record": {
@@ -14,13 +14,13 @@
     "goals_against": 18
    },
    "projection": {
-    "points": 47.6203,
+    "points": 47.5989,
     "points_low": 39,
     "points_high": 57,
-    "goals_for": 48.38,
+    "goals_for": 48.3299,
     "goals_for_low": 40,
     "goals_for_high": 57,
-    "goals_against": 52.9336,
+    "goals_against": 52.9144,
     "goals_against_low": 44,
     "goals_against_high": 62,
     "remaining": 25
@@ -370,22 +370,22 @@
      "date": "2026-12-13",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.329,
-     "draw": 0.2697,
-     "loss": 0.4012,
-     "xg_for": 1.2188,
-     "xg_against": 1.3728
+     "win": 0.3273,
+     "draw": 0.2707,
+     "loss": 0.402,
+     "xg_for": 1.2079,
+     "xg_against": 1.3669
     },
     {
      "round": "Matchday 17",
      "date": "2026-12-20",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.5171,
-     "draw": 0.2549,
-     "loss": 0.2279,
-     "xg_for": 1.6108,
-     "xg_against": 0.9838
+     "win": 0.5146,
+     "draw": 0.2564,
+     "loss": 0.229,
+     "xg_for": 1.5969,
+     "xg_against": 0.98
     },
     {
      "round": "Matchday 18",
@@ -524,11 +524,11 @@
      "date": "2027-04-04",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.3248,
-     "draw": 0.2739,
-     "loss": 0.4012,
-     "xg_for": 1.1809,
-     "xg_against": 1.342
+     "win": 0.3231,
+     "draw": 0.2748,
+     "loss": 0.4021,
+     "xg_for": 1.1706,
+     "xg_against": 1.3368
     },
     {
      "round": "Matchday 31",
@@ -579,11 +579,11 @@
      "date": "2027-05-09",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.5245,
-     "draw": 0.2497,
-     "loss": 0.2259,
-     "xg_for": 1.6626,
-     "xg_against": 1.0064
+     "win": 0.5218,
+     "draw": 0.2512,
+     "loss": 0.227,
+     "xg_for": 1.6477,
+     "xg_against": 1.0021
     },
     {
      "round": "Matchday 36",
@@ -637,15 +637,15 @@
     "goals_against": 12
    },
    "projection": {
-    "points": 52.5047,
+    "points": 52.4931,
     "points_low": 43,
     "points_high": 62,
-    "goals_for": 48.4136,
+    "goals_for": 48.3867,
     "goals_for_low": 40,
     "goals_for_high": 57,
-    "goals_against": 44.4873,
+    "goals_against": 44.4788,
     "goals_against_low": 36,
-    "goals_against_high": 54,
+    "goals_against_high": 53,
     "remaining": 26
    },
    "progression": [
@@ -1036,11 +1036,11 @@
      "date": "2027-01-24",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.577,
-     "draw": 0.2375,
-     "loss": 0.1855,
-     "xg_for": 1.7707,
-     "xg_against": 0.8984
+     "win": 0.5742,
+     "draw": 0.2392,
+     "loss": 0.1866,
+     "xg_for": 1.7548,
+     "xg_against": 0.8946
     },
     {
      "round": "Matchday 22",
@@ -1201,11 +1201,11 @@
      "date": "2027-05-16",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.3747,
-     "draw": 0.2792,
-     "loss": 0.3461,
-     "xg_for": 1.2576,
-     "xg_against": 1.198
+     "win": 0.3727,
+     "draw": 0.2803,
+     "loss": 0.347,
+     "xg_for": 1.2467,
+     "xg_against": 1.1934
     },
     {
      "round": "Matchday 37",
@@ -1248,13 +1248,13 @@
     "goals_against": 10
    },
    "projection": {
-    "points": 77.6876,
-    "points_low": 69,
+    "points": 77.6679,
+    "points_low": 68,
     "points_high": 86,
-    "goals_for": 71.2965,
+    "goals_for": 71.2397,
     "goals_for_low": 61,
     "goals_for_high": 82,
-    "goals_against": 36.5529,
+    "goals_against": 36.5423,
     "goals_against_low": 29,
     "goals_against_high": 45,
     "remaining": 25
@@ -1582,11 +1582,11 @@
      "date": "2026-11-29",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.5229,
-     "draw": 0.2446,
-     "loss": 0.2325,
-     "xg_for": 1.714,
-     "xg_against": 1.0647
+     "win": 0.5203,
+     "draw": 0.246,
+     "loss": 0.2336,
+     "xg_for": 1.6991,
+     "xg_against": 1.0605
     },
     {
      "round": "Matchday 15",
@@ -1703,11 +1703,11 @@
      "date": "2027-02-21",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.7203,
-     "draw": 0.1742,
-     "loss": 0.1055,
-     "xg_for": 2.3381,
-     "xg_against": 0.7805
+     "win": 0.7176,
+     "draw": 0.1759,
+     "loss": 0.1065,
+     "xg_for": 2.3178,
+     "xg_against": 0.7775
     },
     {
      "round": "Matchday 26",
@@ -1769,11 +1769,11 @@
      "date": "2027-04-11",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.7289,
-     "draw": 0.1683,
-     "loss": 0.1029,
-     "xg_for": 2.4132,
-     "xg_against": 0.7984
+     "win": 0.726,
+     "draw": 0.17,
+     "loss": 0.1039,
+     "xg_for": 2.3915,
+     "xg_against": 0.795
     },
     {
      "round": "Matchday 32",
@@ -1871,13 +1871,13 @@
     "goals_against": 15
    },
    "projection": {
-    "points": 93.3706,
+    "points": 93.3605,
     "points_low": 85,
     "points_high": 101,
-    "goals_for": 118.1695,
-    "goals_for_low": 105,
+    "goals_for": 118.1066,
+    "goals_for_low": 104,
     "goals_for_high": 132,
-    "goals_against": 40.0833,
+    "goals_against": 40.077,
     "goals_against_low": 33,
     "goals_against_high": 48,
     "remaining": 25
@@ -2271,11 +2271,11 @@
      "date": "2027-01-17",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.8688,
-     "draw": 0.0875,
-     "loss": 0.0437,
-     "xg_for": 3.503,
-     "xg_against": 0.764
+     "win": 0.8666,
+     "draw": 0.0889,
+     "loss": 0.0445,
+     "xg_for": 3.4726,
+     "xg_against": 0.7611
     },
     {
      "round": "Matchday 21",
@@ -2326,11 +2326,11 @@
      "date": "2027-02-21",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.8756,
-     "draw": 0.0828,
-     "loss": 0.0417,
-     "xg_for": 3.6156,
-     "xg_against": 0.7816
+     "win": 0.8734,
+     "draw": 0.0842,
+     "loss": 0.0424,
+     "xg_for": 3.583,
+     "xg_against": 0.7782
     },
     {
      "round": "Matchday 26",
@@ -2494,13 +2494,13 @@
     "goals_against": 16
    },
    "projection": {
-    "points": 66.0097,
+    "points": 65.9959,
     "points_low": 57,
     "points_high": 75,
-    "goals_for": 60.3381,
+    "goals_for": 60.3009,
     "goals_for_low": 51,
     "goals_for_high": 70,
-    "goals_against": 49.0708,
+    "goals_against": 49.0629,
     "goals_against_low": 41,
     "goals_against_high": 58,
     "remaining": 25
@@ -2916,11 +2916,11 @@
      "date": "2027-01-31",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.6267,
-     "draw": 0.2088,
-     "loss": 0.1644,
-     "xg_for": 2.0705,
-     "xg_against": 0.9632
+     "win": 0.6239,
+     "draw": 0.2104,
+     "loss": 0.1656,
+     "xg_for": 2.0525,
+     "xg_against": 0.9595
     },
     {
      "round": "Matchday 23",
@@ -2982,11 +2982,11 @@
      "date": "2027-03-14",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.635,
-     "draw": 0.2034,
-     "loss": 0.1617,
-     "xg_for": 2.137,
-     "xg_against": 0.9853
+     "win": 0.6321,
+     "draw": 0.205,
+     "loss": 0.1629,
+     "xg_for": 2.1178,
+     "xg_against": 0.9811
     },
     {
      "round": "Matchday 29",
@@ -3117,13 +3117,13 @@
     "goals_against": 12
    },
    "projection": {
-    "points": 46.4951,
+    "points": 46.4838,
     "points_low": 38,
     "points_high": 56,
-    "goals_for": 42.7765,
+    "goals_for": 42.7498,
     "goals_for_low": 35,
     "goals_for_high": 51,
-    "goals_against": 45.7332,
+    "goals_against": 45.7241,
     "goals_against_low": 37,
     "goals_against_high": 55,
     "remaining": 25
@@ -3638,11 +3638,11 @@
      "date": "2027-04-11",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.5586,
-     "draw": 0.2433,
-     "loss": 0.1981,
-     "xg_for": 1.7199,
-     "xg_against": 0.924
+     "win": 0.5559,
+     "draw": 0.2449,
+     "loss": 0.1992,
+     "xg_for": 1.705,
+     "xg_against": 0.9204
     },
     {
      "round": "Matchday 32",
@@ -3715,11 +3715,11 @@
      "date": "2027-05-30",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.3674,
-     "draw": 0.2708,
-     "loss": 0.3618,
-     "xg_for": 1.3013,
-     "xg_against": 1.2893
+     "win": 0.3655,
+     "draw": 0.2718,
+     "loss": 0.3627,
+     "xg_for": 1.2896,
+     "xg_against": 1.2838
     }
    ],
    "rating": {
@@ -3731,25 +3731,25 @@
   },
   "Elche": {
    "record": {
-    "played": 12,
-    "points": 10,
+    "played": 13,
+    "points": 11,
     "wins": 2,
-    "draws": 4,
+    "draws": 5,
     "losses": 6,
-    "goals_for": 14,
-    "goals_against": 20
+    "goals_for": 15,
+    "goals_against": 21
    },
    "projection": {
-    "points": 40.1095,
+    "points": 40.1096,
     "points_low": 31,
     "points_high": 49,
-    "goals_for": 44.2904,
+    "goals_for": 43.996,
     "goals_for_low": 36,
-    "goals_for_high": 53,
-    "goals_against": 60.4706,
-    "goals_against_low": 51,
+    "goals_for_high": 52,
+    "goals_against": 59.5512,
+    "goals_against_low": 50,
     "goals_against_high": 70,
-    "remaining": 26
+    "remaining": 25
    },
    "progression": [
     {
@@ -3933,6 +3933,20 @@
      "goals_against_low": 51,
      "goals_against_high": 71,
      "remaining": 26
+    },
+    {
+     "matches_played": 13,
+     "as_of": "2026-11-23",
+     "points": 40.1096,
+     "points_low": 31,
+     "points_high": 49,
+     "goals_for": 43.996,
+     "goals_for_low": 36,
+     "goals_for_high": 52,
+     "goals_against": 59.5512,
+     "goals_against_low": 50,
+     "goals_against_high": 70,
+     "remaining": 25
     }
    ],
    "played": [
@@ -4043,301 +4057,299 @@
      "goals_for": 0,
      "goals_against": 2,
      "result": "L"
+    },
+    {
+     "round": "Matchday 13",
+     "date": "2026-11-23",
+     "opponent": "Levante",
+     "venue": "Away",
+     "goals_for": 1,
+     "goals_against": 1,
+     "result": "D"
     }
    ],
    "fixtures": [
-    {
-     "round": "Matchday 13",
-     "date": "2026-11-22",
-     "opponent": "Levante",
-     "venue": "Away",
-     "win": 0.2789,
-     "draw": 0.2555,
-     "loss": 0.4655,
-     "xg_for": 1.1667,
-     "xg_against": 1.5773
-    },
     {
      "round": "Matchday 14",
      "date": "2026-11-29",
      "opponent": "Ath Madrid",
      "venue": "Home",
-     "win": 0.2325,
-     "draw": 0.2446,
-     "loss": 0.5229,
-     "xg_for": 1.0647,
-     "xg_against": 1.714
+     "win": 0.2336,
+     "draw": 0.246,
+     "loss": 0.5203,
+     "xg_for": 1.0605,
+     "xg_against": 1.6991
     },
     {
      "round": "Matchday 15",
      "date": "2026-12-06",
      "opponent": "Osasuna",
      "venue": "Away",
-     "win": 0.2459,
-     "draw": 0.2595,
-     "loss": 0.4945,
-     "xg_for": 1.0252,
-     "xg_against": 1.5611
+     "win": 0.247,
+     "draw": 0.2609,
+     "loss": 0.492,
+     "xg_for": 1.0213,
+     "xg_against": 1.5476
     },
     {
      "round": "Matchday 16",
      "date": "2026-12-13",
      "opponent": "Sevilla",
      "venue": "Home",
-     "win": 0.4088,
-     "draw": 0.268,
-     "loss": 0.3233,
-     "xg_for": 1.399,
-     "xg_against": 1.2157
+     "win": 0.4096,
+     "draw": 0.2688,
+     "loss": 0.3215,
+     "xg_for": 1.3935,
+     "xg_against": 1.2052
     },
     {
      "round": "Matchday 17",
      "date": "2026-12-20",
      "opponent": "Alaves",
      "venue": "Away",
-     "win": 0.2279,
-     "draw": 0.2549,
-     "loss": 0.5171,
-     "xg_for": 0.9838,
-     "xg_against": 1.6108
+     "win": 0.229,
+     "draw": 0.2564,
+     "loss": 0.5146,
+     "xg_for": 0.98,
+     "xg_against": 1.5969
     },
     {
      "round": "Matchday 18",
      "date": "2027-01-03",
      "opponent": "Malaga",
      "venue": "Away",
-     "win": 0.3075,
-     "draw": 0.2777,
-     "loss": 0.4148,
-     "xg_for": 1.1124,
-     "xg_against": 1.336
+     "win": 0.3085,
+     "draw": 0.2789,
+     "loss": 0.4126,
+     "xg_for": 1.1081,
+     "xg_against": 1.3244
     },
     {
      "round": "Matchday 19",
      "date": "2027-01-10",
      "opponent": "Getafe",
      "venue": "Home",
-     "win": 0.4522,
-     "draw": 0.2985,
-     "loss": 0.2493,
-     "xg_for": 1.2464,
-     "xg_against": 0.8483
+     "win": 0.4527,
+     "draw": 0.2994,
+     "loss": 0.2479,
+     "xg_for": 1.2416,
+     "xg_against": 0.841
     },
     {
      "round": "Matchday 20",
      "date": "2027-01-17",
      "opponent": "Barcelona",
      "venue": "Away",
-     "win": 0.0437,
-     "draw": 0.0875,
-     "loss": 0.8688,
-     "xg_for": 0.764,
-     "xg_against": 3.503
+     "win": 0.0445,
+     "draw": 0.0889,
+     "loss": 0.8666,
+     "xg_for": 0.7611,
+     "xg_against": 3.4726
     },
     {
      "round": "Matchday 21",
      "date": "2027-01-24",
      "opponent": "Vallecano",
      "venue": "Home",
-     "win": 0.4006,
-     "draw": 0.2773,
-     "loss": 0.3221,
-     "xg_for": 1.3164,
-     "xg_against": 1.1524
+     "win": 0.4014,
+     "draw": 0.2783,
+     "loss": 0.3203,
+     "xg_for": 1.3113,
+     "xg_against": 1.1424
     },
     {
      "round": "Matchday 22",
      "date": "2027-01-31",
      "opponent": "Betis",
      "venue": "Away",
-     "win": 0.1644,
-     "draw": 0.2088,
-     "loss": 0.6267,
-     "xg_for": 0.9632,
-     "xg_against": 2.0705
+     "win": 0.1656,
+     "draw": 0.2104,
+     "loss": 0.6239,
+     "xg_for": 0.9595,
+     "xg_against": 2.0525
     },
     {
      "round": "Matchday 23",
      "date": "2027-02-07",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.4714,
-     "draw": 0.2546,
-     "loss": 0.274,
-     "xg_for": 1.5915,
-     "xg_against": 1.1563
+     "win": 0.4697,
+     "draw": 0.2566,
+     "loss": 0.2736,
+     "xg_for": 1.571,
+     "xg_against": 1.1414
     },
     {
      "round": "Matchday 24",
      "date": "2027-02-14",
      "opponent": "La Coruna",
      "venue": "Home",
-     "win": 0.4425,
-     "draw": 0.2716,
-     "loss": 0.2859,
-     "xg_for": 1.4172,
-     "xg_against": 1.0868
+     "win": 0.4432,
+     "draw": 0.2724,
+     "loss": 0.2843,
+     "xg_for": 1.4116,
+     "xg_against": 1.0773
     },
     {
      "round": "Matchday 25",
      "date": "2027-02-21",
      "opponent": "Ath Madrid",
      "venue": "Away",
-     "win": 0.1055,
-     "draw": 0.1742,
-     "loss": 0.7203,
-     "xg_for": 0.7805,
-     "xg_against": 2.3381
+     "win": 0.1065,
+     "draw": 0.1759,
+     "loss": 0.7176,
+     "xg_for": 0.7775,
+     "xg_against": 2.3178
     },
     {
      "round": "Matchday 26",
      "date": "2027-02-28",
      "opponent": "Sociedad",
      "venue": "Away",
-     "win": 0.1971,
-     "draw": 0.2213,
-     "loss": 0.5816,
-     "xg_for": 1.0592,
-     "xg_against": 1.9648
+     "win": 0.1983,
+     "draw": 0.2228,
+     "loss": 0.5789,
+     "xg_for": 1.0551,
+     "xg_against": 1.9478
     },
     {
      "round": "Matchday 27",
      "date": "2027-03-07",
      "opponent": "Malaga",
      "venue": "Home",
-     "win": 0.4944,
-     "draw": 0.2646,
-     "loss": 0.241,
-     "xg_for": 1.5174,
-     "xg_against": 0.9794
+     "win": 0.4949,
+     "draw": 0.2653,
+     "loss": 0.2398,
+     "xg_for": 1.5115,
+     "xg_against": 0.9709
     },
     {
      "round": "Matchday 28",
      "date": "2027-03-14",
      "opponent": "Villarreal",
      "venue": "Home",
-     "win": 0.2931,
-     "draw": 0.2449,
-     "loss": 0.462,
-     "xg_for": 1.2944,
-     "xg_against": 1.6793
+     "win": 0.2943,
+     "draw": 0.2461,
+     "loss": 0.4596,
+     "xg_for": 1.2894,
+     "xg_against": 1.6647
     },
     {
      "round": "Matchday 29",
      "date": "2027-03-21",
      "opponent": "Sevilla",
      "venue": "Away",
-     "win": 0.2312,
-     "draw": 0.25,
-     "loss": 0.5188,
-     "xg_for": 1.0256,
-     "xg_against": 1.6584
+     "win": 0.2324,
+     "draw": 0.2515,
+     "loss": 0.5162,
+     "xg_for": 1.0216,
+     "xg_against": 1.644
     },
     {
      "round": "Matchday 30",
      "date": "2027-04-04",
      "opponent": "Alaves",
      "venue": "Home",
-     "win": 0.4012,
-     "draw": 0.2739,
-     "loss": 0.3248,
-     "xg_for": 1.342,
-     "xg_against": 1.1809
+     "win": 0.4021,
+     "draw": 0.2748,
+     "loss": 0.3231,
+     "xg_for": 1.3368,
+     "xg_against": 1.1706
     },
     {
      "round": "Matchday 31",
      "date": "2027-04-11",
      "opponent": "Celta",
      "venue": "Away",
-     "win": 0.1981,
-     "draw": 0.2433,
-     "loss": 0.5586,
-     "xg_for": 0.924,
-     "xg_against": 1.7199
+     "win": 0.1992,
+     "draw": 0.2449,
+     "loss": 0.5559,
+     "xg_for": 0.9204,
+     "xg_against": 1.705
     },
     {
      "round": "Matchday 32",
      "date": "2027-04-18",
      "opponent": "Osasuna",
      "venue": "Home",
-     "win": 0.4244,
-     "draw": 0.271,
-     "loss": 0.3045,
-     "xg_for": 1.3985,
-     "xg_against": 1.1444
+     "win": 0.4252,
+     "draw": 0.2719,
+     "loss": 0.3029,
+     "xg_for": 1.3931,
+     "xg_against": 1.1345
     },
     {
      "round": "Matchday 33",
      "date": "2027-04-21",
      "opponent": "Real Madrid",
      "venue": "Away",
-     "win": 0.0661,
-     "draw": 0.1261,
-     "loss": 0.8078,
-     "xg_for": 0.7321,
-     "xg_against": 2.8628
+     "win": 0.067,
+     "draw": 0.1278,
+     "loss": 0.8052,
+     "xg_for": 0.7293,
+     "xg_against": 2.8379
     },
     {
      "round": "Matchday 34",
      "date": "2027-05-02",
      "opponent": "Espanol",
      "venue": "Home",
-     "win": 0.4492,
-     "draw": 0.2711,
-     "loss": 0.2797,
-     "xg_for": 1.4287,
-     "xg_against": 1.0713
+     "win": 0.4499,
+     "draw": 0.2719,
+     "loss": 0.2782,
+     "xg_for": 1.4232,
+     "xg_against": 1.062
     },
     {
      "round": "Matchday 35",
      "date": "2027-05-09",
      "opponent": "Getafe",
      "venue": "Away",
-     "win": 0.2845,
-     "draw": 0.3057,
-     "loss": 0.4098,
-     "xg_for": 0.9137,
-     "xg_against": 1.1572
+     "win": 0.2853,
+     "draw": 0.307,
+     "loss": 0.4077,
+     "xg_for": 0.9102,
+     "xg_against": 1.1472
     },
     {
      "round": "Matchday 36",
      "date": "2027-05-16",
      "opponent": "Ath Bilbao",
      "venue": "Home",
-     "win": 0.3461,
-     "draw": 0.2792,
-     "loss": 0.3747,
-     "xg_for": 1.198,
-     "xg_against": 1.2576
+     "win": 0.347,
+     "draw": 0.2803,
+     "loss": 0.3727,
+     "xg_for": 1.1934,
+     "xg_against": 1.2467
     },
     {
      "round": "Matchday 37",
      "date": "2027-05-23",
      "opponent": "Valencia",
      "venue": "Away",
-     "win": 0.2568,
-     "draw": 0.2698,
-     "loss": 0.4734,
-     "xg_for": 1.005,
-     "xg_against": 1.4611
+     "win": 0.2578,
+     "draw": 0.2712,
+     "loss": 0.471,
+     "xg_for": 1.0011,
+     "xg_against": 1.4484
     },
     {
      "round": "Matchday 38",
      "date": "2027-05-30",
      "opponent": "Santander",
      "venue": "Home",
-     "win": 0.4771,
-     "draw": 0.252,
-     "loss": 0.2709,
-     "xg_for": 1.6207,
-     "xg_against": 1.1633
+     "win": 0.4779,
+     "draw": 0.2527,
+     "loss": 0.2694,
+     "xg_for": 1.6144,
+     "xg_against": 1.1532
     }
    ],
    "rating": {
-    "gf": 1.1437,
-    "ga": 1.6062,
-    "sotf": 3.7642,
-    "sota": 4.8436
+    "gf": 1.1408,
+    "ga": 1.5941,
+    "sotf": 3.7289,
+    "sota": 4.7867
    }
   },
   "Espanol": {
@@ -4351,13 +4363,13 @@
     "goals_against": 14
    },
    "projection": {
-    "points": 43.5139,
+    "points": 43.5065,
     "points_low": 35,
     "points_high": 52,
-    "goals_for": 41.2896,
+    "goals_for": 41.2703,
     "goals_for_low": 34,
     "goals_for_high": 49,
-    "goals_against": 51.293,
+    "goals_against": 51.2812,
     "goals_against_low": 42,
     "goals_against_high": 61,
     "remaining": 25
@@ -4751,11 +4763,11 @@
      "date": "2027-01-17",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.2831,
-     "draw": 0.267,
-     "loss": 0.4498,
-     "xg_for": 1.1057,
-     "xg_against": 1.4615
+     "win": 0.2816,
+     "draw": 0.2679,
+     "loss": 0.4505,
+     "xg_for": 1.0958,
+     "xg_against": 1.4553
     },
     {
      "round": "Matchday 21",
@@ -4905,11 +4917,11 @@
      "date": "2027-05-02",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.2797,
-     "draw": 0.2711,
-     "loss": 0.4492,
-     "xg_for": 1.0713,
-     "xg_against": 1.4287
+     "win": 0.2782,
+     "draw": 0.2719,
+     "loss": 0.4499,
+     "xg_for": 1.062,
+     "xg_against": 1.4232
     },
     {
      "round": "Matchday 35",
@@ -4974,13 +4986,13 @@
     "goals_against": 21
    },
    "projection": {
-    "points": 38.7181,
+    "points": 38.7015,
     "points_low": 30,
     "points_high": 47,
-    "goals_for": 29.8708,
+    "goals_for": 29.8348,
     "goals_for_low": 23,
     "goals_for_high": 37,
-    "goals_against": 53.2363,
+    "goals_against": 53.2184,
     "goals_against_low": 45,
     "goals_against_high": 62,
     "remaining": 25
@@ -5341,11 +5353,11 @@
      "date": "2026-12-20",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.4159,
-     "draw": 0.3004,
-     "loss": 0.2837,
-     "xg_for": 1.1944,
-     "xg_against": 0.9347
+     "win": 0.4137,
+     "draw": 0.3018,
+     "loss": 0.2846,
+     "xg_for": 1.1837,
+     "xg_against": 0.9307
     },
     {
      "round": "Matchday 18",
@@ -5363,11 +5375,11 @@
      "date": "2027-01-10",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.2493,
-     "draw": 0.2985,
-     "loss": 0.4522,
-     "xg_for": 0.8483,
-     "xg_against": 1.2464
+     "win": 0.2479,
+     "draw": 0.2994,
+     "loss": 0.4527,
+     "xg_for": 0.841,
+     "xg_against": 1.2416
     },
     {
      "round": "Matchday 20",
@@ -5539,22 +5551,22 @@
      "date": "2027-05-09",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.4098,
-     "draw": 0.3057,
-     "loss": 0.2845,
-     "xg_for": 1.1572,
-     "xg_against": 0.9137
+     "win": 0.4077,
+     "draw": 0.307,
+     "loss": 0.2853,
+     "xg_for": 1.1472,
+     "xg_against": 0.9102
     },
     {
      "round": "Matchday 36",
      "date": "2027-05-16",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.2523,
-     "draw": 0.294,
-     "loss": 0.4537,
-     "xg_for": 0.8756,
-     "xg_against": 1.275
+     "win": 0.2509,
+     "draw": 0.2949,
+     "loss": 0.4541,
+     "xg_for": 0.8677,
+     "xg_against": 1.2696
     },
     {
      "round": "Matchday 37",
@@ -5597,13 +5609,13 @@
     "goals_against": 17
    },
    "projection": {
-    "points": 43.1234,
+    "points": 43.1158,
     "points_low": 35,
     "points_high": 52,
-    "goals_for": 43.4421,
+    "goals_for": 43.4226,
     "goals_for_low": 36,
     "goals_for_high": 51,
-    "goals_against": 54.9074,
+    "goals_against": 54.8957,
     "goals_against_low": 46,
     "goals_against_high": 64,
     "remaining": 25
@@ -6041,11 +6053,11 @@
      "date": "2027-02-14",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.2859,
-     "draw": 0.2716,
-     "loss": 0.4425,
-     "xg_for": 1.0868,
-     "xg_against": 1.4172
+     "win": 0.2843,
+     "draw": 0.2724,
+     "loss": 0.4432,
+     "xg_for": 1.0773,
+     "xg_against": 1.4116
     },
     {
      "round": "Matchday 25",
@@ -6063,11 +6075,11 @@
      "date": "2027-02-28",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.2894,
-     "draw": 0.2676,
-     "loss": 0.4431,
-     "xg_for": 1.1217,
-     "xg_against": 1.4497
+     "win": 0.2878,
+     "draw": 0.2684,
+     "loss": 0.4438,
+     "xg_for": 1.1116,
+     "xg_against": 1.4435
     },
     {
      "round": "Matchday 27",
@@ -6211,25 +6223,25 @@
   },
   "Levante": {
    "record": {
-    "played": 12,
-    "points": 11,
+    "played": 13,
+    "points": 12,
     "wins": 2,
-    "draws": 5,
+    "draws": 6,
     "losses": 5,
-    "goals_for": 16,
-    "goals_against": 21
+    "goals_for": 17,
+    "goals_against": 22
    },
    "projection": {
-    "points": 41.1763,
+    "points": 40.6208,
     "points_low": 32,
     "points_high": 50,
-    "goals_for": 47.2291,
+    "goals_for": 46.5152,
     "goals_for_low": 39,
-    "goals_for_high": 56,
-    "goals_against": 62.6835,
+    "goals_for_high": 55,
+    "goals_against": 62.1462,
     "goals_against_low": 53,
-    "goals_against_high": 73,
-    "remaining": 26
+    "goals_against_high": 72,
+    "remaining": 25
    },
    "progression": [
     {
@@ -6413,6 +6425,20 @@
      "goals_against_low": 53,
      "goals_against_high": 73,
      "remaining": 26
+    },
+    {
+     "matches_played": 13,
+     "as_of": "2026-11-23",
+     "points": 40.6208,
+     "points_low": 32,
+     "points_high": 50,
+     "goals_for": 46.5152,
+     "goals_for_low": 39,
+     "goals_for_high": 55,
+     "goals_against": 62.1462,
+     "goals_against_low": 53,
+     "goals_against_high": 72,
+     "remaining": 25
     }
    ],
    "played": [
@@ -6523,301 +6549,299 @@
      "goals_for": 0,
      "goals_against": 0,
      "result": "D"
+    },
+    {
+     "round": "Matchday 13",
+     "date": "2026-11-23",
+     "opponent": "Elche",
+     "venue": "Home",
+     "goals_for": 1,
+     "goals_against": 1,
+     "result": "D"
     }
    ],
    "fixtures": [
-    {
-     "round": "Matchday 13",
-     "date": "2026-11-22",
-     "opponent": "Elche",
-     "venue": "Home",
-     "win": 0.4655,
-     "draw": 0.2555,
-     "loss": 0.2789,
-     "xg_for": 1.5773,
-     "xg_against": 1.1667
-    },
     {
      "round": "Matchday 14",
      "date": "2026-11-29",
      "opponent": "Santander",
      "venue": "Home",
-     "win": 0.4777,
-     "draw": 0.2483,
-     "loss": 0.274,
-     "xg_for": 1.6579,
-     "xg_against": 1.2006
+     "win": 0.4785,
+     "draw": 0.249,
+     "loss": 0.2725,
+     "xg_for": 1.6508,
+     "xg_against": 1.1898
     },
     {
      "round": "Matchday 15",
      "date": "2026-12-06",
      "opponent": "Vallecano",
      "venue": "Away",
-     "win": 0.2271,
-     "draw": 0.2537,
-     "loss": 0.5192,
-     "xg_for": 0.9872,
-     "xg_against": 1.6225
+     "win": 0.2282,
+     "draw": 0.2552,
+     "loss": 0.5166,
+     "xg_for": 0.983,
+     "xg_against": 1.6079
     },
     {
      "round": "Matchday 16",
      "date": "2026-12-13",
      "opponent": "Alaves",
      "venue": "Home",
-     "win": 0.4012,
-     "draw": 0.2697,
-     "loss": 0.329,
-     "xg_for": 1.3728,
-     "xg_against": 1.2188
+     "win": 0.402,
+     "draw": 0.2707,
+     "loss": 0.3273,
+     "xg_for": 1.3669,
+     "xg_against": 1.2079
     },
     {
      "round": "Matchday 17",
      "date": "2026-12-20",
      "opponent": "Getafe",
      "venue": "Away",
-     "win": 0.2837,
-     "draw": 0.3004,
-     "loss": 0.4159,
-     "xg_for": 0.9347,
-     "xg_against": 1.1944
+     "win": 0.2846,
+     "draw": 0.3018,
+     "loss": 0.4137,
+     "xg_for": 0.9307,
+     "xg_against": 1.1837
     },
     {
      "round": "Matchday 18",
      "date": "2027-01-03",
      "opponent": "Valencia",
      "venue": "Home",
-     "win": 0.4343,
-     "draw": 0.2722,
-     "loss": 0.2935,
-     "xg_for": 1.4024,
-     "xg_against": 1.1055
+     "win": 0.4349,
+     "draw": 0.2731,
+     "loss": 0.2919,
+     "xg_for": 1.3965,
+     "xg_against": 1.0956
     },
     {
      "round": "Matchday 19",
      "date": "2027-01-10",
      "opponent": "Real Madrid",
      "venue": "Away",
-     "win": 0.0637,
-     "draw": 0.1206,
-     "loss": 0.8157,
-     "xg_for": 0.7489,
-     "xg_against": 2.9548
+     "win": 0.0646,
+     "draw": 0.1223,
+     "loss": 0.8131,
+     "xg_for": 0.7457,
+     "xg_against": 2.9282
     },
     {
      "round": "Matchday 20",
      "date": "2027-01-17",
      "opponent": "Espanol",
      "venue": "Home",
-     "win": 0.4498,
-     "draw": 0.267,
-     "loss": 0.2831,
-     "xg_for": 1.4615,
-     "xg_against": 1.1057
+     "win": 0.4505,
+     "draw": 0.2679,
+     "loss": 0.2816,
+     "xg_for": 1.4553,
+     "xg_against": 1.0958
     },
     {
      "round": "Matchday 21",
      "date": "2027-01-24",
      "opponent": "Ath Bilbao",
      "venue": "Away",
-     "win": 0.1855,
-     "draw": 0.2375,
-     "loss": 0.577,
-     "xg_for": 0.8984,
-     "xg_against": 1.7707
+     "win": 0.1866,
+     "draw": 0.2392,
+     "loss": 0.5742,
+     "xg_for": 0.8946,
+     "xg_against": 1.7548
     },
     {
      "round": "Matchday 22",
      "date": "2027-01-31",
      "opponent": "Sociedad",
      "venue": "Home",
-     "win": 0.3729,
-     "draw": 0.2503,
-     "loss": 0.3768,
-     "xg_for": 1.478,
-     "xg_against": 1.4867
+     "win": 0.374,
+     "draw": 0.2513,
+     "loss": 0.3747,
+     "xg_for": 1.4717,
+     "xg_against": 1.4733
     },
     {
      "round": "Matchday 23",
      "date": "2027-02-07",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.274,
-     "draw": 0.2546,
-     "loss": 0.4714,
-     "xg_for": 1.1563,
-     "xg_against": 1.5915
+     "win": 0.2736,
+     "draw": 0.2566,
+     "loss": 0.4697,
+     "xg_for": 1.1414,
+     "xg_against": 1.571
     },
     {
      "round": "Matchday 24",
      "date": "2027-02-14",
      "opponent": "Malaga",
      "venue": "Home",
-     "win": 0.4957,
-     "draw": 0.2606,
-     "loss": 0.2437,
-     "xg_for": 1.5522,
-     "xg_against": 1.0109
+     "win": 0.4962,
+     "draw": 0.2614,
+     "loss": 0.2424,
+     "xg_for": 1.5456,
+     "xg_against": 1.0018
     },
     {
      "round": "Matchday 25",
      "date": "2027-02-21",
      "opponent": "Barcelona",
      "venue": "Away",
-     "win": 0.0417,
-     "draw": 0.0828,
-     "loss": 0.8756,
-     "xg_for": 0.7816,
-     "xg_against": 3.6156
+     "win": 0.0424,
+     "draw": 0.0842,
+     "loss": 0.8734,
+     "xg_for": 0.7782,
+     "xg_against": 3.583
     },
     {
      "round": "Matchday 26",
      "date": "2027-02-28",
      "opponent": "La Coruna",
      "venue": "Home",
-     "win": 0.4431,
-     "draw": 0.2676,
-     "loss": 0.2894,
-     "xg_for": 1.4497,
-     "xg_against": 1.1217
+     "win": 0.4438,
+     "draw": 0.2684,
+     "loss": 0.2878,
+     "xg_for": 1.4435,
+     "xg_against": 1.1116
     },
     {
      "round": "Matchday 27",
      "date": "2027-03-07",
      "opponent": "Valencia",
      "venue": "Away",
-     "win": 0.2551,
-     "draw": 0.2647,
-     "loss": 0.4802,
-     "xg_for": 1.0281,
-     "xg_against": 1.5081
+     "win": 0.2562,
+     "draw": 0.2661,
+     "loss": 0.4777,
+     "xg_for": 1.0237,
+     "xg_against": 1.4945
     },
     {
      "round": "Matchday 28",
      "date": "2027-03-14",
      "opponent": "Betis",
      "venue": "Away",
-     "win": 0.1617,
-     "draw": 0.2034,
-     "loss": 0.635,
-     "xg_for": 0.9853,
-     "xg_against": 2.137
+     "win": 0.1629,
+     "draw": 0.205,
+     "loss": 0.6321,
+     "xg_for": 0.9811,
+     "xg_against": 2.1178
     },
     {
      "round": "Matchday 29",
      "date": "2027-03-21",
      "opponent": "Osasuna",
      "venue": "Home",
-     "win": 0.4247,
-     "draw": 0.267,
-     "loss": 0.3083,
-     "xg_for": 1.4306,
-     "xg_against": 1.1812
+     "win": 0.4254,
+     "draw": 0.2679,
+     "loss": 0.3067,
+     "xg_for": 1.4245,
+     "xg_against": 1.1706
     },
     {
      "round": "Matchday 30",
      "date": "2027-04-04",
      "opponent": "Vallecano",
      "venue": "Home",
-     "win": 0.4006,
-     "draw": 0.2731,
-     "loss": 0.3262,
-     "xg_for": 1.3466,
-     "xg_against": 1.1894
+     "win": 0.4014,
+     "draw": 0.2741,
+     "loss": 0.3245,
+     "xg_for": 1.3409,
+     "xg_against": 1.1787
     },
     {
      "round": "Matchday 31",
      "date": "2027-04-11",
      "opponent": "Ath Madrid",
      "venue": "Away",
-     "win": 0.1029,
-     "draw": 0.1683,
-     "loss": 0.7289,
-     "xg_for": 0.7984,
-     "xg_against": 2.4132
+     "win": 0.1039,
+     "draw": 0.17,
+     "loss": 0.726,
+     "xg_for": 0.795,
+     "xg_against": 2.3915
     },
     {
      "round": "Matchday 32",
      "date": "2027-04-18",
      "opponent": "Villarreal",
      "venue": "Home",
-     "win": 0.2911,
-     "draw": 0.2405,
-     "loss": 0.4684,
-     "xg_for": 1.3242,
-     "xg_against": 1.7333
+     "win": 0.2924,
+     "draw": 0.2417,
+     "loss": 0.4659,
+     "xg_for": 1.3185,
+     "xg_against": 1.7177
     },
     {
      "round": "Matchday 33",
      "date": "2027-04-21",
      "opponent": "Sevilla",
      "venue": "Away",
-     "win": 0.2291,
-     "draw": 0.2449,
-     "loss": 0.5261,
-     "xg_for": 1.0491,
-     "xg_against": 1.7117
+     "win": 0.2302,
+     "draw": 0.2463,
+     "loss": 0.5234,
+     "xg_for": 1.0446,
+     "xg_against": 1.6963
     },
     {
      "round": "Matchday 34",
      "date": "2027-05-02",
      "opponent": "Real Madrid",
      "venue": "Home",
-     "win": 0.1657,
-     "draw": 0.202,
-     "loss": 0.6323,
-     "xg_for": 1.0216,
-     "xg_against": 2.1661
+     "win": 0.167,
+     "draw": 0.2036,
+     "loss": 0.6294,
+     "xg_for": 1.0173,
+     "xg_against": 2.1466
     },
     {
      "round": "Matchday 35",
      "date": "2027-05-09",
      "opponent": "Alaves",
      "venue": "Away",
-     "win": 0.2259,
-     "draw": 0.2497,
-     "loss": 0.5245,
-     "xg_for": 1.0064,
-     "xg_against": 1.6626
+     "win": 0.227,
+     "draw": 0.2512,
+     "loss": 0.5218,
+     "xg_for": 1.0021,
+     "xg_against": 1.6477
     },
     {
      "round": "Matchday 36",
      "date": "2027-05-16",
      "opponent": "Getafe",
      "venue": "Home",
-     "win": 0.4537,
-     "draw": 0.294,
-     "loss": 0.2523,
-     "xg_for": 1.275,
-     "xg_against": 0.8756
+     "win": 0.4541,
+     "draw": 0.2949,
+     "loss": 0.2509,
+     "xg_for": 1.2696,
+     "xg_against": 0.8677
     },
     {
      "round": "Matchday 37",
      "date": "2027-05-23",
      "opponent": "Santander",
      "venue": "Away",
-     "win": 0.2809,
-     "draw": 0.2496,
-     "loss": 0.4695,
-     "xg_for": 1.2154,
-     "xg_against": 1.6378
+     "win": 0.282,
+     "draw": 0.2509,
+     "loss": 0.4671,
+     "xg_for": 1.2102,
+     "xg_against": 1.6231
     },
     {
      "round": "Matchday 38",
      "date": "2027-05-30",
      "opponent": "Celta",
      "venue": "Home",
-     "win": 0.3618,
-     "draw": 0.2708,
-     "loss": 0.3674,
-     "xg_for": 1.2893,
-     "xg_against": 1.3013
+     "win": 0.3627,
+     "draw": 0.2718,
+     "loss": 0.3655,
+     "xg_for": 1.2838,
+     "xg_against": 1.2896
     }
    ],
    "rating": {
-    "gf": 1.1714,
-    "ga": 1.652,
-    "sotf": 3.8126,
-    "sota": 5.0508
+    "gf": 1.168,
+    "ga": 1.639,
+    "sotf": 3.7763,
+    "sota": 4.9897
    }
   },
   "Malaga": {
@@ -6831,13 +6855,13 @@
     "goals_against": 24
    },
    "projection": {
-    "points": 30.3707,
+    "points": 30.3592,
     "points_low": 22,
     "points_high": 39,
-    "goals_for": 33.8764,
+    "goals_for": 33.8472,
     "goals_for_low": 27,
     "goals_for_high": 41,
-    "goals_against": 63.3405,
+    "goals_against": 63.3236,
     "goals_against_low": 54,
     "goals_against_high": 73,
     "remaining": 25
@@ -7209,11 +7233,11 @@
      "date": "2027-01-03",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.4148,
-     "draw": 0.2777,
-     "loss": 0.3075,
-     "xg_for": 1.336,
-     "xg_against": 1.1124
+     "win": 0.4126,
+     "draw": 0.2789,
+     "loss": 0.3085,
+     "xg_for": 1.3244,
+     "xg_against": 1.1081
     },
     {
      "round": "Matchday 19",
@@ -7275,11 +7299,11 @@
      "date": "2027-02-14",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.2437,
-     "draw": 0.2606,
-     "loss": 0.4957,
-     "xg_for": 1.0109,
-     "xg_against": 1.5522
+     "win": 0.2424,
+     "draw": 0.2614,
+     "loss": 0.4962,
+     "xg_for": 1.0018,
+     "xg_against": 1.5456
     },
     {
      "round": "Matchday 25",
@@ -7308,11 +7332,11 @@
      "date": "2027-03-07",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.241,
-     "draw": 0.2646,
-     "loss": 0.4944,
-     "xg_for": 0.9794,
-     "xg_against": 1.5174
+     "win": 0.2398,
+     "draw": 0.2653,
+     "loss": 0.4949,
+     "xg_for": 0.9709,
+     "xg_against": 1.5115
     },
     {
      "round": "Matchday 28",
@@ -7454,13 +7478,13 @@
     "goals_against": 23
    },
    "projection": {
-    "points": 43.8826,
+    "points": 43.8684,
     "points_low": 35,
     "points_high": 53,
-    "goals_for": 41.7548,
+    "goals_for": 41.7207,
     "goals_for_low": 34,
     "goals_for_high": 50,
-    "goals_against": 61.0896,
+    "goals_against": 61.074,
     "goals_against_low": 52,
     "goals_against_high": 71,
     "remaining": 25
@@ -7799,11 +7823,11 @@
      "date": "2026-12-06",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.4945,
-     "draw": 0.2595,
-     "loss": 0.2459,
-     "xg_for": 1.5611,
-     "xg_against": 1.0252
+     "win": 0.492,
+     "draw": 0.2609,
+     "loss": 0.247,
+     "xg_for": 1.5476,
+     "xg_against": 1.0213
     },
     {
      "round": "Matchday 16",
@@ -7953,11 +7977,11 @@
      "date": "2027-03-21",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.3083,
-     "draw": 0.267,
-     "loss": 0.4247,
-     "xg_for": 1.1812,
-     "xg_against": 1.4306
+     "win": 0.3067,
+     "draw": 0.2679,
+     "loss": 0.4254,
+     "xg_for": 1.1706,
+     "xg_against": 1.4245
     },
     {
      "round": "Matchday 30",
@@ -7986,11 +8010,11 @@
      "date": "2027-04-18",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.3045,
-     "draw": 0.271,
-     "loss": 0.4244,
-     "xg_for": 1.1444,
-     "xg_against": 1.3985
+     "win": 0.3029,
+     "draw": 0.2719,
+     "loss": 0.4252,
+     "xg_for": 1.1345,
+     "xg_against": 1.3931
     },
     {
      "round": "Matchday 33",
@@ -8077,13 +8101,13 @@
     "goals_against": 11
    },
    "projection": {
-    "points": 86.3722,
+    "points": 86.3533,
     "points_low": 77,
     "points_high": 95,
-    "goals_for": 87.9907,
+    "goals_for": 87.9198,
     "goals_for_low": 76,
-    "goals_for_high": 100,
-    "goals_against": 34.6774,
+    "goals_for_high": 101,
+    "goals_against": 34.667,
     "goals_against_low": 28,
     "goals_against_high": 42,
     "remaining": 25
@@ -8466,11 +8490,11 @@
      "date": "2027-01-10",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.8157,
-     "draw": 0.1206,
-     "loss": 0.0637,
-     "xg_for": 2.9548,
-     "xg_against": 0.7489
+     "win": 0.8131,
+     "draw": 0.1223,
+     "loss": 0.0646,
+     "xg_for": 2.9282,
+     "xg_against": 0.7457
     },
     {
      "round": "Matchday 20",
@@ -8620,22 +8644,22 @@
      "date": "2027-04-21",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.8078,
-     "draw": 0.1261,
-     "loss": 0.0661,
-     "xg_for": 2.8628,
-     "xg_against": 0.7321
+     "win": 0.8052,
+     "draw": 0.1278,
+     "loss": 0.067,
+     "xg_for": 2.8379,
+     "xg_against": 0.7293
     },
     {
      "round": "Matchday 34",
      "date": "2027-05-02",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.6323,
-     "draw": 0.202,
-     "loss": 0.1657,
-     "xg_for": 2.1661,
-     "xg_against": 1.0216
+     "win": 0.6294,
+     "draw": 0.2036,
+     "loss": 0.167,
+     "xg_for": 2.1466,
+     "xg_against": 1.0173
     },
     {
      "round": "Matchday 35",
@@ -8700,13 +8724,13 @@
     "goals_against": 32
    },
    "projection": {
-    "points": 44.0889,
+    "points": 44.0754,
     "points_low": 35,
     "points_high": 53,
-    "goals_for": 49.356,
-    "goals_for_low": 42,
+    "goals_for": 49.3204,
+    "goals_for_low": 41,
     "goals_for_high": 58,
-    "goals_against": 73.9775,
+    "goals_against": 73.959,
     "goals_against_low": 64,
     "goals_against_high": 85,
     "remaining": 25
@@ -9034,11 +9058,11 @@
      "date": "2026-11-29",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.274,
-     "draw": 0.2483,
-     "loss": 0.4777,
-     "xg_for": 1.2006,
-     "xg_against": 1.6579
+     "win": 0.2725,
+     "draw": 0.249,
+     "loss": 0.4785,
+     "xg_for": 1.1898,
+     "xg_against": 1.6508
     },
     {
      "round": "Matchday 15",
@@ -9287,22 +9311,22 @@
      "date": "2027-05-23",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.4695,
-     "draw": 0.2496,
-     "loss": 0.2809,
-     "xg_for": 1.6378,
-     "xg_against": 1.2154
+     "win": 0.4671,
+     "draw": 0.2509,
+     "loss": 0.282,
+     "xg_for": 1.6231,
+     "xg_against": 1.2102
     },
     {
      "round": "Matchday 38",
      "date": "2027-05-30",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.2709,
-     "draw": 0.252,
-     "loss": 0.4771,
-     "xg_for": 1.1633,
-     "xg_against": 1.6207
+     "win": 0.2694,
+     "draw": 0.2527,
+     "loss": 0.4779,
+     "xg_for": 1.1532,
+     "xg_against": 1.6144
     }
    ],
    "rating": {
@@ -9323,13 +9347,13 @@
     "goals_against": 20
    },
    "projection": {
-    "points": 51.0548,
+    "points": 51.0377,
     "points_low": 42,
     "points_high": 60,
-    "goals_for": 49.6309,
+    "goals_for": 49.5906,
     "goals_for_low": 41,
     "goals_for_high": 58,
-    "goals_against": 56.0459,
+    "goals_against": 56.032,
     "goals_against_low": 47,
     "goals_against_high": 66,
     "remaining": 25
@@ -9679,11 +9703,11 @@
      "date": "2026-12-13",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.3233,
-     "draw": 0.268,
-     "loss": 0.4088,
-     "xg_for": 1.2157,
-     "xg_against": 1.399
+     "win": 0.3215,
+     "draw": 0.2688,
+     "loss": 0.4096,
+     "xg_for": 1.2052,
+     "xg_against": 1.3935
     },
     {
      "round": "Matchday 17",
@@ -9822,11 +9846,11 @@
      "date": "2027-03-21",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.5188,
-     "draw": 0.25,
-     "loss": 0.2312,
-     "xg_for": 1.6584,
-     "xg_against": 1.0256
+     "win": 0.5162,
+     "draw": 0.2515,
+     "loss": 0.2324,
+     "xg_for": 1.644,
+     "xg_against": 1.0216
     },
     {
      "round": "Matchday 30",
@@ -9866,11 +9890,11 @@
      "date": "2027-04-21",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.5261,
-     "draw": 0.2449,
-     "loss": 0.2291,
-     "xg_for": 1.7117,
-     "xg_against": 1.0491
+     "win": 0.5234,
+     "draw": 0.2463,
+     "loss": 0.2302,
+     "xg_for": 1.6963,
+     "xg_against": 1.0446
     },
     {
      "round": "Matchday 34",
@@ -9946,13 +9970,13 @@
     "goals_against": 23
    },
    "projection": {
-    "points": 56.8218,
+    "points": 56.8098,
     "points_low": 48,
     "points_high": 66,
-    "goals_for": 59.7862,
+    "goals_for": 59.7558,
     "goals_for_low": 51,
     "goals_for_high": 69,
-    "goals_against": 60.2829,
+    "goals_against": 60.2725,
     "goals_against_low": 51,
     "goals_against_high": 70,
     "remaining": 25
@@ -10368,11 +10392,11 @@
      "date": "2027-01-31",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.3768,
-     "draw": 0.2503,
-     "loss": 0.3729,
-     "xg_for": 1.4867,
-     "xg_against": 1.478
+     "win": 0.3747,
+     "draw": 0.2513,
+     "loss": 0.374,
+     "xg_for": 1.4733,
+     "xg_against": 1.4717
     },
     {
      "round": "Matchday 23",
@@ -10412,11 +10436,11 @@
      "date": "2027-02-28",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.5816,
-     "draw": 0.2213,
-     "loss": 0.1971,
-     "xg_for": 1.9648,
-     "xg_against": 1.0592
+     "win": 0.5789,
+     "draw": 0.2228,
+     "loss": 0.1983,
+     "xg_for": 1.9478,
+     "xg_against": 1.0551
     },
     {
      "round": "Matchday 27",
@@ -10569,15 +10593,15 @@
     "goals_against": 20
    },
    "projection": {
-    "points": 42.1368,
+    "points": 42.121,
     "points_low": 33,
     "points_high": 51,
-    "goals_for": 36.6696,
+    "goals_for": 36.6334,
     "goals_for_low": 29,
     "goals_for_high": 45,
-    "goals_against": 55.0332,
+    "goals_against": 55.0189,
     "goals_against_low": 47,
-    "goals_against_high": 65,
+    "goals_against_high": 64,
     "remaining": 25
    },
    "progression": [
@@ -10947,11 +10971,11 @@
      "date": "2027-01-03",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.2935,
-     "draw": 0.2722,
-     "loss": 0.4343,
-     "xg_for": 1.1055,
-     "xg_against": 1.4024
+     "win": 0.2919,
+     "draw": 0.2731,
+     "loss": 0.4349,
+     "xg_for": 1.0956,
+     "xg_against": 1.3965
     },
     {
      "round": "Matchday 19",
@@ -11046,11 +11070,11 @@
      "date": "2027-03-07",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.4802,
-     "draw": 0.2647,
-     "loss": 0.2551,
-     "xg_for": 1.5081,
-     "xg_against": 1.0281
+     "win": 0.4777,
+     "draw": 0.2661,
+     "loss": 0.2562,
+     "xg_for": 1.4945,
+     "xg_against": 1.0237
     },
     {
      "round": "Matchday 28",
@@ -11156,11 +11180,11 @@
      "date": "2027-05-23",
      "opponent": "Elche",
      "venue": "Home",
-     "win": 0.4734,
-     "draw": 0.2698,
-     "loss": 0.2568,
-     "xg_for": 1.4611,
-     "xg_against": 1.005
+     "win": 0.471,
+     "draw": 0.2712,
+     "loss": 0.2578,
+     "xg_for": 1.4484,
+     "xg_against": 1.0011
     },
     {
      "round": "Matchday 38",
@@ -11192,13 +11216,13 @@
     "goals_against": 22
    },
    "projection": {
-    "points": 44.8876,
+    "points": 44.8727,
     "points_low": 36,
     "points_high": 54,
-    "goals_for": 45.6814,
+    "goals_for": 45.6461,
     "goals_for_low": 38,
     "goals_for_high": 54,
-    "goals_against": 56.9181,
+    "goals_against": 56.9031,
     "goals_against_low": 48,
     "goals_against_high": 66,
     "remaining": 26
@@ -11525,11 +11549,11 @@
      "date": "2026-12-06",
      "opponent": "Levante",
      "venue": "Home",
-     "win": 0.5192,
-     "draw": 0.2537,
-     "loss": 0.2271,
-     "xg_for": 1.6225,
-     "xg_against": 0.9872
+     "win": 0.5166,
+     "draw": 0.2552,
+     "loss": 0.2282,
+     "xg_for": 1.6079,
+     "xg_against": 0.983
     },
     {
      "round": "Matchday 16",
@@ -11591,11 +11615,11 @@
      "date": "2027-01-24",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.3221,
-     "draw": 0.2773,
-     "loss": 0.4006,
-     "xg_for": 1.1524,
-     "xg_against": 1.3164
+     "win": 0.3203,
+     "draw": 0.2783,
+     "loss": 0.4014,
+     "xg_for": 1.1424,
+     "xg_against": 1.3113
     },
     {
      "round": "Matchday 22",
@@ -11690,11 +11714,11 @@
      "date": "2027-04-04",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.3262,
-     "draw": 0.2731,
-     "loss": 0.4006,
-     "xg_for": 1.1894,
-     "xg_against": 1.3466
+     "win": 0.3245,
+     "draw": 0.2741,
+     "loss": 0.4014,
+     "xg_for": 1.1787,
+     "xg_against": 1.3409
     },
     {
      "round": "Matchday 31",
@@ -11803,13 +11827,13 @@
     "goals_against": 18
    },
    "projection": {
-    "points": 56.9123,
+    "points": 56.9001,
     "points_low": 47,
     "points_high": 66,
-    "goals_for": 62.2489,
+    "goals_for": 62.2187,
     "goals_for_low": 52,
     "goals_for_high": 73,
-    "goals_against": 49.6739,
+    "goals_against": 49.6632,
     "goals_against_low": 42,
     "goals_against_high": 59,
     "remaining": 25
@@ -12291,11 +12315,11 @@
      "date": "2027-03-14",
      "opponent": "Elche",
      "venue": "Away",
-     "win": 0.462,
-     "draw": 0.2449,
-     "loss": 0.2931,
-     "xg_for": 1.6793,
-     "xg_against": 1.2944
+     "win": 0.4596,
+     "draw": 0.2461,
+     "loss": 0.2943,
+     "xg_for": 1.6647,
+     "xg_against": 1.2894
     },
     {
      "round": "Matchday 29",
@@ -12335,11 +12359,11 @@
      "date": "2027-04-18",
      "opponent": "Levante",
      "venue": "Away",
-     "win": 0.4684,
-     "draw": 0.2405,
-     "loss": 0.2911,
-     "xg_for": 1.7333,
-     "xg_against": 1.3242
+     "win": 0.4659,
+     "draw": 0.2417,
+     "loss": 0.2924,
+     "xg_for": 1.7177,
+     "xg_against": 1.3185
     },
     {
      "round": "Matchday 33",
@@ -12422,221 +12446,221 @@
    "played": 13,
    "points": 36,
    "goal_difference": 36,
-   "projected_points": 93.3706,
+   "projected_points": 93.3605,
    "points_low": 85,
    "points_high": 101,
-   "projected_goals_for": 118.1695,
-   "projected_goals_against": 40.0833
+   "projected_goals_for": 118.1066,
+   "projected_goals_against": 40.077
   },
   {
    "club": "Real Madrid",
    "played": 13,
    "points": 33,
    "goal_difference": 22,
-   "projected_points": 86.3722,
+   "projected_points": 86.3533,
    "points_low": 77,
    "points_high": 95,
-   "projected_goals_for": 87.9907,
-   "projected_goals_against": 34.6774
+   "projected_goals_for": 87.9198,
+   "projected_goals_against": 34.667
   },
   {
    "club": "Ath Madrid",
    "played": 13,
    "points": 31,
    "goal_difference": 16,
-   "projected_points": 77.6876,
-   "points_low": 69,
+   "projected_points": 77.6679,
+   "points_low": 68,
    "points_high": 86,
-   "projected_goals_for": 71.2965,
-   "projected_goals_against": 36.5529
+   "projected_goals_for": 71.2397,
+   "projected_goals_against": 36.5423
   },
   {
    "club": "Betis",
    "played": 13,
    "points": 27,
    "goal_difference": 5,
-   "projected_points": 66.0097,
+   "projected_points": 65.9959,
    "points_low": 57,
    "points_high": 75,
-   "projected_goals_for": 60.3381,
-   "projected_goals_against": 49.0708
+   "projected_goals_for": 60.3009,
+   "projected_goals_against": 49.0629
   },
   {
    "club": "Villarreal",
    "played": 13,
    "points": 15,
    "goal_difference": 1,
-   "projected_points": 56.9123,
+   "projected_points": 56.9001,
    "points_low": 47,
    "points_high": 66,
-   "projected_goals_for": 62.2489,
-   "projected_goals_against": 49.6739
+   "projected_goals_for": 62.2187,
+   "projected_goals_against": 49.6632
   },
   {
    "club": "Sociedad",
    "played": 13,
    "points": 22,
    "goal_difference": 0,
-   "projected_points": 56.8218,
+   "projected_points": 56.8098,
    "points_low": 48,
    "points_high": 66,
-   "projected_goals_for": 59.7862,
-   "projected_goals_against": 60.2829
+   "projected_goals_for": 59.7558,
+   "projected_goals_against": 60.2725
   },
   {
    "club": "Ath Bilbao",
    "played": 12,
    "points": 16,
    "goal_difference": 3,
-   "projected_points": 52.5047,
+   "projected_points": 52.4931,
    "points_low": 43,
    "points_high": 62,
-   "projected_goals_for": 48.4136,
-   "projected_goals_against": 44.4873
+   "projected_goals_for": 48.3867,
+   "projected_goals_against": 44.4788
   },
   {
    "club": "Sevilla",
    "played": 13,
    "points": 19,
    "goal_difference": -2,
-   "projected_points": 51.0548,
+   "projected_points": 51.0377,
    "points_low": 42,
    "points_high": 60,
-   "projected_goals_for": 49.6309,
-   "projected_goals_against": 56.0459
+   "projected_goals_for": 49.5906,
+   "projected_goals_against": 56.032
   },
   {
    "club": "Alaves",
    "played": 13,
    "points": 16,
    "goal_difference": 0,
-   "projected_points": 47.6203,
+   "projected_points": 47.5989,
    "points_low": 39,
    "points_high": 57,
-   "projected_goals_for": 48.38,
-   "projected_goals_against": 52.9336
+   "projected_goals_for": 48.3299,
+   "projected_goals_against": 52.9144
   },
   {
    "club": "Celta",
    "played": 13,
    "points": 13,
    "goal_difference": -1,
-   "projected_points": 46.4951,
+   "projected_points": 46.4838,
    "points_low": 38,
    "points_high": 56,
-   "projected_goals_for": 42.7765,
-   "projected_goals_against": 45.7332
+   "projected_goals_for": 42.7498,
+   "projected_goals_against": 45.7241
   },
   {
    "club": "Vallecano",
    "played": 12,
    "points": 12,
    "goal_difference": -7,
-   "projected_points": 44.8876,
+   "projected_points": 44.8727,
    "points_low": 36,
    "points_high": 54,
-   "projected_goals_for": 45.6814,
-   "projected_goals_against": 56.9181
+   "projected_goals_for": 45.6461,
+   "projected_goals_against": 56.9031
   },
   {
    "club": "Santander",
    "played": 13,
    "points": 17,
    "goal_difference": -12,
-   "projected_points": 44.0889,
+   "projected_points": 44.0754,
    "points_low": 35,
    "points_high": 53,
-   "projected_goals_for": 49.356,
-   "projected_goals_against": 73.9775
+   "projected_goals_for": 49.3204,
+   "projected_goals_against": 73.959
   },
   {
    "club": "Osasuna",
    "played": 13,
    "points": 15,
    "goal_difference": -10,
-   "projected_points": 43.8826,
+   "projected_points": 43.8684,
    "points_low": 35,
    "points_high": 53,
-   "projected_goals_for": 41.7548,
-   "projected_goals_against": 61.0896
+   "projected_goals_for": 41.7207,
+   "projected_goals_against": 61.074
   },
   {
    "club": "Espanol",
    "played": 13,
    "points": 15,
    "goal_difference": 0,
-   "projected_points": 43.5139,
+   "projected_points": 43.5065,
    "points_low": 35,
    "points_high": 52,
-   "projected_goals_for": 41.2896,
-   "projected_goals_against": 51.293
+   "projected_goals_for": 41.2703,
+   "projected_goals_against": 51.2812
   },
   {
    "club": "La Coruna",
    "played": 13,
    "points": 15,
    "goal_difference": -1,
-   "projected_points": 43.1234,
+   "projected_points": 43.1158,
    "points_low": 35,
    "points_high": 52,
-   "projected_goals_for": 43.4421,
-   "projected_goals_against": 54.9074
+   "projected_goals_for": 43.4226,
+   "projected_goals_against": 54.8957
   },
   {
    "club": "Valencia",
    "played": 13,
    "points": 12,
    "goal_difference": -11,
-   "projected_points": 42.1368,
+   "projected_points": 42.121,
    "points_low": 33,
    "points_high": 51,
-   "projected_goals_for": 36.6696,
-   "projected_goals_against": 55.0332
+   "projected_goals_for": 36.6334,
+   "projected_goals_against": 55.0189
   },
   {
    "club": "Levante",
-   "played": 12,
-   "points": 11,
+   "played": 13,
+   "points": 12,
    "goal_difference": -5,
-   "projected_points": 41.1763,
+   "projected_points": 40.6208,
    "points_low": 32,
    "points_high": 50,
-   "projected_goals_for": 47.2291,
-   "projected_goals_against": 62.6835
+   "projected_goals_for": 46.5152,
+   "projected_goals_against": 62.1462
   },
   {
    "club": "Elche",
-   "played": 12,
-   "points": 10,
+   "played": 13,
+   "points": 11,
    "goal_difference": -6,
-   "projected_points": 40.1095,
+   "projected_points": 40.1096,
    "points_low": 31,
    "points_high": 49,
-   "projected_goals_for": 44.2904,
-   "projected_goals_against": 60.4706
+   "projected_goals_for": 43.996,
+   "projected_goals_against": 59.5512
   },
   {
    "club": "Getafe",
    "played": 13,
    "points": 12,
    "goal_difference": -13,
-   "projected_points": 38.7181,
+   "projected_points": 38.7015,
    "points_low": 30,
    "points_high": 47,
-   "projected_goals_for": 29.8708,
-   "projected_goals_against": 53.2363
+   "projected_goals_for": 29.8348,
+   "projected_goals_against": 53.2184
   },
   {
    "club": "Malaga",
    "played": 13,
    "points": 5,
    "goal_difference": -15,
-   "projected_points": 30.3707,
+   "projected_points": 30.3592,
    "points_low": 22,
    "points_high": 39,
-   "projected_goals_for": 33.8764,
-   "projected_goals_against": 63.3405
+   "projected_goals_for": 33.8472,
+   "projected_goals_against": 63.3236
   }
  ],
- "results_through": "2026-11-22"
+ "results_through": "2026-11-23"
 }

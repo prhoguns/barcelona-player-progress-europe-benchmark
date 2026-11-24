@@ -201,7 +201,7 @@
      "player": "Bukayo Saka",
      "goals": 3,
      "previous_share": 0.0986,
-     "projected": 7.7099,
+     "projected": 7.7093,
      "low": 3.0,
      "high": 14.0
     },
@@ -210,7 +210,7 @@
      "player": "Kai Havertz",
      "goals": 3,
      "previous_share": 0.0282,
-     "projected": 6.5505,
+     "projected": 6.5501,
      "low": 3.0,
      "high": 11.0
     },
@@ -219,7 +219,7 @@
      "player": "Martin Ødegaard",
      "goals": 3,
      "previous_share": 0.0141,
-     "projected": 6.3186,
+     "projected": 6.3182,
      "low": 3.0,
      "high": 11.0
     },
@@ -228,7 +228,7 @@
      "player": "Noni Madueke",
      "goals": 2,
      "previous_share": 0.0423,
-     "projected": 4.7535,
+     "projected": 4.7531,
      "low": 2.0,
      "high": 9.0
     },
@@ -237,7 +237,7 @@
      "player": "Bruno Guimarães",
      "goals": 2,
      "previous_share": null,
-     "projected": 4.0579,
+     "projected": 4.0576,
      "low": 2.0,
      "high": 7.0
     },
@@ -246,7 +246,7 @@
      "player": "Eberechi Eze",
      "goals": 1,
      "previous_share": 0.0986,
-     "projected": 3.652,
+     "projected": 3.6517,
      "low": 1.0,
      "high": 7.0
     },
@@ -255,7 +255,7 @@
      "player": "Gabriel Magalhães",
      "goals": 1,
      "previous_share": 0.0423,
-     "projected": 2.7245,
+     "projected": 2.7243,
      "low": 1.0,
      "high": 5.0
     },
@@ -264,7 +264,7 @@
      "player": "Riccardo Calafiori",
      "goals": 1,
      "previous_share": 0.0141,
-     "projected": 2.2608,
+     "projected": 2.2606,
      "low": 1.0,
      "high": 4.0
     },
@@ -273,12 +273,12 @@
      "player": "Ezri Konsa",
      "goals": 1,
      "previous_share": null,
-     "projected": 2.0289,
+     "projected": 2.0288,
      "low": 1.0,
      "high": 4.0
     }
    ],
-   "unassigned_remaining": 27.3607
+   "unassigned_remaining": 27.3573
   },
   "Aston Villa": {
    "page": "2026–27 Aston Villa F.C. season",
@@ -417,7 +417,7 @@
      "player": "Nicolas Jackson",
      "goals": 6,
      "previous_share": null,
-     "projected": 11.392,
+     "projected": 11.3996,
      "low": 6.0,
      "high": 18.0
     },
@@ -426,7 +426,7 @@
      "player": "John McGinn",
      "goals": 2,
      "previous_share": 0.0893,
-     "projected": 5.0811,
+     "projected": 5.0855,
      "low": 2.0,
      "high": 9.0
     },
@@ -435,7 +435,7 @@
      "player": "Johan Manzambi",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.7973,
+     "projected": 3.7999,
      "low": 2.0,
      "high": 6.0
     },
@@ -444,7 +444,7 @@
      "player": "Alysson",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.7973,
+     "projected": 3.7999,
      "low": 2.0,
      "high": 6.0
     },
@@ -453,7 +453,7 @@
      "player": "Emiliano Buendía",
      "goals": 1,
      "previous_share": 0.1071,
-     "projected": 3.4392,
+     "projected": 3.4427,
      "low": 1.0,
      "high": 7.0
     },
@@ -462,12 +462,12 @@
      "player": "Leon Goretzka",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8987,
+     "projected": 1.8999,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 25.9328
+   "unassigned_remaining": 25.9697
   },
   "Bournemouth": {
    "page": "2026–27 AFC Bournemouth season",
@@ -610,7 +610,7 @@
      "player": "Evanilson",
      "goals": 6,
      "previous_share": 0.1034,
-     "projected": 12.1119,
+     "projected": 12.1144,
      "low": 7.0,
      "high": 20.0
     },
@@ -619,7 +619,7 @@
      "player": "Marcus Tavernier",
      "goals": 5,
      "previous_share": 0.1207,
-     "projected": 10.5338,
+     "projected": 10.536,
      "low": 5.0,
      "high": 17.0
     },
@@ -628,7 +628,7 @@
      "player": "Justin Kluivert",
      "goals": 2,
      "previous_share": 0.0345,
-     "projected": 4.0373,
+     "projected": 4.0381,
      "low": 2.0,
      "high": 7.0
     },
@@ -637,7 +637,7 @@
      "player": "Rayan",
      "goals": 1,
      "previous_share": 0.0862,
-     "projected": 2.8996,
+     "projected": 2.9004,
      "low": 1.0,
      "high": 6.0
     },
@@ -646,7 +646,7 @@
      "player": "Amine Adli",
      "goals": 1,
      "previous_share": 0.0517,
-     "projected": 2.4591,
+     "projected": 2.4597,
      "low": 1.0,
      "high": 5.0
     },
@@ -655,17 +655,17 @@
      "player": "Alex Scott",
      "goals": 1,
      "previous_share": 0.0517,
-     "projected": 2.4591,
+     "projected": 2.4597,
      "low": 1.0,
      "high": 5.0
     }
    ],
-   "unassigned_remaining": 21.4192
+   "unassigned_remaining": 21.4279
   },
   "Brentford": {
    "page": "2026–27 Brentford F.C. season",
-   "matches_checked": 10,
-   "matches_complete": 10,
+   "matches_checked": 11,
+   "matches_complete": 11,
    "all_competitions": [
     {
      "player_id": "Igor Thiago",
@@ -678,13 +678,33 @@
      }
     },
     {
-     "player_id": "Callum Wilson",
-     "player": "Callum Wilson",
+     "player_id": "Keane Lewis-Potter",
+     "player": "Keane Lewis-Potter",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 4
+     }
+    },
+    {
+     "player_id": "Fábio Carvalho (footballer, born 2002)",
+     "player": "Fábio Carvalho",
      "goals": 3,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 3,
-      "league": 0
+      "EFL Cup": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Vitaly Janelt",
+     "player": "Vitaly Janelt",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "league": 3
      }
     },
     {
@@ -698,33 +718,13 @@
      }
     },
     {
-     "player_id": "Fábio Carvalho (footballer, born 2002)",
-     "player": "Fábio Carvalho",
-     "goals": 2,
+     "player_id": "Callum Wilson",
+     "player": "Callum Wilson",
+     "goals": 3,
      "penalties": 0,
      "by_competition": {
-      "EFL Cup": 1,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Keane Lewis-Potter",
-     "player": "Keane Lewis-Potter",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Vitaly Janelt",
-     "player": "Vitaly Janelt",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "league": 2
+      "EFL Cup": 3,
+      "league": 0
      }
     },
     {
@@ -823,7 +823,11 @@
     79,
     44,
     63,
-    76
+    76,
+    23,
+    25,
+    67,
+    90
    ],
    "status": "ok",
    "forecasts": [
@@ -832,34 +836,43 @@
      "player": "Igor Thiago",
      "goals": 2,
      "previous_share": 0.4,
-     "projected": 9.2963,
+     "projected": 8.6509,
      "low": 3.0,
-     "high": 18.0
+     "high": 17.0
+    },
+    {
+     "player_id": "Keane Lewis-Potter",
+     "player": "Keane Lewis-Potter",
+     "goals": 4,
+     "previous_share": 0.0545,
+     "projected": 7.8581,
+     "low": 4.0,
+     "high": 13.0
     },
     {
      "player_id": "Kevin Schade",
      "player": "Kevin Schade",
      "goals": 3,
      "previous_share": 0.1455,
-     "projected": 7.6273,
+     "projected": 7.218,
      "low": 3.0,
-     "high": 14.0
-    },
-    {
-     "player_id": "Keane Lewis-Potter",
-     "player": "Keane Lewis-Potter",
-     "goals": 2,
-     "previous_share": 0.0545,
-     "projected": 4.4953,
-     "low": 2.0,
-     "high": 8.0
+     "high": 13.0
     },
     {
      "player_id": "Vitaly Janelt",
      "player": "Vitaly Janelt",
+     "goals": 3,
+     "previous_share": 0.0182,
+     "projected": 5.6056,
+     "low": 3.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Fábio Carvalho (footballer, born 2002)",
+     "player": "Fábio Carvalho",
      "goals": 2,
      "previous_share": 0.0182,
-     "projected": 3.9899,
+     "projected": 3.8139,
      "low": 2.0,
      "high": 7.0
     },
@@ -868,25 +881,16 @@
      "player": "Dango Ouattara",
      "goals": 1,
      "previous_share": 0.1273,
-     "projected": 3.6374,
+     "projected": 3.4041,
      "low": 1.0,
      "high": 7.0
-    },
-    {
-     "player_id": "Fábio Carvalho (footballer, born 2002)",
-     "player": "Fábio Carvalho",
-     "goals": 1,
-     "previous_share": 0.0182,
-     "projected": 2.1213,
-     "low": 1.0,
-     "high": 4.0
     },
     {
      "player_id": "Michael Kayode",
      "player": "Michael Kayode",
      "goals": 1,
      "previous_share": 0.0182,
-     "projected": 2.1213,
+     "projected": 2.0221,
      "low": 1.0,
      "high": 4.0
     },
@@ -895,7 +899,7 @@
      "player": "Jaidon Anthony",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8686,
+     "projected": 1.7918,
      "low": 1.0,
      "high": 3.0
     },
@@ -904,7 +908,7 @@
      "player": "Kristoffer Ajer",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8686,
+     "projected": 1.7918,
      "low": 1.0,
      "high": 3.0
     },
@@ -913,12 +917,12 @@
      "player": "Yehor Yarmolyuk",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8686,
+     "projected": 1.7918,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 17.7985
+   "unassigned_remaining": 16.2241
   },
   "Brighton": {
    "page": "2026–27 Brighton & Hove Albion F.C. season",
@@ -1123,7 +1127,7 @@
      "player": "Pascal Groß",
      "goals": 4,
      "previous_share": 0.0192,
-     "projected": 7.3198,
+     "projected": 7.3245,
      "low": 4.0,
      "high": 12.0
     },
@@ -1132,7 +1136,7 @@
      "player": "Jack Hinshelwood",
      "goals": 3,
      "previous_share": 0.0769,
-     "projected": 6.2605,
+     "projected": 6.2651,
      "low": 3.0,
      "high": 11.0
     },
@@ -1141,7 +1145,7 @@
      "player": "Yasin Ayari",
      "goals": 3,
      "previous_share": 0.0577,
-     "projected": 6.0234,
+     "projected": 6.0277,
      "low": 3.0,
      "high": 10.0
     },
@@ -1150,7 +1154,7 @@
      "player": "Charalampos Kostoulas",
      "goals": 3,
      "previous_share": 0.0385,
-     "projected": 5.7862,
+     "projected": 5.7902,
      "low": 3.0,
      "high": 10.0
     },
@@ -1159,7 +1163,7 @@
      "player": "Diego Gómez",
      "goals": 2,
      "previous_share": 0.0962,
-     "projected": 4.727,
+     "projected": 4.7308,
      "low": 2.0,
      "high": 8.0
     },
@@ -1168,7 +1172,7 @@
      "player": "Maxim De Cuyper",
      "goals": 2,
      "previous_share": 0.0385,
-     "projected": 4.0156,
+     "projected": 4.0184,
      "low": 2.0,
      "high": 7.0
     },
@@ -1177,7 +1181,7 @@
      "player": "Malick Yalcouyé",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.5413,
+     "projected": 3.5435,
      "low": 2.0,
      "high": 6.0
     },
@@ -1186,7 +1190,7 @@
      "player": "Lewis Dunk",
      "goals": 1,
      "previous_share": 0.0192,
-     "projected": 2.0078,
+     "projected": 2.0092,
      "low": 1.0,
      "high": 4.0
     },
@@ -1195,7 +1199,7 @@
      "player": "Chema Andrés",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7707,
+     "projected": 1.7718,
      "low": 1.0,
      "high": 3.0
     },
@@ -1204,7 +1208,7 @@
      "player": "Luka Vušković",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7707,
+     "projected": 1.7718,
      "low": 1.0,
      "high": 3.0
     },
@@ -1213,12 +1217,12 @@
      "player": "Jaouen Hadjam",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7707,
+     "projected": 1.7718,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 22.7049
+   "unassigned_remaining": 22.7372
   },
   "Chelsea": {
    "page": "2026–27 Chelsea F.C. season",
@@ -1345,7 +1349,7 @@
      "player": "João Pedro",
      "goals": 5,
      "previous_share": 0.2586,
-     "projected": 12.7493,
+     "projected": 12.7532,
      "low": 6.0,
      "high": 22.0
     },
@@ -1354,7 +1358,7 @@
      "player": "Morgan Rogers",
      "goals": 5,
      "previous_share": null,
-     "projected": 9.2402,
+     "projected": 9.2423,
      "low": 5.0,
      "high": 15.0
     },
@@ -1363,7 +1367,7 @@
      "player": "Cole Palmer",
      "goals": 3,
      "previous_share": 0.1724,
-     "projected": 7.8835,
+     "projected": 7.886,
      "low": 3.0,
      "high": 14.0
     },
@@ -1372,7 +1376,7 @@
      "player": "Pedro Neto",
      "goals": 3,
      "previous_share": 0.0862,
-     "projected": 6.7138,
+     "projected": 6.7157,
      "low": 3.0,
      "high": 12.0
     },
@@ -1381,7 +1385,7 @@
      "player": "Jordan Henderson",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.6961,
+     "projected": 3.6969,
      "low": 2.0,
      "high": 6.0
     },
@@ -1390,7 +1394,7 @@
      "player": "Emmanuel Emegha",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.848,
+     "projected": 1.8485,
      "low": 1.0,
      "high": 3.0
     },
@@ -1399,12 +1403,12 @@
      "player": "Roméo Lavia",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.848,
+     "projected": 1.8485,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 20.1189
+   "unassigned_remaining": 20.129
   },
   "Coventry": {
    "page": "2026–27 Coventry City F.C. season",
@@ -1533,7 +1537,7 @@
      "player": "Jack Rudoni",
      "goals": 3,
      "previous_share": null,
-     "projected": 5.0474,
+     "projected": 5.0476,
      "low": 3.0,
      "high": 8.0
     },
@@ -1542,7 +1546,7 @@
      "player": "Taiwo Awoniyi",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.365,
+     "projected": 3.3651,
      "low": 2.0,
      "high": 6.0
     },
@@ -1551,7 +1555,7 @@
      "player": "Tatsuhiro Sakamoto",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.365,
+     "projected": 3.3651,
      "low": 2.0,
      "high": 6.0
     },
@@ -1601,7 +1605,7 @@
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 22.5219
+   "unassigned_remaining": 22.5237
   },
   "Crystal Palace": {
    "page": "2026–27 Crystal Palace F.C. season",
@@ -1739,7 +1743,7 @@
      "player": "Jørgen Strand Larsen",
      "goals": 2,
      "previous_share": 0.0732,
-     "projected": 4.4418,
+     "projected": 4.442,
      "low": 2.0,
      "high": 8.0
     },
@@ -1748,7 +1752,7 @@
      "player": "Tyrick Mitchell",
      "goals": 2,
      "previous_share": 0.0244,
-     "projected": 3.8408,
+     "projected": 3.8409,
      "low": 2.0,
      "high": 7.0
     },
@@ -1757,7 +1761,7 @@
      "player": "Yeremy Pino",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.5402,
+     "projected": 3.5403,
      "low": 2.0,
      "high": 6.0
     },
@@ -1766,7 +1770,7 @@
      "player": "Eddie Nketiah",
      "goals": 1,
      "previous_share": 0.0488,
-     "projected": 2.3712,
+     "projected": 2.3713,
      "low": 1.0,
      "high": 5.0
     },
@@ -1775,7 +1779,7 @@
      "player": "Daichi Kamada",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7701,
+     "projected": 1.7702,
      "low": 1.0,
      "high": 3.0
     },
@@ -1784,7 +1788,7 @@
      "player": "Ben Chilwell",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7701,
+     "projected": 1.7702,
      "low": 1.0,
      "high": 3.0
     },
@@ -1793,7 +1797,7 @@
      "player": "Anan Khalaili",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7701,
+     "projected": 1.7702,
      "low": 1.0,
      "high": 3.0
     },
@@ -1802,17 +1806,17 @@
      "player": "Jefferson Lerma",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7701,
+     "projected": 1.7702,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 23.6106
+   "unassigned_remaining": 23.6124
   },
   "Everton": {
    "page": "2026–27 Everton F.C. season",
-   "matches_checked": 10,
-   "matches_complete": 10,
+   "matches_checked": 11,
+   "matches_complete": 11,
    "all_competitions": [
     {
      "player_id": "Thierno Barry (footballer, born 2002)",
@@ -1926,25 +1930,25 @@
      "player": "Thierno Barry",
      "goals": 6,
      "previous_share": null,
-     "projected": 10.6643,
+     "projected": 10.4506,
      "low": 6.0,
-     "high": 17.0
+     "high": 16.0
     },
     {
      "player_id": "Kiernan Dewsbury-Hall",
      "player": "Kiernan Dewsbury-Hall",
      "goals": 3,
      "previous_share": null,
-     "projected": 5.3322,
+     "projected": 5.2253,
      "low": 3.0,
-     "high": 9.0
+     "high": 8.0
     },
     {
      "player_id": "Ainsley Maitland-Niles",
      "player": "Ainsley Maitland-Niles",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7774,
+     "projected": 1.7418,
      "low": 1.0,
      "high": 3.0
     },
@@ -1953,7 +1957,7 @@
      "player": "James Tarkowski",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7774,
+     "projected": 1.7418,
      "low": 1.0,
      "high": 3.0
     },
@@ -1962,12 +1966,12 @@
      "player": "Tyrique George",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7774,
+     "projected": 1.7418,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 24.8765
+   "unassigned_remaining": 23.7364
   },
   "Fulham": {
    "page": "2026–27 Fulham F.C. season",
@@ -2073,7 +2077,7 @@
      "player": "Josh King",
      "goals": 2,
      "previous_share": 0.0213,
-     "projected": 3.8569,
+     "projected": 3.8586,
      "low": 2.0,
      "high": 7.0
     },
@@ -2082,7 +2086,7 @@
      "player": "Rodrigo Muniz",
      "goals": 2,
      "previous_share": 0.0213,
-     "projected": 3.8569,
+     "projected": 3.8586,
      "low": 2.0,
      "high": 7.0
     },
@@ -2091,7 +2095,7 @@
      "player": "Alex Iwobi",
      "goals": 1,
      "previous_share": 0.0851,
-     "projected": 2.8738,
+     "projected": 2.8755,
      "low": 1.0,
      "high": 6.0
     },
@@ -2100,7 +2104,7 @@
      "player": "Ryan Sessegnon",
      "goals": 1,
      "previous_share": 0.0638,
-     "projected": 2.6037,
+     "projected": 2.6052,
      "low": 1.0,
      "high": 5.0
     },
@@ -2109,7 +2113,7 @@
      "player": "César Palacios",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7934,
+     "projected": 1.7941,
      "low": 1.0,
      "high": 3.0
     },
@@ -2118,7 +2122,7 @@
      "player": "Gonzalo García",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7934,
+     "projected": 1.7941,
      "low": 1.0,
      "high": 3.0
     },
@@ -2127,12 +2131,12 @@
      "player": "Oscar Bobb",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7934,
+     "projected": 1.7941,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 24.5448
+   "unassigned_remaining": 24.5674
   },
   "Hull": {
    "page": "2026–27 Hull City A.F.C. season",
@@ -2252,7 +2256,7 @@
      "player": "Oli McBurnie",
      "goals": 4,
      "previous_share": null,
-     "projected": 6.7071,
+     "projected": 6.7082,
      "low": 4.0,
      "high": 10.0
     },
@@ -2261,7 +2265,7 @@
      "player": "Mohamed Belloumi",
      "goals": 3,
      "previous_share": null,
-     "projected": 5.0303,
+     "projected": 5.0311,
      "low": 3.0,
      "high": 8.0
     },
@@ -2270,7 +2274,7 @@
      "player": "Liam Millar",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.6768,
+     "projected": 1.677,
      "low": 1.0,
      "high": 3.0
     },
@@ -2279,7 +2283,7 @@
      "player": "Joe Gelhardt",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.6768,
+     "projected": 1.677,
      "low": 1.0,
      "high": 3.0
     },
@@ -2288,7 +2292,7 @@
      "player": "Mohamed-Ali Cho",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.6768,
+     "projected": 1.677,
      "low": 1.0,
      "high": 3.0
     },
@@ -2297,7 +2301,7 @@
      "player": "Nobel Mendy",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.6768,
+     "projected": 1.677,
      "low": 1.0,
      "high": 3.0
     },
@@ -2306,7 +2310,7 @@
      "player": "Semi Ajayi",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.6768,
+     "projected": 1.677,
      "low": 1.0,
      "high": 3.0
     },
@@ -2315,12 +2319,12 @@
      "player": "Tim Iroegbunam",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.6768,
+     "projected": 1.677,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 21.6565
+   "unassigned_remaining": 21.6654
   },
   "Ipswich": {
    "page": "2026–27 Ipswich Town F.C. season",
@@ -2482,7 +2486,7 @@
      "player": "Leif Davis",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.3275,
+     "projected": 3.3276,
      "low": 2.0,
      "high": 5.0
     },
@@ -2491,7 +2495,7 @@
      "player": "Emersonn",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.3275,
+     "projected": 3.3276,
      "low": 2.0,
      "high": 5.0
     },
@@ -2500,7 +2504,7 @@
      "player": "Zian Flemming",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.3275,
+     "projected": 3.3276,
      "low": 2.0,
      "high": 5.0
     },
@@ -2509,7 +2513,7 @@
      "player": "Jack Clarke",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.3275,
+     "projected": 3.3276,
      "low": 2.0,
      "high": 5.0
     },
@@ -2518,7 +2522,7 @@
      "player": "Julio Enciso",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.3275,
+     "projected": 3.3276,
      "low": 2.0,
      "high": 5.0
     },
@@ -2568,7 +2572,7 @@
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 21.2402
+   "unassigned_remaining": 21.2418
   },
   "Leeds": {
    "page": "2026–27 Leeds United F.C. season",
@@ -2678,7 +2682,7 @@
      "player": "Dominic Calvert-Lewin",
      "goals": 5,
      "previous_share": 0.2857,
-     "projected": 11.7745,
+     "projected": 11.7842,
      "low": 6.0,
      "high": 20.0
     },
@@ -2687,7 +2691,7 @@
      "player": "Noah Okafor",
      "goals": 4,
      "previous_share": 0.1633,
-     "projected": 8.68,
+     "projected": 8.6868,
      "low": 4.0,
      "high": 15.0
     },
@@ -2696,7 +2700,7 @@
      "player": "Anton Stach",
      "goals": 1,
      "previous_share": 0.102,
-     "projected": 2.8633,
+     "projected": 2.866,
      "low": 1.0,
      "high": 6.0
     },
@@ -2705,7 +2709,7 @@
      "player": "Brenden Aaronson",
      "goals": 1,
      "previous_share": 0.0816,
-     "projected": 2.6322,
+     "projected": 2.6346,
      "low": 1.0,
      "high": 5.0
     },
@@ -2714,7 +2718,7 @@
      "player": "James Justin",
      "goals": 1,
      "previous_share": 0.0408,
-     "projected": 2.17,
+     "projected": 2.1717,
      "low": 1.0,
      "high": 4.0
     },
@@ -2723,12 +2727,12 @@
      "player": "Jayden Bogle",
      "goals": 1,
      "previous_share": 0.0204,
-     "projected": 1.9389,
+     "projected": 1.9402,
      "low": 1.0,
      "high": 4.0
     }
    ],
-   "unassigned_remaining": 15.499
+   "unassigned_remaining": 15.5213
   },
   "Liverpool": {
    "page": "2026–27 Liverpool F.C. season",
@@ -2894,7 +2898,7 @@
      "player": "Alexander Isak",
      "goals": 7,
      "previous_share": 0.0476,
-     "projected": 15.1479,
+     "projected": 15.1586,
      "low": 8.0,
      "high": 25.0
     },
@@ -2903,7 +2907,7 @@
      "player": "Víctor Muñoz",
      "goals": 3,
      "previous_share": null,
-     "projected": 6.1492,
+     "projected": 6.1533,
      "low": 3.0,
      "high": 10.0
     },
@@ -2912,7 +2916,7 @@
      "player": "Dominik Szoboszlai",
      "goals": 2,
      "previous_share": 0.0952,
-     "projected": 5.6991,
+     "projected": 5.7039,
      "low": 2.0,
      "high": 11.0
     },
@@ -2921,7 +2925,7 @@
      "player": "Florian Wirtz",
      "goals": 2,
      "previous_share": 0.0794,
-     "projected": 5.4325,
+     "projected": 5.4369,
      "low": 2.0,
      "high": 10.0
     },
@@ -2930,7 +2934,7 @@
      "player": "Cody Gakpo",
      "goals": 1,
      "previous_share": 0.1111,
-     "projected": 3.9159,
+     "projected": 3.9197,
      "low": 1.0,
      "high": 8.0
     },
@@ -2939,7 +2943,7 @@
      "player": "Alexis Mac Allister",
      "goals": 1,
      "previous_share": 0.0317,
-     "projected": 2.5829,
+     "projected": 2.585,
      "low": 1.0,
      "high": 5.0
     },
@@ -2948,12 +2952,12 @@
      "player": "Rio Ngumoha",
      "goals": 1,
      "previous_share": 0.0317,
-     "projected": 2.5829,
+     "projected": 2.585,
      "low": 1.0,
      "high": 5.0
     }
    ],
-   "unassigned_remaining": 27.9763
+   "unassigned_remaining": 28.0128
   },
   "Man City": {
    "page": "2026–27 Manchester City F.C. season",
@@ -3146,7 +3150,7 @@
      "player": "Erling Haaland",
      "goals": 9,
      "previous_share": 0.3506,
-     "projected": 23.9978,
+     "projected": 24.0115,
      "low": 11.0,
      "high": 42.0
     },
@@ -3155,7 +3159,7 @@
      "player": "Rayan Cherki",
      "goals": 5,
      "previous_share": 0.0519,
-     "projected": 10.9858,
+     "projected": 10.9913,
      "low": 6.0,
      "high": 18.0
     },
@@ -3164,7 +3168,7 @@
      "player": "Antoine Semenyo",
      "goals": 2,
      "previous_share": 0.0909,
-     "projected": 5.5461,
+     "projected": 5.5494,
      "low": 2.0,
      "high": 10.0
     },
@@ -3173,7 +3177,7 @@
      "player": "Phil Foden",
      "goals": 1,
      "previous_share": 0.0909,
-     "projected": 3.5196,
+     "projected": 3.5219,
      "low": 1.0,
      "high": 7.0
     },
@@ -3182,7 +3186,7 @@
      "player": "Jérémy Doku",
      "goals": 1,
      "previous_share": 0.0649,
-     "projected": 3.093,
+     "projected": 3.0949,
      "low": 1.0,
      "high": 6.0
     },
@@ -3191,7 +3195,7 @@
      "player": "Joško Gvardiol",
      "goals": 1,
      "previous_share": 0.026,
-     "projected": 2.4531,
+     "projected": 2.4544,
      "low": 1.0,
      "high": 5.0
     },
@@ -3200,7 +3204,7 @@
      "player": "Marc Guéhi",
      "goals": 1,
      "previous_share": 0.013,
-     "projected": 2.2398,
+     "projected": 2.241,
      "low": 1.0,
      "high": 4.0
     },
@@ -3209,7 +3213,7 @@
      "player": "Elliot Anderson",
      "goals": 1,
      "previous_share": null,
-     "projected": 2.0265,
+     "projected": 2.0275,
      "low": 1.0,
      "high": 4.0
     },
@@ -3218,12 +3222,12 @@
      "player": "Enzo Fernández",
      "goals": 1,
      "previous_share": null,
-     "projected": 2.0265,
+     "projected": 2.0275,
      "low": 1.0,
      "high": 4.0
     }
    ],
-   "unassigned_remaining": 21.5435
+   "unassigned_remaining": 21.5632
   },
   "Man United": {
    "page": "2026–27 Manchester United F.C. season",
@@ -3383,7 +3387,7 @@
      "player": "Harvey Barnes",
      "goals": 3,
      "previous_share": 0.1321,
-     "projected": 7.6592,
+     "projected": 7.6586,
      "low": 3.0,
      "high": 14.0
     },
@@ -3392,7 +3396,7 @@
      "player": "William Osula",
      "goals": 1,
      "previous_share": 0.1321,
-     "projected": 3.8368,
+     "projected": 3.8364,
      "low": 1.0,
      "high": 8.0
     },
@@ -3401,7 +3405,7 @@
      "player": "Anthony Elanga",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.8224,
+     "projected": 3.8222,
      "low": 2.0,
      "high": 7.0
     },
@@ -3410,7 +3414,7 @@
      "player": "Joe Willock",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.8224,
+     "projected": 3.8222,
      "low": 2.0,
      "high": 7.0
     },
@@ -3419,7 +3423,7 @@
      "player": "Malick Thiaw",
      "goals": 1,
      "previous_share": 0.0755,
-     "projected": 3.0116,
+     "projected": 3.0113,
      "low": 1.0,
      "high": 6.0
     },
@@ -3428,7 +3432,7 @@
      "player": "Jacob Murphy",
      "goals": 1,
      "previous_share": 0.0566,
-     "projected": 2.7365,
+     "projected": 2.7362,
      "low": 1.0,
      "high": 5.0
     },
@@ -3437,7 +3441,7 @@
      "player": "Jacob Ramsey",
      "goals": 1,
      "previous_share": 0.0377,
-     "projected": 2.4614,
+     "projected": 2.4612,
      "low": 1.0,
      "high": 5.0
     },
@@ -3446,7 +3450,7 @@
      "player": "Sven Botman",
      "goals": 1,
      "previous_share": 0.0189,
-     "projected": 2.1863,
+     "projected": 2.1862,
      "low": 1.0,
      "high": 4.0
     },
@@ -3455,7 +3459,7 @@
      "player": "Lewis Hall",
      "goals": 1,
      "previous_share": 0.0189,
-     "projected": 2.1863,
+     "projected": 2.1862,
      "low": 1.0,
      "high": 4.0
     },
@@ -3464,7 +3468,7 @@
      "player": "Yoane Wissa",
      "goals": 1,
      "previous_share": 0.0189,
-     "projected": 2.1863,
+     "projected": 2.1862,
      "low": 1.0,
      "high": 4.0
     },
@@ -3473,12 +3477,12 @@
      "player": "Bazoumana Touré",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.9112,
+     "projected": 1.9111,
      "low": 1.0,
      "high": 4.0
     }
    ],
-   "unassigned_remaining": 22.0067
+   "unassigned_remaining": 22.0039
   },
   "Nott'm Forest": {
    "page": "2026–27 Nottingham Forest F.C. season",
@@ -3558,7 +3562,7 @@
      "player": "Morgan Gibbs-White",
      "goals": 1,
      "previous_share": 0.3125,
-     "projected": 6.0746,
+     "projected": 6.0813,
      "low": 1.0,
      "high": 13.0
     },
@@ -3567,7 +3571,7 @@
      "player": "Liam Delap",
      "goals": 3,
      "previous_share": null,
-     "projected": 5.5373,
+     "projected": 5.5406,
      "low": 3.0,
      "high": 9.0
     },
@@ -3576,7 +3580,7 @@
      "player": "Dan Ndoye",
      "goals": 2,
      "previous_share": 0.0208,
-     "projected": 3.9734,
+     "projected": 3.9761,
      "low": 2.0,
      "high": 7.0
     },
@@ -3585,7 +3589,7 @@
      "player": "Igor Jesus",
      "goals": 1,
      "previous_share": 0.125,
-     "projected": 3.5373,
+     "projected": 3.5406,
      "low": 1.0,
      "high": 7.0
     },
@@ -3594,7 +3598,7 @@
      "player": "Neco Williams",
      "goals": 1,
      "previous_share": 0.0417,
-     "projected": 2.4096,
+     "projected": 2.4115,
      "low": 1.0,
      "high": 5.0
     },
@@ -3603,12 +3607,12 @@
      "player": "Jair Cunha",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8458,
+     "projected": 1.8469,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 20.2982
+   "unassigned_remaining": 20.3251
   },
   "Sunderland": {
    "page": "2026–27 Sunderland A.F.C. season",
@@ -3732,7 +3736,7 @@
      "player": "Brian Brobbey",
      "goals": 3,
      "previous_share": 0.1667,
-     "projected": 7.0336,
+     "projected": 7.039,
      "low": 3.0,
      "high": 12.0
     },
@@ -3741,7 +3745,7 @@
      "player": "Enzo Le Fée",
      "goals": 3,
      "previous_share": 0.119,
-     "projected": 6.4912,
+     "projected": 6.4959,
      "low": 3.0,
      "high": 11.0
     },
@@ -3750,7 +3754,7 @@
      "player": "Wilson Isidor",
      "goals": 1,
      "previous_share": 0.1429,
-     "projected": 3.3388,
+     "projected": 3.3419,
      "low": 1.0,
      "high": 7.0
     },
@@ -3759,12 +3763,12 @@
      "player": "Nilson Angulo",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.7118,
+     "projected": 1.7128,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 17.8968
+   "unassigned_remaining": 17.9208
   },
   "Tottenham": {
    "page": "2026–27 Tottenham Hotspur F.C. season",
@@ -3912,7 +3916,7 @@
      "player": "Dominic Solanke",
      "goals": 2,
      "previous_share": 0.0625,
-     "projected": 4.6312,
+     "projected": 4.632,
      "low": 2.0,
      "high": 8.0
     },
@@ -3921,7 +3925,7 @@
      "player": "Jan Paul van Hecke",
      "goals": 2,
      "previous_share": null,
-     "projected": 3.7541,
+     "projected": 3.7546,
      "low": 2.0,
      "high": 6.0
     },
@@ -3930,7 +3934,7 @@
      "player": "Mathys Tel",
      "goals": 1,
      "previous_share": 0.0833,
-     "projected": 3.0465,
+     "projected": 3.0471,
      "low": 1.0,
      "high": 6.0
     },
@@ -3939,7 +3943,7 @@
      "player": "Archie Gray",
      "goals": 1,
      "previous_share": 0.0417,
-     "projected": 2.4618,
+     "projected": 2.4622,
      "low": 1.0,
      "high": 5.0
     },
@@ -3948,7 +3952,7 @@
      "player": "Ben Davies",
      "goals": 1,
      "previous_share": 0.0208,
-     "projected": 2.1694,
+     "projected": 2.1698,
      "low": 1.0,
      "high": 4.0
     },
@@ -3957,7 +3961,7 @@
      "player": "Conor Gallagher",
      "goals": 1,
      "previous_share": 0.0208,
-     "projected": 2.1694,
+     "projected": 2.1698,
      "low": 1.0,
      "high": 4.0
     },
@@ -3966,7 +3970,7 @@
      "player": "James Maddison",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8771,
+     "projected": 1.8773,
      "low": 1.0,
      "high": 3.0
     },
@@ -3975,7 +3979,7 @@
      "player": "Luca Williams-Barnett",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8771,
+     "projected": 1.8773,
      "low": 1.0,
      "high": 3.0
     },
@@ -3984,12 +3988,12 @@
      "player": "Omar Marmoush",
      "goals": 1,
      "previous_share": null,
-     "projected": 1.8771,
+     "projected": 1.8773,
      "low": 1.0,
      "high": 3.0
     }
    ],
-   "unassigned_remaining": 25.7269
+   "unassigned_remaining": 25.7349
   }
  }
 }
