@@ -16433,6 +16433,12 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-11-21,La Coruna,league,Lucas Boyé,Lucas Boyé,62,False,False,True,la-liga,2026,Alaves
 2026-11-21,La Coruna,league,Denis Suárez,Denis Suárez,90,False,False,True,la-liga,2026,Alaves
 2026-10-18,Celta,La Liga,Hugo Novoa,Hugo Novoa,87,False,False,False,la-liga,2026,Alaves
+2026-11-10,Anaitasuna,Copa del Rey,Jonny Otto,Jonny Otto,28,False,False,False,la-liga,2026,Alaves
+2026-11-10,Anaitasuna,Copa del Rey,Mariano Díaz,Mariano Díaz,37,False,False,False,la-liga,2026,Alaves
+2026-11-10,Anaitasuna,Copa del Rey,Mariano Díaz,Mariano Díaz,57,False,False,False,la-liga,2026,Alaves
+2026-11-10,Anaitasuna,Copa del Rey,"Miguel Rodríguez (footballer, born April 2003)",Miguel Rodríguez,55,False,False,False,la-liga,2026,Alaves
+2026-11-10,Anaitasuna,Copa del Rey,Aitor Mañas,Aitor Mañas,79,False,False,False,la-liga,2026,Alaves
+2026-11-10,Anaitasuna,Copa del Rey,Carles Aleñá,Carles Aleñá,86,False,False,False,la-liga,2026,Alaves
 2026-08-22,Sevilla,league,Aitor Paredes,Aitor Paredes,70,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Álex Berenguer,Álex Berenguer,20,False,False,True,la-liga,2026,Ath Bilbao
 2026-08-30,Celta,league,Robert Navarro (footballer),Robert Navarro,22,False,False,True,la-liga,2026,Ath Bilbao
@@ -16594,6 +16600,8 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-14,{{fbaicon|POR}} Porto,UEFA Champions League,Isco,Isco,84,False,False,False,la-liga,2026,Betis
 2026-10-21,{{flagicon|NED}} Feyenoord,UEFA Champions League,Isco,Isco,59,True,False,False,la-liga,2026,Betis
 2026-11-04,Borussia Dortmund {{fbaicon|GER}},UEFA Champions League,Aitor Ruibal,Aitor Ruibal,67,False,False,False,la-liga,2026,Betis
+2026-11-24,Slovan Bratislava {{fbaicon|SVK}},UEFA Champions League,Cucho Hernández,Cucho Hernández,43,False,False,False,la-liga,2026,Betis
+2026-11-24,Slovan Bratislava {{fbaicon|SVK}},UEFA Champions League,Cucho Hernández,Cucho Hernández,57,False,False,False,la-liga,2026,Betis
 2026-08-27,Osasuna,league,Iago Aspas,Iago Aspas,14,False,False,True,la-liga,2026,Celta
 2026-09-07,Getafe,league,Carl Starfelt,Carl Starfelt,57,False,False,True,la-liga,2026,Celta
 2026-09-13,Malaga,league,Ferran Jutglà,Ferran Jutglà,41,False,False,True,la-liga,2026,Celta
@@ -16704,6 +16712,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-18,Santander,league,Asier Osambela,Asier Osambela,88,False,False,True,la-liga,2026,Osasuna
 2026-11-02,La Coruna,league,Ante Budimir,Ante Budimir,32,False,False,True,la-liga,2026,Osasuna
 2026-11-07,Ath Bilbao,league,Alejandro Catena,Alejandro Catena,90,False,False,True,la-liga,2026,Osasuna
+2026-11-22,Malaga,league,Ante Budimir,Ante Budimir,20,False,False,True,la-liga,2026,Osasuna
 2026-10-29,Atlético Calatayud,Copa del Rey,"Raúl García (footballer, born 2000)",Raúl García,13,False,False,False,la-liga,2026,Osasuna
 2026-10-29,Atlético Calatayud,Copa del Rey,"Raúl García (footballer, born 2000)",Raúl García,39,False,False,False,la-liga,2026,Osasuna
 2026-10-29,Atlético Calatayud,Copa del Rey,"Raúl García (footballer, born 2000)",Raúl García,59,False,False,False,la-liga,2026,Osasuna
@@ -16769,6 +16778,11 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-11-04,AEK Athens {{fbaicon|GRE}},UEFA Champions League,Jude Bellingham,Jude Bellingham,32,False,False,False,la-liga,2026,Real Madrid
 2026-11-04,AEK Athens {{fbaicon|GRE}},UEFA Champions League,Kylian Mbappé,Kylian Mbappé,78,False,False,False,la-liga,2026,Real Madrid
 2026-11-04,AEK Athens {{fbaicon|GRE}},UEFA Champions League,Federico Valverde,Federico Valverde,90+2,False,False,False,la-liga,2026,Real Madrid
+2026-11-24,{{fbaicon|NED}} PSV Eindhoven,UEFA Champions League,Federico Valverde,Federico Valverde,50,False,False,False,la-liga,2026,Real Madrid
+2026-11-24,{{fbaicon|NED}} PSV Eindhoven,UEFA Champions League,Jude Bellingham,Jude Bellingham,60,False,False,False,la-liga,2026,Real Madrid
+2026-11-24,{{fbaicon|NED}} PSV Eindhoven,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,64,False,False,False,la-liga,2026,Real Madrid
+2026-11-24,{{fbaicon|NED}} PSV Eindhoven,UEFA Champions League,Kylian Mbappé,Kylian Mbappé,84,False,False,False,la-liga,2026,Real Madrid
+2026-11-24,{{fbaicon|NED}} PSV Eindhoven,UEFA Champions League,Vinícius Júnior,Vinícius Júnior,87,False,False,False,la-liga,2026,Real Madrid
 2026-08-16,Villarreal,league,Andrés Martín (footballer),Andrés Martín,21,True,False,True,la-liga,2026,Santander
 2026-08-16,Villarreal,league,Sergio Canales,Sergio Canales,34,False,False,True,la-liga,2026,Santander
 2026-08-28,Elche,league,Yassir Zabiri,Yassir Zabiri,15,False,False,True,la-liga,2026,Santander
@@ -16786,6 +16800,9 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-24,Espanol,league,Yassir Zabiri,Yassir Zabiri,84,False,False,True,la-liga,2026,Santander
 2026-11-07,Malaga,league,Iker Luque,Iker Luque,50,False,False,True,la-liga,2026,Santander
 2026-11-07,Malaga,league,Yassir Zabiri,Yassir Zabiri,60,False,False,True,la-liga,2026,Santander
+2026-11-22,Sociedad,league,Yassir Zabiri,Yassir Zabiri,6,False,False,True,la-liga,2026,Santander
+2026-11-22,Sociedad,league,Yassir Zabiri,Yassir Zabiri,8,False,False,True,la-liga,2026,Santander
+2026-11-22,Sociedad,league,Sergio Canales,Sergio Canales,68,True,False,True,la-liga,2026,Santander
 2026-10-29,Ribadesella,Copa del Rey,Asier Villalibre,Asier Villalibre,48,False,False,False,la-liga,2026,Santander
 2026-10-29,Ribadesella,Copa del Rey,Asier Villalibre,Asier Villalibre,63,False,False,False,la-liga,2026,Santander
 2026-08-15,Vallecano,league,Jon Guridi,Jon Guridi,52,True,False,True,la-liga,2026,Sevilla
@@ -16853,6 +16870,13 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-10-11,Santander,league,David Otorbi,David Otorbi,65,False,False,True,la-liga,2026,Valencia
 2026-10-24,Villarreal,league,Pepelu,Pepelu,38,True,False,True,la-liga,2026,Valencia
 2026-11-01,Elche,league,Umar Sadiq,Umar Sadiq,69,False,False,True,la-liga,2026,Valencia
+2026-11-21,Vallecano,league,José Manuel Copete,José Manuel Copete,41,False,False,True,la-liga,2026,Valencia
+2026-11-10,Tavernes de la Valldigna,Copa del Rey,Dani Raba,Dani Raba,1,False,False,False,la-liga,2026,Valencia
+2026-11-10,Tavernes de la Valldigna,Copa del Rey,Hugo Duro,Hugo Duro,11,False,False,False,la-liga,2026,Valencia
+2026-11-10,Tavernes de la Valldigna,Copa del Rey,Luis Rioja,Luis Rioja,19,False,False,False,la-liga,2026,Valencia
+2026-11-10,Tavernes de la Valldigna,Copa del Rey,Harvey Elliott,Harvey Elliott,23,False,False,False,la-liga,2026,Valencia
+2026-11-10,Tavernes de la Valldigna,Copa del Rey,Aimar Blázquez,Aimar Blázquez,57,False,False,False,la-liga,2026,Valencia
+2026-11-10,Tavernes de la Valldigna,Copa del Rey,Aimar Blázquez,Aimar Blázquez,69,False,False,False,la-liga,2026,Valencia
 2026-08-15,Sevilla,league,"Álvaro García (footballer, born 1992)",Álvaro García,4,False,False,True,la-liga,2026,Vallecano
 2026-08-20,Alaves,league,Sergio Camello,Sergio Camello,48,False,False,True,la-liga,2026,Vallecano
 2026-08-31,Barcelona,league,Sergio Camello,Sergio Camello,12,False,False,True,la-liga,2026,Vallecano

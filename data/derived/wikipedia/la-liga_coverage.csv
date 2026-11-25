@@ -9640,7 +9640,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-23,Alaves,Away,1,True,True,la-liga,2026,Malaga
 2026-10-31,Betis,Away,1,True,True,la-liga,2026,Malaga
 2026-11-07,Santander,Home,1,True,True,la-liga,2026,Malaga
-2026-11-22,Osasuna,Away,0,False,False,la-liga,2026,Malaga
+2026-11-22,Osasuna,Away,0,True,True,la-liga,2026,Malaga
 2026-08-24,Levante,Home,0,True,True,la-liga,2026,Osasuna
 2026-08-27,Celta,Away,2,True,True,la-liga,2026,Osasuna
 2026-08-31,Getafe,Home,1,True,True,la-liga,2026,Osasuna
@@ -9653,7 +9653,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-26,Sevilla,Away,0,True,True,la-liga,2026,Osasuna
 2026-11-02,La Coruna,Away,1,True,True,la-liga,2026,Osasuna
 2026-11-07,Ath Bilbao,Home,1,True,True,la-liga,2026,Osasuna
-2026-11-22,Malaga,Home,1,False,False,la-liga,2026,Osasuna
+2026-11-22,Malaga,Home,1,True,True,la-liga,2026,Osasuna
 2026-08-22,Espanol,Away,2,True,True,la-liga,2026,Real Madrid
 2026-08-26,Sociedad,Home,4,True,True,la-liga,2026,Real Madrid
 2026-08-30,Malaga,Home,4,True,True,la-liga,2026,Real Madrid
@@ -9679,7 +9679,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-24,Espanol,Home,2,True,True,la-liga,2026,Santander
 2026-11-01,Real Madrid,Home,0,True,True,la-liga,2026,Santander
 2026-11-07,Malaga,Away,2,True,True,la-liga,2026,Santander
-2026-11-22,Sociedad,Home,3,False,False,la-liga,2026,Santander
+2026-11-22,Sociedad,Home,3,True,True,la-liga,2026,Santander
 2026-08-15,Vallecano,Home,2,True,True,la-liga,2026,Sevilla
 2026-08-22,Ath Bilbao,Away,3,True,True,la-liga,2026,Sevilla
 2026-08-29,Ath Madrid,Home,1,True,True,la-liga,2026,Sevilla
@@ -9718,7 +9718,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-24,Villarreal,Home,1,True,True,la-liga,2026,Valencia
 2026-11-01,Elche,Away,1,True,True,la-liga,2026,Valencia
 2026-11-07,Real Madrid,Home,0,True,True,la-liga,2026,Valencia
-2026-11-21,Vallecano,Away,1,False,False,la-liga,2026,Valencia
+2026-11-21,Vallecano,Away,1,True,True,la-liga,2026,Valencia
 2026-08-15,Sevilla,Away,1,True,True,la-liga,2026,Vallecano
 2026-08-20,Alaves,Home,1,True,True,la-liga,2026,Vallecano
 2026-08-31,Barcelona,Away,2,True,True,la-liga,2026,Vallecano
@@ -9730,7 +9730,7 @@ date,opponent,venue,goals,found,complete,league,season,club
 2026-10-24,Elche,Home,0,True,True,la-liga,2026,Vallecano
 2026-10-31,Celta,Home,3,True,True,la-liga,2026,Vallecano
 2026-11-08,Sociedad,Away,0,True,True,la-liga,2026,Vallecano
-2026-11-21,Valencia,Home,0,False,False,la-liga,2026,Vallecano
+2026-11-21,Valencia,Home,0,True,True,la-liga,2026,Vallecano
 2026-08-16,Santander,Away,2,True,True,la-liga,2026,Villarreal
 2026-08-23,Ath Madrid,Away,2,True,True,la-liga,2026,Villarreal
 2026-08-28,Alaves,Away,0,True,True,la-liga,2026,Villarreal

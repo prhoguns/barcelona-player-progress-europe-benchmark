@@ -55,6 +55,18 @@
      }
     },
     {
+     "player_id": "Viktor Gyökeres",
+     "player": "Viktor Gyökeres",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 1,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 2,
+      "league": 0
+     }
+    },
+    {
      "player_id": "Eberechi Eze",
      "player": "Eberechi Eze",
      "goals": 3,
@@ -64,30 +76,6 @@
       "FA Community Shield": 0,
       "UEFA Champions League": 2,
       "league": 1
-     }
-    },
-    {
-     "player_id": "Bruno Guimarães",
-     "player": "Bruno Guimarães",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 0,
-      "FA Community Shield": 0,
-      "UEFA Champions League": 0,
-      "league": 2
-     }
-    },
-    {
-     "player_id": "Viktor Gyökeres",
-     "player": "Viktor Gyökeres",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 1,
-      "FA Community Shield": 0,
-      "UEFA Champions League": 1,
-      "league": 0
      }
     },
     {
@@ -112,6 +100,18 @@
       "FA Community Shield": 0,
       "UEFA Champions League": 0,
       "league": 0
+     }
+    },
+    {
+     "player_id": "Bruno Guimarães",
+     "player": "Bruno Guimarães",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "FA Community Shield": 0,
+      "UEFA Champions League": 0,
+      "league": 2
      }
     },
     {
@@ -2978,11 +2978,11 @@
     {
      "player_id": "Rayan Cherki",
      "player": "Rayan Cherki",
-     "goals": 7,
+     "goals": 8,
      "penalties": 0,
      "by_competition": {
       "EFL Cup": 1,
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 2,
       "league": 5
      }
     },
@@ -2998,8 +2998,8 @@
      }
     },
     {
-     "player_id": "Elliot Anderson",
-     "player": "Elliot Anderson",
+     "player_id": "Enzo Fernández",
+     "player": "Enzo Fernández",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -3009,8 +3009,19 @@
      }
     },
     {
-     "player_id": "Enzo Fernández",
-     "player": "Enzo Fernández",
+     "player_id": "Floyd Samba",
+     "player": "Floyd Samba",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 2,
+      "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Elliot Anderson",
+     "player": "Elliot Anderson",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -3031,17 +3042,6 @@
      }
     },
     {
-     "player_id": "Floyd Samba",
-     "player": "Floyd Samba",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "EFL Cup": 2,
-      "UEFA Champions League": 0,
-      "league": 0
-     }
-    },
-    {
      "player_id": "Allan (footballer, born 2004)",
      "player": "Allan",
      "goals": 1,
@@ -3049,6 +3049,17 @@
      "by_competition": {
       "EFL Cup": 1,
       "UEFA Champions League": 0,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Ayyoub Bouaddi",
+     "player": "Ayyoub Bouaddi",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "EFL Cup": 0,
+      "UEFA Champions League": 1,
       "league": 0
      }
     },

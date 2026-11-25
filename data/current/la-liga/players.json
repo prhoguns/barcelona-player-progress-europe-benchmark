@@ -12,6 +12,7 @@
      "goals": 6,
      "penalties": 1,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 6
      }
@@ -19,11 +20,34 @@
     {
      "player_id": "Mariano Díaz",
      "player": "Mariano Díaz",
-     "goals": 4,
+     "goals": 6,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 2,
       "La Liga": 0,
       "league": 4
+     }
+    },
+    {
+     "player_id": "Aitor Mañas",
+     "player": "Aitor Mañas",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "La Liga": 0,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Carles Aleñá",
+     "player": "Carles Aleñá",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "La Liga": 0,
+      "league": 0
      }
     },
     {
@@ -32,18 +56,20 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 1
      }
     },
     {
-     "player_id": "Aitor Mañas",
-     "player": "Aitor Mañas",
+     "player_id": "Jonny Otto",
+     "player": "Jonny Otto",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 1,
       "La Liga": 0,
-      "league": 1
+      "league": 0
      }
     },
     {
@@ -52,7 +78,19 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Miguel Rodríguez (footballer, born April 2003)",
+     "player": "Miguel Rodríguez",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "La Liga": 0,
       "league": 0
      }
     },
@@ -62,6 +100,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 1
      }
@@ -72,6 +111,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 1
      }
@@ -82,6 +122,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 1
      }
@@ -92,6 +133,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 1
      }
@@ -102,6 +144,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "La Liga": 0,
       "league": 1
      }
@@ -901,12 +944,32 @@
    "matches_complete": 13,
    "all_competitions": [
     {
+     "player_id": "Cucho Hernández",
+     "player": "Cucho Hernández",
+     "goals": 5,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 3,
+      "league": 2
+     }
+    },
+    {
      "player_id": "Marc Bartra",
      "player": "Marc Bartra",
      "goals": 5,
      "penalties": 0,
      "by_competition": {
       "UEFA Champions League": 2,
+      "league": 3
+     }
+    },
+    {
+     "player_id": "Abde Ezzalzouli",
+     "player": "Abde Ezzalzouli",
+     "goals": 4,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
       "league": 3
      }
     },
@@ -921,16 +984,6 @@
      }
     },
     {
-     "player_id": "Abde Ezzalzouli",
-     "player": "Abde Ezzalzouli",
-     "goals": 4,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 1,
-      "league": 3
-     }
-    },
-    {
      "player_id": "Rodrigo Riquelme (footballer, born 2000)",
      "player": "Rodrigo Riquelme",
      "goals": 3,
@@ -938,16 +991,6 @@
      "by_competition": {
       "UEFA Champions League": 0,
       "league": 3
-     }
-    },
-    {
-     "player_id": "Cucho Hernández",
-     "player": "Cucho Hernández",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 1,
-      "league": 2
      }
     },
     {
@@ -1994,7 +2037,7 @@
   "Malaga": {
    "page": "2026–27 Málaga CF season",
    "matches_checked": 13,
-   "matches_complete": 12,
+   "matches_complete": 13,
    "all_competitions": [
     {
      "player_id": "Adrián Niño",
@@ -2058,21 +2101,60 @@
     68,
     28
    ],
-   "status": "Wikipedia scorers add up for 12 of 13 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Adrián Niño",
+     "player": "Adrián Niño",
+     "goals": 5,
+     "previous_share": null,
+     "projected": 8.7647,
+     "low": 5.0,
+     "high": 14.0
+    },
+    {
+     "player_id": "Carlos Dotor",
+     "player": "Carlos Dotor",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.5059,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Chupete",
+     "player": "Chupete",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7529,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Pablo Martínez (Spanish footballer)",
+     "player": "Pablo Martínez",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7529,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 18.0707
   },
   "Osasuna": {
    "page": "2026–27 CA Osasuna season",
    "matches_checked": 13,
-   "matches_complete": 12,
+   "matches_complete": 13,
    "all_competitions": [
     {
      "player_id": "Ante Budimir",
      "player": "Ante Budimir",
-     "goals": 8,
+     "goals": 9,
      "penalties": 4,
      "by_competition": {
       "Copa del Rey": 0,
-      "league": 8
+      "league": 9
      }
     },
     {
@@ -2148,9 +2230,58 @@
     9,
     88,
     32,
-    90
+    90,
+    20
    ],
-   "status": "Wikipedia scorers add up for 12 of 13 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Ante Budimir",
+     "player": "Ante Budimir",
+     "goals": 9,
+     "previous_share": null,
+     "projected": 15.9861,
+     "low": 10.0,
+     "high": 24.0
+    },
+    {
+     "player_id": "Alejandro Catena",
+     "player": "Alejandro Catena",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7762,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Asier Osambela",
+     "player": "Asier Osambela",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7762,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Kike Barja",
+     "player": "Kike Barja",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7762,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Raúl García (footballer, born 2000)",
+     "player": "Raúl García",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7762,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 18.6297
   },
   "Real Madrid": {
    "page": "2026–27 Real Madrid CF season",
@@ -2160,20 +2291,20 @@
     {
      "player_id": "Kylian Mbappé",
      "player": "Kylian Mbappé",
-     "goals": 17,
+     "goals": 19,
      "penalties": 3,
      "by_competition": {
-      "UEFA Champions League": 4,
+      "UEFA Champions League": 6,
       "league": 13
      }
     },
     {
      "player_id": "Jude Bellingham",
      "player": "Jude Bellingham",
-     "goals": 6,
+     "goals": 7,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 2,
       "league": 5
      }
     },
@@ -2210,16 +2341,26 @@
     {
      "player_id": "Federico Valverde",
      "player": "Federico Valverde",
-     "goals": 3,
+     "goals": 4,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 2,
+      "UEFA Champions League": 3,
       "league": 1
      }
     },
     {
      "player_id": "Antonio Rüdiger",
      "player": "Antonio Rüdiger",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 1
+     }
+    },
+    {
+     "player_id": "Vinícius Júnior",
+     "player": "Vinícius Júnior",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -2245,16 +2386,6 @@
      "by_competition": {
       "UEFA Champions League": 1,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Vinícius Júnior",
-     "player": "Vinícius Júnior",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 0,
-      "league": 1
      }
     },
     {
@@ -2390,26 +2521,26 @@
   "Santander": {
    "page": "2026–27 Racing de Santander season",
    "matches_checked": 13,
-   "matches_complete": 12,
+   "matches_complete": 13,
    "all_competitions": [
     {
      "player_id": "Yassir Zabiri",
      "player": "Yassir Zabiri",
-     "goals": 9,
+     "goals": 11,
      "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
-      "league": 9
+      "league": 11
      }
     },
     {
      "player_id": "Sergio Canales",
      "player": "Sergio Canales",
-     "goals": 2,
-     "penalties": 0,
+     "goals": 3,
+     "penalties": 1,
      "by_competition": {
       "Copa del Rey": 0,
-      "league": 2
+      "league": 3
      }
     },
     {
@@ -2500,9 +2631,87 @@
     69,
     84,
     50,
-    60
+    60,
+    6,
+    8,
+    68
    ],
-   "status": "Wikipedia scorers add up for 12 of 13 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Yassir Zabiri",
+     "player": "Yassir Zabiri",
+     "goals": 11,
+     "previous_share": null,
+     "projected": 18.3301,
+     "low": 12.0,
+     "high": 27.0
+    },
+    {
+     "player_id": "Sergio Canales",
+     "player": "Sergio Canales",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 4.9991,
+     "low": 3.0,
+     "high": 8.0
+    },
+    {
+     "player_id": "Andrés Martín (footballer)",
+     "player": "Andrés Martín",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.6664,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Iker Luque",
+     "player": "Iker Luque",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.6664,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Jeanuël Belocian",
+     "player": "Jeanuël Belocian",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.6664,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Iván Martín (footballer, born 1999)",
+     "player": "Iván Martín",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.6664,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Pablo García (footballer, born 2006)",
+     "player": "Pablo García",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.6664,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Maguette Gueye",
+     "player": "Maguette Gueye",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.6664,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 15.9929
   },
   "Sevilla": {
    "page": "2026–27 Sevilla FC season",
@@ -2968,15 +3177,46 @@
   "Valencia": {
    "page": "2026–27 Valencia CF season",
    "matches_checked": 13,
-   "matches_complete": 12,
+   "matches_complete": 13,
    "all_competitions": [
+    {
+     "player_id": "Aimar Blázquez",
+     "player": "Aimar Blázquez",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 2,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Dani Raba",
+     "player": "Dani Raba",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "league": 1
+     }
+    },
     {
      "player_id": "Umar Sadiq",
      "player": "Umar Sadiq",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "league": 2
+     }
+    },
+    {
+     "player_id": "Luis Rioja",
+     "player": "Luis Rioja",
+     "goals": 2,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "league": 1
      }
     },
     {
@@ -2985,15 +3225,7 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Dani Raba",
-     "player": "Dani Raba",
-     "goals": 1,
-     "penalties": 0,
-     "by_competition": {
+      "Copa del Rey": 0,
       "league": 1
      }
     },
@@ -3003,15 +3235,37 @@
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 0,
       "league": 1
      }
     },
     {
-     "player_id": "Luis Rioja",
-     "player": "Luis Rioja",
+     "player_id": "Hugo Duro",
+     "player": "Hugo Duro",
      "goals": 1,
      "penalties": 0,
      "by_competition": {
+      "Copa del Rey": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "Harvey Elliott",
+     "player": "Harvey Elliott",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
+      "league": 0
+     }
+    },
+    {
+     "player_id": "José Manuel Copete",
+     "player": "José Manuel Copete",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 0,
       "league": 1
      }
     },
@@ -3021,6 +3275,7 @@
      "goals": 1,
      "penalties": 1,
      "by_competition": {
+      "Copa del Rey": 0,
       "league": 1
      }
     }
@@ -3032,14 +3287,81 @@
     2,
     65,
     38,
-    69
+    69,
+    41
    ],
-   "status": "Wikipedia scorers add up for 12 of 13 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Umar Sadiq",
+     "player": "Umar Sadiq",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.6748,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Dani Raba",
+     "player": "Dani Raba",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8374,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Aaron Mayol",
+     "player": "Aaron Mayol",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8374,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "David Otorbi",
+     "player": "David Otorbi",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8374,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "José Manuel Copete",
+     "player": "José Manuel Copete",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8374,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Luis Rioja",
+     "player": "Luis Rioja",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8374,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Pepelu",
+     "player": "Pepelu",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.8374,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 20.9344
   },
   "Vallecano": {
    "page": "2026–27 Rayo Vallecano season",
    "matches_checked": 12,
-   "matches_complete": 11,
+   "matches_complete": 12,
    "all_competitions": [
     {
      "player_id": "Sergio Camello",
@@ -3129,7 +3451,64 @@
     36,
     55
    ],
-   "status": "Wikipedia scorers add up for 11 of 12 league matches, so player forecasts are withheld until the page is complete."
+   "status": "ok",
+   "forecasts": [
+    {
+     "player_id": "Sergio Camello",
+     "player": "Sergio Camello",
+     "goals": 7,
+     "previous_share": null,
+     "projected": 12.5006,
+     "low": 8.0,
+     "high": 19.0
+    },
+    {
+     "player_id": "Álvaro García (footballer, born 1992)",
+     "player": "Álvaro García",
+     "goals": 3,
+     "previous_share": null,
+     "projected": 5.3574,
+     "low": 3.0,
+     "high": 9.0
+    },
+    {
+     "player_id": "Jorge de Frutos",
+     "player": "Jorge de Frutos",
+     "goals": 2,
+     "previous_share": null,
+     "projected": 3.5716,
+     "low": 2.0,
+     "high": 6.0
+    },
+    {
+     "player_id": "Adrià Pedrosa",
+     "player": "Adrià Pedrosa",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7858,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Andrei Rațiu",
+     "player": "Andrei Rațiu",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7858,
+     "low": 1.0,
+     "high": 3.0
+    },
+    {
+     "player_id": "Unai López",
+     "player": "Unai López",
+     "goals": 1,
+     "previous_share": null,
+     "projected": 1.7858,
+     "low": 1.0,
+     "high": 3.0
+    }
+   ],
+   "unassigned_remaining": 18.8591
   },
   "Villarreal": {
    "page": "2026–27 Villarreal CF season",
