@@ -379,6 +379,16 @@
      }
     },
     {
+     "player_id": "Julián Alvarez",
+     "player": "Julián Alvarez",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 2,
+      "league": 1
+     }
+    },
+    {
      "player_id": "Jonathan David",
      "player": "Jonathan David",
      "goals": 3,
@@ -391,16 +401,6 @@
     {
      "player_id": "Ademola Lookman",
      "player": "Ademola Lookman",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "UEFA Champions League": 1,
-      "league": 1
-     }
-    },
-    {
-     "player_id": "Julián Alvarez",
-     "player": "Julián Alvarez",
      "goals": 2,
      "penalties": 0,
      "by_competition": {
@@ -426,6 +426,16 @@
      "by_competition": {
       "UEFA Champions League": 0,
       "league": 1
+     }
+    },
+    {
+     "player_id": "Alexander Sørloth",
+     "player": "Alexander Sørloth",
+     "goals": 1,
+     "penalties": 0,
+     "by_competition": {
+      "UEFA Champions League": 1,
+      "league": 0
      }
     },
     {
@@ -649,30 +659,30 @@
     {
      "player_id": "Karim Adeyemi",
      "player": "Karim Adeyemi",
-     "goals": 4,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 2,
+      "UEFA Champions League": 3,
       "league": 2
      }
     },
     {
      "player_id": "Gabriel Jesus",
      "player": "Gabriel Jesus",
-     "goals": 4,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 2,
       "league": 3
      }
     },
     {
      "player_id": "Anthony Gordon (footballer)",
      "player": "Anthony Gordon",
-     "goals": 3,
+     "goals": 5,
      "penalties": 0,
      "by_competition": {
-      "UEFA Champions League": 1,
+      "UEFA Champions League": 3,
       "league": 2
      }
     },
@@ -3538,17 +3548,6 @@
      }
     },
     {
-     "player_id": "Nicolas Pépé",
-     "player": "Nicolas Pépé",
-     "goals": 3,
-     "penalties": 0,
-     "by_competition": {
-      "Copa del Rey": 1,
-      "UEFA Champions League": 0,
-      "league": 2
-     }
-    },
-    {
      "player_id": "Pape Gueye",
      "player": "Pape Gueye",
      "goals": 3,
@@ -3560,12 +3559,23 @@
      }
     },
     {
-     "player_id": "Gerard Moreno",
-     "player": "Gerard Moreno",
-     "goals": 2,
-     "penalties": 1,
+     "player_id": "Tajon Buchanan",
+     "player": "Tajon Buchanan",
+     "goals": 3,
+     "penalties": 0,
      "by_competition": {
       "Copa del Rey": 0,
+      "UEFA Champions League": 1,
+      "league": 2
+     }
+    },
+    {
+     "player_id": "Nicolas Pépé",
+     "player": "Nicolas Pépé",
+     "goals": 3,
+     "penalties": 0,
+     "by_competition": {
+      "Copa del Rey": 1,
       "UEFA Champions League": 0,
       "league": 2
      }
@@ -3593,6 +3603,17 @@
      }
     },
     {
+     "player_id": "Gerard Moreno",
+     "player": "Gerard Moreno",
+     "goals": 2,
+     "penalties": 1,
+     "by_competition": {
+      "Copa del Rey": 0,
+      "UEFA Champions League": 0,
+      "league": 2
+     }
+    },
+    {
      "player_id": "Santiago Mouriño",
      "player": "Santiago Mouriño",
      "goals": 2,
@@ -3601,17 +3622,6 @@
       "Copa del Rey": 0,
       "UEFA Champions League": 2,
       "league": 0
-     }
-    },
-    {
-     "player_id": "Tajon Buchanan",
-     "player": "Tajon Buchanan",
-     "goals": 2,
-     "penalties": 0,
-     "by_competition": {
-      "Copa del Rey": 0,
-      "UEFA Champions League": 0,
-      "league": 2
      }
     },
     {
