@@ -16479,7 +16479,7 @@ date,opponent,competition,player_id,player,minute,penalty,own_goal,validated,lea
 2026-11-08,Barcelona,league,Giuliano Simeone,Giuliano Simeone,10,False,False,True,la-liga,2026,Ath Madrid
 2026-11-22,Getafe,league,Álex Baena,Álex Baena,10,False,False,True,la-liga,2026,Ath Madrid
 2026-11-22,Getafe,league,Johnny Cardoso,Johnny Cardoso,30,False,False,True,la-liga,2026,Ath Madrid
-2026-11-22,Getafe,league,Álex Grimaldo,Álex Grimaldo,90+2,False,False,True,la-liga,2026,Ath Madrid
+2026-11-22,Getafe,league,Álex Grimaldo,Álex Grimaldo,90+2,True,False,True,la-liga,2026,Ath Madrid
 2026-07-29,Getafe,Pre-season and friendlies,Ademola Lookman,Ademola Lookman,5,False,False,False,la-liga,2026,Ath Madrid
 2026-07-29,Getafe,Pre-season and friendlies,Ademola Lookman,Ademola Lookman,35,False,False,False,la-liga,2026,Ath Madrid
 2026-07-29,Getafe,Pre-season and friendlies,Arnau Ortiz,Arnau Ortiz,56,False,False,False,la-liga,2026,Ath Madrid
